@@ -1,6 +1,6 @@
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class Example2Test {
 
@@ -8,8 +8,6 @@ class Example2Test {
     void test_rS() {
         String a = "abcdefg";
         String b = Example2.rS(a);
-        System.out.println(a);
-        System.out.println(b);
-        assertEquals("gfedcba", b);
+        assertEquals("gfedcba", b, "Our string is not reversed, Input was: " + a + " expected: gfedcb, but was: "+ b);
     }
 }
