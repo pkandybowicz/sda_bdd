@@ -7,6 +7,7 @@ class Person {
     private final String surname;
     private int age;
     private String job;
+    private String postalCode;
 
     Person(String givenName, String surname) {
         this.givenName = givenName;
@@ -14,7 +15,7 @@ class Person {
         this.age = 18;
     }
 
-    String getDisplayName() {
+    public String getDisplayName() {
         return surname + ", " + givenName;
     }
 
@@ -30,7 +31,7 @@ class Person {
         }
     }
 
-    public void setJobToRandomOne(){
+    public void setJobToRandomOne() {
         List<String> jobs = Arrays.asList("Developer", "Tester", "Budowlaniec", "Sprzątaczka", "Premier");
         Random r = new Random();
         int randomInt = r.nextInt(jobs.size());
@@ -39,5 +40,14 @@ class Person {
 
     public String getJob() {
         return job;
+    }
+
+    public void setPostalCode(String inputPostalCode) {
+        this.postalCode = inputPostalCode.substring(0, 2) + "-" +
+                inputPostalCode.substring(2);
+    }
+
+    public String getPostCode() {
+        return postalCode;
     }
 }

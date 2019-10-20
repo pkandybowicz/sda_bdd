@@ -52,4 +52,10 @@ class PersonTest2 {
         List<String> jobs = Arrays.asList("Developer", "Tester", "Budowlaniec", "Sprzątaczka", "Premier");
         assertTrue(jobs.contains(person.getJob()));
     }
+
+    @Test
+    void test_SetPostalCode() {
+        person.setPostalCode("02123");
+        assertEquals("02-123", person.getPostCode());
+    }
 }

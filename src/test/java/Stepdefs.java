@@ -9,6 +9,7 @@ public class Stepdefs {
 
     int[] arr;
     String stringReverse;
+    Person person;
 
     @Given("Input array is: {int},{int},{int},{int},{int}")
     public void input_array_is(int one, int two, int three, int four, int five) {
@@ -43,4 +44,15 @@ public class Stepdefs {
     public void then_output_string_is(String string) {
         assertEquals(string, stringReverse);
     }
+
+    @When("new person with name {string} and surname {string} is created")
+    public void new_person_with_name_and_surname_is_created(String firstName, String lastName) {
+        person = new Person(firstName, lastName);
+    }
+
+    @Then("Person name is displayed as {string}")
+    public void person_name_is_displayed_as(String expectedFullName) {
+        assertEquals(expectedFullName, person.getDisplayName());
+    }
+
 }
