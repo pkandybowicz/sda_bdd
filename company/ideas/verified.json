@@ -1769,6 +1769,75 @@
    "durability": 8,
    "reach": 3,
    "demand": 1
+  },
+  {
+   "id": "CostumeContinuity",
+   "name": "Continuity kostiumów (kostiumograf)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "SyncOnSet",
+    "Dramatify",
+    "SceneMatch",
+    "ScriptE DH",
+    "Behind The Scene"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "MakeupContinuity",
+   "name": "Continuity charakteryzacji (film)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "SyncOnSet",
+    "Dramatify",
+    "SceneMatch",
+    "SavingFace",
+    "Department Head"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "PropMaster",
+   "name": "Tracking rekwizytów (rekwizytor)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "SyncOnSet",
+    "Behind The Scene",
+    "production mgmt"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "DanceFormation",
+   "name": "Notacja formacji tanecznych (choreograf)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Choreographic",
+    "ArrangeUs",
+    "FORMI",
+    "DanceForms2"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
   }
  ]
 }
