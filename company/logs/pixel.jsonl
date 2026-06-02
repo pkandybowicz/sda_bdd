@@ -4,3 +4,4 @@
 {"ts":"2026-06-02T11:00:00Z","dir":"in","task":"IT1-GEN-B","text":"Generuj metodami 6-10 (CLI→GUI/life-events/compliance/calc-permanence/ref-tables). ~30-40 kandydatów z sygnałem, [F]/[H], self-score. Bany."}
 {"ts":"2026-06-02T11:24:00Z","dir":"out","task":"IT1-GEN-B","text":"~40 kandydatów (metody 6-10). TOP: HeirSplit(45), DivorceAssets(44), DyeRatio(44), DosePaw(42), FoodTemp(42), MileageLog(41), SmokeWood(40), HairColorRecord(40). Odrzucił zajęte/starzejące się rynki. Korpus: ideas/iteration-1/gen-B-pixel.md"}
 {"ts":"2026-06-02T11:36:00Z","dir":"in","task":"IT1-COMP-1","text":"10× weryfikacja konkurencji dla klastra medycznego: FODMAPLog, MigraineMap, PostureLog, GlucoLog."}
+{"ts":"2026-06-02T09:42:00Z","dir":"out","task":"LOOP-c1","text":"Cykl 1: zweryfikowano 6 (StitchCount/Sourdough/OnePageCV/WifiQR/MealCost/TileCalc) — wszystkie ZATŁOCZONE/darmowe. TOP2 bez zmian: HACCP 62, farby do włosów 61."}

@@ -1,7 +1,7 @@
 {
   "algo": "v1",
-  "updated": "2026-06-02 09:36 UTC",
-  "verified": 16,
+  "updated": "2026-06-02 09:41 UTC",
+  "verified": 22,
   "top10": [
     {
       "id": "FoodTemp",
@@ -46,6 +46,13 @@
       "n": 6
     },
     {
+      "id": "OnePageCV",
+      "name": "Offline generator CV do PDF",
+      "score": 21,
+      "verdict": "ZATŁOCZONA",
+      "n": 6
+    },
+    {
       "id": "CyrillicTypingTutor",
       "name": "Kurs pisania na klawiaturze cyrylickiej",
       "score": 20,
@@ -53,25 +60,18 @@
       "n": 3
     },
     {
+      "id": "MealCost",
+      "name": "Kalkulator kosztu przepisu na porcję",
+      "score": 20,
+      "verdict": "ZATŁOCZONA",
+      "n": 6
+    },
+    {
       "id": "HeirSplit",
       "name": "Kalkulator podziału spadku",
       "score": 19,
       "verdict": "PUSTA Z PRZYCZYNY",
       "n": 2
-    },
-    {
-      "id": "EstimateSlip",
-      "name": "Szybka wycena dla rzemieślnika (druk)",
-      "score": 16,
-      "verdict": "ZATŁOCZONA",
-      "n": 7
-    },
-    {
-      "id": "OrthodoxFasting",
-      "name": "Przewodnik postu prawosławnego (co dziś jeść)",
-      "score": 16,
-      "verdict": "ZATŁOCZONA",
-      "n": 3
     }
   ]
 }

@@ -1,21 +1,387 @@
 {
-  "algorithm_version": "v1",
-  "candidates": [
-    {"id":"DyeRatio","name":"Tabela proporcji farb do włosów + kalkulator (salon)","verdict":"ZATŁOCZONA","competitors":["Charm","Gloss","HairTracker","Salon Formulator","Vish","SalonScale"],"n":6,"free_sub":false,"model":"sub","durability":6,"reach":6},
-    {"id":"FoodTemp","name":"Ewidencja temperatur HACCP → raport","verdict":"ZATŁOCZONA","competitors":["Inspectly360","Food Safe System","Hubl","Xenia","Temperature Log Book","Clever Logger"],"n":6,"free_sub":false,"model":"sub","durability":7,"reach":6},
-    {"id":"FODMAPLog","name":"Dziennik FODMAP + objawy IBS","verdict":"ZATŁOCZONA","competitors":["IBS Tracker FODMAP","Cara Care","myIBS","Monash FODMAP","Low FODMAP Tracker","Poop Tracker"],"n":6,"free_sub":true,"model":"mixed","durability":7,"reach":5},
-    {"id":"MigraineMap","name":"Dziennik migreny → PDF dla neurologa","verdict":"ZATŁOCZONA","competitors":["Migraine Buddy","HeadApp","Brain Twin","N1-Headache","Migraine Trust"],"n":5,"free_sub":true,"model":"mixed","durability":8,"reach":5},
-    {"id":"HeirSplit","name":"Kalkulator podziału spadku","verdict":"PUSTA Z PRZYCZYNY","competitors":["Toolsparx","CalculatorSpot"],"n":2,"free_sub":true,"model":"free","durability":4,"reach":5},
-    {"id":"ChemLabel","name":"Generator etykiet GHS/CLP (warsztaty)","verdict":"ZATŁOCZONA","competitors":["ChemicalSafety","Brady Workstation","NextSDS(free)","CHEMDOX","Hibsoft","Teklynx","enLabel","VelocityEHS"],"n":8,"free_sub":true,"model":"enterprise","durability":6,"reach":4},
-    {"id":"ContinuingEdTracker","name":"Tracker punktów CEU/CPD + odnowienia","verdict":"ZATŁOCZONA","competitors":["Course Counter","CE App(free)","CPE Monitor","CE Broker","NCEES(free)"],"n":5,"free_sub":true,"model":"mixed","durability":6,"reach":5},
-    {"id":"ReloadCalc","name":"Kalkulator przeładunku amunicji","verdict":"ZATŁOCZONA","competitors":["Vihtavuori(free)","RCBS","Dillon","XXL-Reloading","Ultimate Reloader"],"n":5,"free_sub":true,"model":"free","durability":8,"reach":5},
-    {"id":"GlazeFit","name":"Kalkulator receptury glazury ceramicznej","verdict":"ZATŁOCZONA","competitors":["Glazy","Online Glaze Calculator","Potter Pal","OpenGlaze(OSS)","Digitalfire"],"n":5,"free_sub":true,"model":"free","durability":8,"reach":4},
-    {"id":"EstimateSlip","name":"Szybka wycena dla rzemieślnika (druk)","verdict":"ZATŁOCZONA","competitors":["Tradify","Joist","JobFLEX","Flobot","WorkQuote","Billdu","Bookipi(free)"],"n":7,"free_sub":true,"model":"sub","durability":6,"reach":5},
-    {"id":"HiveLog","name":"Dziennik inspekcji uli (pszczelarstwo)","verdict":"ZATŁOCZONA","competitors":["HiveBook","HiveLogger","Apiary Book","ApiManager","Beentry","BeePlus","HiveTracks","APiLOG"],"n":8,"free_sub":true,"model":"mixed","durability":7,"reach":5},
-    {"id":"OrthodoxFasting","name":"Przewodnik postu prawosławnego (co dziś jeść)","verdict":"ZATŁOCZONA","competitors":["Orthodox Fasting Guide(app)","crkvenikalendar","goarch"],"n":3,"free_sub":true,"model":"free","durability":6,"reach":4},
-    {"id":"CaregiverHandover","name":"Log przekazania zmiany opiekuna seniora","verdict":"ZATŁOCZONA","competitors":["CareClinic","Connected Caregiver","Jotform tmpl","Etsy printables","NIH worksheets"],"n":5,"free_sub":true,"model":"mixed","durability":7,"reach":5},
-    {"id":"KnifeAngle","name":"Kalkulator kąta ostrzenia noży","verdict":"ZATŁOCZONA","competitors":["My Knife","Knife Sharpening Angle","Grindcalculator","Wedgek","Tool Croze","OpenAngleTool(OSS)"],"n":6,"free_sub":true,"model":"free","durability":9,"reach":4},
-    {"id":"CyrillicTypingTutor","name":"Kurs pisania na klawiaturze cyrylickiej","verdict":"PUSTA Z PRZYCZYNY","competitors":["Ratatype(free)","TypeRacer(free)","typeit.org"],"n":3,"free_sub":true,"model":"free","durability":8,"reach":6},
-    {"id":"SecretSanta","name":"Losowanie Secret Santa z wykluczeniami (druk)","verdict":"ZATŁOCZONA","competitors":["RandomlyFun","SecretSantaGenerator.online","CalcBE","AppSorteos","gdold/secretsanta(OSS)"],"n":6,"free_sub":true,"model":"free","durability":7,"reach":5}
-  ]
+ "algorithm_version": "v1",
+ "candidates": [
+  {
+   "id": "DyeRatio",
+   "name": "Tabela proporcji farb do włosów + kalkulator (salon)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Charm",
+    "Gloss",
+    "HairTracker",
+    "Salon Formulator",
+    "Vish",
+    "SalonScale"
+   ],
+   "n": 6,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 6
+  },
+  {
+   "id": "FoodTemp",
+   "name": "Ewidencja temperatur HACCP → raport",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Inspectly360",
+    "Food Safe System",
+    "Hubl",
+    "Xenia",
+    "Temperature Log Book",
+    "Clever Logger"
+   ],
+   "n": 6,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 6
+  },
+  {
+   "id": "FODMAPLog",
+   "name": "Dziennik FODMAP + objawy IBS",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "IBS Tracker FODMAP",
+    "Cara Care",
+    "myIBS",
+    "Monash FODMAP",
+    "Low FODMAP Tracker",
+    "Poop Tracker"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 5
+  },
+  {
+   "id": "MigraineMap",
+   "name": "Dziennik migreny → PDF dla neurologa",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Migraine Buddy",
+    "HeadApp",
+    "Brain Twin",
+    "N1-Headache",
+    "Migraine Trust"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 5
+  },
+  {
+   "id": "HeirSplit",
+   "name": "Kalkulator podziału spadku",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [
+    "Toolsparx",
+    "CalculatorSpot"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 5
+  },
+  {
+   "id": "ChemLabel",
+   "name": "Generator etykiet GHS/CLP (warsztaty)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "ChemicalSafety",
+    "Brady Workstation",
+    "NextSDS(free)",
+    "CHEMDOX",
+    "Hibsoft",
+    "Teklynx",
+    "enLabel",
+    "VelocityEHS"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "enterprise",
+   "durability": 6,
+   "reach": 4
+  },
+  {
+   "id": "ContinuingEdTracker",
+   "name": "Tracker punktów CEU/CPD + odnowienia",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Course Counter",
+    "CE App(free)",
+    "CPE Monitor",
+    "CE Broker",
+    "NCEES(free)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 5
+  },
+  {
+   "id": "ReloadCalc",
+   "name": "Kalkulator przeładunku amunicji",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Vihtavuori(free)",
+    "RCBS",
+    "Dillon",
+    "XXL-Reloading",
+    "Ultimate Reloader"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 5
+  },
+  {
+   "id": "GlazeFit",
+   "name": "Kalkulator receptury glazury ceramicznej",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Glazy",
+    "Online Glaze Calculator",
+    "Potter Pal",
+    "OpenGlaze(OSS)",
+    "Digitalfire"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 4
+  },
+  {
+   "id": "EstimateSlip",
+   "name": "Szybka wycena dla rzemieślnika (druk)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Tradify",
+    "Joist",
+    "JobFLEX",
+    "Flobot",
+    "WorkQuote",
+    "Billdu",
+    "Bookipi(free)"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 5
+  },
+  {
+   "id": "HiveLog",
+   "name": "Dziennik inspekcji uli (pszczelarstwo)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "HiveBook",
+    "HiveLogger",
+    "Apiary Book",
+    "ApiManager",
+    "Beentry",
+    "BeePlus",
+    "HiveTracks",
+    "APiLOG"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 5
+  },
+  {
+   "id": "OrthodoxFasting",
+   "name": "Przewodnik postu prawosławnego (co dziś jeść)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Orthodox Fasting Guide(app)",
+    "crkvenikalendar",
+    "goarch"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 4
+  },
+  {
+   "id": "CaregiverHandover",
+   "name": "Log przekazania zmiany opiekuna seniora",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "CareClinic",
+    "Connected Caregiver",
+    "Jotform tmpl",
+    "Etsy printables",
+    "NIH worksheets"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 5
+  },
+  {
+   "id": "KnifeAngle",
+   "name": "Kalkulator kąta ostrzenia noży",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "My Knife",
+    "Knife Sharpening Angle",
+    "Grindcalculator",
+    "Wedgek",
+    "Tool Croze",
+    "OpenAngleTool(OSS)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 9,
+   "reach": 4
+  },
+  {
+   "id": "CyrillicTypingTutor",
+   "name": "Kurs pisania na klawiaturze cyrylickiej",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [
+    "Ratatype(free)",
+    "TypeRacer(free)",
+    "typeit.org"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 6
+  },
+  {
+   "id": "SecretSanta",
+   "name": "Losowanie Secret Santa z wykluczeniami (druk)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "RandomlyFun",
+    "SecretSantaGenerator.online",
+    "CalcBE",
+    "AppSorteos",
+    "gdold/secretsanta(OSS)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 5
+  },
+  {
+   "id": "StitchCount",
+   "name": "Licznik rzędów do dziergania",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "My Row Counter",
+    "Cromu(free)",
+    "Gnit(free)",
+    "Stitchcounter",
+    "Digital Tally"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 5
+  },
+  {
+   "id": "SourdoughTimer",
+   "name": "Kalkulator harmonogramu chleba na zakwasie",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Sourdough Math",
+    "Breadly",
+    "Sour&Dough",
+    "Flourwise(free)",
+    "Bread Scheduler",
+    "Sourdough Scheduler",
+    "Sourdough Kitchen Timer"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 5
+  },
+  {
+   "id": "OnePageCV",
+   "name": "Offline generator CV do PDF",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "DuckResume(free)",
+    "Resumy",
+    "FlowCV",
+    "CareerKit",
+    "OpenResume(OSS)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 6
+  },
+  {
+   "id": "WifiQR",
+   "name": "Offline generator kodów QR (WiFi/vCard)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "IonianCore",
+    "FreeQRHub",
+    "ArrayKey",
+    "Portable QR-Code Generator",
+    "Chrome offline ext"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 5
+  },
+  {
+   "id": "MealCost",
+   "name": "Kalkulator kosztu przepisu na porcję",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "CookKeepBook(free)",
+    "RecipeCostCalc($29/mo)",
+    "meez",
+    "reciProfity",
+    "KitchenCost",
+    "FoodMaths"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 5
+  },
+  {
+   "id": "TileCalc",
+   "name": "Kalkulator płytek/kleju/fugi",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "MiniWebtool",
+    "TilePro(free)",
+    "Tile Grout Calc",
+    "Tile&Grout",
+    "Mapei/Sika/Custom(free)"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "free",
+   "durability": 9,
+   "reach": 5
+  }
+ ]
 }

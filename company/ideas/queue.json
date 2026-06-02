@@ -1,6 +1,246 @@
 {
  "queue": [
   {
+   "idea": "StitchCount: licznik rzędów/oczek do dziergania (knitting row counter)",
+   "nisza": "StitchCount",
+   "score": 99,
+   "done": true
+  },
+  {
+   "idea": "SourdoughTimer: kalkulator harmonogramu chleba na zakwasie (sourdough schedule)",
+   "nisza": "SourdoughTimer",
+   "score": 99,
+   "done": true
+  },
+  {
+   "idea": "OnePageCV: offline generator CV do PDF bez konta (resume builder one-time)",
+   "nisza": "OnePageCV",
+   "score": 99,
+   "done": true
+  },
+  {
+   "idea": "WifiQR: offline generator kodów QR WiFi/vCard bez watermarku",
+   "nisza": "WifiQR",
+   "score": 99,
+   "done": true
+  },
+  {
+   "idea": "MealCost: kalkulator kosztu przepisu na porcję (recipe cost per serving)",
+   "nisza": "MealCost",
+   "score": 99,
+   "done": true
+  },
+  {
+   "idea": "TileCalc: kalkulator płytek/kleju/fugi do pomieszczenia (tile calculator)",
+   "nisza": "TileCalc",
+   "score": 99,
+   "done": true
+  },
+  {
+   "idea": "RoofArea: kalkulator powierzchni dachu i materiałów (roof material calculator)",
+   "nisza": "RoofArea",
+   "score": 99,
+   "done": false
+  },
+  {
+   "idea": "FabricCut: kalkulator metrażu tkaniny do szycia (fabric yardage calculator)",
+   "nisza": "FabricCut",
+   "score": 99,
+   "done": false
+  },
+  {
+   "idea": "AmortizeIt: kalkulator amortyzacji kredytu z nadpłatą (loan amortization overpayment)",
+   "nisza": "AmortizeIt",
+   "score": 99,
+   "done": false
+  },
+  {
+   "idea": "NailCure: tabela czasów utwardzania żeli UV/LED (gel curing times)",
+   "nisza": "NailCure",
+   "score": 99,
+   "done": false
+  },
+  {
+   "idea": "TournamentBracket: generator drabinki turniejowej do druku (pub league bracket)",
+   "nisza": "TournamentBracket",
+   "score": 99,
+   "done": false
+  },
+  {
+   "idea": "DrugFlashcards: fiszki nazw leków handlowe/generyczne (pharmacy drug name flashcards)",
+   "nisza": "DrugFlashcards",
+   "score": 99,
+   "done": false
+  },
+  {
+   "idea": "BigButtonPhone: dialer z wielkimi przyciskami dla seniorów (big button phone seniors)",
+   "nisza": "BigButtonPhone",
+   "score": 99,
+   "done": false
+  },
+  {
+   "idea": "PictureAAC: tablica komunikacji AAC offline z TTS (AAC communication board)",
+   "nisza": "PictureAAC",
+   "score": 99,
+   "done": false
+  },
+  {
+   "idea": "FishingLogbook: dziennik wędkarski offline (fishing log catch diary)",
+   "nisza": "FishingLogbook",
+   "score": 99,
+   "done": false
+  },
+  {
+   "idea": "ServiceBook: cyfrowa książka serwisowa auta (car service history log)",
+   "nisza": "ServiceBook",
+   "score": 99,
+   "done": false
+  },
+  {
+   "idea": "FloorCalc: kalkulator materiałów podłogowych (flooring material calculator)",
+   "nisza": "FloorCalc",
+   "score": 99,
+   "done": false
+  },
+  {
+   "idea": "PrintProof: batch watermark zdjęć offline (batch photo watermark)",
+   "nisza": "PrintProof",
+   "score": 99,
+   "done": false
+  },
+  {
+   "idea": "SeedVault: katalog nasion dla ogrodników (seed inventory garden)",
+   "nisza": "SeedVault",
+   "score": 99,
+   "done": false
+  },
+  {
+   "idea": "CropRotate: planer rotacji upraw na działce (crop rotation planner)",
+   "nisza": "CropRotate",
+   "score": 99,
+   "done": false
+  },
+  {
+   "idea": "DreamJournal: szyfrowany dziennik snów offline (encrypted dream journal)",
+   "nisza": "DreamJournal",
+   "score": 99,
+   "done": false
+  },
+  {
+   "idea": "PrivateDiary: szyfrowany pamiętnik offline bez konta (encrypted diary)",
+   "nisza": "PrivateDiary",
+   "score": 99,
+   "done": false
+  },
+  {
+   "idea": "PantryChef: co ugotować z tego co mam, offline (cook from ingredients)",
+   "nisza": "PantryChef",
+   "score": 99,
+   "done": false
+  },
+  {
+   "idea": "RotationDinner: rotator posiłków z własnej listy (weekly meal rotation)",
+   "nisza": "RotationDinner",
+   "score": 99,
+   "done": false
+  },
+  {
+   "idea": "KtoStawia: losowanie kto płaci z ważoną historią (who pays randomizer)",
+   "nisza": "KtoStawia",
+   "score": 99,
+   "done": false
+  },
+  {
+   "idea": "SpellDrill: dyktando z własnej listy słów + TTS (custom spelling dictation)",
+   "nisza": "SpellDrill",
+   "score": 99,
+   "done": false
+  },
+  {
+   "idea": "PhonicsFirst: ćwiczenia fonetyczne dla dzieci z dysleksją (phonics dyslexia)",
+   "nisza": "PhonicsFirst",
+   "score": 99,
+   "done": false
+  },
+  {
+   "idea": "MultiDrill: drill tabliczki mnożenia + raport (multiplication tables practice)",
+   "nisza": "MultiDrill",
+   "score": 99,
+   "done": false
+  },
+  {
+   "idea": "FractionFighter: drill ułamków offline (fractions practice generator)",
+   "nisza": "FractionFighter",
+   "score": 99,
+   "done": false
+  },
+  {
+   "idea": "DivorceAssets: kalkulator podziału majątku małżeńskiego (divorce asset split)",
+   "nisza": "DivorceAssets",
+   "score": 99,
+   "done": false
+  },
+  {
+   "idea": "SmokeWood: tabela drewna do wędzenia (smoking wood reference)",
+   "nisza": "SmokeWood",
+   "score": 99,
+   "done": false
+  },
+  {
+   "idea": "SmokeScheduler: kalkulator czasu/temp wędzenia mięsa (meat smoking calculator)",
+   "nisza": "SmokeScheduler",
+   "score": 99,
+   "done": false
+  },
+  {
+   "idea": "LUFSdrop: normalizacja głośności audio do LUFS (audio loudness GUI)",
+   "nisza": "LUFSdrop",
+   "score": 99,
+   "done": false
+  },
+  {
+   "idea": "AnniversaryGift: generator prezentów rocznicowych (anniversary gift by year)",
+   "nisza": "AnniversaryGift",
+   "score": 99,
+   "done": false
+  },
+  {
+   "idea": "ChristmasPlanner: tracker budżetu i prezentów świątecznych (christmas gift budget)",
+   "nisza": "ChristmasPlanner",
+   "score": 99,
+   "done": false
+  },
+  {
+   "idea": "MedBlisterLog: dziennik compliance leków dla seniora (medication adherence log)",
+   "nisza": "MedBlisterLog",
+   "score": 99,
+   "done": false
+  },
+  {
+   "idea": "AllergyDiary: dziennik objawów alergii + kalendarz pyłkowy (allergy symptom diary)",
+   "nisza": "AllergyDiary",
+   "score": 99,
+   "done": false
+  },
+  {
+   "idea": "CarnivoreDaily: tracker diety carnivore offline (carnivore diet tracker)",
+   "nisza": "CarnivoreDaily",
+   "score": 99,
+   "done": false
+  },
+  {
+   "idea": "WeddingSeating: planer rozsadzenia gości na weselu (wedding seating chart)",
+   "nisza": "WeddingSeating",
+   "score": 99,
+   "done": false
+  },
+  {
+   "idea": "BoxLabel: generator etykiet przeprowadzkowych z QR (moving box labels)",
+   "nisza": "BoxLabel",
+   "score": 99,
+   "done": false
+  },
+  {
    "idea": "kalkulator dawkowania dla: elektrycy",
    "nisza": "elektrycy",
    "score": 16,
