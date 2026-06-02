@@ -12930,6 +12930,174 @@
    "durability": 7,
    "reach": 3,
    "demand": 2
+  },
+  {
+   "id": "LC1",
+   "name": "Obserwacje zachowań zwierząt (etolog-amator)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#16 live-capture)"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "LC2",
+   "name": "Storm spotting / zjawiska pogodowe",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#16 live-capture)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "LC3",
+   "name": "Dziennik snów strukturalny",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#16 live-capture)"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "LC4",
+   "name": "Log aury migreny w momencie",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#16 live-capture)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "LC5",
+   "name": "Geolog-hobbysta – log terenowy (Rockd free)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#16 live-capture)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "LC6",
+   "name": "Degustacja-w-locie (wino/kawa/piwo)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#16 live-capture)"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "LC7",
+   "name": "Notatki z badania jakościowego w terenie",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#16 live-capture)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "LC8",
+   "name": "Log ABC/ABA rodzic (apki stare ale są)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#16 live-capture)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "LC9",
+   "name": "Trening psa – log A-B-C",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#16 live-capture)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "LC10",
+   "name": "Log incydentów near-miss (enterprise)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#16 live-capture)"
+   ],
+   "n": 8,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "LC11",
+   "name": "Zapis idei/melodii natychmiast",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#16 live-capture)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "LC12",
+   "name": "Astronomia wizualna – szkic+warunki (SkySafari)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#16 live-capture)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
   }
  ]
 }
