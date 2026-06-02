@@ -5419,6 +5419,174 @@
    "durability": 7,
    "reach": 3,
    "demand": 1
+  },
+  {
+   "id": "DM2_1",
+   "name": "Log serwisowy auta (offline)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(demand-first agent)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "DM2_2",
+   "name": "Tracker paliwa/MPG bez chmury",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(demand-first agent)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "DM2_3",
+   "name": "Licznik ściegów/rzędów (robótki)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(demand-first agent)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "DM2_4",
+   "name": "Dziennik połowów (offline)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(demand-first agent)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "DM2_5",
+   "name": "Receptury ze skalowaniem porcji",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(demand-first agent)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "DM2_6",
+   "name": "Kalkulator cięć/listy desek (stolarz) [demand]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(demand-first agent)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 9,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "DM2_7",
+   "name": "Podlewanie roślin domowych",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(demand-first agent)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "DM2_8",
+   "name": "Pomiary ciała bez suba",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(demand-first agent)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "DM2_9",
+   "name": "Dziennik ćwiczeń muzycznych (offline) [demand]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(demand-first agent)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "DM2_10",
+   "name": "Lista pakowania na podróż",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(demand-first agent)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "DM2_11",
+   "name": "Dziennik przeczytanych książek",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(demand-first agent)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "DM2_12",
+   "name": "Kalendarz siewu warzyw (offline) [demand]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(demand-first agent)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
   }
  ]
 }
