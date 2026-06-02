@@ -1040,9 +1040,10 @@
    "name": "Voice bible dla narratorów audiobooków + aktorów głosowych w grach (próbki audio + atrybuty per postać)",
    "verdict": "PUSTA Z OKAZJI",
    "competitors": [
-    "(brak dedykowanej apki — arkusze/Airtable/voice-memo; rynek: narratorzy ACX + game VO)"
+    "(brak apki dla NARRATORÓW)",
+    "Game Master Journal — ale dla mistrzów gry TTRPG, nie narratorów"
    ],
-   "n": 1,
+   "n": 2,
    "free_sub": true,
    "model": "onetime",
    "durability": 8,
@@ -1313,6 +1314,82 @@
    "model": "free",
    "durability": 8,
    "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "GMnpcVoice",
+   "name": "Tracker głosów NPC (mistrz gry RPG)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Game Master Journal",
+    "MythicVoices",
+    "GM Assistant"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "DragSetlist",
+   "name": "Setlista/persona drag performera",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(tylko generyczne setlist apps: BandHelper, SongSheet)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "CheeseLog",
+   "name": "Make-log + affinage (serowar domowy)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Fromaggio (przywiązane do urządzenia)",
+    "Govee sensory"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "ScreenwriterBible",
+   "name": "Character voice bible (scenarzysta serialu)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Scriptation",
+    "StudioBinder tmpl",
+    "Sudowrite Story Bible",
+    "NoFilmSchool tmpl"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "VentriloquistVoice",
+   "name": "Notatki głosów postaci (brzuchomówca)",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "(brak apki — ale nisza skrajnie mała)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 2,
    "demand": 1
   }
  ]

@@ -1,7 +1,7 @@
 {
   "algo": "v3",
-  "updated": "2026-06-02 10:36 UTC",
-  "verified": 72,
+  "updated": "2026-06-02 10:43 UTC",
+  "verified": 82,
   "top10": [
     {
       "id": "FoodTemp",
@@ -27,9 +27,9 @@
     {
       "id": "AudiobookVoiceBible",
       "name": "Voice bible dla narratorów audiobooków + aktorów głosowych w grach (próbki audio + atrybuty per postać)",
-      "score": 72,
+      "score": 68,
       "verdict": "PUSTA Z OKAZJI",
-      "n": 1
+      "n": 2
     },
     {
       "id": "EUDRmicro",
@@ -43,6 +43,13 @@
       "name": "Repertuar magika + log 'komu co pokazałem'",
       "score": 58,
       "verdict": "SŁABO OBSŁUŻONA",
+      "n": 1
+    },
+    {
+      "id": "VentriloquistVoice",
+      "name": "Notatki głosów postaci (brzuchomówca)",
+      "score": 50,
+      "verdict": "PUSTA Z OKAZJI",
       "n": 1
     },
     {
@@ -60,18 +67,11 @@
       "n": 3
     },
     {
-      "id": "BigButtonPhone",
-      "name": "Dialer z wielkimi przyciskami dla seniorów",
-      "score": 27,
-      "verdict": "ZATŁOCZONA",
-      "n": 3
-    },
-    {
-      "id": "CaregiverHandover",
-      "name": "Log przekazania zmiany opiekuna seniora",
-      "score": 25,
-      "verdict": "ZATŁOCZONA",
-      "n": 5
+      "id": "CheeseLog",
+      "name": "Make-log + affinage (serowar domowy)",
+      "score": 31,
+      "verdict": "SŁABO OBSŁUŻONA",
+      "n": 2
     }
   ]
 }
