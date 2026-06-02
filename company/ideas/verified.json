@@ -3274,6 +3274,50 @@
    "durability": 8,
    "reach": 2,
    "demand": 1
+  },
+  {
+   "id": "PoiFlow",
+   "name": "Biblioteka trików poi/flow",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "FlowPath"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "HoopDance",
+   "name": "Progresja trików hoopdance",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(brak dedykowanej; FlowPath obejmuje flow-props)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "Tricking",
+   "name": "Lista trików tricking",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Trickipedia",
+    "Teach Me Tricking",
+    "Martial Arts Tricking Interact"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
   }
  ]
 }
