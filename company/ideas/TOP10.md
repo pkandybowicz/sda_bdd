@@ -1,21 +1,21 @@
 # 🏆 TOP 10 pomysłów — żywy ranking
 
-> Algorytm: **v1** · Zweryfikowanych realnie: **27** · Aktualizacja: 2026-06-02 09:45 UTC
+> Algorytm: **v2** · Zweryfikowanych realnie: **27** · Aktualizacja: 2026-06-02 09:48 UTC
 
 > Każdy pomysł przeszedł weryfikację konkurencji w sieci PRZED oceną.
 
 
 | # | Pomysł | Score | Werdykt niszy | #konkur. |
 |---|--------|:-----:|---------------|:--------:|
-| 1 | Ewidencja temperatur HACCP → raport | **62** | ZATŁOCZONA | 6 |
-| 2 | Tabela proporcji farb do włosów + kalkulator (salon) | **61** | ZATŁOCZONA | 6 |
-| 3 | Dziennik migreny → PDF dla neurologa | **26** | ZATŁOCZONA | 5 |
-| 4 | Log przekazania zmiany opiekuna seniora | **25** | ZATŁOCZONA | 5 |
-| 5 | Tracker punktów CEU/CPD + odnowienia | **24** | ZATŁOCZONA | 5 |
-| 6 | Dziennik FODMAP + objawy IBS | **21** | ZATŁOCZONA | 6 |
-| 7 | Offline generator CV do PDF | **21** | ZATŁOCZONA | 6 |
-| 8 | Kurs pisania na klawiaturze cyrylickiej | **20** | PUSTA Z PRZYCZYNY | 3 |
-| 9 | Kalkulator kosztu przepisu na porcję | **20** | ZATŁOCZONA | 6 |
-| 10 | Kalkulator podziału spadku | **19** | PUSTA Z PRZYCZYNY | 2 |
+| 1 | Ewidencja temperatur HACCP → raport | **79** | ZATŁOCZONA | 6 |
+| 2 | Tabela proporcji farb do włosów + kalkulator (salon) | **78** | ZATŁOCZONA | 6 |
+| 3 | Log przekazania zmiany opiekuna seniora | **25** | ZATŁOCZONA | 5 |
+| 4 | Tracker punktów CEU/CPD + odnowienia | **24** | ZATŁOCZONA | 5 |
+| 5 | Kalkulator kosztu przepisu na porcję | **21** | ZATŁOCZONA | 6 |
+| 6 | Dziennik migreny → PDF dla neurologa | **20** | ZATŁOCZONA | 5 |
+| 7 | Szybka wycena dla rzemieślnika (druk) | **18** | ZATŁOCZONA | 7 |
+| 8 | Dziennik FODMAP + objawy IBS | **16** | ZATŁOCZONA | 6 |
+| 9 | Offline generator CV do PDF | **16** | ZATŁOCZONA | 6 |
+| 10 | Generator etykiet GHS/CLP (warsztaty) | **14** | ZATŁOCZONA | 8 |
 
 _Pełna baza: company/ideas/verified.json · Scoring: company/tools/score_top10.py_

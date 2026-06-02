@@ -7,18 +7,26 @@ re-run na CALEJ bazie (re-walidacja TOP10).
 """
 import json, datetime, sys
 
-ALGO = "v1"
-# Wagi algorytmu v1 — konkurencja i darmowy substytut karzą najmocniej,
-# bo to one tworzą falszywy 'blue ocean'. Arbitraz ceny (sub -> $5 jednorazowo) nagradza.
+ALGO = "v2"
+# B2B / nisze zawodowe poza app-storem (discovery nie zabija) — lekki bonus.
+B2B = {"FoodTemp","DyeRatio","HairColorRecord","ChemLabel","ContinuingEdTracker",
+       "EstimateSlip","CaregiverHandover","MealCost"}
+# Wagi v2 — najmocniej nagradzamy REALNY KLIN: droga subskrypcja BEZ darmowej
+# alternatywy. Darmowy/OSS substytut i 'pusta z przyczyny' = zabojcy.
 def score(c):
-    base = 40 if c["n"] > 0 else 20          # rynek istnieje = popyt udowodniony
+    base = 35 if c["n"] > 0 else 25
     wtp  = 15 if c["model"] in ("onetime","sub","mixed","enterprise") else 0
-    comp = -min(4*c["n"], 32)                 # gestosc konkurencji
-    free = -22 if c["free_sub"] else 0        # silny darmowy/OSS substytut = zabojca
-    wedge= 18 if (c["model"] in ("sub","enterprise","mixed") and not c["free_sub"]) else 0
-    dur  = c["durability"]                     # 0-10 build-once/zero utrzymania
-    reach= c["reach"]                          # 0-8 osiagalnosc niszy kanalem organicznym
-    s = base+wtp+comp+free+wedge+dur+reach
+    comp = -min(3*c["n"], 27)                  # gestosc konkurencji (lagodniej — klin bije gestosc)
+    free = -28 if c["free_sub"] else 0         # silny darmowy/OSS substytut = glowny zabojca
+    if c["model"] in ("sub","enterprise") and not c["free_sub"]:
+        wedge = 28                              # pelny arbitraz: subskrypcja -> $5 jednorazowo
+    elif c["model"] == "mixed" and not c["free_sub"]:
+        wedge = 10
+    else:
+        wedge = 0
+    b2b  = 6 if c["id"] in B2B else 0
+    reason = -12 if c["verdict"] == "PUSTA Z PRZYCZYNY" else 0
+    s = base+wtp+comp+free+wedge+b2b+reason+c["durability"]+c["reach"]
     return max(0, min(100, s))
 
 def main():

@@ -1,28 +1,21 @@
 {
-  "algo": "v1",
-  "updated": "2026-06-02 09:45 UTC",
+  "algo": "v2",
+  "updated": "2026-06-02 09:48 UTC",
   "verified": 27,
   "top10": [
     {
       "id": "FoodTemp",
       "name": "Ewidencja temperatur HACCP → raport",
-      "score": 62,
+      "score": 79,
       "verdict": "ZATŁOCZONA",
       "n": 6
     },
     {
       "id": "DyeRatio",
       "name": "Tabela proporcji farb do włosów + kalkulator (salon)",
-      "score": 61,
+      "score": 78,
       "verdict": "ZATŁOCZONA",
       "n": 6
-    },
-    {
-      "id": "MigraineMap",
-      "name": "Dziennik migreny → PDF dla neurologa",
-      "score": 26,
-      "verdict": "ZATŁOCZONA",
-      "n": 5
     },
     {
       "id": "CaregiverHandover",
@@ -39,39 +32,46 @@
       "n": 5
     },
     {
+      "id": "MealCost",
+      "name": "Kalkulator kosztu przepisu na porcję",
+      "score": 21,
+      "verdict": "ZATŁOCZONA",
+      "n": 6
+    },
+    {
+      "id": "MigraineMap",
+      "name": "Dziennik migreny → PDF dla neurologa",
+      "score": 20,
+      "verdict": "ZATŁOCZONA",
+      "n": 5
+    },
+    {
+      "id": "EstimateSlip",
+      "name": "Szybka wycena dla rzemieślnika (druk)",
+      "score": 18,
+      "verdict": "ZATŁOCZONA",
+      "n": 7
+    },
+    {
       "id": "FODMAPLog",
       "name": "Dziennik FODMAP + objawy IBS",
-      "score": 21,
+      "score": 16,
       "verdict": "ZATŁOCZONA",
       "n": 6
     },
     {
       "id": "OnePageCV",
       "name": "Offline generator CV do PDF",
-      "score": 21,
+      "score": 16,
       "verdict": "ZATŁOCZONA",
       "n": 6
     },
     {
-      "id": "CyrillicTypingTutor",
-      "name": "Kurs pisania na klawiaturze cyrylickiej",
-      "score": 20,
-      "verdict": "PUSTA Z PRZYCZYNY",
-      "n": 3
-    },
-    {
-      "id": "MealCost",
-      "name": "Kalkulator kosztu przepisu na porcję",
-      "score": 20,
+      "id": "ChemLabel",
+      "name": "Generator etykiet GHS/CLP (warsztaty)",
+      "score": 14,
       "verdict": "ZATŁOCZONA",
-      "n": 6
-    },
-    {
-      "id": "HeirSplit",
-      "name": "Kalkulator podziału spadku",
-      "score": 19,
-      "verdict": "PUSTA Z PRZYCZYNY",
-      "n": 2
+      "n": 8
     }
   ]
 }
