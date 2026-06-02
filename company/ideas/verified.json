@@ -1053,11 +1053,16 @@
   {
    "id": "ComicColorBible",
    "name": "Color bible: ref-sheet hex per postać — rysownicy, animatorzy, FURRY, VTuberzy, OC-artyści + ich zleceniobiorcy",
-   "verdict": "PUSTA Z OKAZJI",
+   "verdict": "SŁABO OBSŁUŻONA",
    "competitors": [
-    "(brak dedykowanej apki w ŻADNEJ z tych społeczności — Coolors/Color-Hex generyk; furry/VTuber/OC art = ogromne ekonomie zleceń)"
+    "Character Color Navigator(free)",
+    "Elementor Char Color Generator",
+    "ColorMagic",
+    "Oc-maker",
+    "Color Palette Manager(Win, free)",
+    "— ale to GENERATORY/generyki, brak per-projekt slot-rola+odcienie offline z eksportem ref-sheet"
    ],
-   "n": 1,
+   "n": 4,
    "free_sub": true,
    "model": "onetime",
    "durability": 9,
@@ -1891,6 +1896,43 @@
    "durability": 7,
    "reach": 3,
    "demand": 1
+  },
+  {
+   "id": "CommissionBuyer",
+   "name": "Tracker zleceń od strony KUPUJĄCEGO art",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "ArtTrackr(artysta)",
+    "Artwork Archive",
+    "Notion/Sheets tmpl (commissioner)",
+    "blossum Ko-fi tracker"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "OCorganizer",
+   "name": "Organizer OC (Toyhouse-alternatywa)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Toyhouse",
+    "CharacterHub",
+    "UnVale",
+    "Refsheet",
+    "OCBin",
+    "Lore Forge",
+    "Fantasia Archive"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
   }
  ]
 }

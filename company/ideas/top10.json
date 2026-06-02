@@ -1,7 +1,7 @@
 {
   "algo": "v3",
-  "updated": "2026-06-02 11:29 UTC",
-  "verified": 112,
+  "updated": "2026-06-02 11:34 UTC",
+  "verified": 114,
   "top10": [
     {
       "id": "FoodTemp",
@@ -16,13 +16,6 @@
       "score": 78,
       "verdict": "ZATŁOCZONA",
       "n": 6
-    },
-    {
-      "id": "ComicColorBible",
-      "name": "Color bible: ref-sheet hex per postać — rysownicy, animatorzy, FURRY, VTuberzy, OC-artyści + ich zleceniobiorcy",
-      "score": 74,
-      "verdict": "PUSTA Z OKAZJI",
-      "n": 1
     },
     {
       "id": "AudiobookVoiceBible",
@@ -58,6 +51,13 @@
       "score": 50,
       "verdict": "PUSTA Z OKAZJI",
       "n": 1
+    },
+    {
+      "id": "ComicColorBible",
+      "name": "Color bible: ref-sheet hex per postać — rysownicy, animatorzy, FURRY, VTuberzy, OC-artyści + ich zleceniobiorcy",
+      "score": 43,
+      "verdict": "SŁABO OBSŁUŻONA",
+      "n": 4
     },
     {
       "id": "MemoryPalace",
