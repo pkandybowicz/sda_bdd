@@ -1,8 +1,8 @@
 {
-  "nova":   { "status": "idle",    "currentTask": null, "since": "2026-06-02T10:00:00Z", "lastReport": "reports/T-003-nova.md" },
-  "atlas":  { "status": "working", "currentTask": "R2/A: Kopanie 'życzeń' (szkoda że nie ma apki…)", "since": "2026-06-02T10:00:00Z", "lastReport": null },
-  "pixel":  { "status": "working", "currentTask": "R2/A: Kopanie 'nienawiści' (recenzje 1★)", "since": "2026-06-02T10:00:00Z", "lastReport": null },
-  "echo":   { "status": "working", "currentTask": "R2/A: Kopanie 'arkuszy i papieru'", "since": "2026-06-02T10:00:00Z", "lastReport": null },
-  "vera":   { "status": "working", "currentTask": "R2/A: Kopanie 'dziwnych plemion' (poza IT)", "since": "2026-06-02T10:00:00Z", "lastReport": null },
-  "brutus": { "status": "idle",    "currentTask": "czeka na Fazę D (Red Team)", "since": "2026-06-02T10:00:00Z", "lastReport": null }
+  "nova":   { "status": "idle",    "currentTask": "czeka na syntezę (Faza E)", "since": "2026-06-02T11:00:00Z", "lastReport": "reports/T-003-nova.md" },
+  "atlas":  { "status": "working", "currentTask": "IT1/GEN metody 1-5 (wish, hate, spreadsheet, tribe, sub-rage)", "since": "2026-06-02T11:00:00Z", "lastReport": null },
+  "pixel":  { "status": "working", "currentTask": "IT1/GEN metody 6-10 (CLI→GUI, life-events, compliance, calc, ref-tables)", "since": "2026-06-02T11:00:00Z", "lastReport": null },
+  "echo":   { "status": "working", "currentTask": "IT1/GEN metody 11-15 (boring-mandatory, analog, cross-domain, a11y, hyperlocal)", "since": "2026-06-02T11:00:00Z", "lastReport": null },
+  "vera":   { "status": "working", "currentTask": "IT1/GEN metody 16-20 (anti-AI, kids/edu, health, gift, recurring-decision)", "since": "2026-06-02T11:00:00Z", "lastReport": null },
+  "brutus": { "status": "idle",    "currentTask": "czeka na Red Team (Faza D)", "since": "2026-06-02T11:00:00Z", "lastReport": null }
 }

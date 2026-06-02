@@ -1,0 +1,99 @@
+# IDEA ENGINE — silnik firmy do generowania pomysłów
+
+> Cała firma skupiona na jednym: znaleźć pomysł na aplikację „zrób raz / 5 $ /
+> 1000 szt./rok". Nie pojedynczy strzał — **maszyna**: wiele metod × wiele źródeł
+> × 10-krotna weryfikacja konkurencji × pętla, która doskonali się z każdą iteracją.
+> „10000 pomysłów" traktujemy jako kierunek skali, nie dosłownie — operujemy na
+> maksymalnej praktycznej skali przy zachowaniu jakości.
+
+---
+
+## 20 METOD GENERACJI (lensy)
+
+Każdy generator stosuje przydzielone metody i produkuje hurtowo kandydatów.
+
+1. **Wish-mining** — explicite „I wish there was an app that…".
+2. **Hate-mining** — recenzje 1★/2★: czego ludzie nienawidzą → luka.
+3. **Spreadsheet/paper replacement** — ręczne arkusze/kartki do powtarzalnego zadania.
+4. **Niche tribe pains** — bóle hobby/rzemiosła poza IT.
+5. **Subscription-rage** — drogie subskrypcje → tani odpowiednik jednorazowy.
+6. **CLI/pro-tool → consumer GUI** — potężne narzędzie eksperckie bez ludzkiego UI.
+7. **Life-event one-offs** — ślub, przeprowadzka, spadek, opieka nad seniorem.
+8. **Compliance/forced tasks** — obowiązkowe zadania małych firm/zawodów.
+9. **Calculation permanence** — czysta matematyka/konwersja (logika nigdy nie gnije).
+10. **Reference-table apps** — deterministyczny lookup (tabele, normy, dawkowanie).
+11. **Boring-but-mandatory** — nudne, ale konieczne czynności zawodowe.
+12. **Analog ritual digitization** — kolekcjonerzy, dzienniki, liczniki.
+13. **Cross-domain transplant** — narzędzie z domeny A przeniesione do B.
+14. **Accessibility/seniors** — grupy niedoobsługiwane przez software.
+15. **Hyperlocal/cultural** — potrzeby specyficzne kulturowo/regionalnie.
+16. **Anti-AI / privacy** — to, co ludzie chcą BEZ chmury i bez AI.
+17. **Kids/education single-purpose** — jedno konkretne narzędzie do nauki.
+18. **Niche health/fitness trackers** — offline, wąska grupa.
+19. **Gift/occasion generators** — deterministyczne generatory na okazje.
+20. **Recurring-decision simplifiers** — upraszczacze powtarzalnych decyzji.
+
+## 30 ŹRÓDEŁ (gdzie kopać)
+
+Reddit (wiele subów) · Hacker News · Quora · sieć Stack Exchange · recenzje 1★
+App Store · 1★ Google Play · Trustpilot · G2 · Capterra · Product Hunt (komentarze)
+· IndieHackers · Etsy (popyt na szablony cyfrowe) · Gumroad (co się sprzedaje) ·
+udostępniane Google Sheets · YouTube („how I track X") · TikTok · grupy Facebook ·
+Discordy społeczności · fora hobbystyczne (per nisza) · recenzje Amazon · serwisy
+skarg · gripes na X/Twitter · Google autocomplete + „people also ask" · Google
+Trends · narzędzia słów kluczowych · Pinterest · branżowe magazyny · wiki subredditów
+· blogi „there should be an app" · marketplace'y hobbystyczne.
+
+## 10-KROTNA WERYFIKACJA KONKURENCJI
+
+Każdy poważny kandydat przechodzi WSZYSTKIE 10 testów:
+
+1. **App store'y** — iOS / Android / Mac / Windows: czy już istnieje.
+2. **Google** — „best [X] app" + „[X] alternative".
+3. **Free/open-source** — GitHub / SourceForge: darmowy substytut?
+4. **Web-app** — czy rozwiązuje to darmowa strona.
+5. **Szablon/arkusz** — czy gotowy Sheet/Excel już to robi (i za ile).
+6. **Natywne OS** — czy to już darmowa funkcja systemu/urządzenia.
+7. **Pricing recon** — co biorą gracze i w jakim modelu (sub/jednorazowo).
+8. **Review-mining graczy** — w czym zawodzą = nasz klin.
+9. **Sizing popytu** — proxy wolumenu/trendu wyszukiwań.
+10. **Willingness-to-pay** — czy ktoś GDZIEKOLWIEK już za to płaci.
+
+Wynik per nisza: PUSTA Z OKAZJI / SŁABO OBSŁUŻONA / PUSTA Z PRZYCZYNY / ZATŁOCZONA.
+
+## RUBRYKA SCORINGU (0–5 każde; matematyka 1000 i durability ważone ×2)
+
+| Kryterium | Co oceniamy |
+|-----------|-------------|
+| Ból | Jak silny/realny jest problem |
+| Twardość popytu | [F] dane vs [H] hipoteza |
+| Pustka z okazji | Czy luka jest produktowa, nie popytowa |
+| Gotowość płacić 5 $ | Czy nie „za proste żeby płacić" |
+| Build-once | Da się zbudować raz i zamknąć |
+| **Durability ×2** | Czy NIE wymaga utrzymania (bez API/treści) |
+| **Matematyka 1000 ×2** | Realny organiczny kanał na 1000 szt./rok |
+| Obronność | Czy łatwo skopiować / czy darmowe zabije |
+
+## PĘTLA ITERACJI (doskonali się za każdym razem)
+
+```
+Iteracja N:
+  1. GENERACJA  — 4 generatory × 5 metod → duży korpus surowych pomysłów
+  2. FUNNEL     — manager dedupe + scoring rubryką → shortlist
+  3. KONKURENCJA— 10-krotna weryfikacja (równolegle, podział listy)
+  4. RED TEAM   — Brutus próbuje zabić każdego ocalałego
+  5. SYNTEZA    — Nova: ranking + rekomendacja
+  6. REFINE     — co zadziałało? które metody/źródła dały zwycięzców?
+                  → strojenie listy metod i banów na iterację N+1
+Korpus i ranking są wersjonowane: company/ideas/ — rośnie i zaostrza się.
+```
+
+**Reguła doskonalenia:** po każdej iteracji notujemy, które *metody* i *źródła*
+rodziły najmocniejszych finalistów, i w następnej rundzie dokładamy im wagi, a
+metody-puste wygaszamy. Bany kategorii rosną (to, co odpadło jako „puste z
+przyczyny", trafia na czarną listę, żeby nie wracało).
+
+## ŻELAZNE BANY (rosną z każdą iteracją)
+Iter. 1+: diff, regex, clipboard, color picker, rename plików, JSON/YAML, markdown,
+git, terminal-GUI, oraz wszystko z Briefu #001 (DiffLens, RegexPilot, BatchLens,
+ColorVault, ExifScrub, ImageBatch, FontDrop, WindowSnap Pro).

@@ -1,23 +1,19 @@
 # Tablica zadań
 
-**Aktywny brief:** [Research Brief #002 — Kopalnia Popytu](../docs/agent-company/RESEARCH-BRIEF-002.md) — 2x głębiej, demand-first, ban na dev-toolsy.
-**Poprzedni:** [Brief #001](../docs/agent-company/RESEARCH-BRIEF-001.md) — ZAKOŃCZONY ✅ (rekomendacja: DiffLens).
+**Tryb:** IDEA ENGINE działa ciągle ([silnik](../docs/agent-company/IDEA-ENGINE.md)). Iteracja **1**.
 
-## IN PROGRESS — Runda 2 / Faza A (4 kopaczy równolegle)
-- [ ] R2-A1 (atlas) — żyła „Życzenia": explicite prośby o nieistniejącą apkę
-- [ ] R2-A2 (pixel) — żyła „Nienawiść": recenzje 1★ płatnych apek → luki
-- [ ] R2-A3 (echo) — żyła „Arkusze i papier": workaroundy Excel/kartka
-- [ ] R2-A4 (vera) — żyła „Dziwne plemiona": społeczności poza IT
+## IN PROGRESS — Iteracja 1 / GENERACJA (4 generatory równolegle)
+- [ ] IT1-GEN-A (atlas) — metody 1–5
+- [ ] IT1-GEN-B (pixel) — metody 6–10
+- [ ] IT1-GEN-C (echo) — metody 11–15
+- [ ] IT1-GEN-D (vera) — metody 16–20
 
-## TODO — kolejne fazy
-- [ ] R2-B (manager) — Krystalizacja ~20 kandydatów z surowego bólu → shortlist ~10
-- [ ] R2-C (pixel + vera) — Konkurencja 2x głębiej
-- [ ] R2-D (brutus) — Red Team: próba zabicia każdego pomysłu
-- [ ] R2-E (nova) — Synteza, ranking 5, rekomendacja #1
-- [ ] R2-REVIEW (manager) — Raport końcowy „founder's bets"
+## TODO — dalsze fazy iteracji 1
+- [ ] IT1-FUNNEL (manager) — dedupe + scoring rubryką → shortlist
+- [ ] IT1-COMP (pixel+echo+vera) — 10-krotna weryfikacja konkurencji
+- [ ] IT1-RED (brutus) — Red Team
+- [ ] IT1-SYNTH (nova) — ranking + rekomendacja
+- [ ] IT1-REFINE (manager) — strojenie metod/banów → iteracja 2
 
 ## DONE — Brief #001
-- [x] T-001 (atlas) → reports/T-001-atlas.md
-- [x] T-002 (pixel) → reports/T-002-pixel.md
-- [x] T-003 (nova) → reports/T-003-nova.md
-- [x] REVIEW (manager) → reports/BRIEF-001-FINAL.md
+- [x] DiffLens (rekomendacja R1) → reports/BRIEF-001-FINAL.md

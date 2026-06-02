@@ -1,3 +1,4 @@
 {"ts":"2026-06-02T09:10:00Z","dir":"in","task":"T-002","text":"Zrób głęboką analizę konkurencji dla TOP 8 kandydatów Atlasa: nazwa, link, cena/model, platforma, mocne/słabe strony, luka. Wniosek per nisza: pusta / słabo obsłużona / zatłoczona."}
 {"ts":"2026-06-02T09:24:00Z","dir":"out","task":"T-002","text":"Analiza konkurencji 8 kandydatów. Nisze: RegexPilot=PUSTA; DiffLens/BatchLens/ColorVault/FontDrop/ExifScrub=SŁABO OBSŁUŻONE; ImageBatch/WindowSnap Pro=ZATŁOCZONE. Rekomendacja: RegexPilot > DiffLens > ExifScrub > ColorVault. Ceny/linki zweryfikowane. Raport: reports/T-002-pixel.md"}
 {"ts":"2026-06-02T10:00:00Z","dir":"in","task":"R2-A2","text":"Żyła 'Nienawiść': kop recenzje 1★ płatnych apek poza IT, zbierz co ludzie nienawidzą → luka. 8-12 pain finds."}
+{"ts":"2026-06-02T11:00:00Z","dir":"in","task":"IT1-GEN-B","text":"Generuj metodami 6-10 (CLI→GUI/life-events/compliance/calc-permanence/ref-tables). ~30-40 kandydatów z sygnałem, [F]/[H], self-score. Bany."}
