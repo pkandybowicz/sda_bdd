@@ -11703,6 +11703,160 @@
    "durability": 7,
    "reach": 3,
    "demand": 2
+  },
+  {
+   "id": "UT1",
+   "name": "Zegarmistrz – kaliber/serwis (Watchmakers App)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#12 rzemiosła z ręki)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "UT2",
+   "name": "Nożownik – skład stali (Knife Steel Chart)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#12 rzemiosła z ręki)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "UT3",
+   "name": "Organmistrz – strojenie piszczałek (Organ Tuner)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#12 rzemiosła z ręki)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 1,
+   "demand": 2
+  },
+  {
+   "id": "UT4",
+   "name": "Tapicer – metraż per mebel/klient",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#12 rzemiosła z ręki)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "UT5",
+   "name": "Rusznikarz – serwis per broń (arkusz wystarcza)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#12 rzemiosła z ręki)"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "UT6",
+   "name": "Kaletnik/rymarz – wykrój per produkt",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#12 rzemiosła z ręki)"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "UT7",
+   "name": "Szewc miarowy – kopyto/miary per klient",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#12 rzemiosła z ręki)"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "UT8",
+   "name": "Introligator – szycie/oprawa per księga",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#12 rzemiosła z ręki)"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "UT9",
+   "name": "Pozłotnik – receptury złocenia",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#12 rzemiosła z ręki)"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "UT10",
+   "name": "Ludwisarz – stopy/odlewy per dzwon",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [
+    "(mutacja#12 rzemiosła z ręki)"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "UT11",
+   "name": "Bednarz – klepki/wymiary per beczka",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#12 rzemiosła z ręki)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 1,
+   "demand": 1
   }
  ]
 }
