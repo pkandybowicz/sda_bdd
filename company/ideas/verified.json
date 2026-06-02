@@ -2625,6 +2625,57 @@
    "durability": 7,
    "reach": 2,
    "demand": 1
+  },
+  {
+   "id": "ChimneySweep",
+   "name": "Raport inspekcji (kominiarz)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "InspectionFire",
+    "Inspektor",
+    "SweepNspect",
+    "ChimSpect",
+    "ServiceTitan"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "PiercingStudio",
+   "name": "Sizing/healing log (piercing)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "inkStar",
+    "Skintrace",
+    "Piercing Release Forms"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "WindowClean",
+   "name": "Trasy/zlecenia (myjący okna)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Jobber",
+    "QuoteIQ",
+    "Housecall Pro",
+    "LayCor"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
   }
  ]
 }
