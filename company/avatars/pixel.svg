@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <rect width="200" height="200" rx="24" fill="#ea580c"/>
+  <circle cx="100" cy="40" r="6" fill="#ffedd5"/>
+  <line x1="100" y1="46" x2="100" y2="58" stroke="#ffedd5" stroke-width="4"/>
+  <rect x="54" y="58" width="92" height="64" rx="14" fill="#ffedd5"/>
+  <circle cx="82" cy="88" r="9" fill="#7c2d12"/>
+  <circle cx="118" cy="88" r="9" fill="#7c2d12"/>
+  <rect x="58" y="142" width="84" height="40" rx="20" fill="#fdba74"/>
+  <text x="100" y="170" font-family="monospace" font-size="18" fill="#7c2d12" text-anchor="middle" font-weight="bold">PIXEL</text>
+</svg>

@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Agent Company — Portal</title>
+<style>
+  :root { --bg:#0f172a; --card:#1e293b; --muted:#94a3b8; --txt:#e2e8f0; --line:#334155; }
+  * { box-sizing:border-box; }
+  body { margin:0; font-family:system-ui,Segoe UI,Roboto,sans-serif; background:var(--bg); color:var(--txt); }
+  header { padding:20px 24px; border-bottom:1px solid var(--line); display:flex; align-items:center; gap:16px; flex-wrap:wrap; }
+  h1 { font-size:20px; margin:0; }
+  .mode { margin-left:auto; display:flex; align-items:center; gap:10px; font-size:14px; }
+  .pill { padding:4px 12px; border-radius:999px; font-weight:600; font-size:13px; }
+  .pill.running { background:#064e3b; color:#6ee7b7; }
+  .pill.stopping { background:#7c2d12; color:#fdba74; }
+  .btn { padding:6px 14px; border-radius:8px; border:1px solid var(--line); background:var(--card); color:var(--txt); cursor:pointer; font-size:13px; }
+  .btn:hover { border-color:#64748b; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(300px,1fr)); gap:18px; padding:24px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:16px; padding:18px; }
+  .top { display:flex; gap:14px; align-items:center; }
+  .avatar { width:64px; height:64px; border-radius:14px; flex-shrink:0; }
+  .name { font-size:18px; font-weight:700; }
+  .role { color:var(--muted); font-size:13px; }
+  .traits { margin:12px 0; display:flex; gap:6px; flex-wrap:wrap; }
+  .trait { font-size:11px; background:#0b1220; border:1px solid var(--line); color:var(--muted); padding:3px 8px; border-radius:999px; }
+  .bio { font-size:13px; color:var(--muted); font-style:italic; margin-bottom:14px; }
+  .status { display:flex; align-items:center; gap:8px; font-size:14px; }
+  .dot { width:10px; height:10px; border-radius:50%; }
+  .dot.working { background:#34d399; box-shadow:0 0 8px #34d399; }
+  .dot.idle { background:#64748b; }
+  .dot.review { background:#fbbf24; }
+  .task { font-size:13px; margin-top:6px; color:var(--txt); }
+  .since { font-size:11px; color:var(--muted); margin-top:2px; }
+  .logbtn { margin-top:14px; }
+  .modal { position:fixed; inset:0; background:rgba(0,0,0,.6); display:none; align-items:center; justify-content:center; padding:20px; }
+  .modal.open { display:flex; }
+  .modalbox { background:var(--card); border:1px solid var(--line); border-radius:16px; max-width:760px; width:100%; max-height:80vh; overflow:auto; padding:20px; }
+  .logline { border-left:3px solid var(--line); padding:8px 12px; margin:8px 0; font-size:13px; }
+  .logline.in { border-color:#60a5fa; }
+  .logline.out { border-color:#34d399; }
+  .logmeta { color:var(--muted); font-size:11px; margin-bottom:4px; }
+  .close { float:right; cursor:pointer; color:var(--muted); }
+  .hint { font-size:11px; color:var(--muted); padding:0 24px 24px; }
+  code { background:#0b1220; padding:2px 6px; border-radius:6px; font-size:12px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>🏢 Agent Company</h1>
+  <div class="mode">
+    Tryb: <span id="mode" class="pill">…</span>
+    <button class="btn" onclick="control('running')">▶ Start</button>
+    <button class="btn" onclick="control('stopping')">⏸ Stop</button>
+  </div>
+</header>
+<div id="grid" class="grid"></div>
+<div class="hint">Status odświeża się co 5 s z zacommitowanego stanu (latencja ~ cykl commit/push). Start/Stop to plik-flaga: kliknięcie kopiuje komendę dla managera, który przełącza <code>company/control.json</code>.</div>
+
+<div id="modal" class="modal" onclick="if(event.target===this)closeModal()">
+  <div class="modalbox">
+    <span class="close" onclick="closeModal()">✕ zamknij</span>
+    <h2 id="modalTitle"></h2>
+    <div id="modalLogs"></div>
+  </div>
+</div>
+
+<script>
+const BASE = "../company/";
+const fmt = t => t ? new Date(t).toLocaleString("pl-PL") : "—";
+
+async function getJSON(p){ const r = await fetch(BASE+p+"?t="+Date.now()); return r.json(); }
+async function getLog(id){
+  try{
+    const r = await fetch(BASE+"logs/"+id+".jsonl?t="+Date.now());
+    if(!r.ok) return [];
+    const txt = await r.text();
+    return txt.trim().split("\n").filter(Boolean).map(l=>JSON.parse(l));
+  }catch(e){ return []; }
+}
+
+function control(mode){
+  const cmd = `manager: ustaw tryb na "${mode}"`;
+  navigator.clipboard?.writeText(cmd);
+  alert(`Skopiowano polecenie dla managera:\n\n${cmd}\n\nManager przełączy company/control.json.`);
+}
+
+async function render(){
+  const [emps, state, ctrl] = await Promise.all([
+    getJSON("employees.json"), getJSON("state.json"), getJSON("control.json")
+  ]);
+  const m = document.getElementById("mode");
+  m.textContent = ctrl.mode; m.className = "pill "+ctrl.mode;
+
+  document.getElementById("grid").innerHTML = emps.map(e=>{
+    const s = state[e.id] || {status:"idle"};
+    const traits = e.personality.map(t=>`<span class="trait">${t}</span>`).join("");
+    return `<div class="card">
+      <div class="top">
+        <img class="avatar" src="${BASE+e.avatar}" alt="${e.name}">
+        <div><div class="name">${e.name}</div><div class="role">${e.role} · ${e.model}</div></div>
+      </div>
+      <div class="traits">${traits}</div>
+      <div class="bio">${e.bio}</div>
+      <div class="status"><span class="dot ${s.status}"></span>${s.status}</div>
+      <div class="task">${s.currentTask || "— brak zadania —"}</div>
+      <div class="since">od: ${fmt(s.since)}</div>
+      <button class="btn logbtn" onclick="showLog('${e.id}','${e.name}')">📜 Logi in/out</button>
+    </div>`;
+  }).join("");
+}
+
+async function showLog(id,name){
+  const logs = await getLog(id);
+  document.getElementById("modalTitle").textContent = "Logi — "+name;
+  document.getElementById("modalLogs").innerHTML = logs.length
+    ? logs.map(l=>`<div class="logline ${l.dir}">
+        <div class="logmeta">${l.dir==="in"?"▶ WEJŚCIE":"◀ WYJŚCIE"} · ${l.task||""} · ${fmt(l.ts)}</div>
+        ${(l.text||"").replace(/</g,"&lt;")}</div>`).join("")
+    : "<p style='color:#94a3b8'>Brak wpisów.</p>";
+  document.getElementById("modal").classList.add("open");
+}
+function closeModal(){ document.getElementById("modal").classList.remove("open"); }
+
+render();
+setInterval(render, 5000);
+</script>
+</body>
+</html>
