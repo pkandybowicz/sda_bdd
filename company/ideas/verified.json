@@ -3073,6 +3073,54 @@
    "durability": 7,
    "reach": 2,
    "demand": 2
+  },
+  {
+   "id": "MechKeyboard",
+   "name": "Build/kolekcja mechanicznych klawiatur",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Keebuilder",
+    "ClackTrack",
+    "KeycapLendar"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "VintageCamera",
+   "name": "Katalog aparatów vintage",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "CollectiBlend",
+    "OldRoll"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "SeashellCat",
+   "name": "Katalog kolekcji muszli",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Seashell Identifier",
+    "Shellium",
+    "ShellScanner",
+    "Plankton"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
   }
  ]
 }
