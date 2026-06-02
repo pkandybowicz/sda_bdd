@@ -30114,6 +30114,596 @@
    "durability": 6,
    "reach": 3,
    "demand": 2
+  },
+  {
+   "id": "X1907__",
+   "name": "violin-strings-progress",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Trala",
+    "tonestro",
+    "Violin Practice Log",
+    "Soundcorset",
+    "Practice Tracker"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1909__",
+   "name": "brass-instruments-practice-log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "BrassUp!",
+    "Instrumentive",
+    "Andante",
+    "Modacity"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1911__",
+   "name": "reed-making-log",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "Reedbook"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 1,
+   "demand": 2
+  },
+  {
+   "id": "X1913__",
+   "name": "bagpipe-practice-log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Braw Tunes",
+    "Bagpipe Tutorial"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 8,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X1915__",
+   "name": "accordion-practice-tracker",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "Mezquite Diatonic Accordion"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "free",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1917__",
+   "name": "banjo-bluegrass-practice-log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Tunefox",
+    "Banjo Mountain",
+    "Pocket Lick"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1919__",
+   "name": "classical-singing-repertoire",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Riyaz",
+    "Appcompanist",
+    "Singerhood",
+    "PlayScore 2"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1921__",
+   "name": "choir-director-attendance-repertoire",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "ChoirMate",
+    "Chorus Connection",
+    "Choir Genius",
+    "Chorilo",
+    "Choir Concierge"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1923__",
+   "name": "worship-team-setlist",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Planning Center",
+    "WorshipTools",
+    "Asaph",
+    "WorshipSetlist",
+    "OnStage"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1925__",
+   "name": "orchestra-librarian-parts-tracking",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "ArtsVision",
+    "Orchestra Librarian Toolkit",
+    "Ensemble Manager"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 9,
+   "reach": 1,
+   "demand": 2
+  },
+  {
+   "id": "X1927__",
+   "name": "marching-band-management",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "MuseScore Marching",
+    "bandScores",
+    "Drumline Apps"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1929_",
+   "name": "music-transcription-workflow-log",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Klangio",
+    "Melody Scanner",
+    "Songscription",
+    "Transcribe!",
+    "ScoreCloud"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1931_",
+   "name": "songwriting-collab-splits",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "SongSplits",
+    "Flou",
+    "WeShould WriteSometime",
+    "RouteNote"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1933_",
+   "name": "beat-licensing-producer",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "BeatStars",
+    "Airbit",
+    "BandLab Beats",
+    "SoundBetter",
+    "Traktrain"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 4,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1935_",
+   "name": "turntablism-scratch-practice-log",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "TableBeats",
+    "edjing Scratch"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X1937_",
+   "name": "harp-practice-tracker",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Harp Practice Log",
+    "Instrumentive"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X1939_",
+   "name": "pipe-organ-registration-tracker",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "Pipe Organ Database"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 9,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X1941_",
+   "name": "percussion-mallet-practice-tracker",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Modacity",
+    "Instrumentive",
+    "PercussionTutor"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1943_",
+   "name": "resin-art-project-manager",
+   "verdict": "SKIP",
+   "competitors": [
+    "Resin Calculator (Google Play)",
+    "CraftCalc",
+    "ArtResin Calculator",
+    "Resin Obsession Calculator"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1945_",
+   "name": "epoxy-river-table-calculator",
+   "verdict": "SKIP",
+   "competitors": [
+    "EpoxyResinCalculator.com",
+    "EpoxyCalculators.com",
+    "Epoxy River Calculator (iOS)",
+    "mwm.ai Epoxy River Calculator"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1947_",
+   "name": "woodturning-project-tracker",
+   "verdict": "MAYBE",
+   "competitors": [
+    "Creative Woodturner",
+    "DIY Woodturning (sim)",
+    "Woodturning 3D (sim)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1949_",
+   "name": "intarsia-marquetry-pattern-tool",
+   "verdict": "MAYBE",
+   "competitors": [
+    "Pattern Wizard",
+    "Rapid Resizer",
+    "GIMP",
+    "Fusion 360"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1951_",
+   "name": "chip-carving-pattern-generator",
+   "verdict": "SKIP",
+   "competitors": [
+    "MyChipCarving Pattern Wizard",
+    "CraftsmanSpace",
+    "MyAIArt AI carving generator",
+    "Woodcarving Illustrated patterns"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1953_",
+   "name": "scroll-saw-pattern-designer",
+   "verdict": "SKIP",
+   "competitors": [
+    "Scroll Saw Artist AI (YesChat)",
+    "SunCatcher Studio",
+    "Pattern Wizard",
+    "Scroll Saw Pattern Printer"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1955_",
+   "name": "furniture-making-project-planner",
+   "verdict": "SKIP",
+   "competitors": [
+    "SketchUp Free",
+    "Crafty Amigo",
+    "Fusion 360 (free hobby)",
+    "Wood Crafter App"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1957_",
+   "name": "cabinet-cutlist-optimizer",
+   "verdict": "SKIP",
+   "competitors": [
+    "FreeCutList.app",
+    "OptiCutter",
+    "KerfLab",
+    "CutList Optimizer (iOS)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1959_",
+   "name": "chainmaille-pattern-designer",
+   "verdict": "BUILD",
+   "competitors": [
+    "MAIL (Maille Artisans site)",
+    "ChainMailleJewelryPatterns.com",
+    "ArtOfChainMail.com"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1961_",
+   "name": "wire-wrapping-project-tracker",
+   "verdict": "MAYBE",
+   "competitors": [
+    "Jewelry Design DIY Maker App",
+    "WireJewelry.com",
+    "AllFreeJewelryMaking.com"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1963_",
+   "name": "lampwork-bead-inventory-tracker",
+   "verdict": "MAYBE",
+   "competitors": [
+    "Beadalog (iOS)",
+    "Beadalog Pro",
+    "generic inventory spreadsheets"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1965_",
+   "name": "glass-fusing-kiln-log",
+   "verdict": "SKIP",
+   "competitors": [
+    "KilnTrack",
+    "Kiln Helper (iOS)",
+    "MyGlassCookbook Kiln Schedule Designer",
+    "FusedGlass.org tools"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1967_",
+   "name": "enameling-project-tracker",
+   "verdict": "BUILD",
+   "competitors": [
+    "no dedicated app found; generic kiln/jewelry apps"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1969_",
+   "name": "silversmithing-cost-calculator",
+   "verdict": "SKIP",
+   "competitors": [
+    "Craftybase",
+    "Craft Price Calculator (iOS)",
+    "iMakeJewelry",
+    "Metalsmith Suite"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1971_",
+   "name": "artistic-blacksmithing-reference",
+   "verdict": "BUILD",
+   "competitors": [
+    "IForgeIron (forum/web)",
+    "ABANA resources",
+    "no dedicated utility app found"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1973_",
+   "name": "wood-carving-snycerstwo-pattern-tool",
+   "verdict": "SKIP",
+   "competitors": [
+    "CraftsmanSpace",
+    "Woodcarving Illustrated patterns",
+    "MyAIArt AI carving generator",
+    "LoraSIrish pattern warehouse"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1975_",
+   "name": "pyrography-design-converter",
+   "verdict": "SKIP",
+   "competitors": [
+    "NightCafe Pyrography Generator",
+    "Pyrography iOS app (Polyanskiy)",
+    "BurnSavvy free patterns",
+    "r/Pyrography community"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1977_",
+   "name": "basketry-pattern-library",
+   "verdict": "SKIP",
+   "competitors": [
+    "NCBasketworks free patterns",
+    "Missouri Basketweavers Guild",
+    "CraftFreebies.com",
+    "AugustMoon Basketry"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
   }
  ]
 }
