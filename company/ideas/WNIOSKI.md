@@ -38,7 +38,9 @@ hobby · profesje-cienie · regulacje 2025-26 · arbitraż językowy · drogie a
 Dedykowany agent próbował OBALIĆ pustkę niszy (Product Hunt, App Store, Google Play, itch.io, fora VO, DAW-y, apki do skryptów; 8 sformułowań). **WERDYKT: PUSTA POTWIERDZONA, pewność 85–90%.**
 - Najbliżej: **Hindenburg „Clipboard"** (schowek audio w DAW €399, bez struktury per-postać), **REAPER** marker, **Scriptation/ElevenLabs** (głosy AI/TTS, nie własny), **Voices for Games** (casting studia).
 - **Twardy dowód popytu:** narratorzy używają **Airtable DIY** (postać+książka+typ głosu+klip audio) i piszą o problemie (VOHeroes „Keeping All Your Audiobook's Voices Straight"). Substytut istnieje, ale prowizoryczny (brak nagrywania, waveformu, VO-UX).
-- **Reszta niepewności (10–15%):** zamknięte społeczności (NarratorsRoadmap Discord, grupy FB), GitHub, Gumroad/Ko-fi — do sprawdzenia przed budową.
+- **Drugi stress-test (domknięcie):** sprawdzono GitHub (tylko AI/TTS), Gumroad/Ko-fi/itch.io/Payhip (brak szablonu), Product Hunt/BetaList/Indie Hackers (TTS), Notion/Airtable marketplace (story-bible dla PISARZY, bez głosu). **Pewność podniesiona do 95%.**
+- **Reszta niepewności (5%):** nie do rozstrzygnięcia web-searchem — wewnętrzne narzędzia studiów, produkt tylko przez Discord/newsletter, niewydany beta. Wymaga PRIMARY research (wejście do zamkniętych społeczności VO).
+- **Benchmark ceny:** brak sprzedawanego szablonu „voice bible", ale szablony „story bible" dla pisarzy sprzedają się (sąsiednia gotowość płacenia).
 
 ## Rekomendacja
 Research zbiegł się do pewnej odpowiedzi. Najwyższa wartość teraz: **walidacja i spec Voice bible** —
