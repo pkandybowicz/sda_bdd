@@ -2972,6 +2972,57 @@
    "durability": 8,
    "reach": 2,
    "demand": 1
+  },
+  {
+   "id": "SWLog",
+   "name": "Log nasłuchu fal krótkich (SWL)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "SWLog",
+    "KB6IBB SWL Logger",
+    "DXtreme",
+    "SWLogger"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "MeteorObs",
+   "name": "Log obserwacji meteorów",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "NASA Meteor Counter",
+    "MeteorLog",
+    "MeteorActive",
+    "FallingStar"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "StormChase",
+   "name": "Log łowcy burz",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Storm Chaser Atlas",
+    "WeatherWise",
+    "RadarOmega",
+    "StormCenter"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
   }
  ]
 }
