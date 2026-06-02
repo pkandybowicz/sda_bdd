@@ -2923,6 +2923,55 @@
    "durability": 6,
    "reach": 3,
    "demand": 2
+  },
+  {
+   "id": "CopySwipe",
+   "name": "Swipe file copywritera",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "SwipeWell",
+    "SwipeFile.com",
+    "Swiped.co",
+    "Notion tmpl"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "VODemoScripts",
+   "name": "Biblioteka skryptów demo (lektor)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Edge Studio",
+    "Voicereels",
+    "Voiceover Kickstart"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "OperaRep",
+   "name": "Repertuar ról/arii (śpiewak operowy)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "YAP Tracker",
+    "Opera-Arias.com",
+    "The Opera Database"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
   }
  ]
 }
