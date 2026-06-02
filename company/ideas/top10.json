@@ -1,7 +1,7 @@
 {
   "algo": "v3",
-  "updated": "2026-06-02 10:25 UTC",
-  "verified": 60,
+  "updated": "2026-06-02 10:28 UTC",
+  "verified": 61,
   "top10": [
     {
       "id": "FoodTemp",
@@ -16,6 +16,13 @@
       "score": 78,
       "verdict": "ZATŁOCZONA",
       "n": 6
+    },
+    {
+      "id": "AudiobookVoiceBible",
+      "name": "Character voice bible dla narratora audiobooków (próbki audio + atrybuty głosu per postać)",
+      "score": 71,
+      "verdict": "PUSTA Z OKAZJI",
+      "n": 1
     },
     {
       "id": "EUDRmicro",
@@ -65,13 +72,6 @@
       "score": 24,
       "verdict": "ZATŁOCZONA",
       "n": 5
-    },
-    {
-      "id": "CyrillicTypingTutor",
-      "name": "Kurs pisania na klawiaturze cyrylickiej",
-      "score": 24,
-      "verdict": "PUSTA Z PRZYCZYNY",
-      "n": 3
     }
   ]
 }

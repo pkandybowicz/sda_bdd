@@ -1034,6 +1034,21 @@
    "durability": 8,
    "reach": 6,
    "demand": 2
+  },
+  {
+   "id": "AudiobookVoiceBible",
+   "name": "Character voice bible dla narratora audiobooków (próbki audio + atrybuty głosu per postać)",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "(brak dedykowanej apki — arkusze/Airtable/voice-memo)",
+    "Character Compendium (dla AUTORÓW, nie narratorów)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 5,
+   "demand": 3
   }
  ]
 }
