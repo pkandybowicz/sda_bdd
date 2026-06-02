@@ -31616,6 +31616,567 @@
    "durability": 7,
    "reach": 3,
    "demand": 2
+  },
+  {
+   "id": "X1997__",
+   "name": "sinking-funds-tracker",
+   "verdict": "crowded but mostly bundled inside big apps; dedicated niche thin",
+   "competitors": [
+    "SetAside",
+    "AmpleFund",
+    "GoalWise",
+    "EveryDollar"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1999__",
+   "name": "cash-stuffing-envelope",
+   "verdict": "many free apps exist; saturated with printables and freemium; hard to charge $5",
+   "competitors": [
+    "Goodbudget",
+    "RealBudget",
+    "Envy",
+    "Plan&Multiply"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2001__",
+   "name": "irregular-income-smoothing",
+   "verdict": "niche angle underserved as standalone; big apps treat it as feature not product",
+   "competitors": [
+    "YNAB",
+    "Monarch Money",
+    "Lucky Friday",
+    "Finovaa"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2003__",
+   "name": "freelancer-tax-set-aside",
+   "verdict": "clear pain point; FlyFin/QuickBooks eat it but overkill; simple $5 calculator viable",
+   "competitors": [
+    "FlyFin",
+    "QuickBooks Self-Employed",
+    "Bonsai Tax",
+    "Keeper"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2005__",
+   "name": "side-hustle-pl-tracker",
+   "verdict": "several dedicated apps already on App Store; free tiers common; hard to differentiate",
+   "competitors": [
+    "Side Hustler Tracker",
+    "Hustle Tracker",
+    "Side Hustle Income Tracker",
+    "Wave"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2007__",
+   "name": "dividend-tracker",
+   "verdict": "very saturated; multiple polished free apps; DivTracker free forever; no room",
+   "competitors": [
+    "DivTracker",
+    "Stock Events",
+    "Dividend Tracker",
+    "Snowball Analytics",
+    "Sharesight"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2009__",
+   "name": "crypto-dca-tracker",
+   "verdict": "flooded with free web calculators; exchange apps cover DCA natively; no gap",
+   "competitors": [
+    "dcaBTC",
+    "CryptoDCA.io",
+    "CryptoCalk",
+    "DCA Calculator Android",
+    "SwissBorg"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2011__",
+   "name": "savings-challenges",
+   "verdict": "printables dominate; one App Store app already free/offline; minimal differentiation",
+   "competitors": [
+    "100 Envelope Savings Challenge app",
+    "ChallengeSaver",
+    "MyMoneyChallenge"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2013__",
+   "name": "no-spend-challenge",
+   "verdict": "small habit-tracker apps cover it; printables and Notion templates free; thin market",
+   "competitors": [
+    "Stop Impulse Buying",
+    "No Spend app (Android)",
+    "GetDisciplined tracker"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2015__",
+   "name": "529-education-tracker",
+   "verdict": "niche real but state plan apps + Hadley free; one paid tracker already exists",
+   "competitors": [
+    "529 Tracker",
+    "Hadley",
+    "READYSAVE 529",
+    "Bright Directions 529"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2017__",
+   "name": "hsa-optimizer",
+   "verdict": "underserved strategy angle; expense-trackers exist but contribution optimization is thin",
+   "competitors": [
+    "HSA Store ExpenseTracker",
+    "Reimbursable",
+    "Silver AI",
+    "HealthEquity app"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2019__",
+   "name": "net-worth-tracker",
+   "verdict": "well-covered by Empower (free) and Worthy (one-time paid); Simple Net Worth Tracker free offline",
+   "competitors": [
+    "Empower",
+    "Worthy",
+    "Simple Net Worth Tracker",
+    "WorthTracker"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2021__",
+   "name": "multi-currency-accounts",
+   "verdict": "Lunch Money, Spendee, Wallet by BudgetBakers all support it; Finny free with 150+ currencies",
+   "competitors": [
+    "Lunch Money",
+    "Spendee",
+    "Wallet by BudgetBakers",
+    "Finny"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2023__",
+   "name": "tax-refund-planner",
+   "verdict": "IRS2Go free official; TaxMode free; thin standalone opportunity; planning angle slightly open",
+   "competitors": [
+    "IRS2Go",
+    "TaxMode",
+    "Keeper",
+    "MyBlock"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2025__",
+   "name": "couples-finance-reconciliation",
+   "verdict": "Honeydue free, Splitwise free, Goodbudget free tier; extremely saturated at free tier",
+   "competitors": [
+    "Honeydue",
+    "Splitwise",
+    "Goodbudget",
+    "Tandem",
+    "Monarch"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2027__",
+   "name": "allowance-kids",
+   "verdict": "SKIP per instructions",
+   "competitors": [],
+   "n": 0,
+   "free_sub": true,
+   "model": "skip",
+   "durability": 0,
+   "reach": 0,
+   "demand": 0
+  },
+  {
+   "id": "X2029__",
+   "name": "pomysly-na-randki",
+   "verdict": "SKIP",
+   "competitors": [
+    "Lovewick",
+    "LoveTrack",
+    "SoulPlan",
+    "Cupla",
+    "4Lovebirds"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 4,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2031__",
+   "name": "zwiazek-na-odleglosc-narzedzia",
+   "verdict": "SKIP",
+   "competitors": [
+    "Paired",
+    "Couple Joy",
+    "Lovewick",
+    "Flamme",
+    "Between"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 4,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2033__",
+   "name": "rocznice-tracker",
+   "verdict": "SKIP",
+   "competitors": [
+    "Anniversary Tracker",
+    "Memories-Love Days Counter",
+    "LoveTrack",
+    "hip"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "iap",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2035__",
+   "name": "zarzadzanie-relacja-z-tesciami",
+   "verdict": "BUILD",
+   "competitors": [],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid_once",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2037__",
+   "name": "check-in-z-przyjaciolmi",
+   "verdict": "MARGINAL",
+   "competitors": [
+    "Wavi",
+    "Cohorty",
+    "TouchBase"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2039__",
+   "name": "planowanie-wyjazdu-grupowego",
+   "verdict": "SKIP",
+   "competitors": [
+    "Wanderlog",
+    "Tricount",
+    "AvoSquado",
+    "Splitwise"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 4,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X2041__",
+   "name": "social-battery-introwertyk",
+   "verdict": "MARGINAL",
+   "competitors": [
+    "Introvert Social Battery",
+    "Wavi",
+    "IntroEnergy",
+    "loggd.life"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "paid_once",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2043__",
+   "name": "notatki-z-apek-randkowych",
+   "verdict": "BUILD",
+   "competitors": [
+    "Spread Dating Spreadsheet",
+    "Etsy templates"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "paid_once",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2045__",
+   "name": "cele-pary-couples-goals",
+   "verdict": "SKIP",
+   "competitors": [
+    "Cupla",
+    "Lovewick",
+    "Paired",
+    "LoveTrack"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 4,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2047_",
+   "name": "spotkanie-rodzinne-agenda",
+   "verdict": "MARGINAL",
+   "competitors": [
+    "Cozi",
+    "FamilyWall",
+    "FamilyTools"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "paid_once",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2049_",
+   "name": "lista-urodzin-bliskich",
+   "verdict": "SKIP",
+   "competitors": [
+    "hip",
+    "Birthday Reminder & Countdown",
+    "Birthday Calendar Elite",
+    "Memorigi"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "iap",
+   "durability": 4,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X2051",
+   "name": "podziekowania-thank-you-notes",
+   "verdict": "MARGINAL",
+   "competitors": [
+    "Dignity Memorial templates",
+    "AI sympathy generator",
+    "SendWishOnline"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "paid_once",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2053",
+   "name": "kontakty-kiedy-ostatnio-rozmawialem",
+   "verdict": "BUILD",
+   "competitors": [
+    "TouchBase",
+    "Monica CRM",
+    "Clay"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "paid_once",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2055",
+   "name": "prezenty-dla-partnera-pomysly",
+   "verdict": "MARGINAL",
+   "competitors": [
+    "LoveTrack gift guide",
+    "Lovewick Forget-me-nots",
+    "Giftster"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "paid_once",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2057",
+   "name": "wspolne-wydatki-pary",
+   "verdict": "SKIP",
+   "competitors": [
+    "Splitwise",
+    "Tricount",
+    "Cino",
+    "Honeydue"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 4,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X2059",
+   "name": "kondolencje-wsparcie",
+   "verdict": "MARGINAL",
+   "competitors": [
+    "Condolence Ideas",
+    "Grief Refuge",
+    "Untangle",
+    "Lifeboat"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "paid_once",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2061",
+   "name": "kontakt-z-przyjaciolmi-crm",
+   "verdict": "BUILD",
+   "competitors": [
+    "Monica CRM (free self-hosted)",
+    "Clay (expensive sub)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid_once",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2063",
+   "name": "planer-gosci-slubnych",
+   "verdict": "SKIP",
+   "competitors": [
+    "Zola",
+    "WeddingWire",
+    "The Knot"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 3,
+   "reach": 3,
+   "demand": 2
   }
  ]
 }
