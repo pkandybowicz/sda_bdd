@@ -20563,6 +20563,2405 @@
    "durability": 8,
    "reach": 2,
    "demand": 2
+  },
+  {
+   "id": "X1336_",
+   "name": "family-recipe-box",
+   "verdict": "skip",
+   "competitors": [
+    "Paprika",
+    "RecipeSage",
+    "AnyList",
+    "CopyMeThat"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1338_",
+   "name": "spice-inventory",
+   "verdict": "build",
+   "competitors": [
+    "Spullio",
+    "HomeManage",
+    "HomeBox"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1340_",
+   "name": "kitchen-conversions",
+   "verdict": "skip",
+   "competitors": [
+    "CooksConvertor",
+    "KitchenCalculator",
+    "CookingUnitConverter",
+    "Morpho",
+    "MyKitchenCalculator"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 4,
+   "reach": 5,
+   "demand": 1
+  },
+  {
+   "id": "X1342_",
+   "name": "cooking-technique-log",
+   "verdict": "build",
+   "competitors": [
+    "CookedThis",
+    "RecipeNotes"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1344_",
+   "name": "party-menu-planner",
+   "verdict": "skip",
+   "competitors": [
+    "PartyPlannerMenuInvites",
+    "ProPartyPlanner",
+    "PlanitPartyPlanner"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1346_",
+   "name": "leftovers-utilization",
+   "verdict": "build",
+   "competitors": [
+    "SuperCook",
+    "NoWaste"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1348_",
+   "name": "batch-cooking-planner",
+   "verdict": "skip",
+   "competitors": [
+    "Basta",
+    "PlanToEat",
+    "SideChef",
+    "KitchenStories"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1350_",
+   "name": "bakers-percentage",
+   "verdict": "build",
+   "competitors": [
+    "Leaven",
+    "BakersScale",
+    "BakerPercentage"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 3
+  },
+  {
+   "id": "X1352_",
+   "name": "coffee-brewing-log",
+   "verdict": "skip",
+   "competitors": [
+    "Beanconqueror",
+    "TimerCoffee",
+    "iBrewCoffee"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1354_",
+   "name": "tea-tasting-journal",
+   "verdict": "build",
+   "competitors": [
+    "MyTeaPal",
+    "TeaBrewTimerJournal"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1356_",
+   "name": "home-cocktail-recipes",
+   "verdict": "skip",
+   "competitors": [
+    "CocktailFlow",
+    "HighBall",
+    "CocktailsGuru",
+    "LiquorCabinet"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1358_",
+   "name": "home-wine-cellar",
+   "verdict": "skip",
+   "competitors": [
+    "CellarTracker",
+    "Oeni",
+    "Vinify",
+    "MyWineCellar",
+    "InVintory"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1360_",
+   "name": "bbq-grill-log",
+   "verdict": "build",
+   "competitors": [
+    "GrillTime",
+    "SmokinLog",
+    "DigitalBBQ"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1362_",
+   "name": "sous-vide-times",
+   "verdict": "skip",
+   "competitors": [
+    "SousVideCelsius",
+    "SousVideUnlimited",
+    "AnovaApp",
+    "iVide"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1364_",
+   "name": "kitchen-fermentation",
+   "verdict": "build",
+   "competitors": [
+    "Fermenta",
+    "Fermento",
+    "Brewfather"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 3
+  },
+  {
+   "id": "X1366_",
+   "name": "gluten-free-allergy-recipes",
+   "verdict": "skip",
+   "competitors": [
+    "Mealime",
+    "iEatOut",
+    "Spokin",
+    "Fig",
+    "ShopWell"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1368_",
+   "name": "diet-rotation-meals",
+   "verdict": "skip",
+   "competitors": [
+    "Paprika",
+    "SamsungFood",
+    "Mealime",
+    "SuperCook",
+    "PlanToEat",
+    "EatThisMuch"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 4,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X1370_",
+   "name": "canning-jar-inventory",
+   "verdict": "build",
+   "competitors": [
+    "Jarred"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 3
+  },
+  {
+   "id": "X1372_",
+   "name": "dziennik warzywnika",
+   "verdict": "SKIP",
+   "competitors": [
+    "Gardenize",
+    "Garden.gg",
+    "Seedtime",
+    "Croppa",
+    "FromSeedToSpoon"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1374_",
+   "name": "wysiew / seed-starting",
+   "verdict": "SKIP",
+   "competitors": [
+    "Seedtime",
+    "Planter",
+    "FromSeedToSpoon",
+    "GrowVeg"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1376_",
+   "name": "rozmnażanie roślin / propagacja",
+   "verdict": "NICHE-OK",
+   "competitors": [
+    "Planta (beta prop)",
+    "Plantora",
+    "Sprig"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1378_",
+   "name": "bonsai",
+   "verdict": "SKIP",
+   "competitors": [
+    "Bonsai Care App (Bonsai Empire)",
+    "Appy Bonsai"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1380_",
+   "name": "storczyki / orchid",
+   "verdict": "NICHE-OK",
+   "competitors": [
+    "Planta",
+    "Sprig",
+    "Plantora"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1382_",
+   "name": "sukulenty",
+   "verdict": "SKIP",
+   "competitors": [
+    "Succulent Tracker (Cheerful Plants)",
+    "Happy Plant",
+    "Planta",
+    "Greg"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1384_",
+   "name": "pielęgnacja trawnika",
+   "verdict": "SKIP",
+   "competitors": [
+    "Lawn AI",
+    "Yard Mastery",
+    "Grass Identifier",
+    "Sunday Lawn Care"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1386_",
+   "name": "szkodniki ogrodowe - ID",
+   "verdict": "SKIP",
+   "competitors": [
+    "PictureThis",
+    "PlantIn",
+    "Agrio",
+    "iNaturalist"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1388_",
+   "name": "log zbiorów / harvest tracker",
+   "verdict": "NICHE-OK",
+   "competitors": [
+    "Garden.gg",
+    "Leaftide",
+    "FromSeedToSpoon",
+    "Croppa"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1390_",
+   "name": "układanie kwiatów / florystyka",
+   "verdict": "NICHE-OK",
+   "competitors": [
+    "Flower Architect",
+    "Floral AI",
+    "BloomyPro"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1392_",
+   "name": "terrarium roślinne",
+   "verdict": "NICHE-OK",
+   "competitors": [
+    "My Terrarium",
+    "Terrarium Tracker (zwierzęta)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X1394_",
+   "name": "zioła kuchenne",
+   "verdict": "SKIP",
+   "competitors": [
+    "Planter",
+    "FromSeedToSpoon",
+    "Seedtime",
+    "Gardenize"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1396_",
+   "name": "drzewa owocowe domowe",
+   "verdict": "NICHE-OK",
+   "competitors": [
+    "Leaftide",
+    "FruitForest",
+    "Fruit Minder"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1398_",
+   "name": "róże",
+   "verdict": "NICHE-OK",
+   "competitors": [
+    "Instant Rose (ID only)",
+    "Planta",
+    "PictureThis"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1400_",
+   "name": "kaktusy",
+   "verdict": "SKIP",
+   "competitors": [
+    "Succulent Tracker",
+    "Planta",
+    "Greg",
+    "Plantora"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1402_",
+   "name": "rośliny mięsożerne",
+   "verdict": "BUILD",
+   "competitors": [],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X1404_",
+   "name": "nawożenie - harmonogram",
+   "verdict": "SKIP",
+   "competitors": [
+    "Planta",
+    "Plant Care Notifier",
+    "WaterMe",
+    "PlantIn"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1406_",
+   "name": "kalendarz ogrodnika",
+   "verdict": "SKIP",
+   "competitors": [
+    "Seedtime",
+    "GrowVeg",
+    "Old Farmer's Almanac",
+    "Planter",
+    "FromSeedToSpoon"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1408_",
+   "name": "garderoba kapsułowa",
+   "verdict": "trudno",
+   "competitors": [
+    "Whering",
+    "Stylebook",
+    "Indyx",
+    "Clueless"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1410_",
+   "name": "log stylizacji / outfity",
+   "verdict": "trudno",
+   "competitors": [
+    "Whering",
+    "Indyx",
+    "WearTracker",
+    "Outfit Tracker"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1412_",
+   "name": "inwentarz szafy",
+   "verdict": "trudno",
+   "competitors": [
+    "Stylebook",
+    "ClosetLog",
+    "SimpleCloset",
+    "Whering"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium+one-time",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1414_",
+   "name": "thrift flipping / odsprzedaż",
+   "verdict": "możliwe",
+   "competitors": [
+    "ThriftAI",
+    "Underpriced",
+    "Thrifted",
+    "Poshmark"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "freemium+AI",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1416_",
+   "name": "biżuteria – tworzenie / tracker",
+   "verdict": "nisza otwarta",
+   "competitors": [
+    "YarnBuddy (knitwear only)",
+    "brak dedykowanych"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "pay-once",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1418_",
+   "name": "pielęgnacja butów",
+   "verdict": "możliwe",
+   "competitors": [
+    "SHOOZ",
+    "Shoe Health",
+    "Sneaker Tracker",
+    "Worn Out"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "pay-once",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1420_",
+   "name": "moda vintage – kolekcja",
+   "verdict": "możliwe",
+   "competitors": [
+    "Depop",
+    "Vinted",
+    "FINDS",
+    "Poshmark"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1422_",
+   "name": "analiza kolorystyczna",
+   "verdict": "trudno",
+   "competitors": [
+    "Drape",
+    "Season Palette",
+    "Colorwise",
+    "Dressika"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium+AI",
+   "durability": 5,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1424_",
+   "name": "pakowanie kapsułowe (travel)",
+   "verdict": "trudno",
+   "competitors": [
+    "PackPoint",
+    "Packr",
+    "Packing Pro",
+    "Indyx"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1426_",
+   "name": "symbole prania / metki",
+   "verdict": "nisza otwarta",
+   "competitors": [
+    "strony www (Tide Whirlpool)",
+    "brak silnej apki"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "pay-once",
+   "durability": 9,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1428_",
+   "name": "cerowanie / visible mending",
+   "verdict": "nisza otwarta",
+   "competitors": [
+    "brak dedykowanych apek"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "pay-once",
+   "durability": 9,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1430_",
+   "name": "torebki – kolekcja",
+   "verdict": "możliwe",
+   "competitors": [
+    "MyBag",
+    "Purse of the Day",
+    "Bag ID AI",
+    "FASHIONPHILE"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1432_",
+   "name": "krawaty – kolekcja / rotacja",
+   "verdict": "nisza otwarta",
+   "competitors": [
+    "ogólne apki szafy (WearTracker)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "pay-once",
+   "durability": 9,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X1434_",
+   "name": "zegarki – rotacja noszenia",
+   "verdict": "możliwe",
+   "competitors": [
+    "Watch Collection Tracker",
+    "WristTrack",
+    "Watchee",
+    "iCollect Everything"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "freemium",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1436_",
+   "name": "perfumy – rotacja / kolekcja",
+   "verdict": "możliwe",
+   "competitors": [
+    "Perfume Tracker",
+    "Aromoshelf",
+    "Parfumo",
+    "PERFUMIST"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "freemium",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1438_",
+   "name": "kapelusze – kolekcja",
+   "verdict": "nisza otwarta",
+   "competitors": [
+    "brak dedykowanych apek"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "pay-once",
+   "durability": 9,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X1440_",
+   "name": "okulary – kolekcja",
+   "verdict": "nisza otwarta",
+   "competitors": [
+    "Warby Parker (własna apka)",
+    "hardware trackery (Orbit)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "pay-once",
+   "durability": 8,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X1442_",
+   "name": "lookbook osobisty",
+   "verdict": "trudno",
+   "competitors": [
+    "Personal Lookbook",
+    "Indyx",
+    "Whering",
+    "Lemon8"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1444_",
+   "name": "latawce (kite flying log)",
+   "verdict": "SKIP",
+   "competitors": [
+    "Hoolan",
+    "KiteTracker",
+    "Good To Kite"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1446_",
+   "name": "modele rakiet (rocketry flight log)",
+   "verdict": "SKIP",
+   "competitors": [
+    "OpenRocket",
+    "RASAero",
+    "ThrustCurve"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1448_",
+   "name": "sztuczki magiczne-repertuar (magic repertoire tracker)",
+   "verdict": "BUILD",
+   "competitors": [
+    "Magic Amino",
+    "Vanishing Inc app store"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1450_",
+   "name": "origami (project tracker)",
+   "verdict": "SKIP",
+   "competitors": [
+    "iOriga",
+    "Origami Fold & Learn",
+    "Origami 2025"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1452_",
+   "name": "kaligrafia (calligraphy practice tracker)",
+   "verdict": "SKIP",
+   "competitors": [
+    "Calligraphy Tracing Flourish",
+    "Calligraphy Penmanship",
+    "Calligraphy Handbook"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1454_",
+   "name": "hand lettering (progress tracker)",
+   "verdict": "SKIP",
+   "competitors": [
+    "Modern Handwriting Calligraphy",
+    "Handwriting Practice Cursive"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1456_",
+   "name": "bullet journal (digital tracker)",
+   "verdict": "SKIP",
+   "competitors": [
+    "Notion",
+    "Daylio",
+    "GoodNotes",
+    "PlanWiz",
+    "Bullet Journal app"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium/sub",
+   "durability": 7,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1458_",
+   "name": "stemple/stamp carving (project tracker)",
+   "verdict": "BUILD",
+   "competitors": [],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1460_",
+   "name": "whittling/struganie (wood carving log)",
+   "verdict": "BUILD",
+   "competitors": [
+    "Woodcarving Illustrated (magazine app)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1462_",
+   "name": "pyrografia (pyrography project log)",
+   "verdict": "BUILD",
+   "competitors": [
+    "Pyrography simulator iOS (basic)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1464_",
+   "name": "diamond painting (project tracker)",
+   "verdict": "SKIP",
+   "competitors": [
+    "GemsFlow",
+    "Diamond Art Paint by Number"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1466_",
+   "name": "paint by numbers (progress tracker)",
+   "verdict": "SKIP",
+   "competitors": [
+    "Diamond Painting by Number",
+    "Diamond Book Paint by Number"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1468_",
+   "name": "puzzle-kolekcja (jigsaw collection + timer)",
+   "verdict": "SKIP",
+   "competitors": [
+    "Puzzle Tracker",
+    "iCollect Everything"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1470_",
+   "name": "LEGO MOC (builder + parts tracker)",
+   "verdict": "SKIP",
+   "competitors": [
+    "BrickLink Studio",
+    "LeoCAD",
+    "Mecabricks",
+    "LDraw"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1472_",
+   "name": "scrapbooking (supply + project tracker)",
+   "verdict": "BUILD",
+   "competitors": [
+    "Project Life",
+    "Canva (generic)",
+    "PicCollage"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1474_",
+   "name": "decoupage (project + supply tracker)",
+   "verdict": "BUILD",
+   "competitors": [],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1476_",
+   "name": "mydlarstwo (soap making recipe tracker)",
+   "verdict": "SKIP",
+   "competitors": [
+    "Soapmaking Friend Soap Calc",
+    "Soapah",
+    "Free Soap Designer Tool"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1478_",
+   "name": "świece (candle making recipe tracker)",
+   "verdict": "SKIP",
+   "competitors": [
+    "Candle Pal",
+    "The Candle Maker Calculator",
+    "Craftybase"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium/sub",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1480",
+   "name": "personal_vocabulary_builder",
+   "verdict": "SKIP",
+   "competitors": [
+    "Vocabulary.com",
+    "Memrise",
+    "Lingvist",
+    "Ulangi",
+    "AnkiDroid"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 3,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1482",
+   "name": "memory_palace_mnemonic_builder",
+   "verdict": "BUILD",
+   "competitors": [
+    "Mind Palace (iOS)",
+    "Mnemopal",
+    "Memory Palace Training (Android)",
+    "Memory Palace 3.0"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1484",
+   "name": "speed_reading_trainer",
+   "verdict": "SKIP",
+   "competitors": [
+    "AccelaReader",
+    "Reedy",
+    "ReadMe!",
+    "Spritz",
+    "Reading Trainer",
+    "Spry Reader"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 3,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X1486",
+   "name": "public_speaking_practice",
+   "verdict": "SKIP",
+   "competitors": [
+    "Orai",
+    "Ummo",
+    "Speecher",
+    "Toastmasters Timer",
+    "Teleprompter.com"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1488",
+   "name": "debate_argument_tracker",
+   "verdict": "BUILD",
+   "competitors": [
+    "Notion templates",
+    "generic outliners"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1490",
+   "name": "handwriting_improvement_log",
+   "verdict": "MARGINAL",
+   "competitors": [
+    "iTrace",
+    "Writey",
+    "Nebo"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one_time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1492",
+   "name": "coding_practice_log",
+   "verdict": "SKIP",
+   "competitors": [
+    "TrackIt",
+    "Toggl",
+    "GitHub activity graph",
+    "Obsidian templates"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 3,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1494",
+   "name": "online_course_progress_tracker",
+   "verdict": "SKIP",
+   "competitors": [
+    "My Study Life",
+    "Notion",
+    "Trello",
+    "SymbioLearn"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 3,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X1496",
+   "name": "certification_exam_prep_organizer",
+   "verdict": "MARGINAL",
+   "competitors": [
+    "SymbioLearn",
+    "Etsy templates",
+    "RemNote",
+    "Anki"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one_time",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1498",
+   "name": "custom_spaced_repetition_scheduler",
+   "verdict": "SKIP",
+   "competitors": [
+    "Anki",
+    "RemNote",
+    "Noji",
+    "Quizlet",
+    "open-spaced-repetition (GitHub)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 3,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1500",
+   "name": "error_log_lessons_learned_journal",
+   "verdict": "BUILD",
+   "competitors": [
+    "Obsidian",
+    "Logseq",
+    "TiddlyWiki"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1502",
+   "name": "instrument_practice_tracker",
+   "verdict": "BUILD",
+   "competitors": [
+    "Modacity",
+    "Andante",
+    "Instrumentive",
+    "BetterPractice"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1504",
+   "name": "cornell_notes_app",
+   "verdict": "SKIP",
+   "competitors": [
+    "Columns",
+    "Nebo",
+    "GoodNotes",
+    "Notability"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 3,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1506",
+   "name": "reading_comprehension_practice",
+   "verdict": "SKIP",
+   "competitors": [
+    "Readability",
+    "Kids A-Z",
+    "Dreamscape",
+    "Scholastic Literacy Pro"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 3,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X1508",
+   "name": "language_learning_notebook",
+   "verdict": "MARGINAL",
+   "competitors": [
+    "Lingua Logger",
+    "LingQ",
+    "Renshuu",
+    "Obsidian"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one_time",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1510",
+   "name": "foreign_idioms_phrases_collector",
+   "verdict": "BUILD",
+   "competitors": [
+    "generic flashcard apps",
+    "Anki decks",
+    "no dedicated tool found"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1512",
+   "name": "kanji_hanzi_progress_tracker",
+   "verdict": "SKIP",
+   "competitors": [
+    "WaniKani",
+    "Renshuu",
+    "Hack Chinese",
+    "JA Sensei",
+    "Anki"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1514",
+   "name": "foreign_alphabet_script_learning",
+   "verdict": "SKIP",
+   "competitors": [
+    "Joode",
+    "Duolingo",
+    "Taalhammer",
+    "Write It! Infinite",
+    "Script Hacking"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 3,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1516",
+   "name": "Volunteer Hour Logger",
+   "verdict": "PASS",
+   "competitors": [
+    "HoursToImpact",
+    "Track It Forward",
+    "VolunteerHub",
+    "Better Impact",
+    "Volgistics"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1518",
+   "name": "Mutual Aid Coordinator",
+   "verdict": "SKIP",
+   "competitors": [
+    "Zelos",
+    "Brightest",
+    "Airtable",
+    "Slack",
+    "Google Sheets"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1520",
+   "name": "Community Garden Plot Manager",
+   "verdict": "PASS",
+   "competitors": [
+    "Community Garden App",
+    "VegPlotter",
+    "GrowVeg",
+    "Seedtime",
+    "Leaftide"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1522",
+   "name": "Little Free Library Inventory",
+   "verdict": "PASS",
+   "competitors": [
+    "LibraryThing",
+    "Libib",
+    "Calibre",
+    "Google Sheets"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1524",
+   "name": "Neighborhood Watch Log",
+   "verdict": "SKIP",
+   "competitors": [
+    "Nextdoor",
+    "GroupMe",
+    "Neighbors by Ring",
+    "Citizen"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "ads",
+   "durability": 4,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1526",
+   "name": "HOA / Small Community Manager",
+   "verdict": "SKIP",
+   "competitors": [
+    "Neighborhood.Online",
+    "HOA Express",
+    "BuildingLink",
+    "Appfolio",
+    "TownSq"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1528",
+   "name": "Scout Troop Merit Badge Tracker",
+   "verdict": "PASS",
+   "competitors": [
+    "Troopmaster",
+    "ScoutTrack",
+    "Scout Champ",
+    "Path to Eagle Scout",
+    "Scoutbook"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1530",
+   "name": "Club Membership Dues Tracker",
+   "verdict": "PASS",
+   "competitors": [
+    "WildApricot",
+    "TidyHQ",
+    "MemberPlanet",
+    "ClubWorx",
+    "Join It"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1532",
+   "name": "Charity Donation Records",
+   "verdict": "SKIP",
+   "competitors": [
+    "Zeffy",
+    "Givebutter",
+    "DonorPerfect",
+    "Little Green Light",
+    "Donorbox"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X1534",
+   "name": "Genealogy / Family Tree",
+   "verdict": "SKIP",
+   "competitors": [
+    "Ancestry",
+    "MyHeritage",
+    "FamilySearch",
+    "Gramps",
+    "RootsMagic",
+    "WikiTree"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 8,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1536",
+   "name": "Oral History / Story Recorder",
+   "verdict": "PASS",
+   "competitors": [
+    "StoryCorps",
+    "Rememory",
+    "EveryStory",
+    "LifeEcho",
+    "FamilySearch Stories"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1538",
+   "name": "Charity Fundraising Tracker",
+   "verdict": "SKIP",
+   "competitors": [
+    "GoFundMe",
+    "Zeffy",
+    "Givebutter",
+    "FundRazr",
+    "RallyUp"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X1540",
+   "name": "Womens Circle / Homemakers Club",
+   "verdict": "PASS",
+   "competitors": [
+    "Lean In Circles",
+    "generic group apps",
+    "WhatsApp",
+    "Google Sheets"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1542",
+   "name": "Religious Group Attendance",
+   "verdict": "SKIP",
+   "competitors": [
+    "Church Metrics",
+    "ChurchCMS",
+    "B1 Church",
+    "ChurchTrac",
+    "Breeze",
+    "Jibble"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1544",
+   "name": "Book Club Meeting Manager",
+   "verdict": "PASS",
+   "competitors": [
+    "Readfeed",
+    "Bookship",
+    "Bookum",
+    "Goodreads",
+    "StoryGraph"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1546",
+   "name": "Amateur Radio Airtime Logger",
+   "verdict": "PASS",
+   "competitors": [
+    "N1MM Logger",
+    "QLog",
+    "Log4OM",
+    "Ham Radio Deluxe",
+    "World Radio League"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1548",
+   "name": "Blood Donation Log",
+   "verdict": "PASS",
+   "competitors": [
+    "Red Cross Blood Donor App",
+    "Vitalant App",
+    "LifeSouth App",
+    "ImpactLife"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1550",
+   "name": "Local Petitions / Activism",
+   "verdict": "SKIP",
+   "competitors": [
+    "Change.org",
+    "Action Network",
+    "Care2",
+    "openPetition",
+    "New/Mode"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X1552",
+   "name": "Pickleball Stats & Scoring",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "SwingVision",
+    "PB Vision",
+    "PicklePlay",
+    "DUPR",
+    "Side Out",
+    "Score Pickleball",
+    "Dinking Up",
+    "PickleballStat"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1554",
+   "name": "Padel Scoring & Stats",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Playtomic",
+    "Padelio",
+    "Padel Watch",
+    "PadelMix",
+    "Padel Stats AI",
+    "Padela"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1556",
+   "name": "Table Tennis League Stats",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Pongmasters",
+    "PongUp",
+    "tivit",
+    "SmartScorer",
+    "TableChamp"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1558",
+   "name": "Badminton Scoring & Stats",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "ScoreMine",
+    "Badminton Score Track Points",
+    "Simple Badminton Scoreboard",
+    "Spogenie",
+    "Badminton Scorer"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1560",
+   "name": "Squash Scoring & Stats",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Squash Score Referee",
+    "Squash Score Pro",
+    "Score Squash",
+    "Squore"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1562",
+   "name": "Darts League & Checkout Calculator",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "DartConnect",
+    "DartCounterApp",
+    "Dartore",
+    "LeagueRepublic",
+    "LeagueAppLive",
+    "PlayPass"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1564",
+   "name": "Bowling Statistics Tracker",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "LaneTalk",
+    "StrikeMaster",
+    "BowlSheet",
+    "My Bowling Ultra",
+    "PinPal",
+    "Bosc",
+    "Strike Out Stats"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1566",
+   "name": "Cornhole Scoring",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Scoreholio",
+    "The Cornhole Scorer",
+    "ACA App",
+    "Cornhole League"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1568",
+   "name": "Axe Throwing Scoring",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "IATF App (AxeScores)",
+    "Simple Axe",
+    "Axe Tracker",
+    "Bullsy"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1570",
+   "name": "Shuffleboard Scoring",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "Shuffleboard Score Keeper",
+    "Shuffleboard Challenge",
+    "Shuffleboard Master"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1572",
+   "name": "Petanque/Boules Scoring",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Booble",
+    "Booble Premium",
+    "Petanque Score",
+    "Petanque Measure Cochonnet"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1574",
+   "name": "Lawn Bowls Scoring",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "BowlsLink Scoring",
+    "Bowlometer",
+    "Bowlometer Premium",
+    "Bowls Buddy"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1576",
+   "name": "Ultimate Frisbee League Management",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Ultimate Central",
+    "Ultie.org",
+    "Magic Sports",
+    "LeagueApps",
+    "SportsGrove"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1578",
+   "name": "Kickball League Management",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "PlayPass",
+    "LeagueLinq",
+    "LeagueApps",
+    "Spond"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1580",
+   "name": "Racquetball Scoring & Stats",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "Racketscore",
+    "TennisKeeper",
+    "Racquet Game Scorer",
+    "Wotscore"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1582",
+   "name": "Handball Scoring & Stats",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Handball.AI",
+    "HandballTracker",
+    "Handball Dashboard",
+    "Handball Scoreboard"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1584",
+   "name": "Snooker Statistics Tracker",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "MySnookerStats",
+    "CueTracker app",
+    "Snooker Coach 147",
+    "Snooker Score Counter"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1586",
+   "name": "Billiards Pool Drills Trainer",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "DrillRoom AI",
+    "WPB Pool Training Drills",
+    "Checkbilliard"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1588",
+   "name": "mushroom_foraging_log",
+   "verdict": "viable",
+   "competitors": [
+    "iNaturalist",
+    "Shroomify",
+    "Mushroom Tracker",
+    "Picture Mushroom"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1590",
+   "name": "wildflower_journal",
+   "verdict": "viable",
+   "competitors": [
+    "iNaturalist",
+    "Flora Incognita",
+    "What's That Flower",
+    "High Country Apps"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1592",
+   "name": "tree_id_personal_list",
+   "verdict": "marginal",
+   "competitors": [
+    "iNaturalist",
+    "Merlin",
+    "LeafSnap",
+    "PictureThis"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1594",
+   "name": "tide_pooling_log",
+   "verdict": "viable",
+   "competitors": [
+    "iNaturalist",
+    "Tide Alert NOAA",
+    "Nautide"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1596",
+   "name": "beachcombing_log",
+   "verdict": "viable",
+   "competitors": [
+    "Beach Track",
+    "Beachcomber (AUS)",
+    "iNaturalist"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1598",
+   "name": "shell_collection_tracker",
+   "verdict": "viable",
+   "competitors": [
+    "Tracker Ten",
+    "Recollector",
+    "iNaturalist"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1600",
+   "name": "fossil_collection_tracker",
+   "verdict": "viable",
+   "competitors": [
+    "Trilobase",
+    "Tracker Ten",
+    "iNaturalist"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1602",
+   "name": "butterfly_moth_tracker",
+   "verdict": "viable",
+   "competitors": [
+    "iNaturalist",
+    "Butterflies and Moths of North America",
+    "Moth Tracker"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1604",
+   "name": "herping_log",
+   "verdict": "viable",
+   "competitors": [
+    "HerpMapper",
+    "iNaturalist",
+    "HerpTracker"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1606",
+   "name": "animal_tracking_sign_log",
+   "verdict": "viable",
+   "competitors": [
+    "iTrack Wildlife",
+    "MyNature Animal Tracks",
+    "TrackSense Pro"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1608",
+   "name": "fly_fishing_entomology_log",
+   "verdict": "viable",
+   "competitors": [
+    "IdentaFly",
+    "Hatchpedia",
+    "SnapHatch",
+    "The Catch and The Hatch"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1610",
+   "name": "herbarium_plant_press_log",
+   "verdict": "viable",
+   "competitors": [
+    "eHerbarium",
+    "iNaturalist",
+    "Plant Diary App"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1612",
+   "name": "lichen_moss_journal",
+   "verdict": "viable",
+   "competitors": [
+    "iNaturalist",
+    "eHerbarium"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1614",
+   "name": "regional_bird_checklist",
+   "verdict": "marginal",
+   "competitors": [
+    "eBird",
+    "Merlin",
+    "Birds Near Me",
+    "BirdNET"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 4,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1616",
+   "name": "insect_collection_tracker",
+   "verdict": "viable",
+   "competitors": [
+    "Picture Insect",
+    "Bug ID",
+    "iNaturalist",
+    "BugGuide"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1618",
+   "name": "mineral_rockhounding_log",
+   "verdict": "viable",
+   "competitors": [
+    "Ruby Glint",
+    "Stone ID",
+    "Smart Geology",
+    "Tracker Ten"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1620",
+   "name": "aurora_chasing_log",
+   "verdict": "marginal",
+   "competitors": [
+    "Hello Aurora",
+    "My Aurora Forecast",
+    "SpaceWeatherLive",
+    "Glendale App"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1622",
+   "name": "meteorite_shooting_star_log",
+   "verdict": "viable",
+   "competitors": [
+    "American Meteor Society portal",
+    "MeteorActive",
+    "FallingStar",
+    "AMS Visual Observing"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
   }
  ]
 }
