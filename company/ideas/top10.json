@@ -1,7 +1,7 @@
 {
   "algo": "v3",
-  "updated": "2026-06-02 11:03 UTC",
-  "verified": 98,
+  "updated": "2026-06-02 11:29 UTC",
+  "verified": 112,
   "top10": [
     {
       "id": "FoodTemp",
@@ -19,14 +19,14 @@
     },
     {
       "id": "ComicColorBible",
-      "name": "Color bible dla rysowników + solo animatorów (hex per postać, odcienie)",
-      "score": 73,
+      "name": "Color bible: ref-sheet hex per postać — rysownicy, animatorzy, FURRY, VTuberzy, OC-artyści + ich zleceniobiorcy",
+      "score": 74,
       "verdict": "PUSTA Z OKAZJI",
       "n": 1
     },
     {
       "id": "AudiobookVoiceBible",
-      "name": "Voice bible dla narratorów audiobooków + aktorów głosowych w grach (próbki audio + atrybuty per postać)",
+      "name": "Voice bible: próbki+atrybuty głosu per postać — narratorzy audiobooków, game VO, producenci audio-dram",
       "score": 68,
       "verdict": "PUSTA Z OKAZJI",
       "n": 2

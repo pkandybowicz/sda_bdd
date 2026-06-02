@@ -1037,7 +1037,7 @@
   },
   {
    "id": "AudiobookVoiceBible",
-   "name": "Voice bible dla narratorów audiobooków + aktorów głosowych w grach (próbki audio + atrybuty per postać)",
+   "name": "Voice bible: próbki+atrybuty głosu per postać — narratorzy audiobooków, game VO, producenci audio-dram",
    "verdict": "PUSTA Z OKAZJI",
    "competitors": [
     "(brak apki dla NARRATORÓW)",
@@ -1052,16 +1052,16 @@
   },
   {
    "id": "ComicColorBible",
-   "name": "Color bible dla rysowników + solo animatorów (hex per postać, odcienie)",
+   "name": "Color bible: ref-sheet hex per postać — rysownicy, animatorzy, FURRY, VTuberzy, OC-artyści + ich zleceniobiorcy",
    "verdict": "PUSTA Z OKAZJI",
    "competitors": [
-    "(brak dedykowanej apki — Adobe Color generyk; AI generatory nie przechowują kodów do ręcznego malowania)"
+    "(brak dedykowanej apki w ŻADNEJ z tych społeczności — Coolors/Color-Hex generyk; furry/VTuber/OC art = ogromne ekonomie zleceń)"
    ],
    "n": 1,
    "free_sub": true,
    "model": "onetime",
    "durability": 9,
-   "reach": 6,
+   "reach": 7,
    "demand": 3
   },
   {
