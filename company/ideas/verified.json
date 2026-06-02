@@ -11535,6 +11535,174 @@
    "durability": 7,
    "reach": 3,
    "demand": 1
+  },
+  {
+   "id": "EM1",
+   "name": "Kalkulator uprawy ryżu (Indie)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#12 rynki wschodzące; monetyzacja=ads/wolumen)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "EM2",
+   "name": "Ewidencja kirana store (Indie)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#12 rynki wschodzące; monetyzacja=ads/wolumen)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "EM3",
+   "name": "Kalkulator złota jubilerskiego (Nigeria)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#12 rynki wschodzące; monetyzacja=ads/wolumen)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "EM4",
+   "name": "Harmonogram nawadniania ryżu (Indonezja)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#12 rynki wschodzące; monetyzacja=ads/wolumen)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "EM5",
+   "name": "Kalkulator hodowli ryb w stawie (Bangladesz)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#12 rynki wschodzące; monetyzacja=ads/wolumen)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "EM6",
+   "name": "Kalkulator wesela/posagu (Pakistan)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#12 rynki wschodzące; monetyzacja=ads/wolumen)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "EM7",
+   "name": "Kalkulator zysku kokosa/kopry (Filipiny)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#12 rynki wschodzące; monetyzacja=ads/wolumen)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "EM8",
+   "name": "Kalkulator trzciny cukrowej (Wietnam)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#12 rynki wschodzące; monetyzacja=ads/wolumen)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "EM9",
+   "name": "Kalendarz postów islamskich (Egipt)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#12 rynki wschodzące; monetyzacja=ads/wolumen)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "EM10",
+   "name": "Tracker sprzedaży ulicznej (Nigeria)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#12 rynki wschodzące; monetyzacja=ads/wolumen)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "EM11",
+   "name": "Konwerter jednostek ziemi (Indie)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#12 rynki wschodzące; monetyzacja=ads/wolumen)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "EM12",
+   "name": "Ewidencja mleczarni/krów (Indie)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#12 rynki wschodzące; monetyzacja=ads/wolumen)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
   }
  ]
 }
