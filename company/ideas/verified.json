@@ -382,6 +382,90 @@
    "model": "free",
    "durability": 9,
    "reach": 5
+  },
+  {
+   "id": "RoofArea",
+   "name": "Kalkulator powierzchni dachu i materiałów",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "iRoofing",
+    "Serverless roofing",
+    "CosmoMath",
+    "MiniWebtool",
+    "VibeCalc(free offline)",
+    "AppliCad"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 9,
+   "reach": 5
+  },
+  {
+   "id": "FabricCut",
+   "name": "Kalkulator metrażu tkaniny do szycia",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "fabricyardagecalculator",
+    "Canvas ETC",
+    "Ready Calculator",
+    "UseCalcPro",
+    "Infinity/Joteo"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 9,
+   "reach": 5
+  },
+  {
+   "id": "AmortizeIt",
+   "name": "Kalkulator amortyzacji kredytu z nadpłatą",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Bankrate",
+    "calculator.net",
+    "US Bank",
+    "Loan Amortization(iOS offline)",
+    "Loan Amort(Android)",
+    "Excel tmpl"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "free",
+   "durability": 9,
+   "reach": 5
+  },
+  {
+   "id": "NailCure",
+   "name": "Tabela czasów utwardzania żeli UV/LED",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [
+    "(brak dedykowanej apki — info free na blogach marek)"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 5
+  },
+  {
+   "id": "TournamentBracket",
+   "name": "Generator drabinki turniejowej do druku",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "BracketMaker",
+    "Bracket HQ",
+    "My Bracket",
+    "printyourbrackets",
+    "Score7",
+    "Brackly"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 9,
+   "reach": 5
   }
  ]
 }

@@ -40,31 +40,31 @@
    "idea": "RoofArea: kalkulator powierzchni dachu i materiałów (roof material calculator)",
    "nisza": "RoofArea",
    "score": 99,
-   "done": false
+   "done": true
   },
   {
    "idea": "FabricCut: kalkulator metrażu tkaniny do szycia (fabric yardage calculator)",
    "nisza": "FabricCut",
    "score": 99,
-   "done": false
+   "done": true
   },
   {
    "idea": "AmortizeIt: kalkulator amortyzacji kredytu z nadpłatą (loan amortization overpayment)",
    "nisza": "AmortizeIt",
    "score": 99,
-   "done": false
+   "done": true
   },
   {
    "idea": "NailCure: tabela czasów utwardzania żeli UV/LED (gel curing times)",
    "nisza": "NailCure",
    "score": 99,
-   "done": false
+   "done": true
   },
   {
    "idea": "TournamentBracket: generator drabinki turniejowej do druku (pub league bracket)",
    "nisza": "TournamentBracket",
    "score": 99,
-   "done": false
+   "done": true
   },
   {
    "idea": "DrugFlashcards: fiszki nazw leków handlowe/generyczne (pharmacy drug name flashcards)",
