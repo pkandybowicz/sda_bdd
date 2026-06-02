@@ -2479,6 +2479,54 @@
    "durability": 8,
    "reach": 3,
    "demand": 1
+  },
+  {
+   "id": "BBQComp",
+   "name": "Harmonogram turn-in (drużyna BBQ)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "180Que",
+    "Excel/alarm apps"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "SpearLog",
+   "name": "Log nurkowań/połowów (spearfishing)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Spearfishing Tracker",
+    "Spearo",
+    "Fishbrain"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "BJJnotes",
+   "name": "Notatki technik (BJJ)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "BJJ Notes",
+    "BJJBuddy",
+    "BJJNote",
+    "BJJ Training Notes"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
   }
  ]
 }
