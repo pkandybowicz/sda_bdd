@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <rect width="200" height="200" rx="24" fill="#991b1b"/>
+  <path d="M52 56 h96 v50 a48 48 0 0 1 -96 0 z" fill="#fee2e2"/>
+  <path d="M70 78 l18 8 M130 78 l-18 8" stroke="#7f1d1d" stroke-width="6" stroke-linecap="round"/>
+  <path d="M78 110 q22 -14 44 0" stroke="#7f1d1d" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <rect x="58" y="142" width="84" height="40" rx="20" fill="#fca5a5"/>
+  <text x="100" y="170" font-family="monospace" font-size="16" fill="#7f1d1d" text-anchor="middle" font-weight="bold">BRUTUS</text>
+</svg>

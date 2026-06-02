@@ -1,5 +1,8 @@
 {
-  "nova": { "status": "idle", "currentTask": null, "since": "2026-06-02T09:32:00Z", "lastReport": "reports/T-003-nova.md" },
-  "atlas": { "status": "idle", "currentTask": null, "since": "2026-06-02T09:09:00Z", "lastReport": "reports/T-001-atlas.md" },
-  "pixel": { "status": "idle", "currentTask": null, "since": "2026-06-02T09:24:00Z", "lastReport": "reports/T-002-pixel.md" }
+  "nova":   { "status": "idle",    "currentTask": null, "since": "2026-06-02T10:00:00Z", "lastReport": "reports/T-003-nova.md" },
+  "atlas":  { "status": "working", "currentTask": "R2/A: Kopanie 'życzeń' (szkoda że nie ma apki…)", "since": "2026-06-02T10:00:00Z", "lastReport": null },
+  "pixel":  { "status": "working", "currentTask": "R2/A: Kopanie 'nienawiści' (recenzje 1★)", "since": "2026-06-02T10:00:00Z", "lastReport": null },
+  "echo":   { "status": "working", "currentTask": "R2/A: Kopanie 'arkuszy i papieru'", "since": "2026-06-02T10:00:00Z", "lastReport": null },
+  "vera":   { "status": "working", "currentTask": "R2/A: Kopanie 'dziwnych plemion' (poza IT)", "since": "2026-06-02T10:00:00Z", "lastReport": null },
+  "brutus": { "status": "idle",    "currentTask": "czeka na Fazę D (Red Team)", "since": "2026-06-02T10:00:00Z", "lastReport": null }
 }
