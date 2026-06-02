@@ -1,7 +1,7 @@
 {
   "algo": "v3",
-  "updated": "2026-06-02 14:16 UTC",
-  "verified": 349,
+  "updated": "2026-06-02 16:09 UTC",
+  "verified": 385,
   "top10": [
     {
       "id": "AudiobookVoiceBible",
@@ -67,11 +67,11 @@
       "n": 5
     },
     {
-      "id": "FD8",
-      "name": "Tracker kefiru wodnego/mlecznego [do potw.]",
+      "id": "DF3",
+      "name": "Kalkulator kosztów wypieku [demand/Etsy]",
       "score": 59,
       "verdict": "SŁABO OBSŁUŻONA",
-      "n": 0
+      "n": 3
     }
   ]
 }

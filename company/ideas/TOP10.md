@@ -1,6 +1,6 @@
 # 🏆 TOP 10 pomysłów — żywy ranking
 
-> Algorytm: **v3** · Zweryfikowanych realnie: **349** · Aktualizacja: 2026-06-02 14:16 UTC
+> Algorytm: **v3** · Zweryfikowanych realnie: **385** · Aktualizacja: 2026-06-02 16:09 UTC
 
 > Każdy pomysł przeszedł weryfikację konkurencji w sieci PRZED oceną.
 
@@ -16,6 +16,6 @@
 | 7 | Rejestr czynnika chłodniczego EPA608 | **60** | SŁABO OBSŁUŻONA | 5 |
 | 8 | Karta dopasowania aparatu słuchowego | **59** | SŁABO OBSŁUŻONA | 5 |
 | 9 | Rejestr pestycydów (urban pest) | **59** | SŁABO OBSŁUŻONA | 5 |
-| 10 | Tracker kefiru wodnego/mlecznego [do potw.] | **59** | SŁABO OBSŁUŻONA | 0 |
+| 10 | Kalkulator kosztów wypieku [demand/Etsy] | **59** | SŁABO OBSŁUŻONA | 3 |
 
 _Pełna baza: company/ideas/verified.json · Scoring: company/tools/score_top10.py_

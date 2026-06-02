@@ -5587,6 +5587,342 @@
    "durability": 7,
    "reach": 4,
    "demand": 3
+  },
+  {
+   "id": "DF1",
+   "name": "Transpozycja nut/zmiana tonacji PDF",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(demand-first agent)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "DF2",
+   "name": "Batch generator QR (CSV→PNG)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(demand-first agent)"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "DF3",
+   "name": "Kalkulator kosztów wypieku [demand/Etsy]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(demand-first agent)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "DF4",
+   "name": "Generator faktur offline",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(demand-first agent)"
+   ],
+   "n": 20,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "DF5",
+   "name": "Mail merge / etykiety/karty",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(demand-first agent)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "DF6",
+   "name": "Generator certyfikatów batch",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(demand-first agent)"
+   ],
+   "n": 30,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "DF7",
+   "name": "Planner/habit printable",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(demand-first agent)"
+   ],
+   "n": 500,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "DF8",
+   "name": "Kalkulator wyceny rękodzieła [demand/Etsy]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(demand-first agent)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "DF9",
+   "name": "Karta akordów z nagrania",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(demand-first agent)"
+   ],
+   "n": 10,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "DF10",
+   "name": "Generator etykiet adresowych Avery",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(demand-first agent)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "DF11",
+   "name": "Kalkulator wartości odżywczych (label)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(demand-first agent)"
+   ],
+   "n": 10,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "DF12",
+   "name": "Generator planu stołów weselnych",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(demand-first agent)"
+   ],
+   "n": 100,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "AC1",
+   "name": "Menedżer haseł offline",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(demand-first agent)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "AC2",
+   "name": "Budżet offline bez banku [demand/YNAB-exodus]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(demand-first agent)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "AC3",
+   "name": "Dziennik prywatny offline (iOS one-time gap)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(demand-first agent)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AC4",
+   "name": "Menedżer przepisów offline",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(demand-first agent)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "AC5",
+   "name": "Fakturowanie freelancer offline",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(demand-first agent)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AC6",
+   "name": "Habit tracker offline bez konta",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(demand-first agent)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "AC7",
+   "name": "Notatki szyfrowane local-first",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(demand-first agent)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "AC8",
+   "name": "Tracker treningów siłowych offline",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(demand-first agent)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "AC9",
+   "name": "Tracker kalorii/makro offline",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(demand-first agent)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "AC10",
+   "name": "Tracker ciśnienia/glukozy offline [demand/seniorzy]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(demand-first agent)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "AC11",
+   "name": "Pomodoro+time-tracking offline",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(demand-first agent)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "AC12",
+   "name": "Fiszki offline jednorazowo",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(demand-first agent)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 1
   }
  ]
 }
