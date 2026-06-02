@@ -2873,6 +2873,56 @@
    "durability": 7,
    "reach": 3,
    "demand": 1
+  },
+  {
+   "id": "BrandDealTrack",
+   "name": "Tracker deali brandowych (twórca)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Collabstr",
+    "Collabstro",
+    "#paid",
+    "Notion/Etsy tmpl"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "OnlyFansSched",
+   "name": "Scheduler treści 18+ (OnlyFans)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Supercreator",
+    "Social Rise",
+    "CreatorHero",
+    "Substy"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "UGCrateCard",
+   "name": "Rate card/portfolio UGC-creatora",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "DansUGC",
+    "InfluenceFlow",
+    "Craft.do tmpl"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
   }
  ]
 }
