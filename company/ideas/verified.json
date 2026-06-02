@@ -11857,6 +11857,147 @@
    "durability": 6,
    "reach": 1,
    "demand": 1
+  },
+  {
+   "id": "MP1",
+   "name": "Fotograf – culling/selekty per sesja",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#13 media-per-projekt)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "MP2",
+   "name": "Wideograf ślubny – selekty wideo per projekt [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Imagen AI (video culling, sub)",
+    "selekty/markery w Premiere/FCP (już posiadane)"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "MP3",
+   "name": "Podcaster – biblioteka B-roll per odcinek",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#13 media-per-projekt)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "MP4",
+   "name": "Twórca kursów – B-roll per lekcja",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#13 media-per-projekt)"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "MP5",
+   "name": "E-commerce – warianty foto per SKU",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#13 media-per-projekt)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "MP6",
+   "name": "Social media manager – media per klient",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#13 media-per-projekt)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "MP7",
+   "name": "Muzyk – takes/dema per piosenka (SessionDock free)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#13 media-per-projekt)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "MP8",
+   "name": "Animator – klipy referencyjne per projekt",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#13 media-per-projekt)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "MP9",
+   "name": "Reseller – zdjęcia inwentarza per aukcja",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#13 media-per-projekt)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "MP10",
+   "name": "Coach/mediator – nagrania rozmów per sprawa",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#13 media-per-projekt)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
   }
  ]
 }
