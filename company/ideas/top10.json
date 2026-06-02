@@ -1,7 +1,7 @@
 {
   "algo": "v3",
-  "updated": "2026-06-02 16:18 UTC",
-  "verified": 440,
+  "updated": "2026-06-02 16:33 UTC",
+  "verified": 474,
   "top10": [
     {
       "id": "AudiobookVoiceBible",
@@ -23,6 +23,13 @@
       "score": 65,
       "verdict": "SŁABO OBSŁUŻONA",
       "n": 3
+    },
+    {
+      "id": "AS5",
+      "name": "Ewidencja kolekcji broni",
+      "score": 62,
+      "verdict": "SŁABO OBSŁUŻONA",
+      "n": 4
     },
     {
       "id": "FD14",
@@ -60,18 +67,11 @@
       "n": 1
     },
     {
-      "id": "B14",
-      "name": "Karta dopasowania aparatu słuchowego",
-      "score": 59,
+      "id": "RG2",
+      "name": "EU Batteries: generator QR+danych (Reg 2023/1542)",
+      "score": 60,
       "verdict": "SŁABO OBSŁUŻONA",
-      "n": 5
-    },
-    {
-      "id": "B8",
-      "name": "Rejestr pestycydów (urban pest)",
-      "score": 59,
-      "verdict": "SŁABO OBSŁUŻONA",
-      "n": 5
+      "n": 2
     }
   ]
 }

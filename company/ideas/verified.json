@@ -6871,6 +6871,320 @@
    "durability": 6,
    "reach": 3,
    "demand": 2
+  },
+  {
+   "id": "AS1",
+   "name": "Ewidencja studni głębinowej [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "brak DEDYKOWANEJ apki; notes/arkusz, wellowner.org checklisty (free)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "AS2",
+   "name": "Log przydomowej oczyszczalni (Android gap)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja: drogie aktywa)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AS3",
+   "name": "Monitoring instalacji solarnej",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja: drogie aktywa)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "AS4",
+   "name": "Chemia basenu przydomowego",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja: drogie aktywa)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "AS5",
+   "name": "Ewidencja kolekcji broni",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja: drogie aktywa)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AS6",
+   "name": "Konserwacja łodzi/jachtu",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja: drogie aktywa)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AS7",
+   "name": "Log generatora awaryjnego [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja: drogie aktywa)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AS8",
+   "name": "Akwarium morskie premium",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja: drogie aktywa)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AS9",
+   "name": "Dziennik pasieki/ula",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja: drogie aktywa)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AS10",
+   "name": "Sad domowy + dziennik oprysków [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "FruitForest(free→sub)",
+    "brak dedyk. spray-log; harmonogramy ekstensji (free)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "AS11",
+   "name": "Konserwacja domu zabytkowego [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja: drogie aktywa)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AS12",
+   "name": "Kolekcja motocykli",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja: drogie aktywa)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "RG1",
+   "name": "GPSR: etykieta+dokumentacja techniczna (Etsy/handmade→UE) [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "EaseCert(one-time+free szablony)",
+    "Euverify(€200/r)",
+    "Etsy partnerzy Cert-Rep",
+    "+ wymóg EU Responsible Person = USŁUGA, nie apka"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "RG2",
+   "name": "EU Batteries: generator QR+danych (Reg 2023/1542)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja: regulacje 2025-26)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "RG3",
+   "name": "EUDR: guided DDS-filler (mały importer)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja: regulacje 2025-26)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "RG5",
+   "name": "Repairability label EEE (Ecodesign)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja: regulacje 2025-26)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "RG6",
+   "name": "Pay Transparency: job-grading wizard (SME)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja: regulacje 2025-26)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "RG7",
+   "name": "VSME ESG report filler (MŚP)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja: regulacje 2025-26)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "RG8",
+   "name": "PPWR: oznakowanie opakowań (za wcześnie)",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [
+    "(mutacja: regulacje 2025-26)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "RG10",
+   "name": "Digital Product Passport generator (za wcześnie)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja: regulacje 2025-26)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "RG11",
+   "name": "France AGEC: indeks trwałości (FR)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja: regulacje 2025-26)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "RG12",
+   "name": "EU AI Act: AI-literacy log + tech-doc SME [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "AI Literacy Training Planner",
+    "E1 Compliance Toolkit",
+    "TechJack(free PDF)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 5,
+   "demand": 3
   }
  ]
 }
