@@ -2237,6 +2237,58 @@
    "durability": 8,
    "reach": 2,
    "demand": 1
+  },
+  {
+   "id": "VOAudition",
+   "name": "Tracker castingów aktora głosowego",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "VO Tracker",
+    "PerformerTrack",
+    "Track Your Talent",
+    "Audiack",
+    "Auditional"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "StenoBrief",
+   "name": "Słownik briefów stenografa",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "iStenoPad",
+    "StenoCAT",
+    "Brief Machine",
+    "DigitalCAT"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "VarroaTrack",
+   "name": "Tracker warrozy (pszczelarz)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "BeeScanning",
+    "VarroaVault($29/mo)",
+    "MiteCheck",
+    "Varroa Detektor"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
   }
  ]
 }
