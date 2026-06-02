@@ -1,7 +1,7 @@
 {
   "algo": "v4",
-  "updated": "2026-06-02 17:44 UTC",
-  "verified": 667,
+  "updated": "2026-06-02 17:49 UTC",
+  "verified": 702,
   "top10": [
     {
       "id": "AudiobookVoiceBible",
@@ -11,11 +11,39 @@
       "n": 2
     },
     {
+      "id": "NR12",
+      "name": "Ewidencja praw/kontraktów ACX [do potw.]",
+      "score": 57,
+      "verdict": "PUSTA Z OKAZJI",
+      "n": 0
+    },
+    {
+      "id": "NR9",
+      "name": "Log ustawień sprzętu/mikrofonu per projekt [do potw.]",
+      "score": 57,
+      "verdict": "PUSTA Z OKAZJI",
+      "n": 0
+    },
+    {
+      "id": "NR4",
+      "name": "Tracker spójności charakteryzacji głosu (≈Voice bible)",
+      "score": 50,
+      "verdict": "SŁABO OBSŁUŻONA",
+      "n": 1
+    },
+    {
       "id": "VS4",
       "name": "Kosztorys receptur + yield (catering)",
       "score": 48,
       "verdict": "SŁABO OBSŁUŻONA",
       "n": 5
+    },
+    {
+      "id": "ME9",
+      "name": "Voice/personality bible VTubera",
+      "score": 47,
+      "verdict": "PUSTA Z OKAZJI",
+      "n": 0
     },
     {
       "id": "PB12",
@@ -44,34 +72,6 @@
       "score": 40,
       "verdict": "SŁABO OBSŁUŻONA",
       "n": 3
-    },
-    {
-      "id": "DF8",
-      "name": "Kalkulator wyceny rękodzieła [demand/Etsy]",
-      "score": 40,
-      "verdict": "SŁABO OBSŁUŻONA",
-      "n": 3
-    },
-    {
-      "id": "FD14",
-      "name": "Przewodnik wędzenia na zimno [do potw.]",
-      "score": 40,
-      "verdict": "SŁABO OBSŁUŻONA",
-      "n": 0
-    },
-    {
-      "id": "FD5",
-      "name": "Przewodnik dehydratora [do potw.]",
-      "score": 40,
-      "verdict": "SŁABO OBSŁUŻONA",
-      "n": 0
-    },
-    {
-      "id": "FD3",
-      "name": "Wyrób sera domowego",
-      "score": 38,
-      "verdict": "SŁABO OBSŁUŻONA",
-      "n": 2
     }
   ]
 }

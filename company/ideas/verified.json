@@ -10103,6 +10103,330 @@
    "durability": 7,
    "reach": 2,
    "demand": 2
+  },
+  {
+   "id": "NR1",
+   "name": "Leksykon wymowy nazw własnych per projekt (narrator) [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Narrator Pronunciation Guide",
+    "Audio Pronunciation Dictionary(listy per projekt, offline)",
+    "AudioEloquence"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "NR2",
+   "name": "Tracker pickupów/retake'ów per rozdział [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Punch Track(pick-up markery, status per rozdział, free beta)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "NR3",
+   "name": "Kalkulator stawek PFH (per finished hour)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#10 klaster narratora)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "NR4",
+   "name": "Tracker spójności charakteryzacji głosu (≈Voice bible)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "= rdzeń AudiobookVoiceBible (nie dublować)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "NR5",
+   "name": "Log higieny głosu i rozgrzewek (narrator)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "ogólne apki rozgrzewek/journala (Vocal Warm Up)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "NR6",
+   "name": "CRM narratora / baza castingów",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#10 klaster narratora)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "NR7",
+   "name": "Tracker demo reeli (wersje/wysyłki)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#10 klaster narratora)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "NR8",
+   "name": "Planer oddechu/frazowania w skrypcie",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#10 klaster narratora)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "NR9",
+   "name": "Log ustawień sprzętu/mikrofonu per projekt [do potw.]",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "(mutacja#10 klaster narratora)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "NR10",
+   "name": "Tracker ciągłości tempa WPM",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [
+    "(mutacja#10 klaster narratora)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "NR11",
+   "name": "Kalkulator czasu nagrania vs deadline",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#10 klaster narratora)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "NR12",
+   "name": "Ewidencja praw/kontraktów ACX [do potw.]",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "(mutacja#10 klaster narratora)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "ME1",
+   "name": "Character design bible — komiks/webtoon",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#10 per-encja media)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "ME2",
+   "name": "Cosplay build-bible per postać",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#10 per-encja media)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "ME3",
+   "name": "Drag persona look-book",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "(mutacja#10 per-encja media)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "ME4",
+   "name": "Puppet design bible",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "(mutacja#10 per-encja media)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "ME6",
+   "name": "Reference dossier ilustratora per klient",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#10 per-encja media)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "ME7",
+   "name": "Prop bible teatr amatorski",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#10 per-encja media)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "ME8",
+   "name": "Continuity machinimy",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "(mutacja#10 per-encja media)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "ME9",
+   "name": "Voice/personality bible VTubera",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "(mutacja#10 per-encja media)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "ME10",
+   "name": "Character bible solo-dev gier",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#10 per-encja media)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "ME11",
+   "name": "Tattoo flash portfolio per styl",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#10 per-encja media)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "ME12",
+   "name": "Miniatura/rzeźba reference per projekt",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#10 per-encja media)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
   }
  ]
 }
