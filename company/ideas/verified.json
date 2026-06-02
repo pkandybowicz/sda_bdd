@@ -884,6 +884,73 @@
    "durability": 6,
    "reach": 4,
    "demand": 2
+  },
+  {
+   "id": "ChangeRinging",
+   "name": "Komponowanie metod change ringing (dzwony)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Mobel",
+    "Beltower",
+    "Ringing Room(free)",
+    "composition software"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "FalconryWeight",
+   "name": "Log wagi ptaka łowczego (falconry)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "The Falconry App(£3.99/rok)",
+    "FalconryLab",
+    "Falconry Logs(free)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "KnifeHeatTreat",
+   "name": "Harmonogram obróbki cieplnej stali (nożownik)",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [
+    "knifemaker.ca(free)",
+    "ASM app",
+    "Knife Steel Composition Chart"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "ArcherySight",
+   "name": "Kalkulator sight mark / sight tape (łucznictwo)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Smart Sights",
+    "Archery Sight Mark",
+    "Archer's Advantage",
+    "PRO Archery Ballistics",
+    "UNO"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
   }
  ]
 }

@@ -1,6 +1,6 @@
 # 🏆 TOP 10 pomysłów — żywy ranking
 
-> Algorytm: **v3** · Zweryfikowanych realnie: **51** · Aktualizacja: 2026-06-02 10:05 UTC
+> Algorytm: **v3** · Zweryfikowanych realnie: **55** · Aktualizacja: 2026-06-02 10:22 UTC
 
 > Każdy pomysł przeszedł weryfikację konkurencji w sieci PRZED oceną.
 
@@ -15,7 +15,7 @@
 | 6 | Tracker contrast therapy (sauna/cold plunge) | **25** | ZATŁOCZONA | 3 |
 | 7 | Tracker punktów CEU/CPD + odnowienia | **24** | ZATŁOCZONA | 5 |
 | 8 | Kurs pisania na klawiaturze cyrylickiej | **24** | PUSTA Z PRZYCZYNY | 3 |
-| 9 | Tabela czasów utwardzania żeli UV/LED | **23** | PUSTA Z PRZYCZYNY | 0 |
-| 10 | Kalkulator kosztu przepisu na porcję | **21** | ZATŁOCZONA | 6 |
+| 9 | Log wagi ptaka łowczego (falconry) | **24** | ZATŁOCZONA | 3 |
+| 10 | Tabela czasów utwardzania żeli UV/LED | **23** | PUSTA Z PRZYCZYNY | 0 |
 
 _Pełna baza: company/ideas/verified.json · Scoring: company/tools/score_top10.py_

@@ -1,7 +1,7 @@
 {
   "algo": "v3",
-  "updated": "2026-06-02 10:05 UTC",
-  "verified": 51,
+  "updated": "2026-06-02 10:22 UTC",
+  "verified": 55,
   "top10": [
     {
       "id": "FoodTemp",
@@ -60,18 +60,18 @@
       "n": 3
     },
     {
+      "id": "FalconryWeight",
+      "name": "Log wagi ptaka łowczego (falconry)",
+      "score": 24,
+      "verdict": "ZATŁOCZONA",
+      "n": 3
+    },
+    {
       "id": "NailCure",
       "name": "Tabela czasów utwardzania żeli UV/LED",
       "score": 23,
       "verdict": "PUSTA Z PRZYCZYNY",
       "n": 0
-    },
-    {
-      "id": "MealCost",
-      "name": "Kalkulator kosztu przepisu na porcję",
-      "score": 21,
-      "verdict": "ZATŁOCZONA",
-      "n": 6
     }
   ]
 }
