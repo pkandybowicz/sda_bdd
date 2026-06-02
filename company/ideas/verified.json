@@ -2430,6 +2430,55 @@
    "durability": 8,
    "reach": 2,
    "demand": 1
+  },
+  {
+   "id": "JuggleSiteswap",
+   "name": "Praktyka siteswap (żongler)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Juggle Pro",
+    "Juggling Lab",
+    "Juggling Progress Tracker"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "YoyoTricks",
+   "name": "Progresja trików jojo",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Level Up!",
+    "SkillAddicts"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "SpeedcubeTrain",
+   "name": "Trener algorytmów speedcubing",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "csTimer",
+    "CubeDesk",
+    "Artifex",
+    "CFOPTrainer",
+    "The Cube App"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
   }
  ]
 }
