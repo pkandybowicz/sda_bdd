@@ -1039,7 +1039,7 @@
   },
   {
    "id": "AudiobookVoiceBible",
-   "name": "Voice bible: próbki+atrybuty głosu per postać — narratorzy audiobooków, game VO, producenci audio-dram",
+   "name": "Voice bible: próbki+atrybuty głosu per postać — narratorzy audiobooków, game VO, producenci audio-dram + aktorzy dubbingowi",
    "verdict": "PUSTA Z OKAZJI",
    "competitors": [
     "(potwierdzone on-the-nose: BRAK apki dla narratorów — AI-narracja ElevenLabs/AuthorVoices to nie to; Speechless=skrypty gier)",
@@ -1051,7 +1051,8 @@
    "durability": 8,
    "reach": 6,
    "demand": 3,
-   "unique_reason": "Jedyna nisza, gdzie generyczny substytut (arkusz/notatki) STRUKTURALNIE zawodzi: wymaga zorganizowanego odtwarzania probek AUDIO per postac."
+   "unique_reason": "Jedyna nisza, gdzie generyczny substytut (arkusz/notatki) STRUKTURALNIE zawodzi: wymaga zorganizowanego odtwarzania probek AUDIO per postac.",
+   "market_note": "Rynek szerszy niz zakladano: narratorzy audiobookow + game VO + audio-drama + aktorzy dubbingowi (potwierdzone on-the-nose: brak dedyk. apki tez dla dubbingu; tylko AI/VoiceQ B2B)."
   },
   {
    "id": "ComicColorBible",
@@ -10596,6 +10597,174 @@
    "durability": 7,
    "reach": 3,
    "demand": 2
+  },
+  {
+   "id": "AU1",
+   "name": "Nagrania śpiewu ptaków per gatunek",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#11 audio-sibling)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "AU2",
+   "name": "Bank próbek akcentów/dialektów",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#11 audio-sibling)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AU3",
+   "name": "Log dźwięków diagnostycznych silnika",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#11 audio-sibling)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AU4",
+   "name": "Biblioteka nagrań ucznia śpiewu",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#11 audio-sibling)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AU5",
+   "name": "Próbki osłuchowe serca/płuc (nauka)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#11 audio-sibling)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AU6",
+   "name": "Log nagrań logopedycznych per pacjent",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#11 audio-sibling)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AU7",
+   "name": "Bank tonów instrumentu per egzemplarz (luthier)",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "(mutacja#11 audio-sibling)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "AU8",
+   "name": "Nagrania płaczu niemowlęcia",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#11 audio-sibling)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "AU9",
+   "name": "Katalog field-recordingów per lokacja",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#11 audio-sibling)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AU10",
+   "name": "Próbki gwary per informator (dialektolog)",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "(mutacja#11 audio-sibling)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "AU11",
+   "name": "Log nagrań chrapania/bezdechu",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#11 audio-sibling)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "AU12",
+   "name": "Biblioteka cue'ów audio per postać (dubbing) [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "= Voice bible (segment dubbing) — brak dedyk. apki; VoiceQ B2B; reszta to AI-voice"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
   }
  ]
 }

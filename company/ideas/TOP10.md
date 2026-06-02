@@ -1,13 +1,13 @@
 # 🏆 TOP 10 pomysłów — żywy ranking
 
-> Algorytm: **v4** · Zweryfikowanych realnie: **702** · Aktualizacja: 2026-06-02 17:51 UTC
+> Algorytm: **v4** · Zweryfikowanych realnie: **726** · Aktualizacja: 2026-06-02 17:55 UTC
 
 > Każdy pomysł przeszedł weryfikację konkurencji w sieci PRZED oceną.
 
 
 | # | Pomysł | Score | Werdykt niszy | #konkur. |
 |---|--------|:-----:|---------------|:--------:|
-| 1 | Voice bible: próbki+atrybuty głosu per postać — narratorzy audiobooków, game VO, producenci audio-dram | **77** | PUSTA Z OKAZJI | 2 |
+| 1 | Voice bible: próbki+atrybuty głosu per postać — narratorzy audiobooków, game VO, producenci audio-dram + aktorzy dubbingowi | **77** | PUSTA Z OKAZJI | 2 |
 | 2 | Tracker spójności charakteryzacji głosu (≈Voice bible) | **50** | SŁABO OBSŁUŻONA | 1 |
 | 3 | Kosztorys receptur + yield (catering) | **48** | SŁABO OBSŁUŻONA | 5 |
 | 4 | Stocking list akwarium – kompatybilność | **42** | SŁABO OBSŁUŻONA | 3 |
