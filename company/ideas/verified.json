@@ -22962,6 +22962,2158 @@
    "durability": 7,
    "reach": 3,
    "demand": 1
+  },
+  {
+   "id": "X1480_",
+   "name": "site_daily_log",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Raken",
+    "Site Diary",
+    "Snappii",
+    "CDR",
+    "Contractor Foreman",
+    "Sitemate",
+    "Buildertrend",
+    "Fieldwire"
+   ],
+   "n": 12,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1482_",
+   "name": "material_takeoff",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "STACK",
+    "Procore",
+    "Buildxact",
+    "PlanSwift",
+    "OnCenter",
+    "Beam AI",
+    "ArcSite",
+    "JobTread",
+    "Square Takeoff"
+   ],
+   "n": 14,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1484_",
+   "name": "time_labor_per_job",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Workyard",
+    "Buddy Punch",
+    "ClockShark",
+    "TSheets/QuickBooks Time",
+    "Homebase",
+    "ConstructionClock",
+    "EZClocker",
+    "Toggl"
+   ],
+   "n": 20,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1486_",
+   "name": "subcontractor_coordination",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Fieldwire",
+    "Buildbite",
+    "Knowify",
+    "PlanRadar",
+    "Procore",
+    "BuildOps",
+    "Buildertrend"
+   ],
+   "n": 7,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1488_",
+   "name": "change_orders",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Clearstory",
+    "Fieldwire",
+    "UDA ConstructionOnline",
+    "Procore",
+    "Jotform (template)",
+    "CoConstruct"
+   ],
+   "n": 6,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1490_",
+   "name": "equipment_hours_tracking",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Clue",
+    "Tenna",
+    "Fleetio",
+    "EquipmentShare",
+    "HCSS HeavyJob"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1492_",
+   "name": "toolbox_talks_bhp",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Safelyio",
+    "Raken Safety",
+    "SafetyCulture/iAuditor",
+    "Safety Meeting App",
+    "GoCanvas",
+    "HCSS Safety",
+    "Washington CCE free app"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1494_",
+   "name": "job_cost_estimating",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Buildxact",
+    "Houzz Pro",
+    "JobTread",
+    "Contractor+",
+    "Construction Cost Estimator (iOS)",
+    "Handoff",
+    "SimplyWise",
+    "PlanSwift",
+    "Joist"
+   ],
+   "n": 18,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1496_",
+   "name": "before_after_photos_per_job",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "CompanyCam",
+    "Jobber",
+    "CrewCam",
+    "TaskTag",
+    "Manifold",
+    "FieldFuze",
+    "Pixly",
+    "Workphotos",
+    "Timemark"
+   ],
+   "n": 10,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 5,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1498_",
+   "name": "warranty_callbacks",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "Workiz (częściowo)",
+    "UDA ConstructionOnline (częściowo)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1500_",
+   "name": "permits_tracking",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "PermitFlow",
+    "Projul",
+    "Cloudpermit",
+    "iWorQ",
+    "UDA ConstructionOnline"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1502_",
+   "name": "field_invoicing",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Joist",
+    "Invoice2go",
+    "Jobber",
+    "QuickBooks",
+    "Wave",
+    "Contractor+",
+    "Housecall Pro",
+    "FreshBooks"
+   ],
+   "n": 16,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1504_",
+   "name": "crew_scheduling",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "When I Work",
+    "Workyard",
+    "CrewTracks",
+    "FieldServicely",
+    "Jobber",
+    "Crew Control",
+    "Shifton",
+    "BuildOps"
+   ],
+   "n": 15,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1506_",
+   "name": "inspections_odbiory",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "SafetyCulture/iAuditor",
+    "GoAudits",
+    "MaintainX",
+    "Fulcrum",
+    "BasinCheck",
+    "Built Inspect",
+    "Fieldwire"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1508_",
+   "name": "equipment_fuel_log",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "HCSS FuelerPlus",
+    "Fuelio (ogólny)",
+    "Loggy (ogólny)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1510_",
+   "name": "daily_client_report",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Raken",
+    "CDR",
+    "Snappii",
+    "Sitemate",
+    "Fulcrum"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1512_",
+   "name": "punch_list_usterki",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Fieldwire",
+    "Procore",
+    "GoAudits",
+    "Workyard",
+    "UDA ConstructionOnline",
+    "PlanGrid",
+    "Buildertrend",
+    "Punchlist Manager"
+   ],
+   "n": 11,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1514_",
+   "name": "meeting-notes-decisions",
+   "verdict": "SKIP",
+   "competitors": [
+    "Granola",
+    "Fathom",
+    "Otter.ai",
+    "Fellow",
+    "Notion"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 2,
+   "reach": 6,
+   "demand": 1
+  },
+  {
+   "id": "X1516_",
+   "name": "manager-1on1-notes",
+   "verdict": "MAYBE",
+   "competitors": [
+    "Fellow",
+    "Lattice",
+    "15Five",
+    "Notion templates"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1518_",
+   "name": "annual-review-prep",
+   "verdict": "MAYBE",
+   "competitors": [
+    "BragDoc.ai",
+    "Notion templates",
+    "Google Docs"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1520_",
+   "name": "networking-contacts-followup",
+   "verdict": "SKIP",
+   "competitors": [
+    "Clay",
+    "Dex",
+    "Monica",
+    "Folk"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 4,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X1522_",
+   "name": "conference-notes",
+   "verdict": "SKIP",
+   "competitors": [
+    "Granola",
+    "Notion",
+    "Obsidian",
+    "Bear"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 2,
+   "reach": 5,
+   "demand": 1
+  },
+  {
+   "id": "X1524_",
+   "name": "expenses-per-project",
+   "verdict": "SKIP",
+   "competitors": [
+    "Google Sheets",
+    "Wave",
+    "Expensify free",
+    "Notion"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 3,
+   "reach": 5,
+   "demand": 1
+  },
+  {
+   "id": "X1526_",
+   "name": "billable-hours-per-case-lawyer",
+   "verdict": "SKIP",
+   "competitors": [
+    "Clio",
+    "TimeSolv",
+    "Toggl Track",
+    "LeanLaw",
+    "Laurel"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1528_",
+   "name": "cpd-ce-hours-tracker",
+   "verdict": "BUILD",
+   "competitors": [
+    "myCPD Portal",
+    "CPDme",
+    "CPD Progress Tracker",
+    "CPDPro"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1530_",
+   "name": "researcher-lab-journal",
+   "verdict": "SKIP",
+   "competitors": [
+    "LabArchives",
+    "RSpace",
+    "Benchling",
+    "Scispot"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1532_",
+   "name": "field-service-reports",
+   "verdict": "SKIP",
+   "competitors": [
+    "ServiceTitan",
+    "Workiz",
+    "Housecall Pro",
+    "Fieldpoint",
+    "Arrivy"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1534_",
+   "name": "brag-document-achievements",
+   "verdict": "BUILD",
+   "competitors": [
+    "BragDoc.ai",
+    "LogYourWork",
+    "Bragdocs.com",
+    "Notion templates"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1536_",
+   "name": "task-delegation-log",
+   "verdict": "SKIP",
+   "competitors": [
+    "Asana",
+    "Todoist",
+    "Trello",
+    "Any.do",
+    "nTask"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 3,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X1538_",
+   "name": "personal-crm-salesperson",
+   "verdict": "SKIP",
+   "competitors": [
+    "Clay",
+    "Dex",
+    "Folk",
+    "Monica",
+    "HubSpot free"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 4,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X1540_",
+   "name": "recruiter-pipeline",
+   "verdict": "SKIP",
+   "competitors": [
+    "Notion ATS templates",
+    "Hirex",
+    "Greenhouse free tier",
+    "Airtable"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 4,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1542_",
+   "name": "consultant-client-notes",
+   "verdict": "BUILD",
+   "competitors": [
+    "Client Log",
+    "Notesnook",
+    "Standard Notes",
+    "Bear"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1544_",
+   "name": "trader-journal",
+   "verdict": "MAYBE",
+   "competitors": [
+    "Edgewonk",
+    "Tradervue",
+    "TradeSync",
+    "JournalPlus",
+    "Stonk Journal"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1546_",
+   "name": "code-review-log",
+   "verdict": "SKIP",
+   "competitors": [
+    "GitHub PR tools",
+    "Linear",
+    "Pieces",
+    "Super Productivity"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 3,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1548_",
+   "name": "personal-retrospectives",
+   "verdict": "MAYBE",
+   "competitors": [
+    "FastRetro",
+    "QuickRetro",
+    "EasyRetro",
+    "Notion templates"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1550_",
+   "name": "keywording_metadata_ai",
+   "verdict": "skip",
+   "competitors": [
+    "Excire Foto",
+    "ON1 Photo Keyword AI",
+    "Phototag.ai",
+    "ACDSee Photo Studio",
+    "DigiKam"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1552_",
+   "name": "model_release_management",
+   "verdict": "maybe",
+   "competitors": [
+    "Easy Release",
+    "SnapSign",
+    "Model Releaser"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1554_",
+   "name": "lens_gear_inventory",
+   "verdict": "skip",
+   "competitors": [
+    "MyGearVault",
+    "Lenstag",
+    "Gearbox",
+    "Pellica",
+    "GearEye"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1556_",
+   "name": "print_order_management",
+   "verdict": "skip",
+   "competitors": [
+    "ShootProof",
+    "Sprout Studio",
+    "Pic-Time",
+    "Studio Ninja",
+    "VSCO Workspace"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1558_",
+   "name": "photo_licensing_management",
+   "verdict": "maybe",
+   "competitors": [
+    "fotoQuote Pro",
+    "FotoBiz X",
+    "PhotoShelter",
+    "ioMoVo"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1560_",
+   "name": "drone_shot_log",
+   "verdict": "skip",
+   "competitors": [
+    "DroneDesk",
+    "DroneLogbook",
+    "MyFlightbook",
+    "Safelog",
+    "AirMap"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1562_",
+   "name": "timelapse_planning",
+   "verdict": "skip",
+   "competitors": [
+    "PhotoPills",
+    "The Photographer's Ephemeris",
+    "LRTimelapse",
+    "Framelapse"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1564_",
+   "name": "astrophoto_session_planning",
+   "verdict": "skip",
+   "competitors": [
+    "Stellarium",
+    "PhotoPills",
+    "SkySafari Pro",
+    "Planit Pro",
+    "The Photographer's Ephemeris",
+    "Telescopius"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1566_",
+   "name": "analog_film_log",
+   "verdict": "skip",
+   "competitors": [
+    "Pellica",
+    "FilmFolio",
+    "FilmMeter",
+    "Frames",
+    "Rollio",
+    "Film Logbook"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1568_",
+   "name": "darkroom_recipe_manager",
+   "verdict": "maybe",
+   "competitors": [
+    "Darkroom Formulas",
+    "Film Friend"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X1570_",
+   "name": "color_calibration_workflow",
+   "verdict": "skip",
+   "competitors": [
+    "X-Rite ColorChecker",
+    "Calibrite",
+    "Datacolor SpyderCheckr",
+    "Lumariver Profile Designer"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1572_",
+   "name": "portfolio_selection_assistant",
+   "verdict": "skip",
+   "competitors": [
+    "Photoreka",
+    "Narrative",
+    "Aftershoot",
+    "PhotoPicker"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1574_",
+   "name": "moodboard_reference_per_session",
+   "verdict": "skip",
+   "competitors": [
+    "Pinterest",
+    "VSCO Canvas",
+    "Milanote",
+    "Miro",
+    "Google Mixboard"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 4,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1576_",
+   "name": "shoot_scheduling",
+   "verdict": "skip",
+   "competitors": [
+    "HoneyBook",
+    "Pixieset Studio Manager",
+    "Acuity",
+    "Calendly",
+    "Studio Ninja",
+    "Session"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 5,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X1578_",
+   "name": "pricing_package_calculator",
+   "verdict": "maybe",
+   "competitors": [
+    "Imagen AI Calculator",
+    "Picsello",
+    "ShootFlow",
+    "WorkQuote",
+    "fotoQuote"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1580_",
+   "name": "second_shooter_coordination",
+   "verdict": "maybe",
+   "competitors": [
+    "ShootWith.Me",
+    "Second Society"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1582_",
+   "name": "retouch_checklist_per_photo",
+   "verdict": "go",
+   "competitors": [],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1584_",
+   "name": "location_scouting",
+   "verdict": "skip",
+   "competitors": [
+    "PhotoPills",
+    "ShotHotspot",
+    "Locamundo",
+    "SuperScout.ai",
+    "PreviewAR",
+    "Really Good Photo Spots"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1586_",
+   "name": "maszyny_do_pisania",
+   "verdict": "SKIP",
+   "competitors": [
+    "TypewriterDatabase",
+    "iCollectEverything",
+    "Recollector"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1588_",
+   "name": "atramenty_do_pior",
+   "verdict": "SKIP",
+   "competitors": [
+    "FountainPenCompanion",
+    "MyFountainPensInks"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1590_",
+   "name": "kasety_magnetofonowe",
+   "verdict": "SKIP",
+   "competitors": [
+    "Discogs",
+    "GeCoMusic",
+    "CLZMusic",
+    "iCollectEverything"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1592_",
+   "name": "VHS",
+   "verdict": "SKIP",
+   "competitors": [
+    "Filmotech",
+    "CLZMovies",
+    "iCollectMovies",
+    "Libib"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X1594_",
+   "name": "vintage_komputery",
+   "verdict": "SKIP",
+   "competitors": [
+    "Recollector",
+    "Sortly",
+    "vintage-computer.com"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1596_",
+   "name": "kalkulatory_vintage",
+   "verdict": "PROCEED",
+   "competitors": [
+    "VintageCalculatorsWebMuseum",
+    "CollectorsWeekly"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1598_",
+   "name": "suwaki_logarytmiczne",
+   "verdict": "PROCEED",
+   "competitors": [
+    "ISRM",
+    "sliderule.ca"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1600_",
+   "name": "klucze_zamki",
+   "verdict": "PROCEED",
+   "competitors": [
+    "Antique-Locks.com",
+    "AntiqueIdentifier"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1602_",
+   "name": "kapsle",
+   "verdict": "SKIP",
+   "competitors": [
+    "CapVault",
+    "BottleCapIndex",
+    "Crowncaps.info",
+    "Colnect"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1604_",
+   "name": "kulki_marbles",
+   "verdict": "PROCEED",
+   "competitors": [
+    "MarbleCollecting.com",
+    "MarbleCollectorIdentifier"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1606_",
+   "name": "wkladki_planszowek",
+   "verdict": "SKIP",
+   "competitors": [
+    "BGG",
+    "BoardGamesCollection",
+    "BGCatalog",
+    "iCollectEverything"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1608_",
+   "name": "naszywki_patches",
+   "verdict": "PROCEED",
+   "competitors": [
+    "iCollectEverything",
+    "Kolekto"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1610_",
+   "name": "przypinki_lapel",
+   "verdict": "SKIP",
+   "competitors": [
+    "PinCollector.com",
+    "FiGPiN"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1612_",
+   "name": "lyzeczki_pamiatki",
+   "verdict": "PROCEED",
+   "competitors": [
+    "AmericanSpoonCollectors",
+    "CollectorsWeekly"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1614_",
+   "name": "naparstki",
+   "verdict": "PROCEED",
+   "competitors": [
+    "iCollectEverything",
+    "Kolekto",
+    "LignUpMultiCollector"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1616_",
+   "name": "modele_statkow",
+   "verdict": "PROCEED",
+   "competitors": [
+    "ModelRailInventory",
+    "iCollectEverything"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1618_",
+   "name": "globusy",
+   "verdict": "PROCEED",
+   "competitors": [
+    "CollectorsWeekly",
+    "AntiqueIdentifier"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1620_",
+   "name": "mapy_antykwaryczne",
+   "verdict": "PROCEED",
+   "competitors": [
+    "OldWorldAuctions",
+    "MurrayHudson",
+    "Antiquemapsandprints"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1622_",
+   "name": "AAC communication boards",
+   "verdict": "SKIP",
+   "competitors": [
+    "Proloquo2Go",
+    "TouchChat",
+    "CoughDrop",
+    "LetMeTalk"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1624",
+   "name": "Dementia caregiver daily log",
+   "verdict": "BUILD",
+   "competitors": [
+    "Caring Village",
+    "CaringBridge",
+    "Carely"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1626",
+   "name": "Wheelchair maintenance tracker",
+   "verdict": "BUILD",
+   "competitors": [
+    "MyPermobil (OEM-only)",
+    "My Wheelchair Guide (no log)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1628",
+   "name": "Sign language learning app",
+   "verdict": "SKIP",
+   "competitors": [
+    "Lingvano",
+    "Hand Talk",
+    "ASL app"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1630",
+   "name": "Low vision tools",
+   "verdict": "SKIP",
+   "competitors": [
+    "Seeing AI",
+    "Be My Eyes",
+    "Lookout by Google"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1632",
+   "name": "Elderly check-in safety app",
+   "verdict": "SKIP",
+   "competitors": [
+    "Snug Safety",
+    "Senior Safety App",
+    "ElderCheck Now"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1634",
+   "name": "Disability benefits/SSI tracker",
+   "verdict": "BUILD",
+   "competitors": [
+    "SSI Benefits 2026 (App Store)",
+    "SSA.gov website"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1636",
+   "name": "Accessible travel planner",
+   "verdict": "SKIP",
+   "competitors": [
+    "Wheelmap",
+    "Access Now",
+    "Google Maps"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1638",
+   "name": "24h family caregiving shift scheduler",
+   "verdict": "BUILD",
+   "competitors": [
+    "Caring Village",
+    "Lotsa Helping Hands",
+    "When I Work"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1640",
+   "name": "Seizure log tracker",
+   "verdict": "SKIP",
+   "competitors": [
+    "Epsy",
+    "Epicentr",
+    "SeizureTracker"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1642",
+   "name": "Caregiver medication schedule manager",
+   "verdict": "SKIP",
+   "competitors": [
+    "Medisafe",
+    "CareClinic",
+    "Caring Village"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1644",
+   "name": "Sensory diet planner (OT)",
+   "verdict": "BUILD",
+   "competitors": [
+    "CareClinic (partial)",
+    "generic note apps"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1646",
+   "name": "Hand therapy/rehab home tracker",
+   "verdict": "BUILD",
+   "competitors": [
+    "ReHand (clinic-gated)",
+    "Hand Therapy app",
+    "Prehab"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1648",
+   "name": "Nonverbal child communication helper",
+   "verdict": "SKIP",
+   "competitors": [
+    "GoTalk NOW Lite",
+    "LetMeTalk",
+    "Goally AAC Talker"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1650",
+   "name": "Autism visual routine support",
+   "verdict": "SKIP",
+   "competitors": [
+    "MyVisualRoutine",
+    "First Then Visual Schedule",
+    "Goally"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1652",
+   "name": "Palliative care caregiver notes",
+   "verdict": "BUILD",
+   "competitors": [
+    "HELP App",
+    "Axxess Palliative (B2B)",
+    "Caring Village"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1654",
+   "name": "Medical transport coordination (NEMT patient-side)",
+   "verdict": "BUILD",
+   "competitors": [
+    "Via for Health (B2B)",
+    "NEMT Pro (driver-side)",
+    "Bambi (B2B)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1656",
+   "name": "Personal care assistant task manager",
+   "verdict": "BUILD",
+   "competitors": [
+    "Lotsa Helping Hands",
+    "PocketCarer",
+    "ShiftCare (B2B)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1658",
+   "name": "contraction-timer",
+   "verdict": "skip",
+   "competitors": [
+    "Full Term",
+    "Bloomlife",
+    "Storky",
+    "ContractionTimer.io",
+    "9m"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 2,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X1660",
+   "name": "feeding-log",
+   "verdict": "skip",
+   "competitors": [
+    "Huckleberry",
+    "BabyTracker",
+    "Baby Feed Timer",
+    "ParentLove",
+    "Glow Baby"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 2,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X1662",
+   "name": "pumping-breast-pump-tracker",
+   "verdict": "skip",
+   "competitors": [
+    "Huckleberry",
+    "Baby Feed Timer",
+    "Pump Log",
+    "Elvie app",
+    "Willow app"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 3,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1664",
+   "name": "baby-sleep-tracker",
+   "verdict": "skip",
+   "competitors": [
+    "Huckleberry",
+    "Taking Cara Babies",
+    "Nanit",
+    "Little Ones",
+    "Snoo"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 3,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1666",
+   "name": "kick-counter",
+   "verdict": "skip",
+   "competitors": [
+    "Count the Kicks",
+    "Pregnancy+",
+    "Lizia",
+    "The Bump",
+    "BabyCenter"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 2,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X1668",
+   "name": "diaper-tracker",
+   "verdict": "skip",
+   "competitors": [
+    "Huckleberry",
+    "BabyTracker",
+    "Glow Baby",
+    "Baby Connect",
+    "Sprout"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 2,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X1670",
+   "name": "postpartum-recovery",
+   "verdict": "maybe",
+   "competitors": [
+    "Bodily",
+    "Mahmee",
+    "Irth",
+    "Peanut",
+    "Maven Clinic"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1672",
+   "name": "twins-coordination",
+   "verdict": "maybe",
+   "competitors": [
+    "Baby Connect",
+    "Huckleberry (multi-child)",
+    "TwinTracker",
+    "Two To One"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1674",
+   "name": "nicu-journal",
+   "verdict": "maybe",
+   "competitors": [
+    "Compass by March of Dimes",
+    "NICU2Home",
+    "paper journals",
+    "NICView"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1676",
+   "name": "baby-name-shortlist",
+   "verdict": "skip",
+   "competitors": [
+    "Kinder",
+    "NameHatch",
+    "Baby Name Together",
+    "Babyname",
+    "Nameberry"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 2,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X1678",
+   "name": "gift-registry-list",
+   "verdict": "skip",
+   "competitors": [
+    "Babylist",
+    "MyRegistry",
+    "Amazon Registry",
+    "Target Registry",
+    "Listful"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 2,
+   "reach": 5,
+   "demand": 1
+  },
+  {
+   "id": "X1680",
+   "name": "nursery-room-planner",
+   "verdict": "skip",
+   "competitors": [
+    "IKEA Planner",
+    "Pottery Barn Room Planner",
+    "Homestyler",
+    "Home Planner",
+    "Roomstyler"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 3,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1682",
+   "name": "birth-plan",
+   "verdict": "skip",
+   "competitors": [
+    "The Bump",
+    "Pregnancy+",
+    "BabyCenter",
+    "Peanut",
+    "HypnoBirthing"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 2,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X1684",
+   "name": "pregnancy-symptoms-week-by-week",
+   "verdict": "skip",
+   "competitors": [
+    "Flo",
+    "What to Expect",
+    "The Bump",
+    "Pregnancy+",
+    "Sprout"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 2,
+   "reach": 6,
+   "demand": 2
+  },
+  {
+   "id": "X1686",
+   "name": "lactation-problems",
+   "verdict": "maybe",
+   "competitors": [
+    "LactApp",
+    "Breastfeeding Solutions",
+    "ParentLove",
+    "Baby Feed Timer",
+    "IBCLC Toolkit"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1688",
+   "name": "blw-solid-food-tracker",
+   "verdict": "maybe",
+   "competitors": [
+    "Solid Starts",
+    "BLW Meals",
+    "Baby Led Weaning App",
+    "Tummi",
+    "Yumi"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1690",
+   "name": "baby-book-milestones",
+   "verdict": "skip",
+   "competitors": [
+    "Tinybeans",
+    "BabyPage",
+    "Qeepsake",
+    "Dujourbaby",
+    "FamilyAlbum"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 3,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1692",
+   "name": "well-baby-checkup-tracker",
+   "verdict": "maybe",
+   "competitors": [
+    "Sprout",
+    "Pathfinder Health",
+    "Baby Connect",
+    "Ovia",
+    "KidsDoc"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1694",
+   "name": "shadow-work-prompts",
+   "verdict": "build",
+   "competitors": [
+    "Shadow Work App",
+    "Zenfulnote",
+    "Shadow Work Journal Therapy",
+    "Prompted Journal"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1696",
+   "name": "manifestation-affirmations",
+   "verdict": "skip",
+   "competitors": [
+    "Manifest",
+    "Manifestly",
+    "Manifested",
+    "ThinkUp",
+    "I Am"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 5,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1698",
+   "name": "tarot-journal",
+   "verdict": "build",
+   "competitors": [
+    "Golden Thread Tarot",
+    "Labyrinthos",
+    "Coto",
+    "Tarot Life",
+    "Writual"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1700",
+   "name": "astrology-personal-charts",
+   "verdict": "skip",
+   "competitors": [
+    "Co-Star",
+    "CHANI",
+    "Pattern",
+    "Bodhi",
+    "TimePassages"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 6,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1702",
+   "name": "cold-plunge-sauna-log",
+   "verdict": "build",
+   "competitors": [
+    "PlungePalz",
+    "Sauna & Cold Plunge Tracker",
+    "Biohackr"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1704",
+   "name": "biohacking-stack-tracker",
+   "verdict": "build",
+   "competitors": [
+    "Biohackr",
+    "Cronometer",
+    "Heads Up Health",
+    "Oura"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1706",
+   "name": "chakra-tracker",
+   "verdict": "maybe",
+   "competitors": [
+    "Chakra Meditation Balancing",
+    "Chakra Meditation Reiki Guided",
+    "Life7",
+    "Insight Timer"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1708",
+   "name": "moon-rituals",
+   "verdict": "skip",
+   "competitors": [
+    "Moonly",
+    "The Moon",
+    "Luna",
+    "Cosmic Insights",
+    "Mystic Mondays"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1710",
+   "name": "breathwork-log",
+   "verdict": "maybe",
+   "competitors": [
+    "Othership",
+    "Wim Hof",
+    "Breathwrk",
+    "Prana Breath",
+    "Oak"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1712",
+   "name": "intention-journal",
+   "verdict": "maybe",
+   "competitors": [
+    "Day One",
+    "Diarium",
+    "Five Minute Journal",
+    "Reflectly",
+    "Stoic"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1714",
+   "name": "synchronicity-journal",
+   "verdict": "build",
+   "competitors": [
+    "Life Purpose App",
+    "generic journal apps"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1716",
+   "name": "energy-work-reiki-sessions",
+   "verdict": "build",
+   "competitors": [
+    "myReiki",
+    "ReikiAll",
+    "Reiki Here"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1718",
+   "name": "yoga-sadhana-log",
+   "verdict": "build",
+   "competitors": [
+    "Sadhana Tracker",
+    "Insight Timer",
+    "Yoga International",
+    "Down Dog"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1720",
+   "name": "visualization-goals-vision-board",
+   "verdict": "skip",
+   "competitors": [
+    "Vision Board Perfectly Happy",
+    "Visuapp",
+    "Visbo",
+    "Hay House Vision Board",
+    "Canva"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 5,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1722",
+   "name": "spiritual-intermittent-fasting",
+   "verdict": "build",
+   "competitors": [
+    "FastingMonk",
+    "Spirit Fast",
+    "Zero",
+    "Life Fasting Tracker"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1724",
+   "name": "pilgrimage-intentions",
+   "verdict": "build",
+   "competitors": [
+    "Wise Pilgrim",
+    "Buen Camino",
+    "CaminoApp"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1726",
+   "name": "kabbalah-numerology",
+   "verdict": "build",
+   "competitors": [
+    "Kabbalah - Your Tree of Life",
+    "Numerology",
+    "Tarot & Numerology",
+    "Esoteric Affirmations"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1728",
+   "name": "manifestacja-numerologia-pl",
+   "verdict": "skip",
+   "competitors": [
+    "generic numerology sites",
+    "Kabbalah app"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 4,
+   "reach": 1,
+   "demand": 1
   }
  ]
 }
