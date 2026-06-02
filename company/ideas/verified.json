@@ -2145,6 +2145,53 @@
    "durability": 8,
    "reach": 2,
    "demand": 1
+  },
+  {
+   "id": "ReedRotation",
+   "name": "Rotacja stroików (saksofon/klarnet)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "reeDminder(free)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "ScreenInkMix",
+   "name": "Mieszanie farb sitodruku (Pantone)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "ColorStar",
+    "FN-INK system",
+    "Virus Inks online"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "ModelRailOps",
+   "name": "Operacje (car card/waybill) kolei modelarskiej",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Albion CarCards",
+    "Ship It!",
+    "JMRI Operations",
+    "Shenandoah"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
   }
  ]
 }
