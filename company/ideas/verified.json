@@ -3529,6 +3529,636 @@
    "durability": 7,
    "reach": 3,
    "demand": 2
+  },
+  {
+   "id": "T1",
+   "name": "Kalkulator doboru kabli (elektryk)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "T2",
+   "name": "Kalkulator spadku ciśnienia (hydraulik)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "T3",
+   "name": "Tracker zleceń (ogrodnik)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "T4",
+   "name": "Planer tras (mycie okien)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "T5",
+   "name": "Checklist serwisu kotła (gaz)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "T6",
+   "name": "Kalkulator wyceny prania dywanów [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "T7",
+   "name": "Kalkulator płytek z naddatkiem",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "T8",
+   "name": "Generator raportów EICR (elektryk)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "T9",
+   "name": "Planer tras mycia rynien [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "T10",
+   "name": "Kalkulator materiałów ogrodzeniowych",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "T11",
+   "name": "Kalkulator płyt G-K",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "T12",
+   "name": "Karty pracy (tree surgeon)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "T13",
+   "name": "Wyceny/zlecenia (pressure washing)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "T14",
+   "name": "Zlecenia (ślusarz/zamkarz)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "T15",
+   "name": "Raport inspekcji dachu ze zdjęciami",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "C1",
+   "name": "Series bible (pisarz serii)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "C2",
+   "name": "Paleta kolorów między projektami",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "C3",
+   "name": "Tracker produkcji podcastu",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "C4",
+   "name": "Tracker schematu rymów",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "C5",
+   "name": "Tracker wyglądu postaci (pisarz)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "C6",
+   "name": "Tracker spójności głosu marki",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "C7",
+   "name": "Word count rozdział-po-rozdziale",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "C8",
+   "name": "CRM gości podcastu",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "C9",
+   "name": "Tracker 'color story' (ilustrator) [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "C10",
+   "name": "Tracker ciągłości paneli komiksu [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "C11",
+   "name": "Tracker tematów newslettera [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "C12",
+   "name": "Biblioteka progresji akordów",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "C13",
+   "name": "Tracker lokacji scen (scenarzysta)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "C14",
+   "name": "Tracker linków wewn. (blogger)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "C15",
+   "name": "Tracker zleceń artystycznych",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "B1",
+   "name": "Inspekcje kominiarskie (b2b)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "B2",
+   "name": "Inspekcja dźwigów/wind",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "B3",
+   "name": "Inspekcja szamb/septyków",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "B4",
+   "name": "Rejestr czynnika chłodniczego EPA608",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "B5",
+   "name": "Faktury/zlecenia ślusarz (b2b)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "B6",
+   "name": "Zgody/waivers tatuaż (b2b)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "B7",
+   "name": "Dziennik notariusza",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "B8",
+   "name": "Rejestr pestycydów (urban pest)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "B9",
+   "name": "Software dla groomera psów",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "B10",
+   "name": "Księga nabytków FFL (broń)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "B11",
+   "name": "HACCP dla food trucków",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "B12",
+   "name": "Dyspozytornia holowników",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "B13",
+   "name": "Ewidencja balsamowania (b2b)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "B14",
+   "name": "Karta dopasowania aparatu słuchowego",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "B15",
+   "name": "Chemiczny dziennik basenu",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
   "algo": "v3",
-  "updated": "2026-06-02 14:06 UTC",
-  "verified": 214,
+  "updated": "2026-06-02 14:08 UTC",
+  "verified": 259,
   "top10": [
     {
       "id": "FoodTemp",
@@ -25,53 +25,53 @@
       "n": 2
     },
     {
-      "id": "AH3",
-      "name": "Dziennik bólu nerwu sromowego [do potw.]",
-      "score": 58,
+      "id": "T6",
+      "name": "Kalkulator wyceny prania dywanów [do potw.]",
+      "score": 67,
+      "verdict": "SŁABO OBSŁUŻONA",
+      "n": 2
+    },
+    {
+      "id": "T9",
+      "name": "Planer tras mycia rynien [do potw.]",
+      "score": 64,
       "verdict": "SŁABO OBSŁUŻONA",
       "n": 0
     },
     {
-      "id": "EUDRmicro",
-      "name": "Due diligence EUDR dla mikro-importera",
-      "score": 58,
+      "id": "B13",
+      "name": "Ewidencja balsamowania (b2b)",
+      "score": 60,
       "verdict": "SŁABO OBSŁUŻONA",
       "n": 4
     },
     {
-      "id": "MagicianLog",
-      "name": "Repertuar magika + log 'komu co pokazałem'",
-      "score": 58,
+      "id": "B4",
+      "name": "Rejestr czynnika chłodniczego EPA608",
+      "score": 60,
       "verdict": "SŁABO OBSŁUŻONA",
-      "n": 1
+      "n": 5
     },
     {
-      "id": "PinballLog",
-      "name": "Log napraw maszyn pinball (kolekcjoner)",
-      "score": 57,
+      "id": "B14",
+      "name": "Karta dopasowania aparatu słuchowego",
+      "score": 59,
       "verdict": "SŁABO OBSŁUŻONA",
-      "n": 1
+      "n": 5
     },
     {
-      "id": "AH15",
-      "name": "ORT nawadnianie dzieci [do potw.]",
-      "score": 56,
+      "id": "B8",
+      "name": "Rejestr pestycydów (urban pest)",
+      "score": 59,
       "verdict": "SŁABO OBSŁUŻONA",
-      "n": 1
+      "n": 5
     },
     {
-      "id": "AH12",
-      "name": "Timer terapii naprzemiennej [do potw.]",
-      "score": 53,
+      "id": "C10",
+      "name": "Tracker ciągłości paneli komiksu [do potw.]",
+      "score": 59,
       "verdict": "SŁABO OBSŁUŻONA",
       "n": 0
-    },
-    {
-      "id": "AH7",
-      "name": "Tracker drenu pooperacyjnego [agent, do potw.]",
-      "score": 52,
-      "verdict": "SŁABO OBSŁUŻONA",
-      "n": 3
     }
   ]
 }
