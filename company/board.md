@@ -2,18 +2,19 @@
 
 **Tryb:** IDEA ENGINE działa ciągle ([silnik](../docs/agent-company/IDEA-ENGINE.md)). Iteracja **1**.
 
-## IN PROGRESS — Iteracja 1 / GENERACJA (4 generatory równolegle)
-- [ ] IT1-GEN-A (atlas) — metody 1–5
-- [ ] IT1-GEN-B (pixel) — metody 6–10
-- [ ] IT1-GEN-C (echo) — metody 11–15
-- [ ] IT1-GEN-D (vera) — metody 16–20
+## DONE — Iteracja 1 / GENERACJA (~155 kandydatów, 20 metod)
+- [x] Gen-A (atlas) → ideas/iteration-1/gen-A-atlas.md
+- [x] Gen-B (pixel) → ideas/iteration-1/gen-B-pixel.md
+- [x] Gen-C (echo) → ideas/iteration-1/gen-C-echo.md
+- [x] Gen-D (vera) → ideas/iteration-1/gen-D-vera.md
+- [x] FUNNEL (manager) → ideas/iteration-1/FUNNEL-shortlist.md (12 finalistów)
 
-## TODO — dalsze fazy iteracji 1
-- [ ] IT1-FUNNEL (manager) — dedupe + scoring rubryką → shortlist
-- [ ] IT1-COMP (pixel+echo+vera) — 10-krotna weryfikacja konkurencji
-- [ ] IT1-RED (brutus) — Red Team
-- [ ] IT1-SYNTH (nova) — ranking + rekomendacja
-- [ ] IT1-REFINE (manager) — strojenie metod/banów → iteracja 2
+## IN PROGRESS — Iteracja 1 / 10× KONKURENCJA (3 agenci równolegle)
+- [ ] COMP-1 (pixel) — FODMAPLog, MigraineMap, PostureLog, GlucoLog
+- [ ] COMP-2 (echo) — HeirSplit, DivorceAssets, FoodTemp, PrivatePeriod
+- [ ] COMP-3 (vera) — DyeRatio, DosePaw, PhonicsFirst, SpellDrill
 
-## DONE — Brief #001
-- [x] DiffLens (rekomendacja R1) → reports/BRIEF-001-FINAL.md
+## TODO
+- [ ] RED TEAM (brutus) — próba zabicia ocalałych
+- [ ] SYNTH (nova) — ranking 5 + rekomendacja
+- [ ] REFINE (manager) — strojenie → Iteracja 2

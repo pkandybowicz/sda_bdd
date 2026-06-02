@@ -8,26 +8,26 @@
   "atlas": {
     "status": "idle",
     "currentTask": null,
-    "since": "2026-06-02T11:12:00Z",
+    "since": "2026-06-02T11:36:00Z",
     "lastReport": "ideas/iteration-1/gen-A-atlas.md"
   },
   "pixel": {
-    "status": "idle",
-    "currentTask": null,
-    "since": "2026-06-02T11:24:00Z",
+    "status": "working",
+    "currentTask": "IT1-COMP-1: 10× konkurencja (FODMAPLog, MigraineMap, PostureLog, GlucoLog)",
+    "since": "2026-06-02T11:36:00Z",
     "lastReport": "ideas/iteration-1/gen-B-pixel.md"
   },
   "echo": {
-    "status": "idle",
-    "currentTask": null,
-    "since": "2026-06-02T11:18:00Z",
+    "status": "working",
+    "currentTask": "IT1-COMP-2: 10× konkurencja (HeirSplit, DivorceAssets, FoodTemp, PrivatePeriod)",
+    "since": "2026-06-02T11:36:00Z",
     "lastReport": "ideas/iteration-1/gen-C-echo.md"
   },
   "vera": {
     "status": "working",
-    "currentTask": "IT1/GEN metody 16-20 (anti-AI, kids/edu, health, gift, recurring-decision)",
-    "since": "2026-06-02T11:00:00Z",
-    "lastReport": null
+    "currentTask": "IT1-COMP-3: 10× konkurencja (DyeRatio, DosePaw, PhonicsFirst, SpellDrill)",
+    "since": "2026-06-02T11:36:00Z",
+    "lastReport": "ideas/iteration-1/gen-D-vera.md"
   },
   "brutus": {
     "status": "idle",
