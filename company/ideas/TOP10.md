@@ -7,15 +7,15 @@
 
 | # | Pomysł | Score | Werdykt niszy | #konkur. |
 |---|--------|:-----:|---------------|:--------:|
-| 1 | Zarządzanie zbiornikami RV | **79** | ZATŁOCZONA | 3 |
-| 2 | Voice bible: próbki+atrybuty głosu per postać — narratorzy audiobooków, game VO, producenci audio-dram | **68** | PUSTA Z OKAZJI | 2 |
-| 3 | Wyrób sera domowego | **66** | SŁABO OBSŁUŻONA | 2 |
-| 4 | Menadżer receptur świec | **65** | SŁABO OBSŁUŻONA | 3 |
-| 5 | Przewodnik wędzenia na zimno [do potw.] | **61** | SŁABO OBSŁUŻONA | 0 |
-| 6 | Przewodnik dehydratora [do potw.] | **61** | SŁABO OBSŁUŻONA | 0 |
-| 7 | Ewidencja balsamowania (b2b) | **60** | SŁABO OBSŁUŻONA | 4 |
-| 8 | Rejestr czynnika chłodniczego EPA608 | **60** | SŁABO OBSŁUŻONA | 5 |
-| 9 | Karta dopasowania aparatu słuchowego | **59** | SŁABO OBSŁUŻONA | 5 |
-| 10 | Rejestr pestycydów (urban pest) | **59** | SŁABO OBSŁUŻONA | 5 |
+| 1 | Voice bible: próbki+atrybuty głosu per postać — narratorzy audiobooków, game VO, producenci audio-dram | **68** | PUSTA Z OKAZJI | 2 |
+| 2 | Wyrób sera domowego | **66** | SŁABO OBSŁUŻONA | 2 |
+| 3 | Menadżer receptur świec | **65** | SŁABO OBSŁUŻONA | 3 |
+| 4 | Przewodnik wędzenia na zimno [do potw.] | **61** | SŁABO OBSŁUŻONA | 0 |
+| 5 | Przewodnik dehydratora [do potw.] | **61** | SŁABO OBSŁUŻONA | 0 |
+| 6 | Ewidencja balsamowania (b2b) | **60** | SŁABO OBSŁUŻONA | 4 |
+| 7 | Rejestr czynnika chłodniczego EPA608 | **60** | SŁABO OBSŁUŻONA | 5 |
+| 8 | Karta dopasowania aparatu słuchowego | **59** | SŁABO OBSŁUŻONA | 5 |
+| 9 | Rejestr pestycydów (urban pest) | **59** | SŁABO OBSŁUŻONA | 5 |
+| 10 | Tracker kefiru wodnego/mlecznego [do potw.] | **59** | SŁABO OBSŁUŻONA | 0 |
 
 _Pełna baza: company/ideas/verified.json · Scoring: company/tools/score_top10.py_

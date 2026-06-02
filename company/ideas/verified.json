@@ -5414,7 +5414,7 @@
     "(fala #2 agenci)"
    ],
    "n": 3,
-   "free_sub": false,
+   "free_sub": true,
    "model": "sub",
    "durability": 7,
    "reach": 3,

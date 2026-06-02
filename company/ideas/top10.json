@@ -4,13 +4,6 @@
   "verified": 349,
   "top10": [
     {
-      "id": "TR15",
-      "name": "Zarządzanie zbiornikami RV",
-      "score": 79,
-      "verdict": "ZATŁOCZONA",
-      "n": 3
-    },
-    {
       "id": "AudiobookVoiceBible",
       "name": "Voice bible: próbki+atrybuty głosu per postać — narratorzy audiobooków, game VO, producenci audio-dram",
       "score": 68,
@@ -72,6 +65,13 @@
       "score": 59,
       "verdict": "SŁABO OBSŁUŻONA",
       "n": 5
+    },
+    {
+      "id": "FD8",
+      "name": "Tracker kefiru wodnego/mlecznego [do potw.]",
+      "score": 59,
+      "verdict": "SŁABO OBSŁUŻONA",
+      "n": 0
     }
   ]
 }
