@@ -13272,6 +13272,2361 @@
    "durability": 6,
    "reach": 1,
    "demand": 1
+  },
+  {
+   "id": "X904",
+   "name": "Soap / Lye Calculator (maker app)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "SoapCalc.net",
+    "SoapmakingFriend",
+    "The Cosmetics Lab",
+    "Soapee.com",
+    "LyeCalc",
+    "SaponiCalc",
+    "Soap Calculator PRO",
+    "Simple SoapCalc"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X906",
+   "name": "Resin / Epoxy Volume Calculator",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Resin Calculator (ResinPro)",
+    "Pardis Epoxy Resin Calculator",
+    "Epoxy Calculator (WhatsUp)",
+    "Resin Epox Calculator",
+    "Resin Ratio Calculator",
+    "Resin & Jesmonite Calculator"
+   ],
+   "n": 6,
+   "free_sub": false,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X908",
+   "name": "CNC Speeds & Feeds Calculator",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "G-Wizard (CNCCookbook)",
+    "FSWizard",
+    "HSMAdvisor"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X910",
+   "name": "3D Print Filament / Cost Calculator",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Spoolo",
+    "3D Print Cost Calculator Pro",
+    "3D Printer Cost Calculator",
+    "PrintMate",
+    "3DPCC",
+    "3D Printing Cost Calculator (krausgedruckt)",
+    "PrusaSlicer built-in"
+   ],
+   "n": 7,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X912",
+   "name": "Woodworking Joinery Calculator (dovetail / mortise-tenon)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Woodworking-Calculators.com",
+    "WoodCalcs.uk",
+    "WoodCalc.net",
+    "Blocklayer.com",
+    "Shaker Cabinets calculator"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X914",
+   "name": "Leather Hide / Material Estimator",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "Craft Price Calculator (generic)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "free",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X916",
+   "name": "Stained Glass Pattern & Cut Calculator",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "Glass Eye 2000",
+    "CutList Optimizer"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X918",
+   "name": "Candle Wax & Fragrance Calculator",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Candle Calculator PRO",
+    "The Candle Maker Calculator",
+    "CandleCalculator.app",
+    "CandleWaxCalculator.com"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X920",
+   "name": "Luthier / Instrument Builder Calculator (fret, scale, bracing)",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "Luthier Lab",
+    "FretCalc",
+    "The Luthier Toolbox (web)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "free",
+   "durability": 6,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X922",
+   "name": "Ceramics / Pottery Glaze Calculator",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Glazy.org",
+    "OpenGlaze",
+    "Digitalfire Insight",
+    "Online Glaze Calculator",
+    "GlazeCalc.com"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X924",
+   "name": "Laser Engraver Power & Speed Calculator",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Laser Power & Speed Calculator (Android)",
+    "CutLabX"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "free",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X926",
+   "name": "Embroidery / Cross-Stitch Thread Calculator",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "XStitch Calculator",
+    "Thread Calculator (GSR)",
+    "StitchMate.app",
+    "XStitchPro"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X928",
+   "name": "Jewelry Metal Weight & Alloy Calculator",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Gold & Silver Calculations (Google Play)",
+    "EZ-Eternity Jewelry Calculator",
+    "Jewellery Calculator",
+    "Metalynx (Kitco)",
+    "Gold Calculator"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X930",
+   "name": "Bookbinding / Spine Width Calculator",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "Spine Calc (iOS)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X932",
+   "name": "DTG / Screen Print Ink Cost Calculator",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "3DMockups Ink Cost Calculator",
+    "NW Custom Apparel DTG Calculator"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X934",
+   "name": "Scale Modeling Paint Mix & Thinner Ratio Calculator",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "ModelCalcs.uk (web)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "free",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X936",
+   "name": "Electronics Hobbyist / Arduino Circuit Calculator",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Procirel tools",
+    "Porexo resistor calc",
+    "Electronics-Lab.com",
+    "RoboCreaze resistance calc"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X938",
+   "name": "Electronics Repair Component Tester Guide App",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [
+    "iFixit (free guides)",
+    "TestingElectronicComponents.com"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X940",
+   "name": "classic_motorcycle_resto_log",
+   "verdict": "SKIP — rynek zalany generycznymi logami serwisowymi (MyBikes, MotoMainte, MotorManage). Spreadsheet lub ogólna apka w pełni wystarczy do prostego logowania; brak wyraźnie niezaspokojonej potrzeby specyficznej dla resto.",
+   "competitors": [
+    "MyBikes.App",
+    "MotoMainte",
+    "MotorManage",
+    "Motorbike Service"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X942",
+   "name": "tractor_farm_machinery_service_log",
+   "verdict": "SKIP — TractorPal i Farm Service Manager już wypełniają tę lukę; klienci to B2B/farmy, nie konsumenci gotowi płacić $5 jednorazowo — wymagają subskrypcji z integracjami.",
+   "competitors": [
+    "TractorPal",
+    "Farm Service Manager",
+    "xFarm",
+    "SimplyFleet"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X944",
+   "name": "kit_car_build_log",
+   "verdict": "MOŻLIWE — brak dedykowanej apki; społeczność używa forów (LocostBuilders, LocostUSA, Madabout Kitcars) i blogów jako build loga. Spreadsheet wystarczy do podstaw, ale ustrukturyzowana apka offline z fazami buildu, BOM i zdjęciami to realny gap.",
+   "competitors": [
+    "brak dedykowanej apki — fora i blogi"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X946",
+   "name": "RC_racing_setup_log",
+   "verdict": "SKIP — So Dialed (iOS/Android) pokrywa ten rynek wprost: setup management, race log, 600+ modeli. Aktywny produkt, społeczność ~4500 ROAR + globalna.",
+   "competitors": [
+    "So Dialed",
+    "MYLAPS",
+    "RaceChrono"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X948",
+   "name": "sailing_regatta_tactics",
+   "verdict": "SKIP — zatłoczony rynek (RegaTTac, SailRacer 60k+ użytkowników, Tactiqs, Virtual Regatta). Wymaga integracji z danymi wiatru/NMEA, co wychodzi poza zakres prostej apki offline za $5.",
+   "competitors": [
+    "RegaTTac",
+    "SailRacer",
+    "Tactiqs",
+    "Virtual Regatta",
+    "Regatta Manager"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X950",
+   "name": "owner_operator_trucking_log",
+   "verdict": "SKIP — silnie uregulowany rynek (ELD, IFTA), zdominowany przez FleetCollect ($9/mies.), TruckX, TruckingOffice. Model subskrypcyjny jest normą; jednorazowe $5 nie pokryje kosztów compliance i aktualizacji.",
+   "competitors": [
+    "FleetCollect",
+    "TruckX",
+    "IFTA Track",
+    "J.J. Keller Encompass"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 8,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X952",
+   "name": "GA_pilot_flight_log_maintenance",
+   "verdict": "SKIP — LogTen Pro ($99-200 one-time), ForeFlight, Garmin Pilot dominują. Niche jest zamożny ale dobrze obsłużony; compliance z FAR wymaga ciągłych aktualizacji, co zabija model one-time.",
+   "competitors": [
+    "LogTen Pro",
+    "ForeFlight",
+    "Garmin Pilot",
+    "FlyQ EFB"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 9,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X954",
+   "name": "glider_sailplane_log",
+   "verdict": "MOŻLIWE — iGlide (trzy płatne wersje) istnieje ale to apka nawigacyjna, nie logbook; społeczność bardzo niszowa globalnie (~100k szybowników), używa papieru lub XCSoar (free/open-source). Dedykowany offline logbook z termicznymi notatkami to realny gap.",
+   "competitors": [
+    "iGlide",
+    "XCSoar (free)",
+    "SeeYou (Naviter)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X956",
+   "name": "karting_setup_log",
+   "verdict": "MOŻLIWE — Kart Track App (AI, subscription) i KartSetups istnieją, ale freemium/sub model dominuje. Gap: prosty offline one-time setup notepad bez AI bez subskrypcji, dla kierowców weekendowych. Ryzyko: Kart Track dobrze pokrywa rynek.",
+   "competitors": [
+    "Kart Track App",
+    "KartSetups",
+    "MyRaceLab",
+    "TrackAddict",
+    "RaceChrono"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X958",
+   "name": "amateur_rally_roadbook",
+   "verdict": "SKIP — TerraPirata, Rally Navigator Pro, RoadbookRally, SEEKERS, Rally Blitz — aktywni gracze z profesjonalnymi funkcjami. Segment wymaga GPS i specyficznych funkcji TSD/roadbook, które są drogie w utrzymaniu.",
+   "competitors": [
+    "Rally Navigator",
+    "TerraPirata",
+    "RoadbookRally",
+    "SEEKERS",
+    "Rally Blitz",
+    "Rallycheck"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X960",
+   "name": "classic_scooter_Vespa_Lambretta_resto_log",
+   "verdict": "MOŻLIWE — zero dedykowanych apek dla Vespa/Lambretta restoration log. Duże społeczności (Vespa Club of America, ModCulture UK, ScooterLounge). Spreadsheet używany powszechnie. Prosta apka z VIN lookup, modelami lat 50-80, numerami części byłaby unikatowa.",
+   "competitors": [
+    "brak dedykowanej apki — Vespa Talk Forum, ogólne apki serwisowe"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X962",
+   "name": "quad_ATV_trail_log",
+   "verdict": "SKIP — QuadON (OFATV), QuadNB, iQuad, onX Offroad — oficjalne apki regionalnych federacji. Rynek rozdrobniony regionalnie, ale dobrze obsłużony przez tanie/free opcje. Trail log bez map to za mało.",
+   "competitors": [
+    "QuadON",
+    "QuadNB",
+    "onX Offroad",
+    "Trails Offroad"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X964",
+   "name": "snowmobile_maintenance_log",
+   "verdict": "MOŻLIWE — LookOver Powersports istnieje (free, 2-stroke/4-stroke), ale jest niszowy i mało znany. Dedykowany sled-specific log z modelami (Ski-Doo, Polaris, Arctic Cat, Yamaha), rebuild tracking i zimowym harmonogramem serwisu to realny gap dla ~4M snowmobilerów w NA.",
+   "competitors": [
+    "LookOver Powersports (free)",
+    "ogólne apki serwisowe"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X966",
+   "name": "camper_van_electrical_conversion_log",
+   "verdict": "MOŻLIWE — brak dedykowanej apki do logowania buildu elektrycznego (wiring diagram progress, component inventory, Victron/LiFePO4 config). Faroutride, GnomadhHome to tylko guides. Offline build tracker z electrical BOM, cable gauge calc, AH budgeting to realny niszowy gap.",
+   "competitors": [
+    "brak apki — Faroutride guides, Mowgli electrical design service ($)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X968",
+   "name": "bikepacking_setup_log",
+   "verdict": "SKIP — LighterPack (free), PackLight (free), RideWithGPS ($60-80/rok) dobrze pokrywają segment. Packing lists to quintessential spreadsheet use-case; żaden użytkownik nie zapłaci $5 skoro LighterPack robi to za darmo.",
+   "competitors": [
+    "LighterPack (free)",
+    "PackLight (free)",
+    "RideWithGPS"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X970",
+   "name": "paramotor_PPG_flight_log",
+   "verdict": "MOŻLIWE — całkowicie pominięty przez głównych graczy GA. Paramotorzyści (~50k w Europie+USA) używają arkuszy lub papierowych dzienników. Brak dedykowanego logbooka z godzinami silnika, pogodą, lokacją startu, poziomem wyposażenia. Zero bezpośrednich konkurentów.",
+   "competitors": [
+    "brak — ogólne logbooki GA lub papier"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X972",
+   "name": "vintage_tractor_show_prep_log",
+   "verdict": "SKIP — zbyt niszowy wewnątrz już niszowej niszy (traktor-fanatics, EDGE show tractors). Społeczność mała, technicznie prosta, spreadsheet w pełni wystarcza. Brak sygnałów płatnego popytu w App Store.",
+   "competitors": [
+    "brak — arkusze, papier"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 4,
+   "reach": 1,
+   "demand": 0
+  },
+  {
+   "id": "X974",
+   "name": "sidecar_motorcycle_build_log",
+   "verdict": "MOŻLIWE — ekstremalnie niszowy (Ural owners, homebuilt sidecar hackers), zero dedykowanych apek. Społeczność globalna ale mała (~5-10k aktywnych budowniczych). Alignment log, weight distribution tracker, geometry notes — unikalne funkcje których brak wszędzie. Reach i demand nisko.",
+   "competitors": [
+    "brak — fora Ural-Riders, SidecarTalk"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X976",
+   "name": "private_music_teacher_studio",
+   "verdict": "crowded_but_pricey",
+   "competitors": [
+    "MyMusicStaff($14.95/mo)",
+    "MusicTeacherNotes",
+    "Teachworks",
+    "Opus1",
+    "AmpliTeach"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X978",
+   "name": "private_tutor_sessions_flashcards",
+   "verdict": "free_tools_sufficient",
+   "competitors": [
+    "Anki(free)",
+    "Quizlet($36/yr)",
+    "Tutorbase",
+    "TeacherKit"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one_time",
+   "durability": 5,
+   "reach": 5,
+   "demand": 1
+  },
+  {
+   "id": "X980",
+   "name": "homeschool_recordkeeping_portfolio",
+   "verdict": "viable_gap",
+   "competitors": [
+    "Homeschooly",
+    "HomeschoolMoment($12/mo)",
+    "HomeTrail(free)",
+    "HomeschoolPlanet($8/mo)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one_time",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X982",
+   "name": "montessori_guide_observations",
+   "verdict": "crowded_pricey_niche",
+   "competitors": [
+    "TransparentClassroom(per-child/mo)",
+    "MontessoriCompass",
+    "brightwheel",
+    "Onespot"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X984",
+   "name": "special_ed_parent_IEP_tracker",
+   "verdict": "viable_gap",
+   "competitors": [
+    "AbleSpace(school-priced)",
+    "Sperro(free_school_only)",
+    "TrackBinder",
+    "PlaygroundIEP",
+    "fastIEP"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one_time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X986",
+   "name": "language_teacher_vocabulary_per_student",
+   "verdict": "viable_gap",
+   "competitors": [
+    "Anki(learner_side)",
+    "italki(marketplace)",
+    "Preply(marketplace)",
+    "no_dedicated_teacher_tool"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X988",
+   "name": "driving_instructor_student_progress",
+   "verdict": "viable_gap",
+   "competitors": [
+    "MyDriveTime(£19/mo)",
+    "GoRoadie(pay-per-student)",
+    "Learnr",
+    "Zutobi"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X990",
+   "name": "swim_coach_sets_per_swimmer",
+   "verdict": "crowded_team_focus",
+   "competitors": [
+    "CommitSwimming",
+    "MySwimPro",
+    "SwimCoachApp",
+    "Onform($29/mo)",
+    "Padlie"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X992",
+   "name": "dance_teacher_choreography_tracker",
+   "verdict": "viable_gap",
+   "competitors": [
+    "Swyvel",
+    "Ellever",
+    "DanceStudio-Pro",
+    "iClassPro",
+    "Everdance"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X994",
+   "name": "yoga_instructor_sequences",
+   "verdict": "crowded_freemium",
+   "competitors": [
+    "Tummee(freemium)",
+    "YogaClassPlan",
+    "Flow-App",
+    "YogaSequenceBuilder(free_core)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one_time",
+   "durability": 5,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X996",
+   "name": "chess_teacher_student_progress",
+   "verdict": "viable_gap",
+   "competitors": [
+    "Chess.com_Classroom(free)",
+    "Chessable(learner_side)",
+    "DrWolf(learner_side)",
+    "no_dedicated_coach_CRM"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one_time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X998",
+   "name": "private_speech_therapist_exercises",
+   "verdict": "regulated_barrier",
+   "competitors": [
+    "Talktrac",
+    "TheraPlatform(subscription)",
+    "SLPToolkit",
+    "Ambiki",
+    "SpeechBlubs_Pro"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1000",
+   "name": "diving_instructor_student_log",
+   "verdict": "best_gap",
+   "competitors": [
+    "no_dedicated_app_found",
+    "generic_coaching_logs",
+    "spreadsheets_dominant"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1002",
+   "name": "drawing_teacher_student_portfolio",
+   "verdict": "viable_gap",
+   "competitors": [
+    "Seesaw(school_focused)",
+    "SuperSaaS($9/mo_scheduling_only)",
+    "Google_Sites(free)",
+    "no_dedicated_solo_art_teacher_tool"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one_time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1004",
+   "name": "shooting_instructor_student_progress",
+   "verdict": "viable_gap",
+   "competitors": [
+    "RangeBuddyPro(personal_log)",
+    "ShoQJournal(beta)",
+    "TargetEagle",
+    "BrassApp",
+    "no_instructor_student_CRM"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1006",
+   "name": "acting_teacher_drama_coach",
+   "verdict": "best_gap",
+   "competitors": [
+    "Preply(marketplace)",
+    "TakeLessons(marketplace)",
+    "Tutorbase(generic)",
+    "no_dedicated_tool"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1008",
+   "name": "homeschool_montessori_crossover",
+   "verdict": "skip_duplicate",
+   "competitors": [
+    "see_homeschool_and_montessori_entries"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one_time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1010",
+   "name": "music_teacher_repertoire_progress",
+   "verdict": "skip_covered_by_studio_tool",
+   "competitors": [
+    "Teachworks_RepertoireAddon",
+    "AmpliTeach",
+    "MyMusicStaff"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1012",
+   "name": "calisthenics-progressions",
+   "verdict": "crowded – Calisteniapp, Calistree, URBN (skill-tree), Thenx all paid subs; Hybrid Calisthenics free; gap = structured one-time skill-ladder tracker offline",
+   "competitors": [
+    "Calisteniapp",
+    "Calistree",
+    "The Movement Athlete",
+    "Thenx",
+    "Hybrid Calisthenics"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1014",
+   "name": "kettlebell",
+   "verdict": "moderate crowding – Stark, Fitify, Ladder, Dr.Muscle cover it; no dominant $5 offline planner; structured ETK-style progression sheet could win",
+   "competitors": [
+    "Fitify Kettlebell",
+    "Stark Kettlebell",
+    "Dr. Muscle",
+    "Ladder"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1016",
+   "name": "mobility-stretching-protocol",
+   "verdict": "crowded with VC-backed subs (GOWOD $108/yr, Pliability, STRETCHIT); $5 offline protocol card less likely to beat free YouTube; tough",
+   "competitors": [
+    "GOWOD",
+    "Pliability",
+    "STRETCHIT",
+    "Range",
+    "WeStretch"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1018",
+   "name": "martial-arts-belt-curriculum",
+   "verdict": "gap exists for individual student (not gym-mgmt software); existing tools (Zen Planner, PushPress, martialarts.io) target gym owners not solo practitioners; $5 offline belt-checklist could find buyers",
+   "competitors": [
+    "Zen Planner",
+    "PushPress",
+    "martialarts.io",
+    "Belt Test Tracker"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1020",
+   "name": "swimming-sets",
+   "verdict": "Swim.com and MySwimPro cover this well with free tiers; hardware (smart goggles) eating the market; weak fit for offline $5 app",
+   "competitors": [
+    "Swim.com",
+    "MySwimPro",
+    "SwimIO",
+    "Swimplan"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 4,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1022",
+   "name": "rowing-erg",
+   "verdict": "ErgData free from Concept2 is the default; EXR, ErgZone cover training plans; niche but tightly owned by Concept2 ecosystem; gap = off-erg dryland strength planner",
+   "competitors": [
+    "ErgData",
+    "EXR",
+    "ErgZone",
+    "asensei"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1024",
+   "name": "gymnastics-progression",
+   "verdict": "real gap for recreational adult gymnasts; Skilltrakker $9/mo, GymTrack World, Gymnastics Method exist but pricy; offline skill-checklist with progressions viable",
+   "competitors": [
+    "Skilltrakker",
+    "GymTrack World",
+    "Gymnast Fit",
+    "Gymnastics Method"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1026",
+   "name": "parkour-progressions",
+   "verdict": "URBN Jumpers does skill-tree best; Ultimate Parkour App free; market tiny and fragmented; low commercial pull, enthusiasts buy nothing",
+   "competitors": [
+    "URBN Jumpers",
+    "Ultimate Parkour App",
+    "Fitivity Parkour"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1028",
+   "name": "climbing-board-training",
+   "verdict": "Crimpd (Lattice) dominant, well-funded; Grippy/Beastmaker free; Zlagboard hardware-tied; hang-board protocol market saturated; marginal gap only in structured periodization templates",
+   "competitors": [
+    "Crimpd",
+    "Grippy/Beastmaker",
+    "Zlagboard",
+    "Climbro",
+    "MyClimb"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1030",
+   "name": "archery-training",
+   "verdict": "real gap: ArcheryBuddy free/AI, Rise free; iArchery one-time ~$6 covers basics; scoring is solved; gap = periodized training-plan + sight-mark log in one offline $5 app",
+   "competitors": [
+    "ArcheryBuddy",
+    "Rise",
+    "iArchery",
+    "ArcherySuccess",
+    "Archery Tracker"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1032",
+   "name": "shooting-sport-ammo-training",
+   "verdict": "AmmoKeep Pro one-time purchase exists and does inventory well; My Armory, GUNTRACK cover session logs; $5 offline combined training+ammo tracker largely solved; marginal differentiation possible on DOPE cards",
+   "competitors": [
+    "AmmoKeep Pro",
+    "GUNTRACK",
+    "My Armory",
+    "myArmsCache"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1034",
+   "name": "dance-training-skill",
+   "verdict": "STEEZY, Dance Masterclass subscription-heavy; no strong one-time offline skill-progression tracker for self-taught; gap exists for structured technique checklist by style (salsa/bachata/etc.)",
+   "competitors": [
+    "STEEZY",
+    "Dance Masterclass",
+    "Dance Buddy"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1036",
+   "name": "yoga-asana-progression",
+   "verdict": "massively crowded with VC subs (Down Dog, Daily Yoga, Pocket Yoga); free options abundant; $5 offline asana-map niche is very hard to monetize; avoid",
+   "competitors": [
+    "Down Dog",
+    "Daily Yoga",
+    "Track Yoga",
+    "Pocket Yoga",
+    "Simply Yoga"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 4,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X1038",
+   "name": "breathwork-freediving-CO2-tables",
+   "verdict": "best gap here: Apnea Assistant, Fathom, Apnea Diver exist but most are freemium or subscription; $5 offline CO2/O2 table builder with dive log is under-served and buyer intent is high (freedivers invest in gear)",
+   "competitors": [
+    "Apnea Assistant",
+    "Fathom Freedive",
+    "Apnea Diver",
+    "Apnea Master"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 2,
+   "demand": 3
+  },
+  {
+   "id": "X1040",
+   "name": "equestrian-horse-training",
+   "verdict": "Equilab and Ridely subscription-based and well-funded; HeyHorse for trainers; market has money (horse owners high LTV); $5 offline horse-training journal niche viable but discovery hard",
+   "competitors": [
+    "Equilab",
+    "Ridely",
+    "EQUIMO",
+    "Rideable",
+    "HeyHorse"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1042",
+   "name": "triathlon-multisport",
+   "verdict": "entirely owned by TrainingPeaks, TriDot, 2PEAK, Mottiv – all subscription; market expects full-stack coach tools; $5 one-time plan-builder too thin; avoid unless hyper-niche (e.g. beginner-only sprint plan)",
+   "competitors": [
+    "TrainingPeaks",
+    "TriDot",
+    "2PEAK",
+    "Mottiv",
+    "Transition"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 4,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1044",
+   "name": "hyrox",
+   "verdict": "emerging niche, growing fast; RoxFit tracker, Chairon AI, TrainingPeaks, FindYourEdge all entering; $5 offline event-specific workout planner (8 stations + running pacing) still feasible before market saturates",
+   "competitors": [
+    "RoxFit",
+    "Chairon",
+    "FindYourEdge",
+    "TrainingPeaks"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1046",
+   "name": "strongman",
+   "verdict": "Strongman AI app exists (App Store) but niche is small; general strength apps (Strong, Hevy) used by most; dedicated $5 offline event-log (yoke, log, stones, farmer) with competition countdown is genuinely under-served",
+   "competitors": [
+    "Strongman AI",
+    "Strong",
+    "Hevy",
+    "StrengthLog"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 1,
+   "demand": 2
+  },
+  {
+   "id": "X1048",
+   "name": "charcuterie-curing",
+   "verdict": "viable",
+   "competitors": [
+    "DeliApp",
+    "Norcino",
+    "iSmokeHog"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1050",
+   "name": "hot-sauce-fermentation",
+   "verdict": "viable",
+   "competitors": [
+    "HakkoBako",
+    "Fermenty",
+    "Fermentio"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1052",
+   "name": "kombucha",
+   "verdict": "crowded",
+   "competitors": [
+    "KombuchApp",
+    "Kombucha Brew Tracker",
+    "Kombucha beers and ferments (Android)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1054",
+   "name": "mead-honey-wine",
+   "verdict": "viable",
+   "competitors": [
+    "Mead Maker Honey Wine Tracker",
+    "Brewfather",
+    "BeerSmith Mobile"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1056",
+   "name": "vinegar-making",
+   "verdict": "niche-greenfield",
+   "competitors": [],
+   "n": 0,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1058",
+   "name": "tofu-tempeh-miso",
+   "verdict": "niche-greenfield",
+   "competitors": [],
+   "n": 0,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1060",
+   "name": "bean-to-bar-chocolate",
+   "verdict": "niche-greenfield",
+   "competitors": [
+    "Bean To Bar World Map (discovery only)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1062",
+   "name": "sourdough-bread",
+   "verdict": "crowded",
+   "competitors": [
+    "Homebaker",
+    "Loaflo",
+    "proofit",
+    "Sourdough Starter Tracker",
+    "Rise"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 9,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1064",
+   "name": "lacto-fermentation-pickles",
+   "verdict": "viable",
+   "competitors": [
+    "Fermento",
+    "Fermentio",
+    "Fermenta",
+    "HakkoBako"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1066",
+   "name": "meat-smoking",
+   "verdict": "crowded-hardware",
+   "competitors": [
+    "MEATER app",
+    "Bradley iSmoke",
+    "ThermoPro BBQ",
+    "MeatStick"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "hardware-bundled",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1068",
+   "name": "food-dehydrating",
+   "verdict": "niche-greenfield",
+   "competitors": [],
+   "n": 0,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1070",
+   "name": "cheesemaking",
+   "verdict": "viable",
+   "competitors": [
+    "Fromaggio (hardware-tied)",
+    "DairyCraftPro (pro/commercial)",
+    "Cheese Making APK"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1072",
+   "name": "butter-ghee",
+   "verdict": "skip-too-simple",
+   "competitors": [],
+   "n": 0,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1074",
+   "name": "sprouts-microgreens",
+   "verdict": "viable",
+   "competitors": [
+    "Microgreens Tracker",
+    "Hy-Farm app",
+    "Vegbed (web)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1076",
+   "name": "homebrewing-beer",
+   "verdict": "skip-saturated",
+   "competitors": [
+    "BeerSmith",
+    "Brewtarget",
+    "Brewfather",
+    "Brewer's Friend",
+    "Grainfather"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 9,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1078",
+   "name": "cider-making",
+   "verdict": "viable",
+   "competitors": [
+    "Vinsight (commercial)",
+    "BeerSmith (partial support)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1080",
+   "name": "nalewki-fruit-liqueur",
+   "verdict": "niche-greenfield",
+   "competitors": [],
+   "n": 0,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1082",
+   "name": "artisan-ice-cream-gelato",
+   "verdict": "viable",
+   "competitors": [
+    "Gelato Maestro Pro",
+    "myGelato.eu",
+    "inteliGelato"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1084",
+   "name": "firewood_seasoning_tracker",
+   "verdict": "niche_gap",
+   "competitors": [
+    "FirewoodCalc (web)",
+    "Firewood Identifier AI (species only)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one_time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1086",
+   "name": "composting_tracker",
+   "verdict": "crowded_free",
+   "competitors": [
+    "Compost Companion",
+    "Vego (device-tied)",
+    "Monty Compost Co (device-tied)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1088",
+   "name": "rainwater_harvesting_calculator",
+   "verdict": "niche_gap",
+   "competitors": [
+    "Rainfall Calculator (iOS)",
+    "Rain Harvesting (iOS)",
+    "SamSamWater (web/Android)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one_time",
+   "durability": 9,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1090",
+   "name": "greenhouse_climate_planner",
+   "verdict": "crowded_pro",
+   "competitors": [
+    "Greenhouse Planner (iOS)",
+    "GrowDirector",
+    "Hortinergy (web pro)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1092",
+   "name": "food_forest_permaculture_planner",
+   "verdict": "niche_gap",
+   "competitors": [
+    "SAGE permaculture",
+    "Sapp",
+    "MyPermaGarden (free)",
+    "Forest Garden Planner Pro"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1094",
+   "name": "chicken_flock_manager",
+   "verdict": "crowded",
+   "competitors": [
+    "Flockstar ($79.99/yr)",
+    "FlockFriend",
+    "My Poultry Manager",
+    "Easy Poultry & Chicken Manager"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1096",
+   "name": "vegetable_garden_crop_rotation",
+   "verdict": "crowded",
+   "competitors": [
+    "GrowVeg",
+    "BioGarden365",
+    "SmartGardener",
+    "SeedTime",
+    "VegPlotter"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 6,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1098",
+   "name": "home_orchard_spray_schedule",
+   "verdict": "niche_gap",
+   "competitors": [
+    "no dedicated paid app found; extension PDFs dominate"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one_time",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1100",
+   "name": "mushroom_cultivation_log",
+   "verdict": "occupied_weak",
+   "competitors": [
+    "MycoFile ($4/mo)",
+    "MycoHub (offline, iOS/Android)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1102",
+   "name": "hydroponics_nutrient_calculator",
+   "verdict": "crowded_free",
+   "competitors": [
+    "HydroBuddy (free/open-source)",
+    "Hydroponics Nutrient Calculator (free Android)",
+    "Hydroponics360 (web)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one_time",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1104",
+   "name": "aquaponics_system_manager",
+   "verdict": "niche_gap",
+   "competitors": [
+    "Aquaponics Toolkit (iOS/Android)",
+    "FarmHub (pro)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1106",
+   "name": "beekeeping_hive_manager",
+   "verdict": "crowded",
+   "competitors": [
+    "HiveTracks",
+    "BeePlus",
+    "ApiManager (free <=20 hives)",
+    "APiLOG",
+    "HiveLog AI"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1108",
+   "name": "food_drying_preservation_tracker",
+   "verdict": "niche_gap",
+   "competitors": [
+    "Freeze Dry Tracker (iOS)",
+    "FoodKeeper (free, USDA)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one_time",
+   "durability": 9,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1110",
+   "name": "pantry_rotation_FIFO_tracker",
+   "verdict": "crowded",
+   "competitors": [
+    "My Pantry Tracker",
+    "FoodShiner",
+    "CozZo",
+    "Fridgely",
+    "NourishMate"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X1112",
+   "name": "generator_offgrid_energy_monitor",
+   "verdict": "hardware_tied",
+   "competitors": [
+    "Generac Mobile Link",
+    "KOHLER Energy Management",
+    "Sense Home"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1114",
+   "name": "septic_system_maintenance_tracker",
+   "verdict": "niche_gap",
+   "competitors": [
+    "SeptiQ (iOS homeowner)",
+    "business tools: Tank Track, ServiceTitan"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 10,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1116",
+   "name": "well_water_maintenance_log",
+   "verdict": "niche_gap",
+   "competitors": [
+    "Know My Water (iOS)",
+    "Aqvify (smart sensor, subscription)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 10,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1118",
+   "name": "diy_solar_panel_monitoring",
+   "verdict": "crowded_free",
+   "competitors": [
+    "Sunalyzer (open-source)",
+    "SolarEdge mySolarEdge",
+    "Solar-assistant.io",
+    "vendor-locked inverter apps"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1120",
+   "name": "poker_bankroll_session_tracker",
+   "verdict": "skip",
+   "competitors": [
+    "PokerStack (free)",
+    "Poker Bankroll Tracker (freemium, 19.99 EUR/yr)",
+    "Poker Income (free)",
+    "Pokerbase",
+    "Poker Analytics"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1122",
+   "name": "sports_betting_log_roi",
+   "verdict": "maybe",
+   "competitors": [
+    "BettorEdge (freemium)",
+    "Pikkit (free)",
+    "Action Network (free)",
+    "Betstamp (free)",
+    "Juice Reel (freemium)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1124",
+   "name": "fantasy_sports_tracker",
+   "verdict": "skip",
+   "competitors": [
+    "DFS Hero (paid sub)",
+    "DraftKings built-in tools (free)",
+    "Underdog (free)",
+    "platform-native tools"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1126",
+   "name": "fire_calculator",
+   "verdict": "skip",
+   "competitors": [
+    "ProjectionLab ($9/mo)",
+    "Firenum (free)",
+    "Pralana Bronze (free)",
+    "FireCalc (free)",
+    "Empower (free)",
+    "FinancialAha spreadsheet ($29 one-time)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1128",
+   "name": "subscription_audit",
+   "verdict": "maybe",
+   "competitors": [
+    "Bobby ($2.99 one-time)",
+    "TrackMySubs (freemium)",
+    "Rocket Money (sub)",
+    "Wallos (free/open-source)",
+    "Subby (free)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X1130",
+   "name": "crypto_tax_lot_cost_basis",
+   "verdict": "skip",
+   "competitors": [
+    "CoinLedger (paid from $49/yr)",
+    "CoinTracker (paid from $59/yr)",
+    "Koinly (paid)",
+    "CoinGecko tax tools (free preview)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 5,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1132",
+   "name": "collection_valuation",
+   "verdict": "maybe",
+   "competitors": [
+    "CollX (free, cards)",
+    "Collectibles.com (freemium)",
+    "Coinoscope (freemium)",
+    "CoinSnap (free)",
+    "PCGS CoinFacts (free)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1134",
+   "name": "freelancer_time_tracker_offline",
+   "verdict": "skip",
+   "competitors": [
+    "Clockify (free)",
+    "Toggl Track (freemium)",
+    "TallyHo ($5/mo)",
+    "Traqq (offline, freemium)",
+    "TimeSolv (offline, paid sub)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 6,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X1136",
+   "name": "micro_freelancer_invoice_offline",
+   "verdict": "maybe",
+   "competitors": [
+    "Wave (free)",
+    "Zoho Invoice (free)",
+    "Invoice Ninja (free/open-source)",
+    "Avaza (free tier)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1138",
+   "name": "mileage_log",
+   "verdict": "skip",
+   "competitors": [
+    "Stride (free, unlimited)",
+    "TripLog (free unlimited 2026)",
+    "Everlance (freemium)",
+    "MileIQ ($60/yr)",
+    "MileageWise ($6.99/mo, lifetime $119.99)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 7,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1140",
+   "name": "per_diem_travel_tracker",
+   "verdict": "maybe",
+   "competitors": [
+    "Expensify (freemium)",
+    "Zoho Expense (paid sub)",
+    "TravelBear (freemium, offline)",
+    "Per Diem Plus (niche, paid)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1142",
+   "name": "debt_snowball",
+   "verdict": "skip",
+   "competitors": [
+    "Undebt.it (free web)",
+    "Debt Snowball Payoff Planner iOS (free)",
+    "Ramsey SmartDollar (paid sub)",
+    "YNAB (paid sub)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1144",
+   "name": "savings_goals_visual",
+   "verdict": "skip",
+   "competitors": [
+    "YNAB (goals, paid sub)",
+    "Qapital (freemium)",
+    "Empower (free)",
+    "bank apps built-in goals (free)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X1146",
+   "name": "group_tip_calculator",
+   "verdict": "skip",
+   "competitors": [
+    "Splitty (free)",
+    "countless free web calculators",
+    "iOS/Android native calc tips"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 3,
+   "reach": 5,
+   "demand": 1
+  },
+  {
+   "id": "X1148",
+   "name": "roommate_expense_splitter",
+   "verdict": "skip",
+   "competitors": [
+    "Splitwise (free core)",
+    "Splid (free)",
+    "Tricount (free)",
+    "SettleUp (free)",
+    "Venmo Groups (free)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 5,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X1150",
+   "name": "kids_allowance_tracker",
+   "verdict": "maybe",
+   "competitors": [
+    "iAllowance (free)",
+    "Cozi (free)",
+    "Greenlight (paid sub)",
+    "BusyKid ($3.99/mo)",
+    "Modak Makers (free)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1152",
+   "name": "freelancer_hourly_rate_calculator",
+   "verdict": "skip",
+   "competitors": [
+    "Upwork free calculator",
+    "freelancehourlyrate.com (free)",
+    "Clockify free calculator",
+    "Rize free tool",
+    "numerous free web calculators"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 4,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X1154",
+   "name": "micro_seller_pl_tracker",
+   "verdict": "green",
+   "competitors": [
+    "Flip/Reseller Profit Tracker (freemium iOS)",
+    "ProfitTree (Etsy, sub)",
+    "Sellerfuse (£19.99-£29.99/mo)",
+    "manual Google Sheets (free)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1156",
+   "name": "quilting-calculator",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Quilt Geek",
+    "Quiltography",
+    "PreQuilt",
+    "QuiltSandwich",
+    "StitchLogic",
+    "Missouri Star",
+    "Quiltler"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1158",
+   "name": "weaving-loom-calculator",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Weaving Project Calculator",
+    "iWeaveIt",
+    "Weaving Calculator (Android)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1160",
+   "name": "spinning-yarn",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "YarnBuddy (częściowo)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1162",
+   "name": "macrame-calculator",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "KnotShot (freemium)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1164",
+   "name": "cross-stitch-tracker",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Pattern Keeper",
+    "Stitchly",
+    "StitchCraft",
+    "Lord Libidan tools",
+    "Stitchmate"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1166",
+   "name": "machine-embroidery-digitizing",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Wilcom EmbroideryStudio",
+    "Hatch Embroidery",
+    "Floriani",
+    "Embrilliance",
+    "Ink/Stitch",
+    "Artspira"
+   ],
+   "n": 6,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 5,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1168",
+   "name": "rug-tufting-calculator",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "Tuft the World web calc"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "free",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1170",
+   "name": "needle-felting",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 9,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1172",
+   "name": "lacemaking-bobbin-tatting",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "Lace app (iOS, £2.99)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 9,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1174",
+   "name": "sewing-pattern-grading",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Seamly2D",
+    "fashionINSTA",
+    "Clo",
+    "Gerber/Accumark"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1176",
+   "name": "fabric-dyeing-dye-calculator",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Textile Calculations (Android)",
+    "FabRate",
+    "textilecalculator.com"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1178",
+   "name": "knitting-pattern-tracker",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "KnitsThatFit",
+    "KnitCompanion",
+    "Pocket Knitting",
+    "Ravelry",
+    "YarnBuddy",
+    "Stash2Go II",
+    "Pattern Keeper"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 5,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1180",
+   "name": "crochet-pattern-tracker",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Stash2Go II",
+    "YarnPal",
+    "Loopsy",
+    "Ravelgurumi",
+    "Crochet Studio",
+    "Stitch Fiddle"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 5,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1182",
+   "name": "sashiko-pattern-app",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "Sashiko Collection (Android, JP)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 9,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1184",
+   "name": "punch-needle-calculator",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1186",
+   "name": "basket-weaving-braiding",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [],
+   "n": 0,
+   "free_sub": false,
+   "model": "free",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1188",
+   "name": "batik-wax-resist",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [],
+   "n": 0,
+   "free_sub": false,
+   "model": "free",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1190",
+   "name": "millinery-hat-making",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 9,
+   "reach": 2,
+   "demand": 1
   }
  ]
 }
