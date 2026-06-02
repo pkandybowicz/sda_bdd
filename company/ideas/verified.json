@@ -1456,6 +1456,72 @@
    "durability": 8,
    "reach": 4,
    "demand": 2
+  },
+  {
+   "id": "BookImposition",
+   "name": "Kalkulator impozycji/składek (introligator)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Imposition Wizard",
+    "Bookbinder JS",
+    "CraftyManiac"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 9,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "LeatherStitch",
+   "name": "Kalkulator rozstawu otworów (rymarz)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Pricking Iron Calc",
+    "Secrets from Workshop(app)",
+    "Pattern Scaling"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 9,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "FarrierLog",
+   "name": "Rejestr kopyt/podków (podkuwacz)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "EQUINET(free)",
+    "iForgeAhead",
+    "Hoofit",
+    "Hoofproof",
+    "FarrierIQ"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "PenInkLog",
+   "name": "Dziennik kolekcji atramentów (pióra)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Fountain Pen Companion(free)",
+    "TapForms",
+    "logbooki papierowe"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
   }
  ]
 }
