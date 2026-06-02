@@ -7353,6 +7353,498 @@
    "durability": 8,
    "reach": 3,
    "demand": 1
+  },
+  {
+   "id": "ST1",
+   "name": "Sokolnik – rejestr ptaków/polowań (50 CFR)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#6)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "ST2",
+   "name": "Operator dźwigu – log ocen/zmian (OSHA)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#6)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "ST3",
+   "name": "Aplikator pestycydów RUP – log zastosowań",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#6)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "ST4",
+   "name": "Wiertacz studni – well completion log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#6)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "ST5",
+   "name": "Kominiarz – log inspekcji/czyszczeń (CSIA)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#6)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "ST6",
+   "name": "Pirotechnik – log pokazów (do odnowienia licencji) [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "brak dedyk. apki; darmowe urzędowe PDF (Illinois Display Report)"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "ST7",
+   "name": "Nurek komercyjny – dziennik nurkowań (OSHA)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#6)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "ST8",
+   "name": "Inspektor wind – log inspekcji (ASME A17)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#6)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "ST9",
+   "name": "Krematorium zwierząt – chain of custody log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#6)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "ST10",
+   "name": "Deratyzacja/pest control – log usług",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#6)"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "ST11",
+   "name": "Log autoklawu studia tatuażu (sterylizacja) [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "PopProbe (darmowa checklista spore-test)",
+    "Tattoo Studio Pro (SaaS pokrywa log)",
+    "papier/Excel"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "ST12",
+   "name": "Fumigator magazynowy fosfina – FMP/PH3 log",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [
+    "(mutacja#6)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 1,
+   "demand": 2
+  },
+  {
+   "id": "SE1",
+   "name": "Weselny plan stołów (Seat Maker $4.99)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#6)"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "SE2",
+   "name": "Log suszenia grzybów/przetworów",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#6)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "SE3",
+   "name": "Dziennik polowania/odstrzału",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#6)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "SE4",
+   "name": "Log woskowania/serwisu nart (iOS EN gap)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#6)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "SE5",
+   "name": "Świąteczny budżet prezentów",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#6)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "SE6",
+   "name": "Planer wypieków świątecznych (logistyka)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#6)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "SE7",
+   "name": "Wielkanocny egg-hunt clue (Hoppli €6.99)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#6)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "SE8",
+   "name": "Log partii weków/inwentarz słoików (Jarred)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#6)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "SE9",
+   "name": "Dziennik syropu klonowego",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#6)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "SE10",
+   "name": "Kategoryzator paragonów (nie-prawny)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#6)"
+   ],
+   "n": 10,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "SE11",
+   "name": "Żniwny dziennik pola (mały rolnik)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#6)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "SE12",
+   "name": "Planer nauki do egzaminów (PowerPlanner $1.99)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#6)"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "HL2",
+   "name": "Fly fishing hatch-match (US rivers)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#6)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "HL3",
+   "name": "Rockhounding/minerały (US)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#6)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "HL4",
+   "name": "Grzybobranie – atlas PL",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#6)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "HL5",
+   "name": "Birdwatching – lista regionalna PL/CEE",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#6)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "HL6",
+   "name": "Poszukiwanie bursztynu bałtyckiego",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "(mutacja#6)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "HL7",
+   "name": "Gold panning log (US/AU)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#6)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "iap",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "HL8",
+   "name": "Shellfish/clamming log wg pływów",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#6)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "HL9",
+   "name": "Oyster harvest log (US)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#6)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 1,
+   "demand": 2
+  },
+  {
+   "id": "HL10",
+   "name": "Łowienie raków PL/EU – log",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "(mutacja#6)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "HL11",
+   "name": "Koronczarstwo – wzory bobbin lace",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#6)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 1,
+   "demand": 2
+  },
+  {
+   "id": "HL12",
+   "name": "Blacksmithing – forge/heat log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#6)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
   }
  ]
 }

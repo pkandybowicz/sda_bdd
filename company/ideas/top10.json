@@ -1,7 +1,7 @@
 {
   "algo": "v3",
-  "updated": "2026-06-02 16:33 UTC",
-  "verified": 474,
+  "updated": "2026-06-02 17:23 UTC",
+  "verified": 521,
   "top10": [
     {
       "id": "AudiobookVoiceBible",
@@ -9,6 +9,20 @@
       "score": 68,
       "verdict": "PUSTA Z OKAZJI",
       "n": 2
+    },
+    {
+      "id": "HL10",
+      "name": "Łowienie raków PL/EU – log",
+      "score": 67,
+      "verdict": "PUSTA Z OKAZJI",
+      "n": 0
+    },
+    {
+      "id": "HL6",
+      "name": "Poszukiwanie bursztynu bałtyckiego",
+      "score": 67,
+      "verdict": "PUSTA Z OKAZJI",
+      "n": 0
     },
     {
       "id": "FD3",
@@ -25,6 +39,20 @@
       "n": 3
     },
     {
+      "id": "ST2",
+      "name": "Operator dźwigu – log ocen/zmian (OSHA)",
+      "score": 64,
+      "verdict": "SŁABO OBSŁUŻONA",
+      "n": 3
+    },
+    {
+      "id": "ST9",
+      "name": "Krematorium zwierząt – chain of custody log",
+      "score": 63,
+      "verdict": "SŁABO OBSŁUŻONA",
+      "n": 3
+    },
+    {
       "id": "AS5",
       "name": "Ewidencja kolekcji broni",
       "score": 62,
@@ -32,46 +60,18 @@
       "n": 4
     },
     {
-      "id": "FD14",
-      "name": "Przewodnik wędzenia na zimno [do potw.]",
-      "score": 61,
-      "verdict": "SŁABO OBSŁUŻONA",
-      "n": 0
-    },
-    {
-      "id": "FD5",
-      "name": "Przewodnik dehydratora [do potw.]",
-      "score": 61,
-      "verdict": "SŁABO OBSŁUŻONA",
-      "n": 0
-    },
-    {
-      "id": "B13",
-      "name": "Ewidencja balsamowania (b2b)",
-      "score": 60,
+      "id": "ST4",
+      "name": "Wiertacz studni – well completion log",
+      "score": 62,
       "verdict": "SŁABO OBSŁUŻONA",
       "n": 4
     },
     {
-      "id": "B4",
-      "name": "Rejestr czynnika chłodniczego EPA608",
-      "score": 60,
+      "id": "ST5",
+      "name": "Kominiarz – log inspekcji/czyszczeń (CSIA)",
+      "score": 62,
       "verdict": "SŁABO OBSŁUŻONA",
-      "n": 5
-    },
-    {
-      "id": "DR12",
-      "name": "Batch TTS audio do fiszek Anki offline iOS [demand]",
-      "score": 60,
-      "verdict": "SŁABO OBSŁUŻONA",
-      "n": 1
-    },
-    {
-      "id": "RG2",
-      "name": "EU Batteries: generator QR+danych (Reg 2023/1542)",
-      "score": 60,
-      "verdict": "SŁABO OBSŁUŻONA",
-      "n": 2
+      "n": 4
     }
   ]
 }
