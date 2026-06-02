@@ -1050,7 +1050,8 @@
    "model": "onetime",
    "durability": 8,
    "reach": 6,
-   "demand": 3
+   "demand": 3,
+   "unique_reason": "Jedyna nisza, gdzie generyczny substytut (arkusz/notatki) STRUKTURALNIE zawodzi: wymaga zorganizowanego odtwarzania probek AUDIO per postac."
   },
   {
    "id": "ComicColorBible",
@@ -8710,13 +8711,13 @@
   {
    "id": "PB12",
    "name": "Animation model sheet tracker",
-   "verdict": "PUSTA Z OKAZJI",
+   "verdict": "SŁABO OBSŁUŻONA",
    "competitors": [
-    "(mutacja#8 film/TV)"
+    "brak dedyk.; foldery/PM-tools; Character Design References (galeria)"
    ],
    "n": 1,
-   "free_sub": false,
-   "model": "onetime",
+   "free_sub": true,
+   "model": "mixed",
    "durability": 7,
    "reach": 3,
    "demand": 2
@@ -10221,13 +10222,13 @@
   {
    "id": "NR9",
    "name": "Log ustawień sprzętu/mikrofonu per projekt [do potw.]",
-   "verdict": "PUSTA Z OKAZJI",
+   "verdict": "SŁABO OBSŁUŻONA",
    "competitors": [
-    "(mutacja#10 klaster narratora)"
+    "brak dedyk.; notatki + presety/sesje DAW wystarczają"
    ],
    "n": 0,
-   "free_sub": false,
-   "model": "onetime",
+   "free_sub": true,
+   "model": "mixed",
    "durability": 7,
    "reach": 4,
    "demand": 2
@@ -10263,13 +10264,13 @@
   {
    "id": "NR12",
    "name": "Ewidencja praw/kontraktów ACX [do potw.]",
-   "verdict": "PUSTA Z OKAZJI",
+   "verdict": "SŁABO OBSŁUŻONA",
    "competitors": [
-    "(mutacja#10 klaster narratora)"
+    "brak dedyk. narzędzia; ALE kalendarz/arkusz na daty wygaśnięcia wystarcza"
    ],
    "n": 0,
-   "free_sub": false,
-   "model": "onetime",
+   "free_sub": true,
+   "model": "mixed",
    "durability": 7,
    "reach": 4,
    "demand": 2
@@ -10375,13 +10376,13 @@
   {
    "id": "ME9",
    "name": "Voice/personality bible VTubera",
-   "verdict": "PUSTA Z OKAZJI",
+   "verdict": "SŁABO OBSŁUŻONA",
    "competitors": [
-    "(mutacja#10 per-encja media)"
+    "szablony character-sheet (dok.); usługi lore-commission"
    ],
    "n": 0,
-   "free_sub": false,
-   "model": "onetime",
+   "free_sub": true,
+   "model": "mixed",
    "durability": 6,
    "reach": 3,
    "demand": 2
