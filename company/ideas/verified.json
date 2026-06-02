@@ -12319,6 +12319,174 @@
    "durability": 6,
    "reach": 3,
    "demand": 2
+  },
+  {
+   "id": "RE1",
+   "name": "Hifz tracker (memoryzacja Koranu)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#14 religia)"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "RE2",
+   "name": "Tracker czytania Tory/parszy",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#14 religia)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "RE3",
+   "name": "Tracker postów (Lent/żydowskie)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#14 religia)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "RE4",
+   "name": "Tracker różańca/nowenn",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#14 religia)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "RE5",
+   "name": "Log medytacji buddyjskiej",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#14 religia)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "RE6",
+   "name": "Nauka pisma liturgicznego (arabski dorośli)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#14 religia)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "RE7",
+   "name": "Zakat kalkulator + log (Simple Zakat offline)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#14 religia)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "RE8",
+   "name": "Planer Hajj/Umra (logistyka)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#14 religia)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "RE9",
+   "name": "Tracker intencji modlitewnych (Hallow 22M)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#14 religia)"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "RE10",
+   "name": "Log nauki Tory/chavruta (Hasmada free)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#14 religia)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "RE11",
+   "name": "Ewidencja sakramentów rodziny (arkusz wystarcza)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#14 religia)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "RE12",
+   "name": "Kalendarz świąt żyd. z przygotowaniami",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#14 religia)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
   }
  ]
 }
