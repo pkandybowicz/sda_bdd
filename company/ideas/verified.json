@@ -27878,6 +27878,2242 @@
    "durability": 4,
    "reach": 4,
    "demand": 2
+  },
+  {
+   "id": "X1767_",
+   "name": "busking-repertoire-earnings",
+   "verdict": "MAYBE",
+   "competitors": [
+    "BuSK (busk.co)",
+    "TiPJAR",
+    "Kiosque QR"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1769_",
+   "name": "karaoke-host-rotation-songbook",
+   "verdict": "SKIP",
+   "competitors": [
+    "SongbookDB",
+    "PCDJ Karaoki",
+    "kJams",
+    "What Can I Sing"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1771_",
+   "name": "larp-character-equipment-tracker",
+   "verdict": "MAYBE",
+   "competitors": [
+    "Still Alive LARP",
+    "MyLARP",
+    "LARP Portal",
+    "Legacies Google Sheets"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1773_",
+   "name": "escape-room-design-puzzle-builder",
+   "verdict": "SKIP",
+   "competitors": [
+    "EscapeMaker",
+    "Room Escape Maker",
+    "ThingLink Scenario Builder",
+    "Genially"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1775_",
+   "name": "standup-comedy-setlist-joke-manager",
+   "verdict": "SKIP",
+   "competitors": [
+    "JokeStack",
+    "StandApp",
+    "Bits",
+    "Comedy OS",
+    "Standup Studio",
+    "Jokely"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1777_",
+   "name": "improv-comedy-games-exercises",
+   "verdict": "MAYBE",
+   "competitors": [
+    "Improv Tools",
+    "Sokkyo",
+    "learnimprov.com"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1779_",
+   "name": "burlesque-act-number-tracker",
+   "verdict": "BUILD",
+   "competitors": [
+    "troupeIT (generic stage mgmt)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1781_",
+   "name": "fire-performance-routine-planner",
+   "verdict": "BUILD",
+   "competitors": [
+    "Playpoi (learning only)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1783_",
+   "name": "balloon-twisting-figure-library",
+   "verdict": "MAYBE",
+   "competitors": [
+    "Twisty Magic Balloon",
+    "Virtualoon",
+    "Mossieur Ballon (web)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1785_",
+   "name": "face-painting-design-catalog",
+   "verdict": "SKIP",
+   "competitors": [
+    "Face Painting Ideas (Android)",
+    "Cool Face Painting Ideas",
+    "Face Paint Party"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1787_",
+   "name": "clown-gag-routine-manager",
+   "verdict": "BUILD",
+   "competitors": [],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1789_",
+   "name": "ventriloquism-script-routine-manager",
+   "verdict": "BUILD",
+   "competitors": [],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X1791_",
+   "name": "mime-routine-act-tracker",
+   "verdict": "BUILD",
+   "competitors": [
+    "Comedy Evaluator Pro (generic)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X1793_",
+   "name": "tribute-band-repertoire-key-manager",
+   "verdict": "SKIP",
+   "competitors": [
+    "BandHelper",
+    "SetlistMaker",
+    "Setlist Helper",
+    "Setlists App"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1795_",
+   "name": "vocalist-key-transposition-tracker",
+   "verdict": "DONE",
+   "competitors": [
+    "already built"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1797_",
+   "name": "mc-emcee-show-runsheet-script",
+   "verdict": "MAYBE",
+   "competitors": [
+    "Run of Show app",
+    "Show Flow app",
+    "Event Flow Manager"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1799_",
+   "name": "stage-hypnotist-show-planner",
+   "verdict": "BUILD",
+   "competitors": [],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X1801_",
+   "name": "beatbox-routine-pattern-builder",
+   "verdict": "SKIP",
+   "competitors": [
+    "Beatboxx (free, on-device, full-featured)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1803_",
+   "name": "betta-care",
+   "verdict": "crowded",
+   "competitors": [
+    "Betta Care Fish Tracker",
+    "My Betta Life",
+    "Bettarium",
+    "Bettarium"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1805_",
+   "name": "axolotl-care",
+   "verdict": "go",
+   "competitors": [
+    "Virtual Therapeutic Axolotl Pet (minimal)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid-once",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1807_",
+   "name": "hermit-crab",
+   "verdict": "crowded",
+   "competitors": [
+    "CrabPod",
+    "MyHermiesKeeper",
+    "Healthy Hermit Crab"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1809_",
+   "name": "tarantula",
+   "verdict": "crowded",
+   "competitors": [
+    "Tarantula Tracker",
+    "Tarantuverse",
+    "TrazyCarantulas",
+    "Arachnifiles"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1811_",
+   "name": "scorpion",
+   "verdict": "go",
+   "competitors": [
+    "Arachnifiles (partial)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "paid-once",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1813_",
+   "name": "isopod",
+   "verdict": "crowded",
+   "competitors": [
+    "CrabPod"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1815_",
+   "name": "praying-mantis",
+   "verdict": "go",
+   "competitors": [
+    "Arachnifiles (partial)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "paid-once",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1817_",
+   "name": "pet-beetles",
+   "verdict": "go",
+   "competitors": [
+    "Rhino Beetle Simulator (game only)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "paid-once",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1819_",
+   "name": "land-crabs",
+   "verdict": "go",
+   "competitors": [],
+   "n": 0,
+   "free_sub": false,
+   "model": "paid-once",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1821_",
+   "name": "dart-frogs",
+   "verdict": "go",
+   "competitors": [
+    "Poison Dart Frogs (Android, edu-only)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "paid-once",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1823_",
+   "name": "newts-salamanders",
+   "verdict": "marginal",
+   "competitors": [
+    "ReptiCare (generic reptile)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1825_",
+   "name": "pygmy-hedgehog",
+   "verdict": "marginal",
+   "competitors": [
+    "Hedgehog Pet",
+    "My Hedgehog"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1827_",
+   "name": "sugar-glider",
+   "verdict": "marginal",
+   "competitors": [
+    "Sugar Glider Care (Android)",
+    "Pet Sugar Glider Care Guide"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "paid-once",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1829_",
+   "name": "chinchilla",
+   "verdict": "marginal",
+   "competitors": [
+    "Chinchilla (app)",
+    "Chinchilla Care (Amazon)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "paid-once",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1831_",
+   "name": "fancy-rats",
+   "verdict": "go",
+   "competitors": [
+    "RatTrack"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid-once",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1833_",
+   "name": "guinea-pig",
+   "verdict": "crowded",
+   "competitors": [
+    "My Guinea Pig Bowl",
+    "My Guinea Pigs",
+    "Cavv"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1835_",
+   "name": "leopard-gecko-specific",
+   "verdict": "crowded",
+   "competitors": [
+    "My Leopard Gecko",
+    "Gecko Expert",
+    "Exotic Reptile Care",
+    "ReptiDex"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1837_",
+   "name": "king-snake-specific",
+   "verdict": "crowded",
+   "competitors": [
+    "SnekUp",
+    "SnekLog",
+    "Exotic Reptile Care"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1839_",
+   "name": "ultralight-log",
+   "verdict": "skip",
+   "competitors": [
+    "MyFlightbook",
+    "FlightLog",
+    "Smart Logbook"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1841_",
+   "name": "hot-air-balloon-log",
+   "verdict": "build",
+   "competitors": [
+    "Hot Air App",
+    "Ultramagic Balloon FlightPack",
+    "Hot Air Balloon Pilot"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1843_",
+   "name": "hang-gliding-logbook",
+   "verdict": "skip",
+   "competitors": [
+    "Koifly",
+    "Volandoo",
+    "Gaggle",
+    "Wingman"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1845_",
+   "name": "rc-model-flight-log",
+   "verdict": "build",
+   "competitors": [
+    "RC Flight and Battery Log",
+    "RCLogbook",
+    "RC Model Manager"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1847_",
+   "name": "sailing-cruise-logbook",
+   "verdict": "skip",
+   "competitors": [
+    "SailTies",
+    "LD-Log",
+    "Skipper",
+    "Saillogger"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1849_",
+   "name": "narrowboat-canal-log",
+   "verdict": "build",
+   "competitors": [
+    "Canals.UK",
+    "Nebo"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1851_",
+   "name": "houseboat-maintenance-log",
+   "verdict": "skip",
+   "competitors": [
+    "YachtWave",
+    "TheBoatApp",
+    "LookOver"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1853_",
+   "name": "jet-ski-pwc-log",
+   "verdict": "build",
+   "competitors": [
+    "Loggy",
+    "BRP GO!"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1855_",
+   "name": "ebike-maintenance-log",
+   "verdict": "skip",
+   "competitors": [
+    "ProBikeGarage",
+    "BikeGuard",
+    "BicycleCareLog"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1857_",
+   "name": "electric-skateboard-log",
+   "verdict": "build",
+   "competitors": [
+    "Xmatic",
+    "Explore by Evolve",
+    "ExSkate"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1859_",
+   "name": "electric-unicycle-log",
+   "verdict": "skip",
+   "competitors": [
+    "EUC World",
+    "WheelLog"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1861_",
+   "name": "electric-scooter-log",
+   "verdict": "skip",
+   "competitors": [
+    "Electric Scooter Universal App",
+    "Scooter Tools",
+    "Loggy"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1863_",
+   "name": "go-kart-session-log",
+   "verdict": "build",
+   "competitors": [
+    "RaceChrono",
+    "RaceFacer",
+    "Kart Track App",
+    "KartTrackerAI"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1865_",
+   "name": "motolotnia-powered-hg-log",
+   "verdict": "build",
+   "competitors": [
+    "MyFlightbook"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1867_",
+   "name": "skydiving-jump-log",
+   "verdict": "skip",
+   "competitors": [
+    "Skydiving Logbook",
+    "Skyduck",
+    "Jumplog",
+    "Paralog"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1869_",
+   "name": "windsurfing-gear-log",
+   "verdict": "build",
+   "competitors": [
+    "Hoolan",
+    "i Log Windsurf",
+    "Vadewind",
+    "WindsportTracker"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1871_",
+   "name": "kitesurfing-session-log",
+   "verdict": "skip",
+   "competitors": [
+    "Hoolan",
+    "WOO Sports",
+    "Surfr."
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1873_",
+   "name": "meal_prep_weekly_planner",
+   "verdict": "weak",
+   "competitors": [
+    "Mealime",
+    "Paprika",
+    "Eat This Much",
+    "AnyList",
+    "Plan to Eat",
+    "MealPrepPro",
+    "eMeals",
+    "Prepear",
+    "Cozi",
+    "Allrecipes"
+   ],
+   "n": 15,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 8,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1875_",
+   "name": "cleaning_checklist_per_room",
+   "verdict": "weak",
+   "competitors": [
+    "Spotless",
+    "OurHome",
+    "Tody",
+    "HomeRoutines",
+    "Google Tasks",
+    "Notion templates",
+    "printables"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1877_",
+   "name": "decluttering_konmari_progress",
+   "verdict": "maybe",
+   "competitors": [
+    "KonMari official site free checklist",
+    "Decluttr",
+    "Clutter free printables",
+    "Etsy planners",
+    "Notion templates"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1879_",
+   "name": "moving_relocation_planner",
+   "verdict": "maybe",
+   "competitors": [
+    "MoveAdvisor",
+    "Sortly",
+    "MagicPlan",
+    "Moving Planner",
+    "TaskRabbit",
+    "Google Keep checklists",
+    "Amazon moving journals"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 2,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1881_",
+   "name": "garage_sale_pricing",
+   "verdict": "weak",
+   "competitors": [
+    "Yard Sale Treasure Map",
+    "VarageSale",
+    "5miles",
+    "Garage Sales by Map",
+    "GLICKIN",
+    "Wallapop",
+    "Facebook Marketplace",
+    "OfferUp"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "free",
+   "durability": 1,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1883_",
+   "name": "estate_sale_organizer",
+   "verdict": "maybe",
+   "competitors": [
+    "EstateSales.net",
+    "Blue Moon Estate Sales (service)",
+    "Etsy printable bundles",
+    "Excel/Google Sheets"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 2,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1885_",
+   "name": "seasonal_home_tasks",
+   "verdict": "maybe",
+   "competitors": [
+    "HomeZada",
+    "Centriq",
+    "Thumbtack",
+    "AAA home maintenance calendar",
+    "BrightNest",
+    "Google Calendar"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1887_",
+   "name": "holiday_decorations_inventory",
+   "verdict": "strong",
+   "competitors": [
+    "Sortly (partial)",
+    "generic inventory apps",
+    "spreadsheets"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1889_",
+   "name": "smart_home_routines_manager",
+   "verdict": "weak",
+   "competitors": [
+    "Google Home",
+    "Amazon Alexa",
+    "Apple Home",
+    "SmartThings",
+    "Home Assistant",
+    "IFTTT",
+    "Matter"
+   ],
+   "n": 12,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1891_",
+   "name": "home_energy_usage_log",
+   "verdict": "weak",
+   "competitors": [
+    "HomeWizard Energy",
+    "Sense",
+    "Smappee",
+    "Eyedro",
+    "EyeOnWater",
+    "utility provider apps",
+    "Home Assistant"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1893_",
+   "name": "water_usage_tracker",
+   "verdict": "maybe",
+   "competitors": [
+    "EyeOnWater",
+    "HomeWizard Energy",
+    "Dropcountr",
+    "utility apps"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1895_",
+   "name": "diy_repair_instructions_log",
+   "verdict": "strong",
+   "competitors": [
+    "Centriq",
+    "HomeZada",
+    "Homer app",
+    "paper log books (Amazon)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1897_",
+   "name": "laundry_schedule",
+   "verdict": "weak",
+   "competitors": [
+    "OurHome",
+    "Tody",
+    "Spotless",
+    "generic reminder apps",
+    "printable schedules"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1899_",
+   "name": "garage_organizer",
+   "verdict": "maybe",
+   "competitors": [
+    "Sortly",
+    "Memento Database",
+    "generic inventory apps",
+    "spreadsheets"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1901_",
+   "name": "basement_attic_inventory",
+   "verdict": "strong",
+   "competitors": [
+    "Sortly",
+    "Encircle",
+    "Stuffanizer",
+    "Memento Database"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1903_",
+   "name": "time_capsule_keepsakes",
+   "verdict": "maybe",
+   "competitors": [
+    "TimeCapsules app",
+    "Keepsake Time Capsule",
+    "Time Capsule Memory Vault",
+    "TimeLock",
+    "GoodTrust"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1905_",
+   "name": "birthday_anniversary_calendar",
+   "verdict": "weak",
+   "competitors": [
+    "hip app",
+    "Birthdays app (iOS built-in)",
+    "Facebook",
+    "Google Contacts",
+    "Cardzware",
+    "Kudoboard"
+   ],
+   "n": 10,
+   "free_sub": true,
+   "model": "free",
+   "durability": 9,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X1907_",
+   "name": "emergency_contacts_list",
+   "verdict": "weak",
+   "competitors": [
+    "ICE contacts (built-in iOS/Android)",
+    "Life360",
+    "bSafe",
+    "Google Contacts",
+    "phone built-in ICE feature",
+    "Red Cross Emergency app"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X1909_",
+   "name": "chess-variants-db",
+   "verdict": "crowded",
+   "competitors": [
+    "PyChess",
+    "Chess Remix",
+    "Boardgamr"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "paid-once",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1911_",
+   "name": "poker-hand-ranges",
+   "verdict": "crowded",
+   "competitors": [
+    "GTO Wizard",
+    "SnapShove",
+    "DTO Poker Trainer"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1913_",
+   "name": "boardgame-design-proto",
+   "verdict": "crowded",
+   "competitors": [
+    "nanDECK",
+    "Component Studio",
+    "Dextrous"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1915_",
+   "name": "rpg-gm-initiative-npc",
+   "verdict": "crowded",
+   "competitors": [
+    "Improved Initiative",
+    "World Anvil",
+    "Chronica"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1917_",
+   "name": "wargame-terrain-projects",
+   "verdict": "go",
+   "competitors": [
+    "Wargame Terrain Generator",
+    "Campaign Console"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "paid-once",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1919_",
+   "name": "card-game-design",
+   "verdict": "crowded",
+   "competitors": [
+    "nanDECK",
+    "Dulst",
+    "Tabletop Simulator"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1921_",
+   "name": "puzzle-hunt-arg-design",
+   "verdict": "go",
+   "competitors": [
+    "ClueKeeper",
+    "PlayTours",
+    "Loquiz"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "paid-once",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1923_",
+   "name": "pub-quiz-host-mgmt",
+   "verdict": "crowded",
+   "competitors": [
+    "SpeedQuizzing",
+    "QuizWitz",
+    "Quizado"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1925_",
+   "name": "bar-trivia-rounds",
+   "verdict": "crowded",
+   "competitors": [
+    "TriviaRat",
+    "TriviaBuild",
+    "Akili Arena"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1927_",
+   "name": "mahjong-scoring",
+   "verdict": "go",
+   "competitors": [
+    "Bam Good Time",
+    "Competitive Mahjong 2",
+    "AMR Authority"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "paid-once",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1929",
+   "name": "boardgame-club-organizer",
+   "verdict": "crowded",
+   "competitors": [
+    "Tabletop.Events",
+    "GameTree",
+    "Meetup"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1931",
+   "name": "larp-scenario-designer",
+   "verdict": "go",
+   "competitors": [
+    "LarpManager",
+    "LARP Portal",
+    "Vellum"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "paid-once",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1933",
+   "name": "boardgame-rental-library",
+   "verdict": "go",
+   "competitors": [
+    "TWICE",
+    "Airtable (DIY)",
+    "Libib"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "paid-once",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1935",
+   "name": "urban-city-game-design",
+   "verdict": "go",
+   "competitors": [
+    "PlayTours",
+    "Loquiz",
+    "Actionbound"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid-once",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1937",
+   "name": "bridge-deal-recorder",
+   "verdict": "crowded",
+   "competitors": [
+    "DealMasterPro+",
+    "Fun Bridge",
+    "Bridge NeuralPlay"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1939",
+   "name": "Arduino/RPi Project Logger",
+   "verdict": "MARGINAL — makers use Notion/Obsidian/GitHub wikis; no dedicated offline app exists but audience self-builds",
+   "competitors": [
+    "Notion",
+    "Obsidian",
+    "Hackaday.io",
+    "Instructables"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1941",
+   "name": "Smart Home Config Manager",
+   "verdict": "SKIP — Home Assistant (free, self-hosted) dominates; AT&T Smart Home Manager exists; niche is flooded",
+   "competitors": [
+    "Home Assistant",
+    "HomeSeer",
+    "Hubitat"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 4,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X1943",
+   "name": "3D Printer Farm Manager",
+   "verdict": "SKIP — FDM Monster, OctoFarm, Printago all free/open-source; well-covered",
+   "competitors": [
+    "FDM Monster",
+    "OctoFarm",
+    "Printago",
+    "AstroPrint"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1945",
+   "name": "Retro Computer Restoration Log",
+   "verdict": "VIABLE — no dedicated app found; community blogs/forums only; niche but passionate audience willing to pay",
+   "competitors": [
+    "Notion",
+    "VCFed forums",
+    "personal blogs"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1947",
+   "name": "FPV Drone Build Log",
+   "verdict": "MARGINAL — Open DroneLog free for flight logs; build logging uses spreadsheets/forums; gap exists for parts+build tracking",
+   "competitors": [
+    "Open DroneLog",
+    "RCGroups",
+    "GetFPV guides"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1949",
+   "name": "CNC Router Build Log",
+   "verdict": "MARGINAL — CAM tools (FreeCAD, OpenBuilds) cover software side; no dedicated build-journal app; makers use spreadsheets",
+   "competitors": [
+    "OpenBuilds CONTROL",
+    "FreeCAD",
+    "Easel"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1951",
+   "name": "DIY Robot Build Log",
+   "verdict": "VIABLE — no dedicated tracker found; Instructables/GitHub used ad-hoc; Roboto targets professionals not hobbyists",
+   "competitors": [
+    "Instructables",
+    "Hackaday.io",
+    "GitHub"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1953",
+   "name": "IoT Sensor Project Tracker",
+   "verdict": "SKIP — ThingsBoard, ThingSpeak, Thinger.io all free and cover data+project tracking; over-served",
+   "competitors": [
+    "ThingsBoard",
+    "ThingSpeak",
+    "Thinger.io",
+    "Arduino Cloud"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 4,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X1955",
+   "name": "Soldering Project Log",
+   "verdict": "VIABLE — no dedicated app found; Hackaday.io partial; makers log on paper or Notion; offline $5 has clear gap",
+   "competitors": [
+    "Hackaday.io",
+    "Notion",
+    "paper logs"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1957",
+   "name": "PCB Design Project Log",
+   "verdict": "MARGINAL — KiCad/EasyEDA have built-in project management; separate log app redundant unless cross-tool",
+   "competitors": [
+    "KiCad",
+    "EasyEDA",
+    "LibrePCB",
+    "Altium CircuitMaker"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1959",
+   "name": "LiPo Battery Cycle Tracker",
+   "verdict": "VIABLE — LipoBuddy exists but iOS-focused and limited; strong RC/FPV community demand; offline tracker with NFC a real gap",
+   "competitors": [
+    "LipoBuddy",
+    "LiPo Watch",
+    "spreadsheets"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1961",
+   "name": "Homelab Server Inventory",
+   "verdict": "SKIP — NetBox, HomeBox, homelab-inventory on GitHub all free self-hosted; community solved this well",
+   "competitors": [
+    "NetBox",
+    "HomeBox",
+    "Racktables"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 4,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1963",
+   "name": "NAS/Media Server Setup Log",
+   "verdict": "MARGINAL — Dozzle, Synology Log Center cover logs; no build-journal app but audience uses wikis/markdown",
+   "competitors": [
+    "Dozzle",
+    "Synology Log Center",
+    "Jellyfin wiki"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1965",
+   "name": "Pi-hole/Network Config Log",
+   "verdict": "SKIP — Pi-hole has built-in dashboard + Pi-hole Remote app (free); niche too small for standalone paid app",
+   "competitors": [
+    "Pi-hole dashboard",
+    "Pi-hole Remote",
+    "Netdata"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 4,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1967",
+   "name": "Soldering Station Profile Saver",
+   "verdict": "VIABLE — iFixit FixHub app only covers own hardware; Hakko/JBC stations have no universal profile manager; real gap",
+   "competitors": [
+    "station-specific apps",
+    "paper presets",
+    "AxxSolder"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1969",
+   "name": "Reflow Oven Profile Logger",
+   "verdict": "VIABLE — Serial Profile Plotter is old Windows freeware; Controleo3 tied to hardware; cross-hardware offline logger missing",
+   "competitors": [
+    "Serial Profile Plotter",
+    "Controleo3",
+    "Reflow Master Pro"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1971",
+   "name": "3D Print Settings Manager",
+   "verdict": "SKIP — SliceHub free community library; OrcaSlicer Expert Assistant free web app; Cura/PrusaSlicer have built-in profiles",
+   "competitors": [
+    "SliceHub",
+    "OrcaSlicer",
+    "PrusaSlicer",
+    "Cura"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 4,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X1973",
+   "name": "E-Paper/E-Ink Project Log",
+   "verdict": "MARGINAL — very niche hardware community; Inkycal open-source covers dashboards; project logging uses GitHub/Hackaday",
+   "competitors": [
+    "Hackaday.io",
+    "GitHub",
+    "Adafruit guides"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X1975",
+   "name": "ROD ogródek działkowy",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "MójROD (web, zarządzanie administracyjne)",
+    "Planer Ogrodnika (ogólny ogród)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1977",
+   "name": "wędkarstwo PL rejestr połowów + okresy ochronne",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "The Fish (PZW oficjalny)",
+    "Pomocnik Wędkarza",
+    "Wędkarstwo Ryby Łowiska PZW (wedkuje.pl)",
+    "Amatorski rejestr połowów",
+    "RecFishing"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1979",
+   "name": "myślistwo PL pokot + koło łowieckie",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "PZŁ EKEP (oficjalny PZŁ)",
+    "e-Polowanie",
+    "EPI24",
+    "System Kół Łowieckich PZŁ 2.0"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1981",
+   "name": "pszczelarstwo PL pasieka",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "BeeSmart/mobbee",
+    "ePszczoła (rządowa)",
+    "Inteligentne Ule",
+    "Mobilna Pasieka (Łyson)",
+    "Nowoczesna Pasieka"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1983",
+   "name": "KGW koło gospodyń wiejskich ewidencja",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "UEPiK.ngo (księgowość NGO/KGW, web)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1985",
+   "name": "OSP ochotnicza straż pożarna ewidencja",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "e-Remiza (Abakus, sub)",
+    "Strażak.Online (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1987",
+   "name": "sołectwo fundusz sołecki ewidencja",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [],
+   "n": 0,
+   "free_sub": false,
+   "model": "free",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1989",
+   "name": "mechanik garaż własny PL",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Motowarsztat.pl (web, warsztaty pro)",
+    "Warsztat3 (desktop)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 9,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1991",
+   "name": "bazarek handel targowisko PL",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "OLX",
+    "Allegro Lokalnie",
+    "Vinted"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X1993",
+   "name": "agroturystyka goście pokoje PL",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Roomadmin (sub/web)",
+    "NFHotel (freemium)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1995",
+   "name": "winnica PL produkcja i dziennik",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "Vivino (konsumencka, nie dla producenta)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "free",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1997",
+   "name": "sadownictwo PL opryski i ochrona sadu",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Komunikaty Sadownicze (Plantpress)",
+    "Program ochrony sadów",
+    "Bee Grow"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1999",
+   "name": "zielarstwo runo leśne zbiór PL",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Zioła Polskie",
+    "Rośliny lecznicze"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 9,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2001",
+   "name": "grzyby atlas suszenie PL",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Na Grzyby (NaGrzyby.pl)",
+    "Atlas Grzybów",
+    "Mushroomizer",
+    "ShroomID",
+    "Shroomify"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 9,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X2003",
+   "name": "nalewki PL przepisy i dziennik",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [],
+   "n": 0,
+   "free_sub": false,
+   "model": "free",
+   "durability": 9,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2005",
+   "name": "gołębiarstwo PL hodowla gołębi",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Pigeon Planner (open-source, desktop)",
+    "GołąbEX (web/PC)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 9,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2007",
+   "name": "hodowla królików PL ewidencja",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "Zarządzanie hodowlą królików (Google Play, niszowa, nie-PL)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "free",
+   "durability": 9,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2009",
+   "name": "działkowiec plan nasadzeń ROD",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Planer Ogrodnika",
+    "ZaplanujWarzywnik.pl (web)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2011",
+   "name": "tattoo-aftercare-personal",
+   "verdict": "SKIP",
+   "competitors": [
+    "Tattoo Healer",
+    "Start Aftercare",
+    "Inked"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2013",
+   "name": "piercing-healing-tracker",
+   "verdict": "SKIP",
+   "competitors": [
+    "Puncture Perfect",
+    "Healing Tracker",
+    "StellarClub"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2015",
+   "name": "posture-correction-exercises",
+   "verdict": "SKIP",
+   "competitors": [
+    "PostureAI",
+    "Perfect Posture",
+    "Posture Correction",
+    "SitApp"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2017",
+   "name": "ergonomics-workstation-setup",
+   "verdict": "WEAK",
+   "competitors": [
+    "Office Ergonomics app",
+    "Wellnomics",
+    "CESSI tools"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2019",
+   "name": "foam-rolling-myofascial-release",
+   "verdict": "SKIP",
+   "competitors": [
+    "BLACKROLL app",
+    "Rad Mobility",
+    "Foam Roller by Fitify"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2021",
+   "name": "float-tank-session-log",
+   "verdict": "BUILD",
+   "competitors": [
+    "generic journal apps",
+    "no dedicated personal tracker found"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2023",
+   "name": "self-massage-guide",
+   "verdict": "WEAK",
+   "competitors": [
+    "Massage Therapy Guide",
+    "Massage Techniques app"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2025",
+   "name": "tmj-jaw-exercises",
+   "verdict": "WEAK",
+   "competitors": [
+    "JawBuddy",
+    "Hinge Health"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2027",
+   "name": "eye-exercises-vision",
+   "verdict": "SKIP",
+   "competitors": [
+    "VisionUp",
+    "Vision Workout",
+    "Eye Exercises by Brusentcov"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2029",
+   "name": "scoliosis-exercises",
+   "verdict": "WEAK",
+   "competitors": [
+    "ScoliFocus",
+    "Scoli",
+    "ScolioTrack",
+    "The Scoliosis Solution"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2031",
+   "name": "joint-mobility-tracker",
+   "verdict": "SKIP",
+   "competitors": [
+    "GOWOD",
+    "pliability",
+    "WeStretch",
+    "Range"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2033",
+   "name": "home-injury-rehab",
+   "verdict": "SKIP",
+   "competitors": [
+    "Prehab Guys",
+    "Sports Injury Clinic App",
+    "Hinge Health"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2035",
+   "name": "plantar-fasciitis-program",
+   "verdict": "WEAK",
+   "competitors": [
+    "Plantar Fasciitis Exercises (Play)",
+    "SportsRehab.App",
+    "Prehab"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2037",
+   "name": "carpal-tunnel-wrist-exercises",
+   "verdict": "WEAK",
+   "competitors": [
+    "Carpal Tunnel Exercise (App Store)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2039",
+   "name": "nasal-breathing-mewing",
+   "verdict": "WEAK",
+   "competitors": [
+    "Mewing.app",
+    "MewingApp.co"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2041",
+   "name": "postural-habit-reminders",
+   "verdict": "SKIP",
+   "competitors": [
+    "SitApp",
+    "Posture Reminder",
+    "SmartPosture"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2043",
+   "name": "automasaz-body-map-daily",
+   "verdict": "BUILD",
+   "competitors": [
+    "no dedicated body-map self-massage routine tracker found"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2045",
+   "name": "nawyki-posturalne-habit-stack",
+   "verdict": "BUILD",
+   "competitors": [
+    "generic habit apps (Streaks, Habitica) — no posture-specific habit stack app found"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
   }
  ]
 }
