@@ -12,10 +12,10 @@
     "lastReport": "ideas/iteration-1/gen-A-atlas.md"
   },
   "pixel": {
-    "status": "working",
-    "currentTask": "IT1/GEN metody 6-10 (CLI→GUI, life-events, compliance, calc, ref-tables)",
-    "since": "2026-06-02T11:00:00Z",
-    "lastReport": null
+    "status": "idle",
+    "currentTask": null,
+    "since": "2026-06-02T11:24:00Z",
+    "lastReport": "ideas/iteration-1/gen-B-pixel.md"
   },
   "echo": {
     "status": "idle",
