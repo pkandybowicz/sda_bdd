@@ -4159,6 +4159,216 @@
    "durability": 7,
    "reach": 3,
    "demand": 2
+  },
+  {
+   "id": "HB1",
+   "name": "Tracker napraw automatów pinball",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "HB2",
+   "name": "Menadżer atramentów do piór",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "HB3",
+   "name": "Logger mechanizmów zegarków vintage",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "HB4",
+   "name": "Dziennik pielęgnacji bonsai",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "HB5",
+   "name": "Logger patchy modularnych syntezatorów [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "HB6",
+   "name": "Tracker renowacji radia lampowego [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "HB7",
+   "name": "Dziennik ćwiczeń lockpickingu",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "HB8",
+   "name": "Tracker ryb koi",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "HB9",
+   "name": "Dziennik wypieku zakwasu",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "HB10",
+   "name": "Katalog map antycznych [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "HB11",
+   "name": "Logger QSL/nagród krótkofalowca",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "HB12",
+   "name": "Menadżer receptur świec",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "HB13",
+   "name": "Katalog zasuszonych kwiatów/herbarium [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "HB14",
+   "name": "Tracker kolekcji maszyn do pisania [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "HB15",
+   "name": "Biblioteka splotów chainmaille [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala hurtowa agentów)"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
   }
  ]
 }
