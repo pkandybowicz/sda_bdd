@@ -40,8 +40,17 @@ zleceniobiorcy). Dziś = chaos.
 - **Screeny / kartki / notatnik** — pipetowanie, błędy, zero szukania.
 - **AI ref-generatory** — *tworzą* postać, ale **nie przechowują** Twoich
   istniejących, dokładnych kodów do ręcznego malowania.
-→ **Nikt nie robi: „nazwana paleta per postać, z odcieniami, kopiowalna i
-przenośna".** To jest luka.
+→ **Specyficzny produkt** („nazwana paleta per postać, sloty-role + odcienie,
+offline, eksport ref-sheet") **nadal nie istnieje** — TO jest wąska luka.
+
+> ⚠️ **KOREKTA UCZCIWOŚCI (po twardym due-diligence).** Wbrew pierwotnej ocenie
+> „zero konkurencji", istnieją **darmowe** narzędzia blisko tematu: **Character
+> Color Navigator** (UhiyamaLab), **Elementor Character Color Palette Generator**,
+> **ColorMagic**, **Oc-maker**, **Color Palette Manager** (Windows). To jednak
+> **generatory** (tworzą paletę za Ciebie) lub **generyczne menedżery** — żaden nie
+> robi *per-projekt, slot-rola + odcienie, offline, z eksportem ref-sheet dla
+> zleceniobiorcy*. Dlatego werdykt to **SŁABO OBSŁUŻONA (nie PUSTA Z OKAZJI)**, a
+> przewaga = ten konkretny klin, nie pustka rynku.
 
 ## 4. Produkt — rdzeń
 Hierarchia: **Projekt → Postać → Sloty koloru → Odcienie**.
