@@ -3175,6 +3175,55 @@
    "durability": 8,
    "reach": 3,
    "demand": 1
+  },
+  {
+   "id": "GhostHunt",
+   "name": "Log dowodów paranormal",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Ghost Hunting Tools",
+    "Ghosthunting Toolkit",
+    "Solus Graphing Logger"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "Urbex",
+   "name": "Log lokacji urbex",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "UrbexVault",
+    "Social Urbex",
+    "Urbexology",
+    "Abandoned World"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "AntennaSWR",
+   "name": "Log pomiarów SWR anteny (ham)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "RigExpert",
+    "Zplots",
+    "NanoVNA companion"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
   }
  ]
 }
