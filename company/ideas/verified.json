@@ -6091,6 +6091,109 @@
    "durability": 6,
    "reach": 3,
    "demand": 3
+  },
+  {
+   "id": "RB1",
+   "name": "Tracker wzorów krzyżykowych iOS (Pattern Keeper pokrywa)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "manager: Pattern Keeper JEST na iOS+Android ($10 1x)",
+    "Magic Needle",
+    "Stitchly"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "RB2",
+   "name": "Stash manager szycia offline bez sub/limitu [demand]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(demand-first Reddit)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "RB3",
+   "name": "Tracker parametrów wody akwarium offline",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(demand-first Reddit)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "RB4",
+   "name": "Inwentarz szpul filamentu 3D offline [demand]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(demand-first Reddit)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "RB5",
+   "name": "Mobilny dziennik obserwacji astro (SkySafari/Observer Pro pokrywają)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "manager: SkySafari Pro",
+    "Observer Pro",
+    "Stellarium Plus(offline)",
+    "My Astro Journal"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "RB6",
+   "name": "Tracker piór/atramentów offline-first [demand]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(demand-first Reddit)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "RB7",
+   "name": "Offline lista przeczytanych książek (exodus z Goodreads) [demand]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(demand-first Reddit)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 4,
+   "demand": 3
   }
  ]
 }
