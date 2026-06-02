@@ -11998,6 +11998,327 @@
    "durability": 7,
    "reach": 3,
    "demand": 2
+  },
+  {
+   "id": "FC1",
+   "name": "Fryzjer – receptura koloru per klient",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#13 asset/formuła per klient)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "FC2",
+   "name": "Krawcowa – wymiary per klient",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#13 asset/formuła per klient)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "FC3",
+   "name": "Masażysta/fizjo – SOAP notes per klient",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#13 asset/formuła per klient)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "FC4",
+   "name": "Groomer psów – preferencje per klient [do potw.]",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Tuft (FREE, offline)",
+    "Groomy",
+    "MoeGo",
+    "Groomsoft",
+    "ShakeYourTail",
+    "GrooMore",
+    "Paw Partner"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "FC5",
+   "name": "Trener personalny – program per klient",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#13 asset/formuła per klient)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "FC6",
+   "name": "Tatuażysta – specyfikacja/referencje per klient",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#13 asset/formuła per klient)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "FC7",
+   "name": "Grafik – brand kit per klient (Notion wystarcza)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#13 asset/formuła per klient)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "FC8",
+   "name": "Kosmetolog – formuła per klient",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#13 asset/formuła per klient)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "FC9",
+   "name": "Copywriter – tone of voice per klient (Notion)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#13 asset/formuła per klient)"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "FC10",
+   "name": "Web dev – specyfikacje/stack per klient (Notion)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#13 asset/formuła per klient)"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "FC11",
+   "name": "Dekorator – moodboard per projekt (Morpholio)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#13 asset/formuła per klient)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "FC12",
+   "name": "Mały B&B – preferencje gości stałych",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#13 asset/formuła per klient)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "BU2",
+   "name": "Lash mapping per klient [do potw.]",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "The Lash Look (AI, zapis map+zdjęć per klient)",
+    "Lash Map (free AI)",
+    "Procreate/Notability"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "BU3",
+   "name": "PMU – pigment/głębokość per klient",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#13 asset/formuła per klient)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "BU4",
+   "name": "Barber – fade/maszynka per klient (theCut)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#13 asset/formuła per klient)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "BU5",
+   "name": "Nail tech – kolor/wzór per klient [do potw.]",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "TapNail",
+    "Booksy",
+    "Phorest",
+    "Boulevard",
+    "Zolmi",
+    "Wellyx"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "BU6",
+   "name": "Brwi – henna/laminacja receptura",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#13 asset/formuła per klient)"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "BU7",
+   "name": "Opalanie natryskowe – formuła per skóra",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#13 asset/formuła per klient)"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "BU8",
+   "name": "Wizaż ślubny – look per panna młoda",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#13 asset/formuła per klient)"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "BU9",
+   "name": "Trycholog – protokół per pacjent",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#13 asset/formuła per klient)"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "BU10",
+   "name": "Depilacja – mapa per klient",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#13 asset/formuła per klient)"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "BU12",
+   "name": "Kosmetyka twarzy – protokół per cera",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#13 asset/formuła per klient)"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
   }
  ]
 }
