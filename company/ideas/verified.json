@@ -10428,6 +10428,174 @@
    "durability": 7,
    "reach": 3,
    "demand": 2
+  },
+  {
+   "id": "AD1",
+   "name": "MotionX GPS – offline topo (sub-wedge)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#10 porzucone apki)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "AD2",
+   "name": "MacDive – dziennik nurkowania Mac/iOS",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#10 porzucone apki)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "AD3",
+   "name": "Endomondo – multisport ANT+",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#10 porzucone apki)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "AD4",
+   "name": "ViewRanger – GPX+POI offline piesze",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#10 porzucone apki)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AD5",
+   "name": "Avid Scorch – partytury iPad",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#10 porzucone apki)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AD6",
+   "name": "Finale Notepad – notacja muzyczna",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#10 porzucone apki)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AD7",
+   "name": "Starmap 2 – astronomia iOS",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#10 porzucone apki)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AD8",
+   "name": "iAngler – offline dziennik połowów (sub-wedge)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#10 porzucone apki)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "AD9",
+   "name": "SpottingTrains – spotting pociągów UK",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#10 porzucone apki)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "AD10",
+   "name": "RC Flight Log – dziennik lotów modeli",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#10 porzucone apki)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AD11",
+   "name": "CoinCollect – katalog monet",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#10 porzucone apki)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AD12",
+   "name": "Diving Log Android – dziennik nurkowania",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#10 porzucone apki)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
   }
  ]
 }
