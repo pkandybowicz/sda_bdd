@@ -4579,6 +4579,636 @@
    "durability": 8,
    "reach": 4,
    "demand": 2
+  },
+  {
+   "id": "F1",
+   "name": "Kalkulator zachowku",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "F2",
+   "name": "Kalkulator przedawnienia długów",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "F3",
+   "name": "Wzory pism do komornika",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "F4",
+   "name": "Kalkulator ZUS nowe firmy",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 3,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "F5",
+   "name": "Kalkulator podziału majątku",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "F6",
+   "name": "Kalkulator OC/AC",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "F7",
+   "name": "Inwentarz spadku [do potw./PL-prawo]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "F8",
+   "name": "Kalkulator odsetek ustawowych",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "F9",
+   "name": "Tracker ważności dokumentów (PL)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "F10",
+   "name": "Kalkulator alimentów",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "F11",
+   "name": "Kalkulator podatku od darowizny",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "F12",
+   "name": "Wzory pism do ubezpieczyciela",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "F13",
+   "name": "Kalkulator remont vs sprzedaż [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "F14",
+   "name": "Zdolność kredytowa samozatr.",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "F15",
+   "name": "Planer likwidacji JDG [do potw./PL-prawo]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "S1",
+   "name": "Dziennik ergometru wioślarskiego",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "S2",
+   "name": "Nawigacja orienteering",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "S3",
+   "name": "Scoring łuczniczy",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 10,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "S4",
+   "name": "Meet prep trójbój siłowy",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "S5",
+   "name": "Tracker protokołów kettlebell",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "S6",
+   "name": "Trening skoku o tyczce",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "S7",
+   "name": "Trening cegłowy triathlon",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "S8",
+   "name": "Dziennik wspinaczkowy",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "S9",
+   "name": "Trening Highland Games [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "S10",
+   "name": "Taktyka Canoe Polo [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "S11",
+   "name": "Dziennik boksera-amatora",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "S12",
+   "name": "Choreografia synchro [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "S13",
+   "name": "Strategia disc golf",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "S14",
+   "name": "Trening cyclocross",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "S15",
+   "name": "Trening bobsled/luge [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "FD1",
+   "name": "Tracker fermentacji warzyw",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "FD2",
+   "name": "Tracker startera zakwasu",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "FD3",
+   "name": "Wyrób sera domowego",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "FD4",
+   "name": "Kalkulator miodu pitnego",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "FD5",
+   "name": "Przewodnik dehydratora [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 9,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "FD6",
+   "name": "Kalkulator peklowania mięsa",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "FD7",
+   "name": "Tracker kombuchy",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "FD8",
+   "name": "Tracker kefiru wodnego/mlecznego [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "FD9",
+   "name": "Suszenie/przechowywanie ziół [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "FD10",
+   "name": "Wyrób octu domowego [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "FD11",
+   "name": "Identyfikator dzikiej żywności",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "FD12",
+   "name": "Kalkulator pasteryzacji (canning)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "FD13",
+   "name": "Kalkulator hydratacji ciasta",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "FD14",
+   "name": "Przewodnik wędzenia na zimno [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 9,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "FD15",
+   "name": "Aplikacja pszczelarza (miód+pitny)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
   }
  ]
 }
