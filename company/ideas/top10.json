@@ -1,0 +1,77 @@
+{
+  "algo": "v1",
+  "updated": "2026-06-02 09:36 UTC",
+  "verified": 16,
+  "top10": [
+    {
+      "id": "FoodTemp",
+      "name": "Ewidencja temperatur HACCP → raport",
+      "score": 62,
+      "verdict": "ZATŁOCZONA",
+      "n": 6
+    },
+    {
+      "id": "DyeRatio",
+      "name": "Tabela proporcji farb do włosów + kalkulator (salon)",
+      "score": 61,
+      "verdict": "ZATŁOCZONA",
+      "n": 6
+    },
+    {
+      "id": "MigraineMap",
+      "name": "Dziennik migreny → PDF dla neurologa",
+      "score": 26,
+      "verdict": "ZATŁOCZONA",
+      "n": 5
+    },
+    {
+      "id": "CaregiverHandover",
+      "name": "Log przekazania zmiany opiekuna seniora",
+      "score": 25,
+      "verdict": "ZATŁOCZONA",
+      "n": 5
+    },
+    {
+      "id": "ContinuingEdTracker",
+      "name": "Tracker punktów CEU/CPD + odnowienia",
+      "score": 24,
+      "verdict": "ZATŁOCZONA",
+      "n": 5
+    },
+    {
+      "id": "FODMAPLog",
+      "name": "Dziennik FODMAP + objawy IBS",
+      "score": 21,
+      "verdict": "ZATŁOCZONA",
+      "n": 6
+    },
+    {
+      "id": "CyrillicTypingTutor",
+      "name": "Kurs pisania na klawiaturze cyrylickiej",
+      "score": 20,
+      "verdict": "PUSTA Z PRZYCZYNY",
+      "n": 3
+    },
+    {
+      "id": "HeirSplit",
+      "name": "Kalkulator podziału spadku",
+      "score": 19,
+      "verdict": "PUSTA Z PRZYCZYNY",
+      "n": 2
+    },
+    {
+      "id": "EstimateSlip",
+      "name": "Szybka wycena dla rzemieślnika (druk)",
+      "score": 16,
+      "verdict": "ZATŁOCZONA",
+      "n": 7
+    },
+    {
+      "id": "OrthodoxFasting",
+      "name": "Przewodnik postu prawosławnego (co dziś jeść)",
+      "score": 16,
+      "verdict": "ZATŁOCZONA",
+      "n": 3
+    }
+  ]
+}

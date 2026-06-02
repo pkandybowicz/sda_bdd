@@ -58,6 +58,15 @@
   </div>
 </header>
 <div id="grid" class="grid"></div>
+
+<div style="padding:0 24px 24px">
+  <h2 style="font-size:17px">🏆 TOP 10 pomysłów <span id="t10meta" style="font-size:12px;color:#94a3b8;font-weight:400"></span></h2>
+  <table style="width:100%;border-collapse:collapse;font-size:13px">
+    <thead><tr style="color:#94a3b8;text-align:left">
+      <th style="padding:6px">#</th><th>Pomysł</th><th>Score</th><th>Werdykt</th><th>#konk.</th></tr></thead>
+    <tbody id="t10body"></tbody>
+  </table>
+</div>
 <div class="hint">⚠️ Portal jest <b>statyczny i prywatny</b> (podstrona za loginem Twojej strony). Status odświeża się co 5 s z <b>zacommitowanego</b> stanu — latencja ≈ cykl commit/push, to nie jest live sub-sekundowy (świadomy trade-off „lekkości"). Start/Stop NIE zapisuje plików z przeglądarki: kliknięcie <b>kopiuje komendę</b> dla managera, który autorytatywnie przełącza <code>company/control.json</code>.</div>
 
 <div id="modal" class="modal" onclick="if(event.target===this)closeModal()">
@@ -114,6 +123,18 @@ async function render(){
   }).join("");
 }
 
+async function renderTop10(){
+  try{
+    const t = await getJSON("ideas/top10.json");
+    document.getElementById("t10meta").textContent =
+      `· algo ${t.algo} · zweryfikowanych ${t.verified} · ${t.updated}`;
+    document.getElementById("t10body").innerHTML = t.top10.map((c,i)=>
+      `<tr style="border-top:1px solid var(--line)">
+         <td style="padding:6px">${i+1}</td><td>${c.name}</td>
+         <td><b>${c.score}</b></td><td style="color:#94a3b8">${c.verdict}</td><td>${c.n}</td></tr>`).join("");
+  }catch(e){}
+}
+
 async function showLog(id,name){
   const logs = await getLog(id);
   document.getElementById("modalTitle").textContent = "Logi — "+name;
@@ -126,8 +147,8 @@ async function showLog(id,name){
 }
 function closeModal(){ document.getElementById("modal").classList.remove("open"); }
 
-render();
-setInterval(render, 5000);
+render(); renderTop10();
+setInterval(()=>{ render(); renderTop10(); }, 5000);
 </script>
 </body>
 </html>

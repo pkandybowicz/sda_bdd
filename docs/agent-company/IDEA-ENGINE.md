@@ -120,3 +120,22 @@ przyczyny", trafia na czarną listę, żeby nie wracało).
 Iter. 1+: diff, regex, clipboard, color picker, rename plików, JSON/YAML, markdown,
 git, terminal-GUI, oraz wszystko z Briefu #001 (DiffLens, RegexPilot, BatchLens,
 ColorVault, ExifScrub, ImageBatch, FontDrop, WindowSnap Pro).
+
+## ŻYWY TOP 10 + ALGORYTM OCENY (v1)
+
+Firma utrzymuje **stały TOP 10** (`company/ideas/TOP10.md` + `top10.json` dla portalu).
+Każdy kandydat trafia tam **dopiero po realnej weryfikacji konkurencji** (zapis w
+`verified.json`). Scoring liczy `company/tools/score_top10.py`:
+
+- base 40 (rynek istnieje = popyt udowodniony) / 20 (rynek pusty = popyt niepewny)
+- +15 gdy ktoś już płaci (model onetime/sub/mixed/enterprise)
+- −4 za każdego konkurenta (cap −32) — gęstość rynku
+- −22 gdy istnieje silny darmowy/OSS substytut (zabójca fałszywego blue ocean)
+- +18 arbitraż ceny: konkurenci na subskrypcji, brak dobrego darmowego → $5 jednorazowo wygrywa
+- +durability(0-10) +reach(0-8)
+
+**Reguła re-walidacji:** każda zmiana algorytmu = bump wersji + `score_top10.py`
+przelicza CAŁĄ bazę `verified.json` od nowa → TOP 10 zawsze spójny z aktualnym algorytmem.
+
+**Pętla 24/7:** co cykl bierze następne pozycje z `queue.json`, weryfikuje konkurencję
+10 metodami, dopisuje do `verified.json`, przelicza TOP 10, commituje i wypisuje tabelę.

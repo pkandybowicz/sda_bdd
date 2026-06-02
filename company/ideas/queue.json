@@ -1,0 +1,1804 @@
+{
+ "queue": [
+  {
+   "idea": "kalkulator dawkowania dla: elektrycy",
+   "nisza": "elektrycy",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: elektrycy",
+   "nisza": "elektrycy",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: hydraulicy",
+   "nisza": "hydraulicy",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: hydraulicy",
+   "nisza": "hydraulicy",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: stolarze",
+   "nisza": "stolarze",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: stolarze",
+   "nisza": "stolarze",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: malarze pokojowi",
+   "nisza": "malarze pokojowi",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: malarze pokojowi",
+   "nisza": "malarze pokojowi",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: glazurnicy",
+   "nisza": "glazurnicy",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: glazurnicy",
+   "nisza": "glazurnicy",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: dekarze",
+   "nisza": "dekarze",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: dekarze",
+   "nisza": "dekarze",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: murarze",
+   "nisza": "murarze",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: murarze",
+   "nisza": "murarze",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: spawacze",
+   "nisza": "spawacze",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: spawacze",
+   "nisza": "spawacze",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: ślusarze",
+   "nisza": "ślusarze",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: ślusarze",
+   "nisza": "ślusarze",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: monterzy HVAC",
+   "nisza": "monterzy HVAC",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: monterzy HVAC",
+   "nisza": "monterzy HVAC",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: ogrodnicy-firmy",
+   "nisza": "ogrodnicy-firmy",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: ogrodnicy-firmy",
+   "nisza": "ogrodnicy-firmy",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: arboryści",
+   "nisza": "arboryści",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: arboryści",
+   "nisza": "arboryści",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: floryści",
+   "nisza": "floryści",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: floryści",
+   "nisza": "floryści",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: piekarze",
+   "nisza": "piekarze",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: piekarze",
+   "nisza": "piekarze",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: rzeźnicy",
+   "nisza": "rzeźnicy",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: rzeźnicy",
+   "nisza": "rzeźnicy",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: fryzjerzy",
+   "nisza": "fryzjerzy",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: fryzjerzy",
+   "nisza": "fryzjerzy",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: manicurzystki",
+   "nisza": "manicurzystki",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: manicurzystki",
+   "nisza": "manicurzystki",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: tatuażyści",
+   "nisza": "tatuażyści",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: tatuażyści",
+   "nisza": "tatuażyści",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: kolczykarze",
+   "nisza": "kolczykarze",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: kolczykarze",
+   "nisza": "kolczykarze",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: groomerzy psów",
+   "nisza": "groomerzy psów",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: groomerzy psów",
+   "nisza": "groomerzy psów",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: opiekunowie zwierząt",
+   "nisza": "opiekunowie zwierząt",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: opiekunowie zwierząt",
+   "nisza": "opiekunowie zwierząt",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: sprzątaczki",
+   "nisza": "sprzątaczki",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: sprzątaczki",
+   "nisza": "sprzątaczki",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: myjący okna",
+   "nisza": "myjący okna",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: myjący okna",
+   "nisza": "myjący okna",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: kominiarze",
+   "nisza": "kominiarze",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: kominiarze",
+   "nisza": "kominiarze",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: mobilni mechanicy",
+   "nisza": "mobilni mechanicy",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: mobilni mechanicy",
+   "nisza": "mobilni mechanicy",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: tapicerzy",
+   "nisza": "tapicerzy",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: tapicerzy",
+   "nisza": "tapicerzy",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: krawcowe",
+   "nisza": "krawcowe",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: krawcowe",
+   "nisza": "krawcowe",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: szewcy",
+   "nisza": "szewcy",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: szewcy",
+   "nisza": "szewcy",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: kowale",
+   "nisza": "kowale",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: kowale",
+   "nisza": "kowale",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: brukarze",
+   "nisza": "brukarze",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: brukarze",
+   "nisza": "brukarze",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: lakiernicy samochodowi",
+   "nisza": "lakiernicy samochodowi",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: lakiernicy samochodowi",
+   "nisza": "lakiernicy samochodowi",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: chorzy na IBS",
+   "nisza": "chorzy na IBS",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: chorzy na IBS",
+   "nisza": "chorzy na IBS",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: chorzy na migrenę",
+   "nisza": "chorzy na migrenę",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: chorzy na migrenę",
+   "nisza": "chorzy na migrenę",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: alergicy",
+   "nisza": "alergicy",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: alergicy",
+   "nisza": "alergicy",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: cukrzycy",
+   "nisza": "cukrzycy",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: cukrzycy",
+   "nisza": "cukrzycy",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: z przewlekłym bólem pleców",
+   "nisza": "z przewlekłym bólem pleców",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: z przewlekłym bólem pleców",
+   "nisza": "z przewlekłym bólem pleców",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: na diecie keto",
+   "nisza": "na diecie keto",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: na diecie keto",
+   "nisza": "na diecie keto",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: na diecie FODMAP",
+   "nisza": "na diecie FODMAP",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: na diecie FODMAP",
+   "nisza": "na diecie FODMAP",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: na diecie carnivore",
+   "nisza": "na diecie carnivore",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: na diecie carnivore",
+   "nisza": "na diecie carnivore",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: z celiakią",
+   "nisza": "z celiakią",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: z celiakią",
+   "nisza": "z celiakią",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: z nadciśnieniem",
+   "nisza": "z nadciśnieniem",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: z nadciśnieniem",
+   "nisza": "z nadciśnieniem",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: po operacji bariatrycznej",
+   "nisza": "po operacji bariatrycznej",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: po operacji bariatrycznej",
+   "nisza": "po operacji bariatrycznej",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: z bezsennością",
+   "nisza": "z bezsennością",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: z bezsennością",
+   "nisza": "z bezsennością",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: z ADHD",
+   "nisza": "z ADHD",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: z ADHD",
+   "nisza": "z ADHD",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: z dysleksją",
+   "nisza": "z dysleksją",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: z dysleksją",
+   "nisza": "z dysleksją",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: z zaburzeniami odżywiania",
+   "nisza": "z zaburzeniami odżywiania",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: z zaburzeniami odżywiania",
+   "nisza": "z zaburzeniami odżywiania",
+   "score": 16,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: pielęgniarki",
+   "nisza": "pielęgniarki",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: pielęgniarki",
+   "nisza": "pielęgniarki",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: ratownicy medyczni",
+   "nisza": "ratownicy medyczni",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: ratownicy medyczni",
+   "nisza": "ratownicy medyczni",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: położne",
+   "nisza": "położne",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: położne",
+   "nisza": "położne",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: fizjoterapeuci",
+   "nisza": "fizjoterapeuci",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: fizjoterapeuci",
+   "nisza": "fizjoterapeuci",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: dietetycy",
+   "nisza": "dietetycy",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: dietetycy",
+   "nisza": "dietetycy",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: optometryści",
+   "nisza": "optometryści",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: optometryści",
+   "nisza": "optometryści",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: higienistki stomatologiczne",
+   "nisza": "higienistki stomatologiczne",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: higienistki stomatologiczne",
+   "nisza": "higienistki stomatologiczne",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: technicy weterynarii",
+   "nisza": "technicy weterynarii",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: technicy weterynarii",
+   "nisza": "technicy weterynarii",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: nauczyciele",
+   "nisza": "nauczyciele",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: nauczyciele",
+   "nisza": "nauczyciele",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: korepetytorzy",
+   "nisza": "korepetytorzy",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: korepetytorzy",
+   "nisza": "korepetytorzy",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: instruktorzy nauki jazdy",
+   "nisza": "instruktorzy nauki jazdy",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: instruktorzy nauki jazdy",
+   "nisza": "instruktorzy nauki jazdy",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: nauczyciele muzyki",
+   "nisza": "nauczyciele muzyki",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: nauczyciele muzyki",
+   "nisza": "nauczyciele muzyki",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: trenerzy personalni",
+   "nisza": "trenerzy personalni",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: trenerzy personalni",
+   "nisza": "trenerzy personalni",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: instruktorzy jogi",
+   "nisza": "instruktorzy jogi",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: instruktorzy jogi",
+   "nisza": "instruktorzy jogi",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: agenci nieruchomości",
+   "nisza": "agenci nieruchomości",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: agenci nieruchomości",
+   "nisza": "agenci nieruchomości",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: brokerzy ubezpieczeniowi",
+   "nisza": "brokerzy ubezpieczeniowi",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: brokerzy ubezpieczeniowi",
+   "nisza": "brokerzy ubezpieczeniowi",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: doradcy kredytowi",
+   "nisza": "doradcy kredytowi",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: doradcy kredytowi",
+   "nisza": "doradcy kredytowi",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: księgowi-mali",
+   "nisza": "księgowi-mali",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: księgowi-mali",
+   "nisza": "księgowi-mali",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: notariusze",
+   "nisza": "notariusze",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: notariusze",
+   "nisza": "notariusze",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: organizatorzy pogrzebów",
+   "nisza": "organizatorzy pogrzebów",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: organizatorzy pogrzebów",
+   "nisza": "organizatorzy pogrzebów",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: organizatorzy eventów",
+   "nisza": "organizatorzy eventów",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: organizatorzy eventów",
+   "nisza": "organizatorzy eventów",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: wedding plannerzy",
+   "nisza": "wedding plannerzy",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: wedding plannerzy",
+   "nisza": "wedding plannerzy",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: fotografowie ślubni",
+   "nisza": "fotografowie ślubni",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: fotografowie ślubni",
+   "nisza": "fotografowie ślubni",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: kamerzyści",
+   "nisza": "kamerzyści",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: kamerzyści",
+   "nisza": "kamerzyści",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: DJ-e",
+   "nisza": "DJ-e",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: DJ-e",
+   "nisza": "DJ-e",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: cateringowcy",
+   "nisza": "cateringowcy",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: cateringowcy",
+   "nisza": "cateringowcy",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: food trucki",
+   "nisza": "food trucki",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: food trucki",
+   "nisza": "food trucki",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: sprzedawcy na targu",
+   "nisza": "sprzedawcy na targu",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: sprzedawcy na targu",
+   "nisza": "sprzedawcy na targu",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: sprzedawcy Etsy",
+   "nisza": "sprzedawcy Etsy",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: sprzedawcy Etsy",
+   "nisza": "sprzedawcy Etsy",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: resellerzy eBay",
+   "nisza": "resellerzy eBay",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: resellerzy eBay",
+   "nisza": "resellerzy eBay",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: tłumacze",
+   "nisza": "tłumacze",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: tłumacze",
+   "nisza": "tłumacze",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: bibliotekarze",
+   "nisza": "bibliotekarze",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: bibliotekarze",
+   "nisza": "bibliotekarze",
+   "score": 15,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: pszczelarze",
+   "nisza": "pszczelarze",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: pszczelarze",
+   "nisza": "pszczelarze",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: akwaryści",
+   "nisza": "akwaryści",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: akwaryści",
+   "nisza": "akwaryści",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: piwowarzy domowi",
+   "nisza": "piwowarzy domowi",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: piwowarzy domowi",
+   "nisza": "piwowarzy domowi",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: winiarze domowi",
+   "nisza": "winiarze domowi",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: winiarze domowi",
+   "nisza": "winiarze domowi",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: piekarze zakwasowi",
+   "nisza": "piekarze zakwasowi",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: piekarze zakwasowi",
+   "nisza": "piekarze zakwasowi",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: dziewiarki",
+   "nisza": "dziewiarki",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: dziewiarki",
+   "nisza": "dziewiarki",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: szydełkarki",
+   "nisza": "szydełkarki",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: szydełkarki",
+   "nisza": "szydełkarki",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: makramistki",
+   "nisza": "makramistki",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: makramistki",
+   "nisza": "makramistki",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: ceramicy",
+   "nisza": "ceramicy",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: ceramicy",
+   "nisza": "ceramicy",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: stolarze-hobbyści",
+   "nisza": "stolarze-hobbyści",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: stolarze-hobbyści",
+   "nisza": "stolarze-hobbyści",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: modelarze kolejowi",
+   "nisza": "modelarze kolejowi",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: modelarze kolejowi",
+   "nisza": "modelarze kolejowi",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: modelarze plastikowi",
+   "nisza": "modelarze plastikowi",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: modelarze plastikowi",
+   "nisza": "modelarze plastikowi",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: ptasiarze",
+   "nisza": "ptasiarze",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: ptasiarze",
+   "nisza": "ptasiarze",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: wędkarze",
+   "nisza": "wędkarze",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: wędkarze",
+   "nisza": "wędkarze",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: wędkarze muchowi",
+   "nisza": "wędkarze muchowi",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: wędkarze muchowi",
+   "nisza": "wędkarze muchowi",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: disc golfiści",
+   "nisza": "disc golfiści",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: disc golfiści",
+   "nisza": "disc golfiści",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: łucznicy",
+   "nisza": "łucznicy",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: łucznicy",
+   "nisza": "łucznicy",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: biwakowicze",
+   "nisza": "biwakowicze",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: biwakowicze",
+   "nisza": "biwakowicze",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: bushcrafterzy",
+   "nisza": "bushcrafterzy",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: bushcrafterzy",
+   "nisza": "bushcrafterzy",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: geocacherzy",
+   "nisza": "geocacherzy",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: geocacherzy",
+   "nisza": "geocacherzy",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: poszukiwacze z wykrywaczem",
+   "nisza": "poszukiwacze z wykrywaczem",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: poszukiwacze z wykrywaczem",
+   "nisza": "poszukiwacze z wykrywaczem",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: numizmatycy",
+   "nisza": "numizmatycy",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: numizmatycy",
+   "nisza": "numizmatycy",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: filateliści",
+   "nisza": "filateliści",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: filateliści",
+   "nisza": "filateliści",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: kolekcjonerzy winyli",
+   "nisza": "kolekcjonerzy winyli",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: kolekcjonerzy winyli",
+   "nisza": "kolekcjonerzy winyli",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: gracze planszówek",
+   "nisza": "gracze planszówek",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: gracze planszówek",
+   "nisza": "gracze planszówek",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: gracze RPG",
+   "nisza": "gracze RPG",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: gracze RPG",
+   "nisza": "gracze RPG",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: malarze figurek",
+   "nisza": "malarze figurek",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: malarze figurek",
+   "nisza": "malarze figurek",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: cosplayerzy",
+   "nisza": "cosplayerzy",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: cosplayerzy",
+   "nisza": "cosplayerzy",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: quilterki",
+   "nisza": "quilterki",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: quilterki",
+   "nisza": "quilterki",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: hafciarki",
+   "nisza": "hafciarki",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: hafciarki",
+   "nisza": "hafciarki",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: mydlarze",
+   "nisza": "mydlarze",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: mydlarze",
+   "nisza": "mydlarze",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: świecarze",
+   "nisza": "świecarze",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: świecarze",
+   "nisza": "świecarze",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: jubilerzy-hobbyści",
+   "nisza": "jubilerzy-hobbyści",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: jubilerzy-hobbyści",
+   "nisza": "jubilerzy-hobbyści",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: kaligrafowie",
+   "nisza": "kaligrafowie",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: kaligrafowie",
+   "nisza": "kaligrafowie",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: bonsai-ści",
+   "nisza": "bonsai-ści",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: bonsai-ści",
+   "nisza": "bonsai-ści",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: storczykarze",
+   "nisza": "storczykarze",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: storczykarze",
+   "nisza": "storczykarze",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: ogrodnicy warzywni",
+   "nisza": "ogrodnicy warzywni",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: ogrodnicy warzywni",
+   "nisza": "ogrodnicy warzywni",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: sukulentowcy",
+   "nisza": "sukulentowcy",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: sukulentowcy",
+   "nisza": "sukulentowcy",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: grzybiarze",
+   "nisza": "grzybiarze",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: grzybiarze",
+   "nisza": "grzybiarze",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: degustatorzy whisky",
+   "nisza": "degustatorzy whisky",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: degustatorzy whisky",
+   "nisza": "degustatorzy whisky",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: miłośnicy cygar",
+   "nisza": "miłośnicy cygar",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: miłośnicy cygar",
+   "nisza": "miłośnicy cygar",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: astronomowie amatorzy",
+   "nisza": "astronomowie amatorzy",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: astronomowie amatorzy",
+   "nisza": "astronomowie amatorzy",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: dronowcy",
+   "nisza": "dronowcy",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: dronowcy",
+   "nisza": "dronowcy",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: modelarze RC",
+   "nisza": "modelarze RC",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: modelarze RC",
+   "nisza": "modelarze RC",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: wspinacze",
+   "nisza": "wspinacze",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: wspinacze",
+   "nisza": "wspinacze",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: żeglarze",
+   "nisza": "żeglarze",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: żeglarze",
+   "nisza": "żeglarze",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: kajakarze",
+   "nisza": "kajakarze",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: kajakarze",
+   "nisza": "kajakarze",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: nurkowie",
+   "nisza": "nurkowie",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: nurkowie",
+   "nisza": "nurkowie",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: jeźdźcy konni",
+   "nisza": "jeźdźcy konni",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: jeźdźcy konni",
+   "nisza": "jeźdźcy konni",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: hodowcy kur",
+   "nisza": "hodowcy kur",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: hodowcy kur",
+   "nisza": "hodowcy kur",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: hodowcy królików",
+   "nisza": "hodowcy królików",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: hodowcy królików",
+   "nisza": "hodowcy królików",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: terrarystów",
+   "nisza": "terrarystów",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: terrarystów",
+   "nisza": "terrarystów",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: aeromodelarze",
+   "nisza": "aeromodelarze",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: aeromodelarze",
+   "nisza": "aeromodelarze",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: fotografowie ptaków",
+   "nisza": "fotografowie ptaków",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: fotografowie ptaków",
+   "nisza": "fotografowie ptaków",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator dawkowania dla: biegacze górscy",
+   "nisza": "biegacze górscy",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "kalkulator proporcji mieszanki dla: biegacze górscy",
+   "nisza": "biegacze górscy",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "dziennik objawów → PDF dla lekarza dla: seniorzy",
+   "nisza": "seniorzy",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "dziennik triggerów dla: seniorzy",
+   "nisza": "seniorzy",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "dziennik objawów → PDF dla lekarza dla: opiekunowie osób starszych",
+   "nisza": "opiekunowie osób starszych",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "dziennik triggerów dla: opiekunowie osób starszych",
+   "nisza": "opiekunowie osób starszych",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "dziennik objawów → PDF dla lekarza dla: opiekunowie niepełnosprawnych",
+   "nisza": "opiekunowie niepełnosprawnych",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "dziennik triggerów dla: opiekunowie niepełnosprawnych",
+   "nisza": "opiekunowie niepełnosprawnych",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "dziennik objawów → PDF dla lekarza dla: homeschoolerzy",
+   "nisza": "homeschoolerzy",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "dziennik triggerów dla: homeschoolerzy",
+   "nisza": "homeschoolerzy",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "dziennik objawów → PDF dla lekarza dla: rodzice przedszkolaków",
+   "nisza": "rodzice przedszkolaków",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "dziennik triggerów dla: rodzice przedszkolaków",
+   "nisza": "rodzice przedszkolaków",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "dziennik objawów → PDF dla lekarza dla: rodzice uczniów 1-3",
+   "nisza": "rodzice uczniów 1-3",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "dziennik triggerów dla: rodzice uczniów 1-3",
+   "nisza": "rodzice uczniów 1-3",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "dziennik objawów → PDF dla lekarza dla: studenci",
+   "nisza": "studenci",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "dziennik triggerów dla: studenci",
+   "nisza": "studenci",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "dziennik objawów → PDF dla lekarza dla: emigranci uczący się języka",
+   "nisza": "emigranci uczący się języka",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "dziennik triggerów dla: emigranci uczący się języka",
+   "nisza": "emigranci uczący się języka",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "dziennik objawów → PDF dla lekarza dla: Ukraińcy w Polsce",
+   "nisza": "Ukraińcy w Polsce",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "dziennik triggerów dla: Ukraińcy w Polsce",
+   "nisza": "Ukraińcy w Polsce",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "dziennik objawów → PDF dla lekarza dla: preppersi",
+   "nisza": "preppersi",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "dziennik triggerów dla: preppersi",
+   "nisza": "preppersi",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "dziennik objawów → PDF dla lekarza dla: minimaliści",
+   "nisza": "minimaliści",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "dziennik triggerów dla: minimaliści",
+   "nisza": "minimaliści",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "dziennik objawów → PDF dla lekarza dla: vanliferzy",
+   "nisza": "vanliferzy",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "dziennik triggerów dla: vanliferzy",
+   "nisza": "vanliferzy",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "dziennik objawów → PDF dla lekarza dla: capsule-wardrobe",
+   "nisza": "capsule-wardrobe",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "dziennik triggerów dla: capsule-wardrobe",
+   "nisza": "capsule-wardrobe",
+   "score": 14,
+   "done": false
+  },
+  {
+   "idea": "tabela referencyjna dla: nowi rodzice",
+   "nisza": "nowi rodzice",
+   "score": 13,
+   "done": false
+  },
+  {
+   "idea": "ściąga norm/parametrów dla: nowi rodzice",
+   "nisza": "nowi rodzice",
+   "score": 13,
+   "done": false
+  },
+  {
+   "idea": "tabela referencyjna dla: planujący wesele",
+   "nisza": "planujący wesele",
+   "score": 13,
+   "done": false
+  },
+  {
+   "idea": "ściąga norm/parametrów dla: planujący wesele",
+   "nisza": "planujący wesele",
+   "score": 13,
+   "done": false
+  },
+  {
+   "idea": "tabela referencyjna dla: przeprowadzający się",
+   "nisza": "przeprowadzający się",
+   "score": 13,
+   "done": false
+  },
+  {
+   "idea": "ściąga norm/parametrów dla: przeprowadzający się",
+   "nisza": "przeprowadzający się",
+   "score": 13,
+   "done": false
+  },
+  {
+   "idea": "tabela referencyjna dla: dziedziczący spadek",
+   "nisza": "dziedziczący spadek",
+   "score": 13,
+   "done": false
+  },
+  {
+   "idea": "ściąga norm/parametrów dla: dziedziczący spadek",
+   "nisza": "dziedziczący spadek",
+   "score": 13,
+   "done": false
+  }
+ ]
+}

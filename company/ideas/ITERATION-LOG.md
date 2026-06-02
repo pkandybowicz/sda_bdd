@@ -21,3 +21,9 @@ _(Kolejne wpisy dopisywane po każdej fazie.)_
 - REALITY-CHECK (realne WebSearch): 6/6 top = ZATLOCZONE/puste z przyczyny. Mit 'pustej niszy' obnazony.
 - REVIEW calosci: docs/agent-company/SOLUTION-REVIEW.md (scorecard ~9.1, sredni).
 - Decyzja: od Iteracji 3 konkurencja PRZED scoringiem.
+
+## Tryb 24/7 — żywy TOP 10
+- verified.json: 16 kandydatów zweryfikowanych realnie (WebSearch). 16/16 zatłoczone/darmowe.
+- Algorytm scoringu v1 + score_top10.py -> TOP10.md/top10.json (+ panel na portalu).
+- queue.json: 300 kandydatów z korpusu do weryfikacji w pętli.
+- TOP2 (price-wedge): HACCP temp log (62), tabela farb do włosów (61).
