@@ -18,10 +18,10 @@
     "lastReport": null
   },
   "echo": {
-    "status": "working",
-    "currentTask": "IT1/GEN metody 11-15 (boring-mandatory, analog, cross-domain, a11y, hyperlocal)",
-    "since": "2026-06-02T11:00:00Z",
-    "lastReport": null
+    "status": "idle",
+    "currentTask": null,
+    "since": "2026-06-02T11:18:00Z",
+    "lastReport": "ideas/iteration-1/gen-C-echo.md"
   },
   "vera": {
     "status": "working",
