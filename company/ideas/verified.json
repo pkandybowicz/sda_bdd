@@ -12487,6 +12487,174 @@
    "durability": 8,
    "reach": 3,
    "demand": 2
+  },
+  {
+   "id": "ES1",
+   "name": "Executor checklist + inwentarz spadku",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#14 spadek/legacy)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "ES2",
+   "name": "Cyfrowe dziedzictwo / spis haseł",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#14 spadek/legacy)"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "ES3",
+   "name": "Katalog pamiątek rodzinnych (Family Heirloom Archive iOS)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#14 spadek/legacy)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "ES4",
+   "name": "Plan pogrzebu / życzenia",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#14 spadek/legacy)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "ES5",
+   "name": "Tracker bequestów (arkusz wystarcza)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#14 spadek/legacy)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "ES6",
+   "name": "Log kosztów spadkowych (arkusz)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#14 spadek/legacy)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "ES7",
+   "name": "Timeline obowiązków wykonawcy",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#14 spadek/legacy)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "ES8",
+   "name": "Spis subskrypcji do anulowania (SubsVault free)",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [
+    "(mutacja#14 spadek/legacy)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "ES9",
+   "name": "Drzewo kontaktów do powiadomienia (arkusz)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#14 spadek/legacy)"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "ES10",
+   "name": "Inwentarz aktywów cyfrowych (krypto/domeny)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#14 spadek/legacy)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "ES11",
+   "name": "List pożegnalny / etyczny testament (dokument)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#14 spadek/legacy)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "ES12",
+   "name": "Rejestr grobów rodzinnych (Find a Grave free)",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [
+    "(mutacja#14 spadek/legacy)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
   }
  ]
 }
