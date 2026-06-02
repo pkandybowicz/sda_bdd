@@ -3,36 +3,36 @@
  "candidates": [
   {
    "id": "DyeRatio",
-   "name": "Tabela proporcji farb do włosów + kalkulator (salon)",
+   "name": "Tabela proporcji farb do włosów (UWAGA: Charm/Gloss freemium)",
    "verdict": "ZATŁOCZONA",
    "competitors": [
-    "Charm",
-    "Gloss",
+    "Vish($30/mc+$195 waga)",
+    "Charm(freemium)",
+    "Gloss(freemium)",
     "HairTracker",
     "Salon Formulator",
-    "Vish",
     "SalonScale"
    ],
    "n": 6,
-   "free_sub": false,
+   "free_sub": true,
    "model": "sub",
    "durability": 6,
    "reach": 6
   },
   {
    "id": "FoodTemp",
-   "name": "Ewidencja temperatur HACCP → raport",
+   "name": "Ewidencja temperatur HACCP → raport (UWAGA: free tiery istnieją)",
    "verdict": "ZATŁOCZONA",
    "competitors": [
+    "FoodDocs($84/mc)",
+    "RiskLimiter($60/lok)",
+    "SafetyCulture(free do 10!)",
+    "ThermoWorks(free basic)",
     "Inspectly360",
-    "Food Safe System",
-    "Hubl",
-    "Xenia",
-    "Temperature Log Book",
-    "Clever Logger"
+    "Temperature Log Book"
    ],
    "n": 6,
-   "free_sub": false,
+   "free_sub": true,
    "model": "sub",
    "durability": 7,
    "reach": 6
@@ -5209,6 +5209,216 @@
    "durability": 8,
    "reach": 3,
    "demand": 2
+  },
+  {
+   "id": "TR1",
+   "name": "Campsite log overlander",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "TR2",
+   "name": "Tracker opon motocyklowych",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "TR3",
+   "name": "Kalkulator zbiorników wody campervan [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "TR4",
+   "name": "Checklist recovery 4x4",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "TR5",
+   "name": "Log tras skitourowych",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "TR6",
+   "name": "Planer rejsów narrowboat UK",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "TR7",
+   "name": "Kalkulator zasięgu paliwa overland",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "TR8",
+   "name": "Tracker renowacji klasyków",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "TR9",
+   "name": "Log lotów paraglidingu",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "TR10",
+   "name": "Planer tras rowerowych GPX",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "TR11",
+   "name": "Planer podróży z przyczepą dla koni [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "TR12",
+   "name": "Log trudności odcinków kajak",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "TR13",
+   "name": "Tracker paliwa skuterów śnieżnych [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "TR14",
+   "name": "Planer rejsów żeglarskich",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "TR15",
+   "name": "Zarządzanie zbiornikami RV",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
   }
  ]
 }

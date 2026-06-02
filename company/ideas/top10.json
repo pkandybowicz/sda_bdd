@@ -1,21 +1,14 @@
 {
   "algo": "v3",
-  "updated": "2026-06-02 14:10 UTC",
-  "verified": 274,
+  "updated": "2026-06-02 14:16 UTC",
+  "verified": 349,
   "top10": [
     {
-      "id": "FoodTemp",
-      "name": "Ewidencja temperatur HACCP → raport",
+      "id": "TR15",
+      "name": "Zarządzanie zbiornikami RV",
       "score": 79,
       "verdict": "ZATŁOCZONA",
-      "n": 6
-    },
-    {
-      "id": "DyeRatio",
-      "name": "Tabela proporcji farb do włosów + kalkulator (salon)",
-      "score": 78,
-      "verdict": "ZATŁOCZONA",
-      "n": 6
+      "n": 3
     },
     {
       "id": "AudiobookVoiceBible",
@@ -25,11 +18,32 @@
       "n": 2
     },
     {
+      "id": "FD3",
+      "name": "Wyrób sera domowego",
+      "score": 66,
+      "verdict": "SŁABO OBSŁUŻONA",
+      "n": 2
+    },
+    {
       "id": "HB12",
       "name": "Menadżer receptur świec",
       "score": 65,
       "verdict": "SŁABO OBSŁUŻONA",
       "n": 3
+    },
+    {
+      "id": "FD14",
+      "name": "Przewodnik wędzenia na zimno [do potw.]",
+      "score": 61,
+      "verdict": "SŁABO OBSŁUŻONA",
+      "n": 0
+    },
+    {
+      "id": "FD5",
+      "name": "Przewodnik dehydratora [do potw.]",
+      "score": 61,
+      "verdict": "SŁABO OBSŁUŻONA",
+      "n": 0
     },
     {
       "id": "B13",
@@ -58,20 +72,6 @@
       "score": 59,
       "verdict": "SŁABO OBSŁUŻONA",
       "n": 5
-    },
-    {
-      "id": "EUDRmicro",
-      "name": "Due diligence EUDR dla mikro-importera",
-      "score": 58,
-      "verdict": "SŁABO OBSŁUŻONA",
-      "n": 4
-    },
-    {
-      "id": "MagicianLog",
-      "name": "Repertuar magika + log 'komu co pokazałem'",
-      "score": 58,
-      "verdict": "SŁABO OBSŁUŻONA",
-      "n": 1
     }
   ]
 }
