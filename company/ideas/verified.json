@@ -6535,6 +6535,174 @@
    "durability": 7,
    "reach": 3,
    "demand": 1
+  },
+  {
+   "id": "SD1",
+   "name": "Zamiennik Pocket (read-later offline)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja: shut-down refugees)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "SD2",
+   "name": "Zamiennik Evernote (notatnik sync)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja: shut-down refugees)"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "SD3",
+   "name": "Zamiennik Skype (VoIP)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja: shut-down refugees)"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "SD4",
+   "name": "Zamiennik Premiere (montaż wideo)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja: shut-down refugees)"
+   ],
+   "n": 9,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "SD5",
+   "name": "Zamiennik Adobe CC (grafika)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja: shut-down refugees)"
+   ],
+   "n": 9,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "SD6",
+   "name": "Zamiennik Camtasia (nagrywanie ekranu)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja: shut-down refugees)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "SD7",
+   "name": "Zamiennik Authy desktop (2FA)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja: shut-down refugees)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "SD8",
+   "name": "Zamiennik MS Lens (skaner dok.)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja: shut-down refugees)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "SD9",
+   "name": "Zamiennik LastPass (hasła)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja: shut-down refugees)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "SD10",
+   "name": "Zamiennik Google Photos unlimited",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja: shut-down refugees)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "SD11",
+   "name": "Zamiennik Notion (PKM offline)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja: shut-down refugees)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "SD12",
+   "name": "Zamiennik Bandcamp (sprzedaż muzyki indie)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja: shut-down refugees)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
   }
  ]
 }
