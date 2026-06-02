@@ -1,7 +1,7 @@
 {
   "algo": "v3",
-  "updated": "2026-06-02 10:28 UTC",
-  "verified": 61,
+  "updated": "2026-06-02 10:30 UTC",
+  "verified": 62,
   "top10": [
     {
       "id": "FoodTemp",
@@ -16,6 +16,13 @@
       "score": 78,
       "verdict": "ZATŁOCZONA",
       "n": 6
+    },
+    {
+      "id": "ComicColorBible",
+      "name": "Character color bible dla rysownika (hex per postać, odcienie, szybkie kopiowanie)",
+      "score": 72,
+      "verdict": "PUSTA Z OKAZJI",
+      "n": 1
     },
     {
       "id": "AudiobookVoiceBible",
@@ -65,13 +72,6 @@
       "score": 25,
       "verdict": "ZATŁOCZONA",
       "n": 3
-    },
-    {
-      "id": "ContinuingEdTracker",
-      "name": "Tracker punktów CEU/CPD + odnowienia",
-      "score": 24,
-      "verdict": "ZATŁOCZONA",
-      "n": 5
     }
   ]
 }
