@@ -4369,6 +4369,216 @@
    "durability": 8,
    "reach": 3,
    "demand": 2
+  },
+  {
+   "id": "E1",
+   "name": "Tracker fonik/czytania (rodzic)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "E2",
+   "name": "Generator transkryptów homeschool",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "E3",
+   "name": "Tracker celów IEP",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "E4",
+   "name": "Generator arkuszy pisma ręcznego",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "E5",
+   "name": "Drill tabliczki mnożenia",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "E6",
+   "name": "Karta obowiązków z nagrodami",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "E7",
+   "name": "Flashcardy sight words",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "E8",
+   "name": "Generator początków historii",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "E9",
+   "name": "Ćwiczenia spelling bee",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "E10",
+   "name": "Notatnik z wywiadówek [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "E11",
+   "name": "Timer wieczornej rutyny dzieci",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "E12",
+   "name": "Słownik wizualny ESL dla dzieci",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "E13",
+   "name": "Generator certyfikatów matematyki",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "E14",
+   "name": "Plan miejsc w klasie",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "E15",
+   "name": "Dziennik czytania dzieci",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(fala #2 agenci)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
   }
  ]
 }
