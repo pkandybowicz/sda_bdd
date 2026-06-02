@@ -2100,6 +2100,51 @@
    "durability": 7,
    "reach": 4,
    "demand": 2
+  },
+  {
+   "id": "KilnFiringLog",
+   "name": "Log wypałów pieca (garncarz)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "PotteryTech(glaze/cone)",
+    "TAP Kiln Controllers",
+    "logi papierowe"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "CharcuterieLog",
+   "name": "Log dojrzewania charcuterie",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "DeliApp",
+    "Meatdryer"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "BlacksmithLog",
+   "name": "Log projektów kowala",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(tylko gry: Forge Ahead; brak realnego project-logu)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
   }
  ]
 }
