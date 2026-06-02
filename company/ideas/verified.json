@@ -13098,6 +13098,180 @@
    "durability": 7,
    "reach": 3,
    "demand": 2
+  },
+  {
+   "id": "SM1",
+   "name": "WSET L3/L4 wino – SAT tasting log",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "WSET Tasting Notes",
+    "Curate",
+    "VinoPrep",
+    "TasteCoach"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "SM2",
+   "name": "CMS deductive tasting grid trainer",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Curate",
+    "Vine Savant"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "SM3",
+   "name": "WSET L3 Spirits SAT tasting log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Brainscape (flashcards)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "SM4",
+   "name": "Cicerone off-flavor / blind beer training log",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "brak; zestawy Aroxa + webinary"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "SM5",
+   "name": "WSET Sake L3 SAT tasting log",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "brak; WSET app tylko wino L2"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "SM6",
+   "name": "Q Grader / SCA CVA cupping log",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Catador CVA",
+    "Tastify",
+    "Cropster"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "SM7",
+   "name": "Tea sommelier structured tasting log",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [
+    "brak; nisza mikro"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "SM8",
+   "name": "Whisky nosing exam structured log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Flavordex (generic)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "SM9",
+   "name": "Olive oil IOC panel taster log",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [
+    "brak; B2B/lab"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "SM10",
+   "name": "Water sommelier tasting log",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [
+    "brak; <500 certyf."
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "SM11",
+   "name": "Cigar sommelier tasting log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "brak; IACS 5 PDF"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "SM12",
+   "name": "Cheese ACS CCSE tasting log",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [
+    "brak; egzamin MC"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 1,
+   "demand": 1
   }
  ]
 }
