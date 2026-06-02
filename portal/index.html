@@ -22,6 +22,9 @@
   .avatar { width:64px; height:64px; border-radius:14px; flex-shrink:0; }
   .name { font-size:18px; font-weight:700; }
   .role { color:var(--muted); font-size:13px; }
+  .badge { display:inline-block; font-size:10px; padding:2px 7px; border-radius:999px; margin-top:4px; }
+  .badge.etat { background:#1e3a8a; color:#bfdbfe; }
+  .badge.kontraktor { background:#713f12; color:#fde68a; }
   .traits { margin:12px 0; display:flex; gap:6px; flex-wrap:wrap; }
   .trait { font-size:11px; background:#0b1220; border:1px solid var(--line); color:var(--muted); padding:3px 8px; border-radius:999px; }
   .bio { font-size:13px; color:var(--muted); font-style:italic; margin-bottom:14px; }
@@ -55,7 +58,7 @@
   </div>
 </header>
 <div id="grid" class="grid"></div>
-<div class="hint">Status odświeża się co 5 s z zacommitowanego stanu (latencja ~ cykl commit/push). Start/Stop to plik-flaga: kliknięcie kopiuje komendę dla managera, który przełącza <code>company/control.json</code>.</div>
+<div class="hint">⚠️ Portal jest <b>statyczny i prywatny</b> (podstrona za loginem Twojej strony). Status odświeża się co 5 s z <b>zacommitowanego</b> stanu — latencja ≈ cykl commit/push, to nie jest live sub-sekundowy (świadomy trade-off „lekkości"). Start/Stop NIE zapisuje plików z przeglądarki: kliknięcie <b>kopiuje komendę</b> dla managera, który autorytatywnie przełącza <code>company/control.json</code>.</div>
 
 <div id="modal" class="modal" onclick="if(event.target===this)closeModal()">
   <div class="modalbox">
@@ -98,7 +101,8 @@ async function render(){
     return `<div class="card">
       <div class="top">
         <img class="avatar" src="${BASE+e.avatar}" alt="${e.name}">
-        <div><div class="name">${e.name}</div><div class="role">${e.role} · ${e.model}</div></div>
+        <div><div class="name">${e.name}</div><div class="role">${e.role} · ${e.model}</div>
+        ${e.type?`<span class="badge ${e.type}">${e.type}</span>`:""}</div>
       </div>
       <div class="traits">${traits}</div>
       <div class="bio">${e.bio}</div>

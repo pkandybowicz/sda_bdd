@@ -14,3 +14,10 @@ _(Kolejne wpisy dopisywane po każdej fazie.)_
 - **GENERACJA zakończona:** 4 batche, ~155 kandydatów. Najsilniejszy klaster: 🩺 dziennik objawów → wydruk dla specjalisty (5+ niezależnych trafień).
 - **FUNNEL:** shortlist 12 → ideas/iteration-1/FUNNEL-shortlist.md.
 - **Faza 10× KONKURENCJA** uruchomiona (Pixel/Echo/Vera równolegle).
+
+## Iteracja 2 — skala + naprawa metody
+- Generator kombinatoryczny: 16 300 kombinacji (10 360 sensownych) -> seed-corpus.csv + AUTO-SHORTLIST.md.
+- Konkurencja przedefiniowana na 10 metod (Play x3 / Apple x3 / +4).
+- REALITY-CHECK (realne WebSearch): 6/6 top = ZATLOCZONE/puste z przyczyny. Mit 'pustej niszy' obnazony.
+- REVIEW calosci: docs/agent-company/SOLUTION-REVIEW.md (scorecard ~9.1, sredni).
+- Decyzja: od Iteracji 3 konkurencja PRZED scoringiem.
