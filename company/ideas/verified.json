@@ -2192,6 +2192,51 @@
    "durability": 8,
    "reach": 3,
    "demand": 1
+  },
+  {
+   "id": "OrganRegistration",
+   "name": "Menadżer rejestracji organowych",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Classic OrganAssistant(free)",
+    "Pipe Organ Guide AI"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "BagpipeRepertoire",
+   "name": "Repertuar/praktyka dudziarza",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Braw Tunes",
+    "Bagpipe Player"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "HandbellAssign",
+   "name": "Przydział dzwonków (handbell choir)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "MMCC BELLS(freeware)",
+    "printable guides"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
   }
  ]
 }
