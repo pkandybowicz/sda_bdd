@@ -2676,6 +2676,56 @@
    "durability": 7,
    "reach": 3,
    "demand": 2
+  },
+  {
+   "id": "Rockhound",
+   "name": "Log lokacji rockhoundera",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Ruby Glint",
+    "RockHoundR",
+    "Rockhounding.org",
+    "Stone ID"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "ShedHunt",
+   "name": "Log zrzutów (shed hunting)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Scout To Hunt",
+    "HuntWise",
+    "onX",
+    "HuntStand",
+    "TrophyTracks"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "TrapLine",
+   "name": "Log linii traperskiej",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "onX",
+    "Go Trapping"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
   }
  ]
 }
