@@ -15627,6 +15627,2442 @@
    "durability": 9,
    "reach": 2,
    "demand": 1
+  },
+  {
+   "id": "X1048_",
+   "name": "aquascaping-layout-planner",
+   "verdict": "skip",
+   "competitors": [
+    "MyAquariumBuilder (free web)",
+    "Scape-it.io (free web)",
+    "Aquarium Planner AR (iOS)",
+    "Aquascaping Designer (Steam)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1050_",
+   "name": "reef-dosing-chemistry-calculator",
+   "verdict": "maybe",
+   "competitors": [
+    "ReefApp dosing calculator (free web)",
+    "Reef Stable (free web)",
+    "Aquarimate ($9.99/yr sub)",
+    "TRITON Toolkit (free)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1052_",
+   "name": "terrarium-vivarium-gradient-monitor",
+   "verdict": "maybe",
+   "competitors": [
+    "SensorPush (hardware+app)",
+    "SlitherSense (hardware kit)",
+    "UbiBot (hardware+app)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1054_",
+   "name": "ant-formicarium-tracker",
+   "verdict": "maybe",
+   "competitors": [
+    "AntShack Colony Tracker (free)",
+    "Ant Farm Simulator (game, not tracker)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1056_",
+   "name": "paludarium-planner",
+   "verdict": "go",
+   "competitors": [
+    "generic spreadsheets",
+    "no dedicated app found"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1058_",
+   "name": "shrimp-parameters-tracker",
+   "verdict": "maybe",
+   "competitors": [
+    "Aquarimate (general, $9.99/yr)",
+    "spreadsheet templates",
+    "no neocaridina/caridina-specific app found"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1060_",
+   "name": "turtle-tortoise-care-tracker",
+   "verdict": "skip",
+   "competitors": [
+    "TurtleNote (iOS free)",
+    "ReptiCare (freemium, $5.99/mo)",
+    "HerpTracker (free/sub)",
+    "SnekLog (free)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1062_",
+   "name": "gecko-feeding-weight-log",
+   "verdict": "skip",
+   "competitors": [
+    "ReptiCare (freemium)",
+    "SnekLog (free)",
+    "HerpTracker (freemium)",
+    "The Reptile Keeper",
+    "Husbandry.Pro (free up to 5)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 4,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X1064_",
+   "name": "snake-feeding-shed-log",
+   "verdict": "skip",
+   "competitors": [
+    "SnekLog (free/donations)",
+    "ReptiCare (freemium)",
+    "HerpTracker (freemium)",
+    "Reptile Tracker",
+    "Husbandry.Pro"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 4,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X1066_",
+   "name": "ornamental-birds-breeding-log",
+   "verdict": "maybe",
+   "competitors": [
+    "birdBreeder (sub, 30-day trial)",
+    "Birds Evolution Pro (paid desktop)",
+    "ZooEasy (subscription)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1068_",
+   "name": "pigeon-racing-breeding-tracker",
+   "verdict": "skip",
+   "competitors": [
+    "PigeonDB.com (online, paid)",
+    "PigeonProfile (cloud sub)",
+    "MyPigeon App (free)",
+    "Pigeon Planner (free desktop)",
+    "PigeonLoft (iOS)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1070_",
+   "name": "ornamental-poultry-tracker",
+   "verdict": "maybe",
+   "competitors": [
+    "FlockPlenty (freemium iOS)",
+    "birdBreeder (sub)",
+    "Poultry Pal (free)",
+    "iHatch-Chickens (free)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1072_",
+   "name": "mini-goat-sheep-small-farm",
+   "verdict": "skip",
+   "competitors": [
+    "FarmingGoat (free Android)",
+    "My Goat Manager (iOS)",
+    "FarmKeep (subscription)",
+    "Livestock Runner (free)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1074_",
+   "name": "alpaca-herd-manager",
+   "verdict": "maybe",
+   "competitors": [
+    "AlpacaEASE (desktop paid)",
+    "Alpacas on the Go (cloud sub)",
+    "Alpaca Tracker (iOS free)",
+    "Alpaca Pro (Android)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1076_",
+   "name": "rabbit-colony-tracker",
+   "verdict": "skip",
+   "competitors": [
+    "Everbreed ($4.99/mo)",
+    "OurRabbitry (web app)",
+    "FarmKeep (free tier)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1078_",
+   "name": "hamster-small-rodent-tracker",
+   "verdict": "go",
+   "competitors": [
+    "GerbilTrack (iOS, new 2025)",
+    "Hamster Diary (iOS, new 2025)",
+    "generic pet care apps"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1080_",
+   "name": "koi-pond-tracker",
+   "verdict": "maybe",
+   "competitors": [
+    "KoiControl (sub)",
+    "KoiAi (freemium, AI)",
+    "PondKing DIY app (free)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1082_",
+   "name": "beehive-management",
+   "verdict": "skip",
+   "competitors": [
+    "ApiaryBook ($5 one-time unlock)",
+    "HiveTracks ($50/yr)",
+    "BeeKeepPal ($39/yr)",
+    "Beekeeping Diary (EU)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 5,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X1084_",
+   "name": "hiking_trip_log",
+   "verdict": "SKIP – AllTrails (free tier) + Komoot cover discovery+logging; Gaia GPS $40/yr for power users; market saturated, no gap at $5",
+   "competitors": [
+    "AllTrails",
+    "Komoot",
+    "Gaia GPS",
+    "Wikiloc"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 3,
+   "reach": 5,
+   "demand": 1
+  },
+  {
+   "id": "X1086_",
+   "name": "backpacking_meal_weight_planner",
+   "verdict": "WEAK – LighterPack free web tool satisfies most; Packstack/OutPack/PackLight free apps fill mobile gap; paid angle is mobile-native with offline calorie calc, but Packstack already does it free",
+   "competitors": [
+    "LighterPack",
+    "Packstack",
+    "OutPack",
+    "PackLight",
+    "BackpackPeek"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1088_",
+   "name": "bushcraft_skills_reference",
+   "verdict": "POSSIBLE – existing apps are magazine clones or vague; no polished offline step-by-step skills app with illustrations; demand on BushcraftUK forums; pay-once $5 fits",
+   "competitors": [
+    "Offline Survival Manual",
+    "Bushcraft & Survival Skills Magazine",
+    "Pocket Bushman"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1090_",
+   "name": "kayaking_canoe_trip_log",
+   "verdict": "WEAK – Paddle Logger (free+paid) and PaddleWays Pro ($50/yr) cover logging+river levels; niche but already addressed; spreadsheet works for casual users",
+   "competitors": [
+    "Paddle Logger",
+    "PaddleWays",
+    "River App",
+    "Mapometer"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1092_",
+   "name": "caving_speleology_log",
+   "verdict": "POSSIBLE – no polished consumer cave-log app; TopoDroid/CaveSurvey are technical survey tools for clubs, not personal trip journals; tiny audience, very high loyalty, no real competitor at $5",
+   "competitors": [
+    "TopoDroid",
+    "CaveSurvey",
+    "SexyTopo",
+    "CaveFinder"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 8,
+   "reach": 1,
+   "demand": 2
+  },
+  {
+   "id": "X1094_",
+   "name": "alpine_mountaineering_summit_log",
+   "verdict": "WEAK – Peakbagger.com free web+app, SummitLynx, Peakhunter all free; peak-bagging community well served; no clear paid gap",
+   "competitors": [
+    "Peakbagger",
+    "SummitPost",
+    "SummitLynx",
+    "Peakhunter"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1096_",
+   "name": "geocaching_companion",
+   "verdict": "SKIP – official Geocaching.com app (freemium), c:geo (free Android), Cachly (one-time iOS) fully cover the space; dominant locked ecosystem; no gap",
+   "competitors": [
+    "Geocaching.com",
+    "c:geo",
+    "Cachly",
+    "GCC"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 3,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X1098_",
+   "name": "metal_detecting_finds_log",
+   "verdict": "STRONG – community fragmented; DigLog/Ground Score/LuckyFind exist but no dominant winner; detectorists want GPS pins + photo + soil notes offline; pay-once $5 fits community ethos",
+   "competitors": [
+    "Ground Score",
+    "LuckyFind",
+    "DigLog",
+    "Metal Logger",
+    "Tect O Trak"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 3
+  },
+  {
+   "id": "X1100_",
+   "name": "camping_checklist",
+   "verdict": "SKIP – PackPoint (free+premium), Ultimate Camp Checklist, Packr all free; generic checklist apps (Todoist, Notion) work fine; zero differentiation room at $5",
+   "competitors": [
+    "PackPoint",
+    "Packr",
+    "Packing Pro",
+    "Ultimate Camp Checklist"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 2,
+   "reach": 5,
+   "demand": 1
+  },
+  {
+   "id": "X1102_",
+   "name": "rock_climbing_route_journal",
+   "verdict": "POSSIBLE – 27crags ($8/mo) covers guidebook topos; no cheap offline personal send-log focused app; Climblog niche but obscure; climbers want grade tracking + project notes offline at $5 one-time",
+   "competitors": [
+    "27crags",
+    "Climblog",
+    "TheCrag",
+    "Mountain Project"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1104_",
+   "name": "ski_touring_avalanche_notes",
+   "verdict": "WEAK – Avanet Tour $5/mo covers conditions+logging; White Risk free; Skitourenguru free; market covered by safety-focused free tools; liability concerns complicate paid solo app",
+   "competitors": [
+    "Avanet",
+    "White Risk",
+    "Skitourenguru",
+    "Trailforks"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1106_",
+   "name": "packrafting_trip_log",
+   "verdict": "STRONG – zero dedicated app exists; APA forum research confirms demand for map-based trip reports + access-point data; very niche but passionate community with no digital tool; $5 one-time fits perfectly",
+   "competitors": [
+    "APA Forum (web only)",
+    "generic GPX apps"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 8,
+   "reach": 1,
+   "demand": 3
+  },
+  {
+   "id": "X1108_",
+   "name": "bikepacking_route_planner",
+   "verdict": "SKIP – Komoot (~€60/yr), RideWithGPS (~$80/yr), Strava, Mapy.com ($19/yr) all cover this well; market very mature and competitive; no $5 gap",
+   "competitors": [
+    "Komoot",
+    "RideWithGPS",
+    "Strava",
+    "BikeMap",
+    "Mapy.com"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 3,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X1110_",
+   "name": "ultralight_gear_base_weight",
+   "verdict": "WEAK – LighterPack (free web), Packstack (free), PackLight (free iOS) all free; BackpackPeek $10/mo for premium; mobile-native offline angle slightly open but Hikt closing it; margin thin",
+   "competitors": [
+    "LighterPack",
+    "Packstack",
+    "PackLight",
+    "Hikt",
+    "BackpackPeek"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1112_",
+   "name": "hunting_journal_game_log",
+   "verdict": "POSSIBLE – OnX Hunt ($100/yr) and HuntStand dominate maps; pure journal/game-log niche underserved (HuntStand 2.8★ due to crashes); TrophyTracks free but basic; $5 offline-first journal has a real gap",
+   "competitors": [
+    "TrophyTracks",
+    "iHunt Journal",
+    "HuntStand",
+    "onX Hunt",
+    "CoHunt"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1114_",
+   "name": "survival_supplies_inventory",
+   "verdict": "WEAK – Preppr (free iOS), Prepper Inventory (free), Pantry Check (free tier), ReadyStash all exist; spreadsheet works fine; no clear paid $5 gap; community DIY ethos resists paying",
+   "competitors": [
+    "Preppr",
+    "Prepper Inventory",
+    "ReadyStash",
+    "Pantry Check",
+    "The Prepper App"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1116_",
+   "name": "birdwatching_species_list",
+   "verdict": "SKIP – Merlin Bird ID (Cornell, 100% free, offline packs) + eBird (free) essentially perfect; best-in-class free tools dominate; no meaningful gap for paid app",
+   "competitors": [
+    "Merlin Bird ID",
+    "eBird",
+    "Birda",
+    "Audubon",
+    "BirdNET"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 2,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X1118_",
+   "name": "nature_photography_location_log",
+   "verdict": "POSSIBLE – PhotoPills (€10 one-time) covers sun/moon planning; Explorest covers known spots; gap is personal location notebook (your secret spots, GPS + conditions + season notes) offline; no dominant $5 personal-log app",
+   "competitors": [
+    "PhotoPills",
+    "Explorest",
+    "Gaia GPS",
+    "Geotag Photos Pro"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1120_",
+   "name": "retro-cartridge-vault",
+   "verdict": "crowded — Retrodex, CLZ Games, Retro Game Collector all free-tier offline; spreadsheet covers basic needs",
+   "competitors": [
+    "Retrodex",
+    "CLZGames",
+    "RetroGameCollector",
+    "iCollectEverything"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1122_",
+   "name": "action-figure-log",
+   "verdict": "weak gap — iCollect Everything free tier + StashMyComics cover most needs; barcode DB already built",
+   "competitors": [
+    "iCollectEverything",
+    "Coleka",
+    "StashMyComics",
+    "MyFigureCollection"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1124_",
+   "name": "funko-pop-tracker",
+   "verdict": "saturated — official Funko app + PopGrinder (1500 items free) + iCollect leave no room for $5 wedge",
+   "competitors": [
+    "FunkoApp",
+    "PopGrinder",
+    "iCollectVinylFigures",
+    "Coleka"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 4,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X1126_",
+   "name": "autograph-catalog",
+   "verdict": "real gap — no dominant free offline catalog app; ManageMyCollectibles is old desktop-only; niche is underserved",
+   "competitors": [
+    "ManageMyCollectibles"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1128_",
+   "name": "sneaker-locker",
+   "verdict": "crowded marketplace — Unboxed free, iCollect free, GOAT/StockX dominate; catalog-only $5 app struggles to differentiate",
+   "competitors": [
+    "Unboxed",
+    "iCollectShoes",
+    "GOAT",
+    "StockX"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 4,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X1130_",
+   "name": "antique-cataloger",
+   "verdict": "moderate gap — Recollector free, Curio freemium, generic; no free app owns 'antiques' cleanly; AI angle overused in 2025",
+   "competitors": [
+    "Recollector",
+    "Curio",
+    "AntiqueIdentifier",
+    "CatalogIt"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1132_",
+   "name": "diecast-garage",
+   "verdict": "crowded — Die Carz (4M cars, free), Diecast Parking, iCollect, Model Car Collector all free; market is served",
+   "competitors": [
+    "DieCarz",
+    "DiecastParking",
+    "ModelCarCollector",
+    "iCollectEverything"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1134_",
+   "name": "model-railroad-inventory",
+   "verdict": "moderate gap — niche is real, apps exist (Model Rail Inventory, iCollect, Railroad Consist) but none dominant on mobile offline; older audience pays",
+   "competitors": [
+    "ModelRailInventory",
+    "iCollectTrains",
+    "ModelRailroadConsist",
+    "EasyModelRailroadInventory"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1136_",
+   "name": "movie-poster-vault",
+   "verdict": "emerging gap — Posterama launched recently but young; no mature free offline-first app; collectors under-served vs. DVD catalogers",
+   "competitors": [
+    "Posterama",
+    "iCollectMovies"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1138_",
+   "name": "comic-grading-tracker",
+   "verdict": "saturated — ComicBase Free (500 comics), CLZ Comics, Key Collector, League of Comic Geeks all free; grading tracking is built into CLZ",
+   "competitors": [
+    "ComicBaseFree",
+    "CLZComics",
+    "KeyCollectorComics",
+    "LeagueOfComicGeeks"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1140_",
+   "name": "sports-card-log",
+   "verdict": "very crowded — CollX, Ludex, Sports Card Investor, SportsCardAlbum all free with scanning; no $5 wedge visible",
+   "competitors": [
+    "CollX",
+    "Ludex",
+    "SportsCardInvestor",
+    "SportsCardAlbum",
+    "iCollectEverything"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 4,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1142_",
+   "name": "breweriana-coaster-catalog",
+   "verdict": "real gap — no dedicated free mobile app found; community relies on BCCA forums and spreadsheets; tiny but loyal niche",
+   "competitors": [
+    "BCCAwebsite",
+    "EbaySearch"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X1144_",
+   "name": "phillumeny-catalog",
+   "verdict": "real gap — only a Google Play toy-car app mis-named 'Matchbox'; no dedicated phillumeny (matchbox label) app exists; micro-niche",
+   "competitors": [
+    "PhillumenyDotCom",
+    "BritishMatchboxSociety"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X1146_",
+   "name": "postcard-organizer",
+   "verdict": "thin gap — old desktop software (Postcard Organizer Deluxe, ManageMyCollectibles) exists; mobile app Postcards Collector free; spreadsheet widely used",
+   "competitors": [
+    "PostcardOrganizerDeluxe",
+    "PostcardsCollector",
+    "ManageMyCollectibles",
+    "HobbyKeeper"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1148_",
+   "name": "militaria-log",
+   "verdict": "gap — Miltrade is marketplace not catalog; no dedicated free offline catalog app; collectors use Excel; niche pays for authenticity tools",
+   "competitors": [
+    "Miltrade",
+    "ManageMyCollectibles"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1150_",
+   "name": "antique-clock-inventory",
+   "verdict": "clear gap — Recollector is generic; Antique Clocks Price Guide is web-only; no offline mobile app owns this niche; older collector audience",
+   "competitors": [
+    "Recollector",
+    "AntiqueClocksPriceGuide",
+    "Curio"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X1152_",
+   "name": "vintage-instrument-log",
+   "verdict": "thin gap — AllMyGuitars (iOS only, guitars only) exists; no multi-instrument free catalog; VintAxe $10/mo; $5 offline multi-instrument app viable",
+   "competitors": [
+    "AllMyGuitars",
+    "VintAxe",
+    "VintageGuitarMagazine"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1154_",
+   "name": "vintage-tool-catalog",
+   "verdict": "real gap — no dedicated mobile app; collectors use Internet Archive catalogs + spreadsheets; Alloy Artifacts web-only; underserved passionate niche",
+   "competitors": [
+    "AlloyArtifacts",
+    "VintageToolsDotNet",
+    "InternetArchiveToolLib"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1156_",
+   "name": "home-maintenance-schedule",
+   "verdict": "skip",
+   "competitors": [
+    "HomeZada",
+    "Dwellin",
+    "BrightNest",
+    "Homer",
+    "Oply"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1158_",
+   "name": "appliance-manuals-tracker",
+   "verdict": "build",
+   "competitors": [
+    "Centriq (shut down 2025)",
+    "Dib",
+    "HomeBeacon"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1160_",
+   "name": "paint-colors-per-room",
+   "verdict": "build",
+   "competitors": [
+    "Sherwin-Williams Color Expert (free)",
+    "Behr ColorSmart (free)",
+    "Benjamin Moore ColorReader (free)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1162_",
+   "name": "renovation-budget-tracker",
+   "verdict": "skip",
+   "competitors": [
+    "Remodelum",
+    "Budget My Reno",
+    "HomeZada",
+    "Houzz"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1164_",
+   "name": "tool-inventory",
+   "verdict": "build",
+   "competitors": [
+    "Sortly (freemium)",
+    "Google Sheets (free)",
+    "Toolstash"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1166_",
+   "name": "houseplant-watering",
+   "verdict": "skip",
+   "competitors": [
+    "Planta",
+    "Greg",
+    "PlantIn",
+    "Happy Plant"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 5,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1168_",
+   "name": "hvac-filter-reminder",
+   "verdict": "build",
+   "competitors": [
+    "FilterTime (delivery sub)",
+    "FilterBuy (delivery sub)",
+    "HomeZada"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1170_",
+   "name": "car-service-log",
+   "verdict": "skip",
+   "competitors": [
+    "Road Trip MPG (one-time ~$5)",
+    "Loggy (free)",
+    "CARFAX Car Care (free)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1172_",
+   "name": "warranty-tracker",
+   "verdict": "build",
+   "competitors": [
+    "Warranty Keeper",
+    "HomiHub",
+    "TrackWarranty",
+    "SmartWarrantyApp"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1174_",
+   "name": "keys-codes-access-tracker",
+   "verdict": "build",
+   "competitors": [
+    "1Password (overkill)",
+    "Notes app (free)",
+    "no dedicated home app found"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1176_",
+   "name": "home-inventory-insurance",
+   "verdict": "skip",
+   "competitors": [
+    "Nest Egg ($4.99 one-time)",
+    "NAIC Home Inventory (free)",
+    "HomyScan (free)",
+    "Sortly"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1178_",
+   "name": "pantry-shopping-list",
+   "verdict": "skip",
+   "competitors": [
+    "OurGroceries (free)",
+    "AnyList (sub)",
+    "Grocy (free/self-hosted)",
+    "Bring (free)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 4,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1180_",
+   "name": "furniture-dimensions-floor-plan",
+   "verdict": "skip",
+   "competitors": [
+    "magicplan",
+    "Home Design 3D",
+    "RoomSketcher",
+    "IKEA Place"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1182_",
+   "name": "lightbulb-types-tracker",
+   "verdict": "build",
+   "competitors": [
+    "Light Bulb Finder (free/old)",
+    "Light Bulb & Lamp Identifier (new free AI app)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1184_",
+   "name": "garden-planting-plan",
+   "verdict": "skip",
+   "competitors": [
+    "Planter ($49.99 lifetime)",
+    "Garden Plan Pro",
+    "Garden Planner Pro ($7.99)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1186_",
+   "name": "pool-spa-chemistry-log",
+   "verdict": "build",
+   "competitors": [
+    "Pool Math by TFP ($5 mobile / free web)",
+    "Pooli",
+    "Pool Pal"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1188_",
+   "name": "fireplace-wood-chimney-log",
+   "verdict": "build",
+   "competitors": [
+    "no dedicated app found",
+    "Notes/spreadsheet only"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1190_",
+   "name": "pest-control-home-log",
+   "verdict": "build",
+   "competitors": [
+    "no consumer app found (all are B2B)",
+    "notes/spreadsheet only"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1192",
+   "name": "secret-santa-draw",
+   "verdict": "skip",
+   "competitors": [
+    "Elfster",
+    "DrawNames",
+    "Uplup",
+    "Santa's Secret Keeper"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1194",
+   "name": "baby-shower-organizer",
+   "verdict": "possible",
+   "competitors": [
+    "WebBabyShower",
+    "Hobnob",
+    "Jotform"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1196",
+   "name": "kids-birthday-planner",
+   "verdict": "skip",
+   "competitors": [
+    "Hooray",
+    "PlanIt Party Planner",
+    "TopEvent",
+    "Partiful"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 4,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1198",
+   "name": "family-reunion-planner",
+   "verdict": "weak",
+   "competitors": [
+    "Reunly",
+    "Evite",
+    "Google Sheets",
+    "Doodle"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1200",
+   "name": "potluck-coordinator",
+   "verdict": "skip",
+   "competitors": [
+    "PerfectPotluck",
+    "Potluckly",
+    "DoPotluck",
+    "SignUp.com",
+    "PotluckHub"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 3,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1202",
+   "name": "rsvp-guest-list",
+   "verdict": "skip",
+   "competitors": [
+    "Partiful",
+    "RSVPify",
+    "Evite",
+    "Hobnob"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 4,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1204",
+   "name": "gift-tracker-who-gave-what",
+   "verdict": "weak",
+   "competitors": [
+    "Who Gave Me What",
+    "GiftList",
+    "Christmas Gift List Tracker",
+    "Giftster"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1206",
+   "name": "christmas-card-mailing-list",
+   "verdict": "possible",
+   "competitors": [
+    "The Christmas Card List",
+    "Minted",
+    "Christmas Planner"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1208",
+   "name": "advent-calendar-planner",
+   "verdict": "possible",
+   "competitors": [
+    "Advent App",
+    "Advent Calendar 2025",
+    "AppChocolate",
+    "MyAdvent"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1210",
+   "name": "bachelorette-bachelor-planner",
+   "verdict": "skip",
+   "competitors": [
+    "BACH",
+    "Batch",
+    "Partiful"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1212",
+   "name": "baptism-communion-organizer",
+   "verdict": "possible",
+   "competitors": [
+    "Baptism & Communion Invitation",
+    "generic event planners"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1214",
+   "name": "anniversary-planner",
+   "verdict": "skip",
+   "competitors": [
+    "TopEvent",
+    "PlanIt Party Planner",
+    "Hooray"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 4,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1216",
+   "name": "funeral-memorial-organizer",
+   "verdict": "possible",
+   "competitors": [
+    "Memento Vita",
+    "Everdays",
+    "Exit Life Ready",
+    "GoCanvas Funeral Planner"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1218",
+   "name": "garden-party-planner",
+   "verdict": "weak",
+   "competitors": [
+    "Hooray",
+    "PlanIt Party Planner",
+    "generic event planners"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 4,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1220",
+   "name": "scavenger-hunt-family",
+   "verdict": "build",
+   "competitors": [
+    "Goosechase",
+    "Scavify",
+    "Scavos",
+    "Backyard Hunt"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1222",
+   "name": "quiz-game-night-host",
+   "verdict": "possible",
+   "competitors": [
+    "Quizado",
+    "Kahoot",
+    "Jackbox"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1224",
+   "name": "neighborhood-fundraiser",
+   "verdict": "build",
+   "competitors": [
+    "GoFundMe (web)",
+    "Zeffy",
+    "spreadsheets"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1226",
+   "name": "wedding-shower-countdown",
+   "verdict": "weak",
+   "competitors": [
+    "Zola",
+    "The Knot",
+    "Wanderlist"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 4,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1228",
+   "name": "blog-editorial-calendar",
+   "verdict": "weak gap — CoSchedule/Notion/Airtable dominate; spreadsheet templates free everywhere; no offline need for solo blogger; $5 one-time hard to justify vs free Notion template",
+   "competitors": [
+    "CoSchedule",
+    "Notion",
+    "Airtable",
+    "Trello"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1230",
+   "name": "newsletter-planner",
+   "verdict": "weak gap — Beehiiv/Substack built-in planning; SendFox lifetime deal exists; planning phase well-covered by spreadsheet; niche demand exists but tiny",
+   "competitors": [
+    "Beehiiv",
+    "SendFox",
+    "Substack",
+    "Notion"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1232",
+   "name": "zine-production-planner",
+   "verdict": "real gap — Electric Zine Maker is art-only/free; no dedicated planning+layout+print-checklist app at $5; Affinity overkill at $50; zine community active on itch.io",
+   "competitors": [
+    "ElectricZineMaker",
+    "AffinityPublisher",
+    "Canva"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1234",
+   "name": "poetry-collection-versioning",
+   "verdict": "genuine gap — no app tracks poem drafts + collection order + version history + submission state in one $5 offline tool; Scrivener overkill at $49; Notion usable but friction-heavy",
+   "competitors": [
+    "Scrivener",
+    "Notion",
+    "GoogleDocs"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1236",
+   "name": "screenwriting-beat-sheet",
+   "verdict": "crowded — Causality, Fade In ($80), Arc Studio Pro, Scrivener all cover beat-sheeting; free options (WriterDuet free tier, Scrite) exist; $5 hard to differentiate",
+   "competitors": [
+    "FadeIn",
+    "CausaLit",
+    "ArcStudioPro",
+    "Scrivener",
+    "Scrite"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1238",
+   "name": "nanowrimo-counter-structure",
+   "verdict": "weak gap — NaNoWriMo site has free tracker; TrackBear free; spreadsheet templates abundant; demand spikes only in November; durability low outside event window",
+   "competitors": [
+    "NaNoWriMo",
+    "TrackBear",
+    "Dabble",
+    "spreadsheets"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 4,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1240",
+   "name": "reading-journal-tbr",
+   "verdict": "crowded — BookBuddy ($10 one-time), StoryGraph (free), Bookmory (offline-first free), Reading List (free) cover space well; very hard to wedge at $5",
+   "competitors": [
+    "BookBuddy",
+    "StoryGraph",
+    "Bookmory",
+    "Goodreads"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1242",
+   "name": "book-club-organizer",
+   "verdict": "weak gap — Bookclubs app free tier covers scheduling/polls/members; Bookship $3/mo; no strong $5 one-time offline solution exists but demand from clubs is limited and Excel often used",
+   "competitors": [
+    "Bookclubs",
+    "Bookship",
+    "BookMovement",
+    "Notion"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1244",
+   "name": "quote-swipe-collection",
+   "verdict": "real gap — Citez niche/iOS only; Readwise is subscription ($8/mo); no simple offline $5 desktop quote vault with tagging+source+context fields; writers/researchers clearly underserved",
+   "competitors": [
+    "Readwise",
+    "Citez",
+    "Notion",
+    "Obsidian"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1246",
+   "name": "fanfic-tracker",
+   "verdict": "niche gap — Booktower and Softgoods exist but subscription/freemium; AO3 has no offline tracking; spreadsheet dominant; small but passionate community willing to pay one-time",
+   "competitors": [
+    "Booktower",
+    "TrackBear",
+    "AO3",
+    "spreadsheets"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1248",
+   "name": "structured-gratitude-journal",
+   "verdict": "crowded — Gratitude Journal Good Things (one-time, offline, iOS) already fills exact slot; GratefulMe, 365 Gratitude all compete; market very saturated on mobile",
+   "competitors": [
+    "GratitudeGoodThings",
+    "GratefulMe",
+    "365Gratitude",
+    "Diarium"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1250",
+   "name": "podcast-episode-planner",
+   "verdict": "weak gap — Monday/Notion/spreadsheets cover planning; no dedicated $5 offline episode-structure app; demand real but podcasters already use Notion heavily; differentiation hard",
+   "competitors": [
+    "Notion",
+    "Monday",
+    "ThePodcastPlanner",
+    "Trello"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1252",
+   "name": "youtube-script-writer",
+   "verdict": "crowded and AI-disrupted — Subscribr LTD on AppSumo, StudioBinder free tier, Jasper, Maekersuite all compete; AI commoditizing scripts fast; $5 one-time uncompetitive vs AI tools",
+   "competitors": [
+    "Subscribr",
+    "StudioBinder",
+    "Jasper",
+    "ChatGPT"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 3,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1254",
+   "name": "copy-swipe-file",
+   "verdict": "real gap — SwipeFile.com/Swiped.co are online-only community sites; SwipeWell subscription; no offline $5 personal swipe-file vault with tagging and category; copywriters would pay",
+   "competitors": [
+    "SwipeWell",
+    "Swiped.co",
+    "SwipeFile.com",
+    "Notion"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1256",
+   "name": "submission-tracker-writer",
+   "verdict": "real gap — Duotrope is $5/mo subscription; The Submission Grinder free but web-only; Story Tracker app $8 one-time mobile-only; no desktop offline $5 solution with market DB integration",
+   "competitors": [
+    "Duotrope",
+    "SubmissionGrinder",
+    "StoryTracker",
+    "ChillSubs"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 3
+  },
+  {
+   "id": "X1258",
+   "name": "journaling-prompts-app",
+   "verdict": "crowded on mobile — Diarium ($5 one-time Android/Windows) already exists with prompts; Prompted Journal free; market served; differentiation on prompt quality alone insufficient",
+   "competitors": [
+    "Diarium",
+    "PromptedJournal",
+    "DayOne",
+    "Clearful"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1260",
+   "name": "commonplace-book",
+   "verdict": "real gap — Obsidian/Notion usable but not purpose-built; Screvi/CommonBook web-only or niche; no simple offline $5 app with source+quote+theme tagging; intellectual readers would pay",
+   "competitors": [
+    "Screvi",
+    "CommonBook",
+    "Obsidian",
+    "Notion"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1262",
+   "name": "research-notes-citation",
+   "verdict": "weak gap — Zotero free+open-source+offline dominates; EndNote $125 one-time overkill; Qiqqa free; $5 product can't compete with Zotero feature set for serious researchers",
+   "competitors": [
+    "Zotero",
+    "Mendeley",
+    "EndNote",
+    "Qiqqa"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1264",
+   "name": "Dziennik ćwiczeń per instrument (Practice Journal)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Modacity ($12.99/mies.)",
+    "Andante",
+    "Instrumentive",
+    "tuneUPGRADE",
+    "Audiorista",
+    "PracticeFirst"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1266",
+   "name": "Repertuar – Utwory do nauki (Song Learning List)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "tuneUPGRADE",
+    "Andante",
+    "Notion template"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1268",
+   "name": "Skale / Technika – Tracker postępu",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Perfect Ear (free)",
+    "Yousician",
+    "Simply Piano",
+    "Uberchord",
+    "ToneGym (web)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1270",
+   "name": "Ear Training Log (dziennik treningu słuchu)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "EarMaster ($9.99/mies.)",
+    "Perfect Ear (free)",
+    "TonedEar (free)",
+    "ToneGym",
+    "Tenuto ($3.99 one-time)",
+    "Hooktheory"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1272",
+   "name": "Kolejka utworów do nauki (Song Learning Queue)",
+   "verdict": "NISZA OK",
+   "competitors": [
+    "Notion template",
+    "tuneUPGRADE"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1274",
+   "name": "Setlista – Manager Występów",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Set List Maker (free)",
+    "BandHelper ($25/rok)",
+    "Setlists (one-time)",
+    "GigSetHero (free)",
+    "SetBook",
+    "OnSong"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1276",
+   "name": "Gig Log / Honoraria (dochody z gig)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "GigGain (offline, free)",
+    "Recordly (free)",
+    "Google Sheets template (Audition Playbook)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1278",
+   "name": "Kolekcja Tabów / Nut (Sheet Music & Tab Manager)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "forScore ($14.99 one-time)",
+    "MobileSheets (freemium)",
+    "Paperless Music ($4.99 one-time)",
+    "SongbookPro",
+    "MuseScore (free)",
+    "OnSong"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1280",
+   "name": "Metronom – Progres Tempa (BPM Progress Log)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Soundbrenner Metronome (sub)",
+    "Metronome: BPM & Practice (free)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1282",
+   "name": "Teoria Muzyki – Fiszki (Music Theory Flashcards)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Tenuto ($3.99)",
+    "musictheory.net (free web)",
+    "Ultimate Music Theory (Brainscape)",
+    "RemNote (free)",
+    "Anki + deck (free)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1284",
+   "name": "Śpiew – Ćwiczenia Wokalne (Vocal Practice Tracker)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Yousician ($29.99/mies.)",
+    "Riyaz ($4.99/mies.)",
+    "SingSharp (free/paid)",
+    "Sing True",
+    "Solfeg.io",
+    "Singing Carrots (web free)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1286",
+   "name": "Gitara – Postęp Akordów (Guitar Chord Progress)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Uberchord (free)",
+    "Yousician (sub)",
+    "GuitarTuna",
+    "Chordify (freemium)",
+    "Yamaha Chord Tracker (free)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X1288",
+   "name": "Perkusja – Rudymenty (Drum Rudiments Tracker)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Rudiments – Drum Practice (free)",
+    "Drumbitious (freemium)",
+    "Drummer ITP"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1290",
+   "name": "Pianino – Tracker Utworów (Piano Pieces Tracker)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Notion template (free)",
+    "Henle Library (pay-per-score)",
+    "forScore (one-time)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1292",
+   "name": "Ukulele – Tracker Ćwiczeń",
+   "verdict": "NISZA OK",
+   "competitors": [
+    "Yousician (sub)",
+    "Ukulele! ($4.99 one-time)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1294",
+   "name": "Harmonijka – Tracker Ćwiczeń (Harmonica Practice)",
+   "verdict": "NISZA OK",
+   "competitors": [
+    "HarpNinja ($14.99 one-time)",
+    "Harmonica Bending Trainer"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1296",
+   "name": "Looping / Beatmaking – Log Projektów",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Notion/Obsidian template",
+    "BandLab (free DAW)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1298",
+   "name": "Modular Synth – Menedżer Patchy",
+   "verdict": "NISZA OK",
+   "competitors": [
+    "ModularGrid (free web)",
+    "Patchstorage (free web)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1300",
+   "name": "Offline Itinerary Planner",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Wanderlog",
+    "TripIt",
+    "Sygic Travel",
+    "Roadtrippers",
+    "Stippl",
+    "TripAdvisor",
+    "Google Trips (dead)",
+    "Sygic"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1302",
+   "name": "Packing List Konfigurowalny",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "PackPoint",
+    "Packr",
+    "Easy Pack",
+    "Packing Pro",
+    "PackParty"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "paid_once",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1304",
+   "name": "Dziennik Podróży (Travel Journal)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Polarsteps",
+    "Day One",
+    "Journey",
+    "Diarium",
+    "FindPenguins",
+    "TripMemo",
+    "Journo"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1306",
+   "name": "Mapa Odwiedzonych Krajów / Stanów",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Visited",
+    "Countries Been",
+    "FindPenguins",
+    "Skratch",
+    "Pin Traveler",
+    "Been App",
+    "World Traveller"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1308",
+   "name": "Tracker Punktów Lojalnościowych / Mil",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "AwardWallet",
+    "Travel Freely",
+    "CardPointers",
+    "MaxRewards",
+    "Gondola"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1310",
+   "name": "Road Trip – Planer Postojów",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Roadtrippers",
+    "Wanderlog",
+    "Google Maps",
+    "Waze",
+    "RouteXL",
+    "MapQuest"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1312",
+   "name": "Layover City Guide (Co Zwiedzić podczas Przesiadki)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "LayoverGenie",
+    "The Layover Club",
+    "Epic Layover"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "paid_once",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1314",
+   "name": "Licznik Dni Schengen 90/180",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "HelloSchengen",
+    "Schengen90.app",
+    "Ninety180",
+    "Visa-calculator.com",
+    "MySchengenCalculator",
+    "SchengenSimple",
+    "EC official calculator",
+    "Schengen Calc app (Golubenko)"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1316",
+   "name": "Budżet Wyjazdu / Rozliczenie ze Znajomymi",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Splitwise",
+    "Tricount",
+    "Wanderlog",
+    "TravelSpend",
+    "Spentrip",
+    "Stippl",
+    "Cino",
+    "Trail Wallet"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1318",
+   "name": "Lista Restauracji / Miejsc do Odwiedzenia",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Mapstr",
+    "Google Maps",
+    "Beli",
+    "Wanderlog",
+    "World of Mouth",
+    "Yelp"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X1320",
+   "name": "Dziennik Nurkowań (Scuba Dive Log)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "DiveMate",
+    "PADI App",
+    "Diveboard",
+    "Digidive",
+    "Diving Log"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "paid_once",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1322",
+   "name": "Foto-Spoty per Destynacja",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "LocationScout",
+    "Explorest",
+    "PhotoHound",
+    "ShotHotspot"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1324",
+   "name": "Ewidencja Wiz / Dokumentów Podróżnych",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Flamingo Compliance",
+    "Travel Docs",
+    "Visa Index",
+    "TravelDoc"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1326",
+   "name": "Tracker Szczepień Podróżnych",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Vaccy",
+    "Vacuna",
+    "Vaccine Record for Travellers",
+    "VaccineGo"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "paid_once",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1328",
+   "name": "Rozmówki – Własne Frazy (Custom Phrasebook)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Travel Talk Phrasebook",
+    "Travel Phrasebook Phrase Log",
+    "Taalhammer",
+    "Phrasebook EN-ES"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "paid_once",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1330",
+   "name": "Czas w Strefach / Planer Spotkań dla Podróżnych",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "World Time Buddy",
+    "timeanddate.com",
+    "Timezone Wizard",
+    "Time Intersect",
+    "Global Time Buddy",
+    "OnceHub",
+    "World Timezone Calendar"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1332",
+   "name": "Travel Bucket List",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Wanderlust App",
+    "iBucket",
+    "The Bucket List App",
+    "Visited",
+    "iWish",
+    "Wanderlog"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1334",
+   "name": "Digital Nomad – Bazy Miast (City Ranker)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Nomads.com (Nomad List)",
+    "Wandrly",
+    "Digital Nomads World",
+    "City Buddy",
+    "Teleport"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "paid_once",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
   }
  ]
 }
