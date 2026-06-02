@@ -3318,6 +3318,217 @@
    "durability": 8,
    "reach": 2,
    "demand": 1
+  },
+  {
+   "id": "AH1",
+   "name": "Log iniekcji TRT/steroidów [agent, do potw.]",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(agent on-the-nose 1x — do potwierdzenia)"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AH2",
+   "name": "Faza reintrodukcji low-FODMAP [agent, do potw.]",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(agent on-the-nose 1x — do potwierdzenia)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AH3",
+   "name": "Dziennik bólu nerwu sromowego [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "agent PUSTA — niezweryfikowane on-the-nose"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "AH4",
+   "name": "Tracker ćwiczeń ekscentrycznych (tendinopatia Achillesa) — LEAD",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "brak DEDYKOWANEJ apki (protokół Alfredson)",
+    "generyczne rehab/HEP: Physitrack itp."
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "AH5",
+   "name": "Log pończoch uciskowych (obrzęk limfatyczny)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "brak dedykowanej; generyczne przypominacze"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AH6",
+   "name": "Log zmiany opatrunku pooperacyjnego [agent, do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(agent on-the-nose 1x — do potwierdzenia)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AH7",
+   "name": "Tracker drenu pooperacyjnego [agent, do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(agent on-the-nose 1x — do potwierdzenia)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AH8",
+   "name": "Dziennik bruksizmu dziennego [agent, do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(agent on-the-nose 1x — do potwierdzenia)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AH9",
+   "name": "Dno miednicy / inkontynencja [agent, do potw.]",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(agent on-the-nose 1x — do potwierdzenia)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "AH10",
+   "name": "Log INR / warfaryna [agent, do potw.]",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(agent on-the-nose 1x — do potwierdzenia)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AH11",
+   "name": "MCAS – objawy/triggery [agent, do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(agent on-the-nose 1x — do potwierdzenia)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AH12",
+   "name": "Timer terapii naprzemiennej [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "agent PUSTA — niezweryfikowane"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "AH13",
+   "name": "Log objawów po wstrząśnieniu mózgu [agent, do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(agent on-the-nose 1x — do potwierdzenia)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AH14",
+   "name": "Przypomnienia kropli do oczu (suche oko) [agent, do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(agent on-the-nose 1x — do potwierdzenia)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "AH15",
+   "name": "ORT nawadnianie dzieci [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "agent PUSTA — niezweryfikowane"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
   }
  ]
 }

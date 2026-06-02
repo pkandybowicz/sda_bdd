@@ -1,7 +1,7 @@
 {
   "algo": "v3",
-  "updated": "2026-06-02 12:25 UTC",
-  "verified": 142,
+  "updated": "2026-06-02 14:06 UTC",
+  "verified": 214,
   "top10": [
     {
       "id": "FoodTemp",
@@ -25,6 +25,13 @@
       "n": 2
     },
     {
+      "id": "AH3",
+      "name": "Dziennik bólu nerwu sromowego [do potw.]",
+      "score": 58,
+      "verdict": "SŁABO OBSŁUŻONA",
+      "n": 0
+    },
+    {
       "id": "EUDRmicro",
       "name": "Due diligence EUDR dla mikro-importera",
       "score": 58,
@@ -46,30 +53,23 @@
       "n": 1
     },
     {
-      "id": "VentriloquistVoice",
-      "name": "Notatki głosów postaci (brzuchomówca)",
-      "score": 50,
-      "verdict": "PUSTA Z OKAZJI",
-      "n": 1
-    },
-    {
-      "id": "ComicColorBible",
-      "name": "Color bible: ref-sheet hex per postać — rysownicy, animatorzy, FURRY, VTuberzy, OC-artyści + ich zleceniobiorcy",
-      "score": 43,
-      "verdict": "SŁABO OBSŁUŻONA",
-      "n": 4
-    },
-    {
-      "id": "HerbalTincture",
-      "name": "Tracker formuł nalewek (zielarz)",
-      "score": 39,
+      "id": "AH15",
+      "name": "ORT nawadnianie dzieci [do potw.]",
+      "score": 56,
       "verdict": "SŁABO OBSŁUŻONA",
       "n": 1
     },
     {
-      "id": "MemoryPalace",
-      "name": "Builder pałacu pamięci (method of loci)",
-      "score": 38,
+      "id": "AH12",
+      "name": "Timer terapii naprzemiennej [do potw.]",
+      "score": 53,
+      "verdict": "SŁABO OBSŁUŻONA",
+      "n": 0
+    },
+    {
+      "id": "AH7",
+      "name": "Tracker drenu pooperacyjnego [agent, do potw.]",
+      "score": 52,
       "verdict": "SŁABO OBSŁUŻONA",
       "n": 3
     }
