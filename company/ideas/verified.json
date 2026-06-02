@@ -2382,6 +2382,54 @@
    "durability": 8,
    "reach": 2,
    "demand": 1
+  },
+  {
+   "id": "RCflightLog",
+   "name": "Build/flight log RC",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "RC Flight and Battery Log",
+    "RCLogbook",
+    "Flight Coach"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "FossilCatalog",
+   "name": "Katalog kolekcji skamielin",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Fossil Identifier",
+    "FossilPro",
+    "Paleobiology DB"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "KiteBuild",
+   "name": "Plany/build latawców",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Kite Plan Base",
+    "SurfPlan",
+    "Kite Design Ideas"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
   }
  ]
 }
