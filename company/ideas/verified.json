@@ -1655,6 +1655,71 @@
    "durability": 7,
    "reach": 3,
    "demand": 1
+  },
+  {
+   "id": "FlyTying",
+   "name": "Katalog wzorów much (muszkarz)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Fly Tying Simulator",
+    "Global FlyFisher",
+    "Tie the Flies"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "MeadLog",
+   "name": "Log warów miodu (miodosytnik)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Mead Maker",
+    "Mead Corner",
+    "MeadMakr BatchBuildr",
+    "BeerSmith"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "ReptileHusbandry",
+   "name": "Log husbandry gadów (terrarysta)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "The Reptile Keeper",
+    "ReptiCare",
+    "SnekLog",
+    "Husbandry.Pro",
+    "Reptile Tracker"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "LapidaryLog",
+   "name": "Log szlifowania kaboszonów (lapidary)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(brak dedykowanej apki-logu; Lapidary Forum = forum)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
   }
  ]
 }
