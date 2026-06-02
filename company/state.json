@@ -1,5 +1,5 @@
 {
   "nova": { "status": "idle", "currentTask": null, "since": "2026-06-02T00:00:00Z", "lastReport": null },
-  "atlas": { "status": "working", "currentTask": "T-001: Generacja kandydatów + sygnał popytu", "since": "2026-06-02T09:00:00Z", "lastReport": null },
-  "pixel": { "status": "idle", "currentTask": null, "since": "2026-06-02T00:00:00Z", "lastReport": null }
+  "atlas": { "status": "idle", "currentTask": null, "since": "2026-06-02T09:09:00Z", "lastReport": "reports/T-001-atlas.md" },
+  "pixel": { "status": "working", "currentTask": "T-002: Analiza konkurencji TOP 8", "since": "2026-06-02T09:10:00Z", "lastReport": null }
 }

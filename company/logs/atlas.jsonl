@@ -1,0 +1,2 @@
+{"ts":"2026-06-02T09:00:00Z","dir":"in","task":"T-001","text":"Wygeneruj 12–15 kandydatów na aplikację (zrób raz / bez utrzymania / 5$ jednorazowo / 1000 szt./rok), odsiej do ~8 z sygnałem popytu."}
+{"ts":"2026-06-02T09:09:00Z","dir":"out","task":"T-001","text":"15 kandydatów → TOP 8: DiffLens, BatchLens, ColorVault, ImageBatch, FontDrop, WindowSnap Pro, RegexPilot, ExifScrub. Odrzucono m.in. PastePure (zatłoczone), TimestampKit, MarkStitch, ProofRead. Część stron 403 — sygnały [F]/[H]. Pełny raport: reports/T-001-atlas.md"}
