@@ -1391,6 +1391,71 @@
    "durability": 8,
    "reach": 2,
    "demand": 1
+  },
+  {
+   "id": "EmbroideryThread",
+   "name": "Konwerter nici haftu między markami",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "EmbroideryNerd",
+    "EZ Stitch",
+    "Floriani Thread App",
+    "AllThreads"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "QuiltStash",
+   "name": "Organizer stashu tkanin (patchwork)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "QuiltKeeper Studio",
+    "Cora",
+    "Threadloop"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "PinballLog",
+   "name": "Log napraw maszyn pinball (kolekcjoner)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(poradniki/serwisy: pinrepair; brak dedykowanej apki-logu)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "PerfumeWear",
+   "name": "Dziennik kolekcji/noszenia perfum",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Aromoshelf",
+    "ScentShelf",
+    "Parfumo",
+    "Prefume",
+    "PERFUMIST"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
   }
  ]
 }

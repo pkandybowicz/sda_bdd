@@ -1,7 +1,7 @@
 {
   "algo": "v3",
-  "updated": "2026-06-02 10:43 UTC",
-  "verified": 82,
+  "updated": "2026-06-02 10:47 UTC",
+  "verified": 86,
   "top10": [
     {
       "id": "FoodTemp",
@@ -46,6 +46,13 @@
       "n": 1
     },
     {
+      "id": "PinballLog",
+      "name": "Log napraw maszyn pinball (kolekcjoner)",
+      "score": 57,
+      "verdict": "SŁABO OBSŁUŻONA",
+      "n": 1
+    },
+    {
       "id": "VentriloquistVoice",
       "name": "Notatki głosów postaci (brzuchomówca)",
       "score": 50,
@@ -65,13 +72,6 @@
       "score": 36,
       "verdict": "SŁABO OBSŁUŻONA",
       "n": 3
-    },
-    {
-      "id": "CheeseLog",
-      "name": "Make-log + affinage (serowar domowy)",
-      "score": 31,
-      "verdict": "SŁABO OBSŁUŻONA",
-      "n": 2
     }
   ]
 }
