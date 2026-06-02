@@ -12818,6 +12818,118 @@
    "durability": 7,
    "reach": 2,
    "demand": 1
+  },
+  {
+   "id": "HF1",
+   "name": "Handoff niani na zmianie",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#16 handoff)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "HF2",
+   "name": "Handoff pet-sittera",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#16 handoff)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "HF3",
+   "name": "Punch lista wykonawca↔klient + foto",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#16 handoff)"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "HF4",
+   "name": "Protokół zdawczo-odbiorczy najmu",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#16 handoff)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "HF5",
+   "name": "Handoff zmiany warsztat/kuchnia (PDF wystarcza)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#16 handoff)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "HF6",
+   "name": "Notatki dla zastępcy nauczyciela (PDF/TPT)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#16 handoff)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "HF7",
+   "name": "Przekazanie jachtu czarter (YACHTWAVE szeroki)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#16 handoff)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "HF8",
+   "name": "Handoff sprzętu wynajem (Record360)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#16 handoff)"
+   ],
+   "n": 6,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
   }
  ]
 }
