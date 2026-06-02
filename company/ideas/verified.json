@@ -2776,6 +2776,54 @@
    "durability": 5,
    "reach": 4,
    "demand": 2
+  },
+  {
+   "id": "KombuchaLog",
+   "name": "Log warów kombuchy",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Kombucha Brew Tracker",
+    "KombuchApp",
+    "Kombucha&Ferments",
+    "Bucha30"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "WormBin",
+   "name": "Tracker wermikompostownika",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "WiseWorm"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "Microgreens",
+   "name": "Harmonogram/plon microgreens",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Microgreen Manager",
+    "SeedLeaf",
+    "microfarmr",
+    "Vegbed"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
   }
  ]
 }
