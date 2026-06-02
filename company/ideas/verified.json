@@ -3121,6 +3121,60 @@
    "durability": 8,
    "reach": 2,
    "demand": 1
+  },
+  {
+   "id": "AlpacaHerd",
+   "name": "Zarządzanie stadem alpak/lam",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "FarmKeep",
+    "Ranch Manager",
+    "AlpacaEASE",
+    "Alpaca Tracker"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "DairyGoat",
+   "name": "Record mleczny stada kóz",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "My Goat Manager",
+    "Herd Manager",
+    "FarmKeep",
+    "Farmbrite",
+    "EasyKeeper"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "ChickenFlock",
+   "name": "Tracker nieśności kur",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Flockstar",
+    "ChookBook",
+    "FlockPlenty",
+    "FlockFriend",
+    "CoopWise",
+    "Count Your Eggs"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
   }
  ]
 }
