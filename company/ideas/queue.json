@@ -118,13 +118,13 @@
    "idea": "PTClientLog: offline log treningów i pomiarów klienta dla trenera personalnego (personal trainer client offline)",
    "nisza": "PTClientLog",
    "score": 98,
-   "done": false
+   "done": true
   },
   {
    "idea": "MusicPracticeLog: log praktyki i grafik dla nauczyciela muzyki (music teacher lesson practice log)",
    "nisza": "MusicPracticeLog",
    "score": 98,
-   "done": false
+   "done": true
   },
   {
    "idea": "FloristRecipe: kalkulator wyceny i liczby łodyg bukietu dla florysty (florist recipe stem count pricing)",
@@ -142,19 +142,19 @@
    "idea": "DuctSize: kalkulator doboru kanałów wentylacyjnych HVAC (HVAC duct sizing calculator)",
    "nisza": "DuctSize",
    "score": 98,
-   "done": false
+   "done": true
   },
   {
    "idea": "BakerPct: kalkulator baker's percentage / skalowanie ciasta (bakers percentage dough scaling)",
    "nisza": "BakerPct",
    "score": 98,
-   "done": false
+   "done": true
   },
   {
    "idea": "MassageSOAP: offline notatki SOAP dla masażysty/fizjo (massage therapist SOAP notes offline)",
    "nisza": "MassageSOAP",
    "score": 98,
-   "done": false
+   "done": true
   },
   {
    "idea": "WeddingShotList: lista ujęć dla fotografa ślubnego (wedding photographer shot list app)",

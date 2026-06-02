@@ -7,26 +7,33 @@ re-run na CALEJ bazie (re-walidacja TOP10).
 """
 import json, datetime, sys
 
-ALGO = "v2"
+ALGO = "v3"
 # B2B / nisze zawodowe poza app-storem (discovery nie zabija) — lekki bonus.
 B2B = {"FoodTemp","DyeRatio","HairColorRecord","ChemLabel","ContinuingEdTracker",
        "EstimateSlip","CaregiverHandover","MealCost"}
-# Wagi v2 — najmocniej nagradzamy REALNY KLIN: droga subskrypcja BEZ darmowej
-# alternatywy. Darmowy/OSS substytut i 'pusta z przyczyny' = zabojcy.
+# Wagi v3 — DWA tory wygranej:
+#  (A) REALNY BLUE OCEAN: verdict 'PUSTA Z OKAZJI' = jest popyt, NIE ma apki -> moze 70+.
+#  (B) KLIN CENOWY w zatloczonym: droga subskrypcja bez darmowej alternatywy.
+# 'demand' (0-3): sila sygnalu popytu (prosby/wyszukiwania/arkusze), domyslnie z verdiktu.
 def score(c):
-    base = 35 if c["n"] > 0 else 25
-    wtp  = 15 if c["model"] in ("onetime","sub","mixed","enterprise") else 0
-    comp = -min(3*c["n"], 27)                  # gestosc konkurencji (lagodniej — klin bije gestosc)
-    free = -28 if c["free_sub"] else 0         # silny darmowy/OSS substytut = glowny zabojca
-    if c["model"] in ("sub","enterprise") and not c["free_sub"]:
-        wedge = 28                              # pelny arbitraz: subskrypcja -> $5 jednorazowo
-    elif c["model"] == "mixed" and not c["free_sub"]:
-        wedge = 10
-    else:
-        wedge = 0
-    b2b  = 6 if c["id"] in B2B else 0
-    reason = -12 if c["verdict"] == "PUSTA Z PRZYCZYNY" else 0
-    s = base+wtp+comp+free+wedge+b2b+reason+c["durability"]+c["reach"]
+    v = c["verdict"]; n = c["n"]; free = c["free_sub"]; model = c["model"]
+    dem = c.get("demand", 2 if n > 0 else 1)
+    dur = c["durability"]; reach = c["reach"]
+    b2b = 6 if c["id"] in B2B else 0
+    if v == "PUSTA Z OKAZJI":
+        # blue ocean: popyt potwierdzony, brak/minimum apek
+        s = 50 + dem*9 - min(4*n, 12) - (15 if free else 0) + dur + reach + b2b
+    elif v == "SŁABO OBSŁUŻONA":
+        wedge = 12 if (model in ("sub","enterprise","mixed") and not free) else 0
+        s = 38 + dem*5 - min(2*n, 16) - (18 if free else 0) + wedge + dur + reach + b2b
+    elif v == "ZATŁOCZONA":
+        wtp = 15 if model in ("onetime","sub","mixed","enterprise") else 0
+        comp = -min(3*n, 27)
+        freep = -28 if free else 0
+        wedge = 28 if (model in ("sub","enterprise") and not free) else (10 if (model=="mixed" and not free) else 0)
+        s = 35 + wtp + comp + freep + wedge + b2b + dur + reach
+    else:  # PUSTA Z PRZYCZYNY
+        s = 20 - (10 if free else 0) + dur + reach
     return max(0, min(100, s))
 
 def main():

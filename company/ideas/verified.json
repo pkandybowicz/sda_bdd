@@ -638,6 +638,180 @@
    "model": "free",
    "durability": 9,
    "reach": 5
+  },
+  {
+   "id": "PTClientLog",
+   "name": "Offline log treningów klienta (trener personalny)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "My PT Hub",
+    "TrueCoach",
+    "Hevy Coach",
+    "Trainerize",
+    "FitSW",
+    "FitPros(free)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 5
+  },
+  {
+   "id": "MusicPracticeLog",
+   "name": "Log praktyki + grafik (nauczyciel muzyki)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Better Practice",
+    "My Music Staff",
+    "Teachworks",
+    "MusicTeacherNotes",
+    "TeacherZone"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 5
+  },
+  {
+   "id": "DuctSize",
+   "name": "Kalkulator doboru kanałów HVAC",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Ductulator(free)",
+    "ACCA DuctWheel",
+    "online-ductulator",
+    "Duct Sizer Pro",
+    "Pheinex"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 9,
+   "reach": 4
+  },
+  {
+   "id": "BakerPct",
+   "name": "Kalkulator baker's percentage",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "BakeryCalc",
+    "Baker's % iOS",
+    "Baker % Calc",
+    "Omni",
+    "BRDCLC"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 9,
+   "reach": 5
+  },
+  {
+   "id": "MassageSOAP",
+   "name": "Offline notatki SOAP (masażysta)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Noterro",
+    "SimplePractice",
+    "ClinicSense",
+    "MassageBook",
+    "SOAP Notes iOS(offline)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 5
+  },
+  {
+   "id": "GLP1Track",
+   "name": "Tracker titracji dawki GLP-1 (Ozempic/Mounjaro)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Glapp",
+    "MetaSyn",
+    "Shotsy",
+    "Pep",
+    "GLP1Toolkit",
+    "myTherapy(free)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 6,
+   "demand": 3
+  },
+  {
+   "id": "PadelAmericano",
+   "name": "Generator turnieju padel Americano/Mexicano",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "PadelMix",
+    "PadelFast",
+    "Padel Americano Generator",
+    "Americano Padel Manager(free)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "HyroxPlan",
+   "name": "Plan treningowy Hyrox / symulator",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "HWPO",
+    "Warrior Lab",
+    "RMR($49.95/mo)",
+    "Hyrox Workouts iOS",
+    "Centr",
+    "TLM"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "ColdPlunge",
+   "name": "Tracker contrast therapy (sauna/cold plunge)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "GoPolar",
+    "Longy",
+    "TEMPER"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "EUDRmicro",
+   "name": "Due diligence EUDR dla mikro-importera",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "ICE CoT",
+    "Meridia",
+    "IntegrityNext",
+    "FCCI(free benchmark)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "enterprise",
+   "durability": 3,
+   "reach": 3,
+   "demand": 2
   }
  ]
 }
