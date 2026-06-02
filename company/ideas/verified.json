@@ -2289,6 +2289,56 @@
    "durability": 7,
    "reach": 3,
    "demand": 2
+  },
+  {
+   "id": "OfficiantScript",
+   "name": "Builder skryptu ceremonii (celebrant)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Provenance",
+    "VowsForge",
+    "ULC generator",
+    "Bridesmaid for Hire"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "PersonalChefMenu",
+   "name": "Menu/diety klienta (prywatny szef kuchni)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Modernmeal Pro",
+    "SchedulingKit",
+    "Personal Chef Office",
+    "Cheffin"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "BalloonOrder",
+   "name": "Projekty/zlecenia baloniarza",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Virtualoon",
+    "Balloonpro",
+    "Creador"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
   }
  ]
 }
