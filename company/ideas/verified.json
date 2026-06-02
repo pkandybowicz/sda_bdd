@@ -6113,10 +6113,13 @@
    "name": "Stash manager szycia offline bez sub/limitu [demand]",
    "verdict": "SŁABO OBSŁUŻONA",
    "competitors": [
-    "(demand-first Reddit)"
+    "Cora(free z limitem)",
+    "Threadloop(free web)",
+    "Stash Hub($33/r)",
+    "PatternBox($2.99)"
    ],
    "n": 4,
-   "free_sub": false,
+   "free_sub": true,
    "model": "sub",
    "durability": 8,
    "reach": 4,
@@ -6141,10 +6144,12 @@
    "name": "Inwentarz szpul filamentu 3D offline [demand]",
    "verdict": "SŁABO OBSŁUŻONA",
    "competitors": [
-    "(demand-first Reddit)"
+    "Printory(free,offline)",
+    "Spoolman(free self-host)",
+    "Spoolstock(sub po 20)"
    ],
    "n": 3,
-   "free_sub": false,
+   "free_sub": true,
    "model": "mixed",
    "durability": 8,
    "reach": 4,

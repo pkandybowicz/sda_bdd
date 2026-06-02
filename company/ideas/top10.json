@@ -1,22 +1,8 @@
 {
   "algo": "v3",
-  "updated": "2026-06-02 16:13 UTC",
+  "updated": "2026-06-02 16:14 UTC",
   "verified": 404,
   "top10": [
-    {
-      "id": "RB4",
-      "name": "Inwentarz szpul filamentu 3D offline [demand]",
-      "score": 71,
-      "verdict": "SŁABO OBSŁUŻONA",
-      "n": 3
-    },
-    {
-      "id": "RB2",
-      "name": "Stash manager szycia offline bez sub/limitu [demand]",
-      "score": 69,
-      "verdict": "SŁABO OBSŁUŻONA",
-      "n": 4
-    },
     {
       "id": "AudiobookVoiceBible",
       "name": "Voice bible: próbki+atrybuty głosu per postać — narratorzy audiobooków, game VO, producenci audio-dram",
@@ -72,6 +58,20 @@
       "score": 60,
       "verdict": "SŁABO OBSŁUŻONA",
       "n": 1
+    },
+    {
+      "id": "B14",
+      "name": "Karta dopasowania aparatu słuchowego",
+      "score": 59,
+      "verdict": "SŁABO OBSŁUŻONA",
+      "n": 5
+    },
+    {
+      "id": "B8",
+      "name": "Rejestr pestycydów (urban pest)",
+      "score": 59,
+      "verdict": "SŁABO OBSŁUŻONA",
+      "n": 5
     }
   ]
 }
