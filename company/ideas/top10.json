@@ -1,7 +1,7 @@
 {
   "algo": "v4",
-  "updated": "2026-06-02 17:55 UTC",
-  "verified": 726,
+  "updated": "2026-06-02 18:04 UTC",
+  "verified": 793,
   "top10": [
     {
       "id": "AudiobookVoiceBible",
@@ -39,6 +39,13 @@
       "n": 2
     },
     {
+      "id": "CM7",
+      "name": "FOH – recall miksu agnostyczny sprzętowo",
+      "score": 40,
+      "verdict": "SŁABO OBSŁUŻONA",
+      "n": 1
+    },
+    {
       "id": "DF3",
       "name": "Kalkulator kosztów wypieku [demand/Etsy]",
       "score": 40,
@@ -65,13 +72,6 @@
       "score": 40,
       "verdict": "SŁABO OBSŁUŻONA",
       "n": 0
-    },
-    {
-      "id": "FD3",
-      "name": "Wyrób sera domowego",
-      "score": 38,
-      "verdict": "SŁABO OBSŁUŻONA",
-      "n": 2
     }
   ]
 }
