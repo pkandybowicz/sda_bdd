@@ -6367,6 +6367,174 @@
    "durability": 7,
    "reach": 3,
    "demand": 2
+  },
+  {
+   "id": "PI1",
+   "name": "RPM z dźwięku (kosy/skutery)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja: telefon-przyrząd)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "PI2",
+   "name": "Luksomierz/PAR akwarium",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja: telefon-przyrząd)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "PI3",
+   "name": "Kątomierz dla glazurnika",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja: telefon-przyrząd)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "PI4",
+   "name": "dB-metr na strzelnicę",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [
+    "(mutacja: telefon-przyrząd)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "PI5",
+   "name": "Dopasowanie koloru farby",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja: telefon-przyrząd)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "PI6",
+   "name": "Miernik drgań HVAC (wymaga czujnika BT)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja: telefon-przyrząd)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "PI7",
+   "name": "Stroboskop dla mechanika",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja: telefon-przyrząd)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "PI8",
+   "name": "Analizator częstotliwości (stroiciele)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja: telefon-przyrząd)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "PI9",
+   "name": "Akustyczne wykrywanie wycieków (hydraulik) [feasibility-risk]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja: telefon-przyrząd)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "PI10",
+   "name": "Grubość powłoki lakieru (magnetometr)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja: telefon-przyrząd)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "PI11",
+   "name": "Zdrowie ula z dźwięku (FFT) [feasibility-risk]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja: telefon-przyrząd)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "PI12",
+   "name": "Głębokość bieżnika opony",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja: telefon-przyrząd)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
   }
  ]
 }
