@@ -9064,6 +9064,189 @@
    "durability": 7,
    "reach": 3,
    "demand": 2
+  },
+  {
+   "id": "VS1",
+   "name": "Tracking parametrów wody akwarium [do potw.]",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Aquarium Tracker",
+    "AquaLens",
+    "Aquarimate",
+    "Reef Tracker",
+    "Aquapal AI",
+    "App-aquatic",
+    "Aquarium Log"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "VS2",
+   "name": "Kalkulator BARF/raw diety psa i kota [do potw.]",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "meatpoint.io",
+    "Pawtrition",
+    "The BARF App(iOS+Android)",
+    "Dog Raw Diet Calculator 2.0(free offline Win)",
+    "RAW/BARF Pet Dinner(free)",
+    "eBarf",
+    "rawdogfoodcalculator.com"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "VS3",
+   "name": "Husbandry reptili (ReptiWare/HerpTracker)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#8 viral-sheet; dowód popytu: udostępniane arkusze)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "VS4",
+   "name": "Kosztorys receptur + yield (catering)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#8 viral-sheet; dowód popytu: udostępniane arkusze)"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "VS5",
+   "name": "Stocking list akwarium – kompatybilność",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#8 viral-sheet; dowód popytu: udostępniane arkusze)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "VS6",
+   "name": "Profilowanie wody do kawy/espresso [do potw.]",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Barista Hustle Water Calc",
+    "APAX LAB",
+    "Cafelytic",
+    "jojohersh(open-source)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "VS7",
+   "name": "Analiza splitów speedrunu (TBC)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#8 viral-sheet; dowód popytu: udostępniane arkusze)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "VS8",
+   "name": "Log ostrzenia noży (kąt/ziarnistość)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#8 viral-sheet; dowód popytu: udostępniane arkusze)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "VS9",
+   "name": "Butcher yield / rozkrój tuszy",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#8 viral-sheet; dowód popytu: udostępniane arkusze)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "VS10",
+   "name": "Overlanding – gear list + mod tracker",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#8 viral-sheet; dowód popytu: udostępniane arkusze)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "VS11",
+   "name": "Budżet van life / nomad",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#8 viral-sheet; dowód popytu: udostępniane arkusze)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "VS12",
+   "name": "Ultra/trail – roczny plan treningowy",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#8 viral-sheet; dowód popytu: udostępniane arkusze)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
   }
  ]
 }

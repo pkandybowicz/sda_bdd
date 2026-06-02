@@ -1,7 +1,7 @@
 {
   "algo": "v4",
-  "updated": "2026-06-02 17:33 UTC",
-  "verified": 607,
+  "updated": "2026-06-02 17:38 UTC",
+  "verified": 619,
   "top10": [
     {
       "id": "AudiobookVoiceBible",
@@ -11,11 +11,25 @@
       "n": 2
     },
     {
+      "id": "VS4",
+      "name": "Kosztorys receptur + yield (catering)",
+      "score": 48,
+      "verdict": "SŁABO OBSŁUŻONA",
+      "n": 5
+    },
+    {
       "id": "PB12",
       "name": "Animation model sheet tracker",
       "score": 46,
       "verdict": "PUSTA Z OKAZJI",
       "n": 1
+    },
+    {
+      "id": "VS5",
+      "name": "Stocking list akwarium – kompatybilność",
+      "score": 42,
+      "verdict": "SŁABO OBSŁUŻONA",
+      "n": 3
     },
     {
       "id": "CL7",
@@ -55,20 +69,6 @@
     {
       "id": "FD3",
       "name": "Wyrób sera domowego",
-      "score": 38,
-      "verdict": "SŁABO OBSŁUŻONA",
-      "n": 2
-    },
-    {
-      "id": "HB12",
-      "name": "Menadżer receptur świec",
-      "score": 38,
-      "verdict": "SŁABO OBSŁUŻONA",
-      "n": 3
-    },
-    {
-      "id": "PB10",
-      "name": "Comic lettering/balloon tracker",
       "score": 38,
       "verdict": "SŁABO OBSŁUŻONA",
       "n": 2
