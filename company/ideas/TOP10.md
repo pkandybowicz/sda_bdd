@@ -1,6 +1,6 @@
 # 🏆 TOP 10 pomysłów — żywy ranking
 
-> Algorytm: **v3** · Zweryfikowanych realnie: **62** · Aktualizacja: 2026-06-02 10:30 UTC
+> Algorytm: **v3** · Zweryfikowanych realnie: **62** · Aktualizacja: 2026-06-02 10:32 UTC
 
 > Każdy pomysł przeszedł weryfikację konkurencji w sieci PRZED oceną.
 
@@ -9,8 +9,8 @@
 |---|--------|:-----:|---------------|:--------:|
 | 1 | Ewidencja temperatur HACCP → raport | **79** | ZATŁOCZONA | 6 |
 | 2 | Tabela proporcji farb do włosów + kalkulator (salon) | **78** | ZATŁOCZONA | 6 |
-| 3 | Character color bible dla rysownika (hex per postać, odcienie, szybkie kopiowanie) | **72** | PUSTA Z OKAZJI | 1 |
-| 4 | Character voice bible dla narratora audiobooków (próbki audio + atrybuty głosu per postać) | **71** | PUSTA Z OKAZJI | 1 |
+| 3 | Color bible dla rysowników + solo animatorów (hex per postać, odcienie) | **73** | PUSTA Z OKAZJI | 1 |
+| 4 | Voice bible dla narratorów audiobooków + aktorów głosowych w grach (próbki audio + atrybuty per postać) | **72** | PUSTA Z OKAZJI | 1 |
 | 5 | Due diligence EUDR dla mikro-importera | **58** | SŁABO OBSŁUŻONA | 4 |
 | 6 | Builder pałacu pamięci (method of loci) | **42** | SŁABO OBSŁUŻONA | 1 |
 | 7 | Interaktywny klucz do grzybów (offline, bez AI) | **36** | SŁABO OBSŁUŻONA | 3 |

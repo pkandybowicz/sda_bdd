@@ -1037,31 +1037,30 @@
   },
   {
    "id": "AudiobookVoiceBible",
-   "name": "Character voice bible dla narratora audiobooków (próbki audio + atrybuty głosu per postać)",
+   "name": "Voice bible dla narratorów audiobooków + aktorów głosowych w grach (próbki audio + atrybuty per postać)",
    "verdict": "PUSTA Z OKAZJI",
    "competitors": [
-    "(brak dedykowanej apki — arkusze/Airtable/voice-memo)",
-    "Character Compendium (dla AUTORÓW, nie narratorów)"
+    "(brak dedykowanej apki — arkusze/Airtable/voice-memo; rynek: narratorzy ACX + game VO)"
    ],
    "n": 1,
    "free_sub": true,
    "model": "onetime",
    "durability": 8,
-   "reach": 5,
+   "reach": 6,
    "demand": 3
   },
   {
    "id": "ComicColorBible",
-   "name": "Character color bible dla rysownika (hex per postać, odcienie, szybkie kopiowanie)",
+   "name": "Color bible dla rysowników + solo animatorów (hex per postać, odcienie)",
    "verdict": "PUSTA Z OKAZJI",
    "competitors": [
-    "(brak dedykowanej apki — Adobe Color generyk + ręczne reference sheets)"
+    "(brak dedykowanej apki — Adobe Color generyk; AI generatory nie przechowują kodów do ręcznego malowania)"
    ],
    "n": 1,
    "free_sub": true,
    "model": "onetime",
    "durability": 9,
-   "reach": 5,
+   "reach": 6,
    "demand": 3
   }
  ]
