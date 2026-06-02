@@ -1052,7 +1052,15 @@
    "reach": 6,
    "demand": 3,
    "unique_reason": "Jedyna nisza, gdzie generyczny substytut (arkusz/notatki) STRUKTURALNIE zawodzi: wymaga zorganizowanego odtwarzania probek AUDIO per postac.",
-   "market_note": "Rynek szerszy niz zakladano: narratorzy audiobookow + game VO + audio-drama + aktorzy dubbingowi (potwierdzone on-the-nose: brak dedyk. apki tez dla dubbingu; tylko AI/VoiceQ B2B)."
+   "market_note": "Rynek szerszy niz zakladano: narratorzy audiobookow + game VO + audio-drama + aktorzy dubbingowi (potwierdzone on-the-nose: brak dedyk. apki tez dla dubbingu; tylko AI/VoiceQ B2B).",
+   "stress_test": "PUSTA POTWIERDZONA (85-90%): adwersaryjny competitor-hunt nie znalazl dedyk. apki. Najblizej: Hindenburg Clipboard (DAW), Airtable DIY. Dowod popytu: narratorzy uzywaja Airtable + artykuly VOHeroes.",
+   "closest_competitors": [
+    "Hindenburg Clipboard (€399 DAW, in-project)",
+    "Airtable DIY (prowizoryczny)",
+    "REAPER marker",
+    "Scriptation (TTS)",
+    "Voices for Games (casting studia)"
+   ]
   },
   {
    "id": "ComicColorBible",

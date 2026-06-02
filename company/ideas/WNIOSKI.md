@@ -34,5 +34,15 @@ hobby · profesje-cienie · regulacje 2025-26 · arbitraż językowy · drogie a
 5. **Rynki wschodzące**: gap-y realne, ale monetyzacja = ads/wolumen, nie $5 one-time.
 6. **Bank-sync / live-data** strukturalnie ≠ offline-$5.
 
+## Adwersaryjny stress-test Voice bible (2026-06-02)
+Dedykowany agent próbował OBALIĆ pustkę niszy (Product Hunt, App Store, Google Play, itch.io, fora VO, DAW-y, apki do skryptów; 8 sformułowań). **WERDYKT: PUSTA POTWIERDZONA, pewność 85–90%.**
+- Najbliżej: **Hindenburg „Clipboard"** (schowek audio w DAW €399, bez struktury per-postać), **REAPER** marker, **Scriptation/ElevenLabs** (głosy AI/TTS, nie własny), **Voices for Games** (casting studia).
+- **Twardy dowód popytu:** narratorzy używają **Airtable DIY** (postać+książka+typ głosu+klip audio) i piszą o problemie (VOHeroes „Keeping All Your Audiobook's Voices Straight"). Substytut istnieje, ale prowizoryczny (brak nagrywania, waveformu, VO-UX).
+- **Reszta niepewności (10–15%):** zamknięte społeczności (NarratorsRoadmap Discord, grupy FB), GitHub, Gumroad/Ko-fi — do sprawdzenia przed budową.
+
 ## Rekomendacja
-Najwyższa wartość: **przejść od poszukiwań do walidacji Voice bible** — spec produktu, test popytu (landing + społeczności narratorów: ACX, r/audiobooks, NarratorsRoadmap), kanał dystrybucji. Mutacje dają już niemal czystą konfirmację.
+Research zbiegł się do pewnej odpowiedzi. Najwyższa wartość teraz: **walidacja i spec Voice bible** —
+1. Domknąć 10–15% niepewności (GitHub/Gumroad/Discord/FB grupy VO).
+2. Test popytu: landing + posty w ACX/r/audiobooks/r/VoiceActing/NarratorsRoadmap.
+3. MVP: nagrywanie próbki + atrybuty + notatki per postać, offline, import między projektami (przewaga nad Airtable i Hindenburg Clipboard).
+4. Pozycja vs Airtable (prościej, mobilnie, VO-first) i vs Hindenburg (taniej, samodzielnie, między-projektowo).
