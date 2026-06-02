@@ -1838,6 +1838,59 @@
    "durability": 7,
    "reach": 3,
    "demand": 2
+  },
+  {
+   "id": "BirthPoster",
+   "name": "Generator plakatu birth stats",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Zazzle",
+    "Edit.org",
+    "The Birth Poster",
+    "Jilster",
+    "Still Novel"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "WordSearchMaker",
+   "name": "Generator spersonalizowanej wykreślanki",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Puzzlemaker",
+    "WordMint",
+    "Jigsaw Make",
+    "Print A Puzzle",
+    "1-2-3 Word Search"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 9,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "BirthYearFacts",
+   "name": "Druk faktów 'rok, w którym się urodziłeś'",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Birthday Times",
+    "MyBirthday.Ninja",
+    "Happy Happy Birthday",
+    "Birthday Chronicle"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
   }
  ]
 }
