@@ -1,6 +1,6 @@
 # 🏆 TOP 10 pomysłów — żywy ranking
 
-> Algorytm: **v3** · Zweryfikowanych realnie: **115** · Aktualizacja: 2026-06-02 11:39 UTC
+> Algorytm: **v3** · Zweryfikowanych realnie: **121** · Aktualizacja: 2026-06-02 11:49 UTC
 
 > Każdy pomysł przeszedł weryfikację konkurencji w sieci PRZED oceną.
 
@@ -15,7 +15,7 @@
 | 6 | Log napraw maszyn pinball (kolekcjoner) | **57** | SŁABO OBSŁUŻONA | 1 |
 | 7 | Notatki głosów postaci (brzuchomówca) | **50** | PUSTA Z OKAZJI | 1 |
 | 8 | Color bible: ref-sheet hex per postać — rysownicy, animatorzy, FURRY, VTuberzy, OC-artyści + ich zleceniobiorcy | **43** | SŁABO OBSŁUŻONA | 4 |
-| 9 | Builder pałacu pamięci (method of loci) | **42** | SŁABO OBSŁUŻONA | 1 |
-| 10 | Tracker formuł nalewek (zielarz) | **39** | SŁABO OBSŁUŻONA | 1 |
+| 9 | Tracker formuł nalewek (zielarz) | **39** | SŁABO OBSŁUŻONA | 1 |
+| 10 | Builder pałacu pamięci (method of loci) | **38** | SŁABO OBSŁUŻONA | 3 |
 
 _Pełna baza: company/ideas/verified.json · Scoring: company/tools/score_top10.py_

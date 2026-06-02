@@ -1,7 +1,7 @@
 {
   "algo": "v3",
-  "updated": "2026-06-02 11:39 UTC",
-  "verified": 115,
+  "updated": "2026-06-02 11:49 UTC",
+  "verified": 121,
   "top10": [
     {
       "id": "FoodTemp",
@@ -60,18 +60,18 @@
       "n": 4
     },
     {
-      "id": "MemoryPalace",
-      "name": "Builder pałacu pamięci (method of loci)",
-      "score": 42,
-      "verdict": "SŁABO OBSŁUŻONA",
-      "n": 1
-    },
-    {
       "id": "HerbalTincture",
       "name": "Tracker formuł nalewek (zielarz)",
       "score": 39,
       "verdict": "SŁABO OBSŁUŻONA",
       "n": 1
+    },
+    {
+      "id": "MemoryPalace",
+      "name": "Builder pałacu pamięci (method of loci)",
+      "score": 38,
+      "verdict": "SŁABO OBSŁUŻONA",
+      "n": 3
     }
   ]
 }

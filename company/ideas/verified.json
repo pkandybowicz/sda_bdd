@@ -1026,9 +1026,11 @@
    "name": "Builder pałacu pamięci (method of loci)",
    "verdict": "SŁABO OBSŁUŻONA",
    "competitors": [
-    "(brak dominującej apki — same artykuły/techniki)"
+    "Memory Athlete(app, zawiera memory palace+PAO)",
+    "Memomo",
+    "Memory League"
    ],
-   "n": 1,
+   "n": 3,
    "free_sub": true,
    "model": "onetime",
    "durability": 8,
@@ -2002,6 +2004,55 @@
    "durability": 8,
    "reach": 4,
    "demand": 2
+  },
+  {
+   "id": "ClimbBeta",
+   "name": "Beta/projekty wspinaczkowe",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "KAYA",
+    "Climbing Log Beta",
+    "GoClimbr",
+    "Beta Flow",
+    "V-Points",
+    "Stōkt"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "MemorySport",
+   "name": "Log treningu memory sport (PAO/karty)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Memory Athlete",
+    "Memomo",
+    "Memory League"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "UrbanSketch",
+   "name": "Log lokacji urban sketchera",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(brak dedykowanego location-logu; Concepts=sketching)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
   }
  ]
 }
