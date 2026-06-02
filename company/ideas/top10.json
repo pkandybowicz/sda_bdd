@@ -1,7 +1,7 @@
 {
   "algo": "v2",
-  "updated": "2026-06-02 09:48 UTC",
-  "verified": 27,
+  "updated": "2026-06-02 09:50 UTC",
+  "verified": 32,
   "top10": [
     {
       "id": "FoodTemp",
@@ -16,6 +16,13 @@
       "score": 78,
       "verdict": "ZATŁOCZONA",
       "n": 6
+    },
+    {
+      "id": "BigButtonPhone",
+      "name": "Dialer z wielkimi przyciskami dla seniorów",
+      "score": 27,
+      "verdict": "ZATŁOCZONA",
+      "n": 3
     },
     {
       "id": "CaregiverHandover",
@@ -46,32 +53,25 @@
       "n": 5
     },
     {
+      "id": "PictureAAC",
+      "name": "Tablica komunikacji AAC offline z TTS",
+      "score": 20,
+      "verdict": "ZATŁOCZONA",
+      "n": 5
+    },
+    {
+      "id": "ServiceBook",
+      "name": "Cyfrowa książka serwisowa auta",
+      "score": 19,
+      "verdict": "ZATŁOCZONA",
+      "n": 5
+    },
+    {
       "id": "EstimateSlip",
       "name": "Szybka wycena dla rzemieślnika (druk)",
       "score": 18,
       "verdict": "ZATŁOCZONA",
       "n": 7
-    },
-    {
-      "id": "FODMAPLog",
-      "name": "Dziennik FODMAP + objawy IBS",
-      "score": 16,
-      "verdict": "ZATŁOCZONA",
-      "n": 6
-    },
-    {
-      "id": "OnePageCV",
-      "name": "Offline generator CV do PDF",
-      "score": 16,
-      "verdict": "ZATŁOCZONA",
-      "n": 6
-    },
-    {
-      "id": "ChemLabel",
-      "name": "Generator etykiet GHS/CLP (warsztaty)",
-      "score": 14,
-      "verdict": "ZATŁOCZONA",
-      "n": 8
     }
   ]
 }

@@ -466,6 +466,90 @@
    "model": "free",
    "durability": 9,
    "reach": 5
+  },
+  {
+   "id": "DrugFlashcards",
+   "name": "Fiszki nazw leków (handlowe/generyczne)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "RxFlip",
+    "Prepry",
+    "Anki(free)",
+    "Rx Corner",
+    "Brainscape",
+    "FlashRX"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 5
+  },
+  {
+   "id": "BigButtonPhone",
+   "name": "Dialer z wielkimi przyciskami dla seniorów",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "BIG Phone(one-time)",
+    "Easy Call & Answer",
+    "Senior Safety Phone(free)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 6
+  },
+  {
+   "id": "PictureAAC",
+   "name": "Tablica komunikacji AAC offline z TTS",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "LetMeTalk(free offline)",
+    "Avaz Lite",
+    "CoughDrop",
+    "Speech Assistant AAC",
+    "TouchChat"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 5
+  },
+  {
+   "id": "FishingLogbook",
+   "name": "Dziennik wędkarski offline",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Fishing Diary",
+    "Anglers' Log(OSS)",
+    "Catch",
+    "Fish Swami",
+    "Fishbrain"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 5
+  },
+  {
+   "id": "ServiceBook",
+   "name": "Cyfrowa książka serwisowa auta",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Car Cave(one-time)",
+    "ServiceLog",
+    "Road Trip(one-time)",
+    "AUTOsist",
+    "aCar(free)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 5
   }
  ]
 }
