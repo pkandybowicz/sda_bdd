@@ -12663,6 +12663,160 @@
    "durability": 7,
    "reach": 2,
    "demand": 1
+  },
+  {
+   "id": "DI1",
+   "name": "Aktor – self-tape/audition tracker (szablony Gumroad)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#15 Airtable-DIY method)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "DI3",
+   "name": "Tatuażysta – klienci+flash (Venue Ink free)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#15 Airtable-DIY method)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "DI4",
+   "name": "Ogrodnik – katalog nasion (SeedSort/Seedtime)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#15 Airtable-DIY method)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "DI5",
+   "name": "Worldbuilding/DM (Kanka/World Anvil)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#15 Airtable-DIY method)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "DI6",
+   "name": "Podcaster – CRM gości (free Notion dominuje)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#15 Airtable-DIY method)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "DI7",
+   "name": "Malowanie miniaturek – paint tracker",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#15 Airtable-DIY method)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "DI8",
+   "name": "Prop/wardrobe indie film (SyncOnSet enterprise)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#15 Airtable-DIY method)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "DI9",
+   "name": "Music producer – sample library mobile (Eagle desktop)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#15 Airtable-DIY method)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "DI10",
+   "name": "Ilustrator – biblioteka referencji (PureRef free)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#15 Airtable-DIY method)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "DI11",
+   "name": "Casting/talent indie (Airtable free template)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#15 Airtable-DIY method)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "DI12",
+   "name": "Autor/zin – production tracker (brak dowodu popytu)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#15 Airtable-DIY method)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
   }
  ]
 }
