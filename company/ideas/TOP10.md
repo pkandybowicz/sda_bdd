@@ -1,6 +1,6 @@
 # 🏆 TOP 10 pomysłów — żywy ranking
 
-> Algorytm: **v3** · Zweryfikowanych realnie: **385** · Aktualizacja: 2026-06-02 16:09 UTC
+> Algorytm: **v3** · Zweryfikowanych realnie: **397** · Aktualizacja: 2026-06-02 16:10 UTC
 
 > Każdy pomysł przeszedł weryfikację konkurencji w sieci PRZED oceną.
 
@@ -14,8 +14,8 @@
 | 5 | Przewodnik dehydratora [do potw.] | **61** | SŁABO OBSŁUŻONA | 0 |
 | 6 | Ewidencja balsamowania (b2b) | **60** | SŁABO OBSŁUŻONA | 4 |
 | 7 | Rejestr czynnika chłodniczego EPA608 | **60** | SŁABO OBSŁUŻONA | 5 |
-| 8 | Karta dopasowania aparatu słuchowego | **59** | SŁABO OBSŁUŻONA | 5 |
-| 9 | Rejestr pestycydów (urban pest) | **59** | SŁABO OBSŁUŻONA | 5 |
-| 10 | Kalkulator kosztów wypieku [demand/Etsy] | **59** | SŁABO OBSŁUŻONA | 3 |
+| 8 | Batch TTS audio do fiszek Anki offline iOS [demand] | **60** | SŁABO OBSŁUŻONA | 1 |
+| 9 | Karta dopasowania aparatu słuchowego | **59** | SŁABO OBSŁUŻONA | 5 |
+| 10 | Rejestr pestycydów (urban pest) | **59** | SŁABO OBSŁUŻONA | 5 |
 
 _Pełna baza: company/ideas/verified.json · Scoring: company/tools/score_top10.py_

@@ -5923,6 +5923,174 @@
    "durability": 7,
    "reach": 4,
    "demand": 1
+  },
+  {
+   "id": "DR1",
+   "name": "Duolingo grammar cheat-sheet per język [demand]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(demand-first: recenzje/GitHub)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "DR2",
+   "name": "Anki: rysowanie na Image Occlusion offline iOS [demand]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(demand-first: recenzje/GitHub)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "DR3",
+   "name": "Eksport słownictwa Duolingo→Anki",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(demand-first: recenzje/GitHub)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "DR4",
+   "name": "Kalkulator talerzy do sztangi",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(demand-first: recenzje/GitHub)"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "DR5",
+   "name": "Tygodniowy tracker wolumenu mięśni",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(demand-first: recenzje/GitHub)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "DR6",
+   "name": "Generator etykiety Nutrition Facts z przepisu",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(demand-first: recenzje/GitHub)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "DR7",
+   "name": "Kalkulator snu standalone",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(demand-first: recenzje/GitHub)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "DR8",
+   "name": "Heatmapa nawyków (GitHub-style)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(demand-first: recenzje/GitHub)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "DR9",
+   "name": "Konwerter treningów Strong↔Hevy↔CSV [demand]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(demand-first: recenzje/GitHub)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 5,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "DR10",
+   "name": "Kalkulator makro własnego przepisu",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(demand-first: recenzje/GitHub)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "DR11",
+   "name": "Tracker czasu czytania + prognoza",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(demand-first: recenzje/GitHub)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "DR12",
+   "name": "Batch TTS audio do fiszek Anki offline iOS [demand]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(demand-first: recenzje/GitHub)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 3,
+   "demand": 3
   }
  ]
 }
