@@ -2527,6 +2527,52 @@
    "durability": 8,
    "reach": 4,
    "demand": 2
+  },
+  {
+   "id": "LARPkit",
+   "name": "Kit/loadout postaci LARP",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "MyLARP",
+    "LarpCraft"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "ReenactorKit",
+   "name": "Kit/impression rekonstruktora",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Notulapp"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "W40kCrusade",
+   "name": "Kampania Crusade (Warhammer 40k)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Crusade Manager",
+    "CrusadeCompanion",
+    "ServoCrypt",
+    "Tabletop Battles"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
   }
  ]
 }
