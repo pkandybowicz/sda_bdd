@@ -1062,6 +1062,89 @@
    "durability": 9,
    "reach": 6,
    "demand": 3
+  },
+  {
+   "id": "ComedySet",
+   "name": "Set-lista + tracking żartów (komik)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "UpMic(free)",
+    "Stand-Up Writer",
+    "Bits",
+    "Trello/Evernote"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "MagicianLog",
+   "name": "Repertuar magika + log 'komu co pokazałem'",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "TrickNote (papierowy notes)",
+    "apki do NAUKI trików (nie repertuar)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "SingTeacher",
+   "name": "Tracker zakresu/repertuaru ucznia (nauczyciel śpiewu)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Vocal Gauge",
+    "SWIFTSCALES",
+    "Singing Carrots",
+    "Vocaberry"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "LettererFlats",
+   "name": "Spójność palety flatów (letterer/flatter)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Flatten Pro",
+    "MultiFill",
+    "FlatMagic",
+    "FlattenMe",
+    "JSON swatch"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "ImprovDeck",
+   "name": "Deck gier/ćwiczeń improv (nauczyciel)",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [
+    "Learn Improv(321 free)",
+    "Improv Encyclopedia",
+    "improwiki"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 4,
+   "demand": 1
   }
  ]
 }
