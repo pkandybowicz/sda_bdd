@@ -2824,6 +2824,55 @@
    "durability": 7,
    "reach": 3,
    "demand": 1
+  },
+  {
+   "id": "GunplaLog",
+   "name": "Build-log/kolekcja Gunpla",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Gundam Build Kits Collection",
+    "Gunpla Catalog",
+    "GunplaDB",
+    "Gunpla Gallery"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "PuzzleTracker",
+   "name": "Tracker kolekcji puzzli",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Puzzle Tracker",
+    "MySpeedPuzzling",
+    "Jigsolved",
+    "iCollect"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "EscapeRoomLog",
+   "name": "Log zagranych escape roomów",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Morty",
+    "Escape the Review"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
   }
  ]
 }
