@@ -2573,6 +2573,58 @@
    "durability": 7,
    "reach": 3,
    "demand": 2
+  },
+  {
+   "id": "AxeThrow",
+   "name": "Scoring ligi rzucania siekierą",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "WATL Scorekeeper",
+    "IATF App",
+    "Axe Tracker",
+    "Bullsy",
+    "Scoreholio"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "Cornhole",
+   "name": "Turniej/scoring cornhole",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "ACA app",
+    "Scoreholio",
+    "League LINQ",
+    "ACL App"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "PetanqueBocce",
+   "name": "Turniej petanque/bocce",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Booble",
+    "BocceScore",
+    "Scoreholio",
+    "PlayPass"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
   }
  ]
 }
