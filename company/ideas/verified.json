@@ -550,6 +550,94 @@
    "model": "mixed",
    "durability": 7,
    "reach": 5
+  },
+  {
+   "id": "TattooConsent",
+   "name": "Zgody/aftercare dla studia tatuażu",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Jotform",
+    "Tattoogenda",
+    "GoCanvas",
+    "Waiver Master",
+    "TattooStudioPro"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 5
+  },
+  {
+   "id": "GroomCard",
+   "name": "Karta klienta + cennik dla groomera",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Tuft(free)",
+    "Anolla(free)",
+    "MoeGo",
+    "ShakeYourTail",
+    "GrooMore",
+    "Groomsoft"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 5
+  },
+  {
+   "id": "DrivingLessonLog",
+   "name": "Dziennik postępów ucznia (instruktor jazdy)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Instructor-Learner Progress",
+    "Total Drive",
+    "GoRoadie",
+    "Learnr Driver",
+    "Driving Instructor Mgr(free)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 5
+  },
+  {
+   "id": "FloristRecipe",
+   "name": "Kalkulator wyceny bukietu (florysta)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "EveryStem($250/rok)",
+    "Florist Toolbox",
+    "Fiory.AI(free)",
+    "WPro.AI(free)",
+    "Curate",
+    "Floral Frog"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 5
+  },
+  {
+   "id": "CableSize",
+   "name": "Kalkulator doboru przekroju kabla (elektryk)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Southwire(free)",
+    "Cable Size Calc NEC",
+    "Omni",
+    "Solvebility(free offline)",
+    "WireSizer",
+    "Encore"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 9,
+   "reach": 5
   }
  ]
 }

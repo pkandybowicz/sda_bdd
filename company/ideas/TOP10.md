@@ -1,6 +1,6 @@
 # 🏆 TOP 10 pomysłów — żywy ranking
 
-> Algorytm: **v2** · Zweryfikowanych realnie: **32** · Aktualizacja: 2026-06-02 09:50 UTC
+> Algorytm: **v2** · Zweryfikowanych realnie: **37** · Aktualizacja: 2026-06-02 09:55 UTC
 
 > Każdy pomysł przeszedł weryfikację konkurencji w sieci PRZED oceną.
 
@@ -15,7 +15,7 @@
 | 6 | Kalkulator kosztu przepisu na porcję | **21** | ZATŁOCZONA | 6 |
 | 7 | Dziennik migreny → PDF dla neurologa | **20** | ZATŁOCZONA | 5 |
 | 8 | Tablica komunikacji AAC offline z TTS | **20** | ZATŁOCZONA | 5 |
-| 9 | Cyfrowa książka serwisowa auta | **19** | ZATŁOCZONA | 5 |
-| 10 | Szybka wycena dla rzemieślnika (druk) | **18** | ZATŁOCZONA | 7 |
+| 9 | Kalkulator wyceny bukietu (florysta) | **19** | ZATŁOCZONA | 5 |
+| 10 | Cyfrowa książka serwisowa auta | **19** | ZATŁOCZONA | 5 |
 
 _Pełna baza: company/ideas/verified.json · Scoring: company/tools/score_top10.py_

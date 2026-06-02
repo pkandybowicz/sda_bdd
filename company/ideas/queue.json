@@ -100,19 +100,19 @@
    "idea": "TattooConsent: generator zgód i kart aftercare dla studia tatuażu (tattoo consent/aftercare)",
    "nisza": "TattooConsent",
    "score": 98,
-   "done": false
+   "done": true
   },
   {
    "idea": "GroomCard: karta klienta + cennik dla groomera psów (dog grooming client card breed cut)",
    "nisza": "GroomCard",
    "score": 98,
-   "done": false
+   "done": true
   },
   {
    "idea": "DrivingLessonLog: dziennik lekcji i postępów ucznia dla instruktora jazdy (driving instructor pupil log)",
    "nisza": "DrivingLessonLog",
    "score": 98,
-   "done": false
+   "done": true
   },
   {
    "idea": "PTClientLog: offline log treningów i pomiarów klienta dla trenera personalnego (personal trainer client offline)",
@@ -130,13 +130,13 @@
    "idea": "FloristRecipe: kalkulator wyceny i liczby łodyg bukietu dla florysty (florist recipe stem count pricing)",
    "nisza": "FloristRecipe",
    "score": 98,
-   "done": false
+   "done": true
   },
   {
    "idea": "CableSize: kalkulator doboru przekroju kabla dla elektryka (electrician cable size calculator)",
    "nisza": "CableSize",
    "score": 98,
-   "done": false
+   "done": true
   },
   {
    "idea": "DuctSize: kalkulator doboru kanałów wentylacyjnych HVAC (HVAC duct sizing calculator)",

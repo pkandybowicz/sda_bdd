@@ -1,7 +1,7 @@
 {
   "algo": "v2",
-  "updated": "2026-06-02 09:50 UTC",
-  "verified": 32,
+  "updated": "2026-06-02 09:55 UTC",
+  "verified": 37,
   "top10": [
     {
       "id": "FoodTemp",
@@ -60,18 +60,18 @@
       "n": 5
     },
     {
-      "id": "ServiceBook",
-      "name": "Cyfrowa książka serwisowa auta",
+      "id": "FloristRecipe",
+      "name": "Kalkulator wyceny bukietu (florysta)",
       "score": 19,
       "verdict": "ZATŁOCZONA",
       "n": 5
     },
     {
-      "id": "EstimateSlip",
-      "name": "Szybka wycena dla rzemieślnika (druk)",
-      "score": 18,
+      "id": "ServiceBook",
+      "name": "Cyfrowa książka serwisowa auta",
+      "score": 19,
       "verdict": "ZATŁOCZONA",
-      "n": 7
+      "n": 5
     }
   ]
 }
