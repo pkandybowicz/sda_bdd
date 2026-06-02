@@ -84,6 +84,15 @@ inną nazwą. Każda metoda MUSI zwrócić **listę realnych apek z nazwy** (alb
 Jeśli łącznie wyjdzie ≥ ~8–10 apek robiących to samo → nisza **ZATŁOCZONA**, ginie,
 choćby self-score był wysoki. Werdykt: PUSTA Z OKAZJI / SŁABO OBSŁUŻONA / PUSTA Z PRZYCZYNY / ZATŁOCZONA.
 
+### 🔴 REGUŁA #0 — „ON-THE-NOSE NAJPIERW" (obowiązkowa bramka)
+Zanim cokolwiek nazwiemy „PUSTA Z OKAZJI", **pierwsze** zapytanie MUSI być
+**najbardziej dosłowne** („[dokładna funkcja] app", „[function] tracker/manager
+app", „save [X] per [Y] app"). Zapytania okrężne (społeczność, use-case) **nie
+liczą się** jako dowód pustki. **Żaden kandydat nie dostaje werdyktu PUSTA Z
+OKAZJI ani score'u grailowego, dopóki nie przejdzie testu on-the-nose.**
+Powód (lekcja z sesji): okrężne zapytania dały fałszywy „blue ocean" dla Color
+bible (74), a dosłowne ujawniło darmowe konkurenty → realnie SŁABO OBSŁUŻONA (43).
+
 ## RUBRYKA SCORINGU (0–5 każde; matematyka 1000 i durability ważone ×2)
 
 | Kryterium | Co oceniamy |

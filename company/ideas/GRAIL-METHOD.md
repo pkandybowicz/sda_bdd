@@ -34,7 +34,9 @@ w arkuszu/notesie/próbkach, bo problem jest zbyt specyficzny, by ktoś zrobił 
 1. Wybierz **solowego twórcę długiego dzieła** (audio/wizual/tekst/rzemiosło).
 2. Rozłóż jego workflow i znajdź **co MUSI zostać spójne** przez całe dzieło.
 3. Zapytaj: „czym to dziś pilnuje?" Jeśli odpowiedź = **arkusz/notes/próbki** → kandydat.
-4. Weryfikuj wieloetapowo: czy istnieje DEDYKOWANA apka (nie generyk, nie arkusz).
+4. Weryfikuj **ON-THE-NOSE NAJPIERW**: pierwsze zapytanie = najbardziej dosłowne
+   („[funkcja] app/tracker/manager"). Dopiero potem okrężne. Bez przejścia testu
+   on-the-nose — ZERO werdyktu „PUSTA Z OKAZJI" (lekcja: Color bible 74→43).
 5. Jeśli nie → graal. Jeśli tak → idź do sąsiedniego twórcy.
 
 ## Żyły do dalszego drążenia (niezweryfikowane)
