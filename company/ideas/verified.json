@@ -1145,6 +1145,89 @@
    "durability": 8,
    "reach": 4,
    "demand": 1
+  },
+  {
+   "id": "TattooFlash",
+   "name": "Zarządzanie flashami tatuażysty",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Venue Ink",
+    "Fresha",
+    "Bookedin"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "PodAdInventory",
+   "name": "Inwentarz sponsorów/reklam podcastu",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Magellan AI",
+    "Podchaser",
+    "Backtracks",
+    "Podscribe"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "IllustratorQueue",
+   "name": "Kolejka zleceń + etapy WIP (ilustrator)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Notion tmpl",
+    "Trello",
+    "Approval Studio",
+    "GoProof"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "EscapeDesign",
+   "name": "Projekt przepływu zagadek (escape room)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "EscapeMaker",
+    "Room Escape Maker",
+    "SaaS flowchart"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "PlaytestTrack",
+   "name": "Tracker feedbacku z playtestów (autor gier)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Playtest Parlor",
+    "Boardgame Lab",
+    "Boardssey",
+    "PlaytestFeedback"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
   }
  ]
 }
