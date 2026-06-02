@@ -1,7 +1,7 @@
 {
   "algo": "v4",
-  "updated": "2026-06-02 18:10 UTC",
-  "verified": 836,
+  "updated": "2026-06-02 18:54 UTC",
+  "verified": 2048,
   "top10": [
     {
       "id": "AudiobookVoiceBible",
@@ -11,10 +11,52 @@
       "n": 2
     },
     {
+      "id": "X2003",
+      "name": "nalewki PL przepisy i dziennik",
+      "score": 61,
+      "verdict": "PUSTA Z OKAZJI",
+      "n": 0
+    },
+    {
       "id": "NR4",
       "name": "Tracker spójności charakteryzacji głosu (≈Voice bible)",
       "score": 50,
       "verdict": "SŁABO OBSŁUŻONA",
+      "n": 1
+    },
+    {
+      "id": "X1669",
+      "name": "Welding WPS Register",
+      "score": 50,
+      "verdict": "SŁABO OBSŁUŻONA",
+      "n": 3
+    },
+    {
+      "id": "X1869",
+      "name": "inwentarz handmade / handmade inventory",
+      "score": 50,
+      "verdict": "SŁABO OBSŁUŻONA",
+      "n": 2
+    },
+    {
+      "id": "SM4",
+      "name": "Cicerone off-flavor / blind beer training log",
+      "score": 49,
+      "verdict": "PUSTA Z OKAZJI",
+      "n": 0
+    },
+    {
+      "id": "X1168",
+      "name": "rug-tufting-calculator",
+      "score": 49,
+      "verdict": "PUSTA Z OKAZJI",
+      "n": 1
+    },
+    {
+      "id": "X1671",
+      "name": "Heat Treatment / Hardening Parameters",
+      "score": 49,
+      "verdict": "PUSTA Z OKAZJI",
       "n": 1
     },
     {
@@ -25,53 +67,11 @@
       "n": 5
     },
     {
-      "id": "VS5",
-      "name": "Stocking list akwarium – kompatybilność",
-      "score": 42,
-      "verdict": "SŁABO OBSŁUŻONA",
-      "n": 3
-    },
-    {
-      "id": "CL7",
-      "name": "Kolekcja scyzoryków/noży",
-      "score": 40,
-      "verdict": "SŁABO OBSŁUŻONA",
-      "n": 2
-    },
-    {
-      "id": "CM7",
-      "name": "FOH – recall miksu agnostyczny sprzętowo",
-      "score": 40,
-      "verdict": "SŁABO OBSŁUŻONA",
+      "id": "X1162",
+      "name": "macrame-calculator",
+      "score": 48,
+      "verdict": "PUSTA Z OKAZJI",
       "n": 1
-    },
-    {
-      "id": "DF3",
-      "name": "Kalkulator kosztów wypieku [demand/Etsy]",
-      "score": 40,
-      "verdict": "SŁABO OBSŁUŻONA",
-      "n": 3
-    },
-    {
-      "id": "DF8",
-      "name": "Kalkulator wyceny rękodzieła [demand/Etsy]",
-      "score": 40,
-      "verdict": "SŁABO OBSŁUŻONA",
-      "n": 3
-    },
-    {
-      "id": "FD14",
-      "name": "Przewodnik wędzenia na zimno [do potw.]",
-      "score": 40,
-      "verdict": "SŁABO OBSŁUŻONA",
-      "n": 0
-    },
-    {
-      "id": "FD5",
-      "name": "Przewodnik dehydratora [do potw.]",
-      "score": 40,
-      "verdict": "SŁABO OBSŁUŻONA",
-      "n": 0
     }
   ]
 }
