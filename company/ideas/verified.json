@@ -1950,6 +1950,58 @@
    "durability": 7,
    "reach": 4,
    "demand": 2
+  },
+  {
+   "id": "ConlangTool",
+   "name": "Słownik/gramatyka conlangu (konlanger)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "PolyGlot",
+    "LingoCon",
+    "LangWitch",
+    "Vulgar",
+    "ConWorkShop"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "CakeDesign",
+   "name": "Projekt/zlecenia tortów (dekorator)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Bake Diary",
+    "Cake & Cookie Planner",
+    "Cakenote",
+    "Bakely"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "SongwriterLyric",
+   "name": "Biblioteka pomysłów/hooków (autor piosenek)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Spit Notes($1.99)",
+    "Lyric Genie",
+    "Suonote",
+    "Hum"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
   }
  ]
 }
