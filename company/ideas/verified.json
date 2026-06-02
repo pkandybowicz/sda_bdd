@@ -3224,6 +3224,56 @@
    "durability": 8,
    "reach": 2,
    "demand": 1
+  },
+  {
+   "id": "Letterboxing",
+   "name": "Log znalezisk letterboxing",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Clue Tracker",
+    "Atlas Quest",
+    "LbNA"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "POTAlog",
+   "name": "Log aktywacji POTA/SOTA",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "HAMRS",
+    "Ham2K PoLo",
+    "HRD Logbook",
+    "N3FJP"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "Orienteering",
+   "name": "Analiza tras orienteeringu",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Livelox",
+    "Control",
+    "MapRun",
+    "RouteGadget"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
   }
  ]
 }
