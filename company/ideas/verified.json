@@ -7185,6 +7185,174 @@
    "durability": 7,
    "reach": 5,
    "demand": 3
+  },
+  {
+   "id": "CV1",
+   "name": "Cut-list / rozkrój sklejki",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#6: konwertery)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "CV2",
+   "name": "Generator wykroju krawieckiego",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#6: konwertery)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "CV3",
+   "name": "Cross-stitch z obrazka",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#6: konwertery)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "CV4",
+   "name": "Tabulatura gitarowa z audio",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#6: konwertery)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "CV5",
+   "name": "Konwerter nut → MIDI",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#6: konwertery)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "CV6",
+   "name": "Generator palety CMYK/Pantone",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#6: konwertery)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "CV7",
+   "name": "Kalkulator skali modelarskiej",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#6: konwertery)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "CV8",
+   "name": "Papercraft unfolder STL→PDF",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#6: konwertery)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "CV9",
+   "name": "Konwerter współrzędnych GPS",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#6: konwertery)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "CV10",
+   "name": "Kalkulator receptury kosmetyku DIY",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#6: konwertery)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "CV11",
+   "name": "Digitalizacja haftu maszynowego (foto→DST)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#6: konwertery)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "service",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "CV12",
+   "name": "Kalkulator ilości włóczki",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#6: konwertery)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
   }
  ]
 }
