@@ -6703,6 +6703,174 @@
    "durability": 6,
    "reach": 3,
    "demand": 2
+  },
+  {
+   "id": "LX1",
+   "name": "Korektor typograficzny PL",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja: arbitraż językowy)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "LX2",
+   "name": "Splitter złożeń DE (Komposita, GUI) [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja: arbitraż językowy)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "LX3",
+   "name": "Kalendarz imienin PL",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja: arbitraż językowy)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "LX4",
+   "name": "Generator referencji ABNT (BR)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja: arbitraż językowy)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "LX5",
+   "name": "Generator pism administracyjnych FR",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja: arbitraż językowy)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "LX6",
+   "name": "Symulator faktury PVPC ES (live-data pułapka)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja: arbitraż językowy)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 3,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "LX7",
+   "name": "Konwerter przepisów IT (miary regionalne)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja: arbitraż językowy)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "LX8",
+   "name": "Kalkulator napiwku DE",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja: arbitraż językowy)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "LX9",
+   "name": "Transkrypcja fonetyczna PL→IPA",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja: arbitraż językowy)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "LX10",
+   "name": "Przewodnik apelacji wina FR (Abacchus silny)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja: arbitraż językowy)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "LX11",
+   "name": "Kalendarz łowiecki PL",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja: arbitraż językowy)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "LX12",
+   "name": "Kalkulator ceny m²/dzielnica ES",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja: arbitraż językowy)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
   }
  ]
 }
