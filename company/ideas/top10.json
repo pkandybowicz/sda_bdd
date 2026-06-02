@@ -1,7 +1,7 @@
 {
   "algo": "v3",
-  "updated": "2026-06-02 14:08 UTC",
-  "verified": 259,
+  "updated": "2026-06-02 14:10 UTC",
+  "verified": 274,
   "top10": [
     {
       "id": "FoodTemp",
@@ -25,18 +25,11 @@
       "n": 2
     },
     {
-      "id": "T6",
-      "name": "Kalkulator wyceny prania dywanów [do potw.]",
-      "score": 67,
+      "id": "HB12",
+      "name": "Menadżer receptur świec",
+      "score": 65,
       "verdict": "SŁABO OBSŁUŻONA",
-      "n": 2
-    },
-    {
-      "id": "T9",
-      "name": "Planer tras mycia rynien [do potw.]",
-      "score": 64,
-      "verdict": "SŁABO OBSŁUŻONA",
-      "n": 0
+      "n": 3
     },
     {
       "id": "B13",
@@ -67,11 +60,18 @@
       "n": 5
     },
     {
-      "id": "C10",
-      "name": "Tracker ciągłości paneli komiksu [do potw.]",
-      "score": 59,
+      "id": "EUDRmicro",
+      "name": "Due diligence EUDR dla mikro-importera",
+      "score": 58,
       "verdict": "SŁABO OBSŁUŻONA",
-      "n": 0
+      "n": 4
+    },
+    {
+      "id": "MagicianLog",
+      "name": "Repertuar magika + log 'komu co pokazałem'",
+      "score": 58,
+      "verdict": "SŁABO OBSŁUŻONA",
+      "n": 1
     }
   ]
 }

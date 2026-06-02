@@ -3352,10 +3352,10 @@
    "name": "Dziennik bólu nerwu sromowego [do potw.]",
    "verdict": "SŁABO OBSŁUŻONA",
    "competitors": [
-    "agent PUSTA — niezweryfikowane on-the-nose"
+    "(niezweryf. — konserwatywnie: zakł. darmowy substytut)"
    ],
    "n": 0,
-   "free_sub": false,
+   "free_sub": true,
    "model": "onetime",
    "durability": 8,
    "reach": 2,
@@ -3479,10 +3479,10 @@
    "name": "Timer terapii naprzemiennej [do potw.]",
    "verdict": "SŁABO OBSŁUŻONA",
    "competitors": [
-    "agent PUSTA — niezweryfikowane"
+    "(niezweryf. — konserwatywnie: zakł. darmowy substytut)"
    ],
    "n": 0,
-   "free_sub": false,
+   "free_sub": true,
    "model": "onetime",
    "durability": 8,
    "reach": 2,
@@ -3603,12 +3603,12 @@
   {
    "id": "T6",
    "name": "Kalkulator wyceny prania dywanów [do potw.]",
-   "verdict": "SŁABO OBSŁUŻONA",
+   "verdict": "ZATŁOCZONA",
    "competitors": [
-    "(fala hurtowa agentów)"
+    "(manager on-the-nose: agentowe PUSTA obalone)"
    ],
-   "n": 2,
-   "free_sub": false,
+   "n": 6,
+   "free_sub": true,
    "model": "mixed",
    "durability": 8,
    "reach": 3,
@@ -3647,10 +3647,10 @@
    "name": "Planer tras mycia rynien [do potw.]",
    "verdict": "SŁABO OBSŁUŻONA",
    "competitors": [
-    "(fala hurtowa agentów)"
+    "(niezweryf. — konserwatywnie: zakł. darmowy substytut)"
    ],
    "n": 0,
-   "free_sub": false,
+   "free_sub": true,
    "model": "sub",
    "durability": 7,
    "reach": 2,
@@ -3857,10 +3857,10 @@
    "name": "Tracker 'color story' (ilustrator) [do potw.]",
    "verdict": "SŁABO OBSŁUŻONA",
    "competitors": [
-    "(fala hurtowa agentów)"
+    "(niezweryf. — konserwatywnie: zakł. darmowy substytut)"
    ],
    "n": 0,
-   "free_sub": false,
+   "free_sub": true,
    "model": "onetime",
    "durability": 8,
    "reach": 3,
@@ -3871,10 +3871,10 @@
    "name": "Tracker ciągłości paneli komiksu [do potw.]",
    "verdict": "SŁABO OBSŁUŻONA",
    "competitors": [
-    "(fala hurtowa agentów)"
+    "(niezweryf. — konserwatywnie: zakł. darmowy substytut)"
    ],
    "n": 0,
-   "free_sub": false,
+   "free_sub": true,
    "model": "onetime",
    "durability": 8,
    "reach": 3,
@@ -3885,10 +3885,10 @@
    "name": "Tracker tematów newslettera [do potw.]",
    "verdict": "SŁABO OBSŁUŻONA",
    "competitors": [
-    "(fala hurtowa agentów)"
+    "(manager on-the-nose: agentowe PUSTA obalone)"
    ],
-   "n": 0,
-   "free_sub": false,
+   "n": 4,
+   "free_sub": true,
    "model": "onetime",
    "durability": 7,
    "reach": 4,
@@ -4235,10 +4235,10 @@
    "name": "Tracker renowacji radia lampowego [do potw.]",
    "verdict": "SŁABO OBSŁUŻONA",
    "competitors": [
-    "(fala hurtowa agentów)"
+    "(niezweryf. — konserwatywnie: zakł. darmowy substytut)"
    ],
    "n": 0,
-   "free_sub": false,
+   "free_sub": true,
    "model": "onetime",
    "durability": 8,
    "reach": 2,
@@ -4347,10 +4347,10 @@
    "name": "Tracker kolekcji maszyn do pisania [do potw.]",
    "verdict": "SŁABO OBSŁUŻONA",
    "competitors": [
-    "(fala hurtowa agentów)"
+    "(manager on-the-nose: agentowe PUSTA obalone)"
    ],
-   "n": 0,
-   "free_sub": false,
+   "n": 1,
+   "free_sub": true,
    "model": "free",
    "durability": 8,
    "reach": 3,
