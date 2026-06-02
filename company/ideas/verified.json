@@ -1522,6 +1522,72 @@
    "durability": 8,
    "reach": 3,
    "demand": 2
+  },
+  {
+   "id": "MushroomGrow",
+   "name": "Log uprawy grzybów (kontaminacja/plon)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "MycoFile",
+    "Crowe Logic",
+    "Sporehubs",
+    "MycoHub(offline)",
+    "MagniSpore"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "CoralFrag",
+   "name": "Tracker fragów korali (akwarium morskie)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Coral Tracker",
+    "Reef Tracker",
+    "ReefBay",
+    "My Reef Log",
+    "Aquarimate"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "OrchidLog",
+   "name": "Log kolekcji storczyków (kwitnienie/podlewanie)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Orchidarium",
+    "Orchid Album",
+    "Orchid Notebook"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "FishQuarantine",
+   "name": "Harmonogram leków kwarantanny ryb",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Aquarimate"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
   }
  ]
 }
