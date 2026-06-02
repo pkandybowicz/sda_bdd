@@ -30704,6 +30704,918 @@
    "durability": 6,
    "reach": 2,
    "demand": 1
+  },
+  {
+   "id": "X1943__",
+   "name": "youth-soccer-lineup-formations",
+   "verdict": "skip",
+   "competitors": [
+    "MatchDay Coach",
+    "Coach Tactic Board Soccer",
+    "TeamSnap",
+    "Soccer Lineup Builder Elite"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 3,
+   "reach": 6,
+   "demand": 2
+  },
+  {
+   "id": "X1945__",
+   "name": "baseball-little-league-lineup-card",
+   "verdict": "skip",
+   "competitors": [
+    "GameChanger",
+    "Lineup Card app",
+    "TeamSnap",
+    "Baseball Lineup Cards"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 3,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X1947__",
+   "name": "basketball-rotation-playing-time",
+   "verdict": "skip",
+   "competitors": [
+    "SubTime",
+    "SubNow",
+    "TheHoopsGeek",
+    "PlayingTimeCalculator",
+    "CoachAny"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 3,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X1949__",
+   "name": "volleyball-rotation-tracker",
+   "verdict": "marginal",
+   "competitors": [
+    "Rotate123",
+    "Volleyball Rotations Tracker App",
+    "SoloStats123",
+    "RotationCoach"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1951__",
+   "name": "track-field-cross-country-meet-coach",
+   "verdict": "marginal",
+   "competitors": [
+    "MeetPro",
+    "My Track & Field Team",
+    "HY-TEK Meet Manager",
+    "TrackCentral"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1953__",
+   "name": "wrestling-weight-bracket-tournament",
+   "verdict": "skip",
+   "competitors": [
+    "USA Bracketing",
+    "Snapdown",
+    "Waresport",
+    "SportsPlus"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1955__",
+   "name": "gymnastics-routine-sequence-planner",
+   "verdict": "promising",
+   "competitors": [
+    "GymTrack World",
+    "Artistic Gymnastics Routine Maker",
+    "WAG Routine Maker"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1957__",
+   "name": "cheerleading-choreography-formation",
+   "verdict": "marginal",
+   "competitors": [
+    "Stunt.fit",
+    "Choreographic",
+    "Cheer Builder",
+    "ArrangeUS"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1959__",
+   "name": "swim-team-practice-set-builder",
+   "verdict": "skip",
+   "competitors": [
+    "SwimShare",
+    "Commit Swimming",
+    "DuoSwim",
+    "Swim Coach Toolkit"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1961__",
+   "name": "rowing-crew-seat-assignment-lineup",
+   "verdict": "promising",
+   "competitors": [
+    "CrewLAB",
+    "Row HQ",
+    "iCrew",
+    "RowForm"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1963__",
+   "name": "tennis-tournament-ladder-bracket",
+   "verdict": "skip",
+   "competitors": [
+    "Global Tennis Network",
+    "iTennisLadder",
+    "TennisRungs",
+    "USTA Serve Tennis"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 3,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X1965__",
+   "name": "golf-team-stats-instruction-tracker",
+   "verdict": "marginal",
+   "competitors": [
+    "GolfTracker HS",
+    "GolfStatLab",
+    "Onform",
+    "V1 Coach"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1967__",
+   "name": "esports-team-vod-review-coaching",
+   "verdict": "promising",
+   "competitors": [
+    "Insights.gg",
+    "Vodon Pro",
+    "Coachable",
+    "GameCoach.gg"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1969__",
+   "name": "team-strength-conditioning-workout",
+   "verdict": "skip",
+   "competitors": [
+    "TeamBuildr",
+    "TrainHeroic",
+    "TrueCoach",
+    "CoachMePlus"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 4,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1971__",
+   "name": "hockey-line-change-shift-rotation",
+   "verdict": "marginal",
+   "competitors": [
+    "Hockey Lineup Manager",
+    "SubTime",
+    "Coach Tactic Board Hockey",
+    "USA Hockey Mobile Coach"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1973__",
+   "name": "rugby-formation-lineout-playbook",
+   "verdict": "promising",
+   "competitors": [
+    "My Coach Rugby",
+    "Tactic3D Rugby",
+    "SportEasy",
+    "GameCoach.gg Rugby"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1975__",
+   "name": "american-football-youth-playbook",
+   "verdict": "skip",
+   "competitors": [
+    "GoRout",
+    "FirstDown PlayBook",
+    "Football Playbook Designer",
+    "SMASH Routes",
+    "CoachMe"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 3,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X1977__",
+   "name": "cross-country-athlete-pace-tracker",
+   "verdict": "marginal",
+   "competitors": [
+    "TrackCentral XC",
+    "My Track & Field Team",
+    "MeetPro"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1979_",
+   "name": "barista-latte-art-progress",
+   "verdict": "NICHE_OK",
+   "competitors": [
+    "LatteArtist (iOS, paid)",
+    "Latte Art Grading (iOS)",
+    "generic photo journal"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1981_",
+   "name": "bartender-cocktail-spec-book",
+   "verdict": "CROWDED",
+   "competitors": [
+    "Mixel",
+    "Cocktail Flow",
+    "Highball",
+    "Barsys (free)",
+    "Bartender App (sub)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1983_",
+   "name": "sommelier-wine-cellar-tracker",
+   "verdict": "CROWDED",
+   "competitors": [
+    "CellarTracker (free)",
+    "OENO by Vintec (free)",
+    "InVintory",
+    "BinWise Pro"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1985_",
+   "name": "host-small-reservations",
+   "verdict": "CROWDED",
+   "competitors": [
+    "Carbonara (free)",
+    "resmio (free)",
+    "Hostme",
+    "Eat App",
+    "OpenTable",
+    "Resy"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 9,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1987_",
+   "name": "catering-event-per-client",
+   "verdict": "VIABLE",
+   "competitors": [
+    "Function Tracker for Caterers",
+    "Better Cater",
+    "HoneyBook",
+    "Total Party Planner"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1989_",
+   "name": "private-chef-per-client-menu",
+   "verdict": "VIABLE",
+   "competitors": [
+    "Modernmeal",
+    "Private Chef Manager",
+    "Personal Chef Office"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 1,
+   "demand": 2
+  },
+  {
+   "id": "X1991_",
+   "name": "ghost-kitchen-order-mgmt",
+   "verdict": "CROWDED",
+   "competitors": [
+    "Square (free tier)",
+    "Rezku (free)",
+    "Delivety",
+    "MarketMan",
+    "eatOS"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1993_",
+   "name": "meal-prep-biz-order-tracker",
+   "verdict": "VIABLE",
+   "competitors": [
+    "Sprwt",
+    "BiteRocket",
+    "HoneyBook"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1995_",
+   "name": "pastry-cake-decoration-tracker",
+   "verdict": "NICHE_OK",
+   "competitors": [
+    "Cake Planner (Google Play)",
+    "PocketChef",
+    "generic notes apps"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1997_",
+   "name": "food-photography-styling-notes",
+   "verdict": "WEAK",
+   "competitors": [
+    "Snapseed (free)",
+    "VSCO (free)",
+    "FoodShot AI",
+    "Foodie",
+    "FoodView (free)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1999_",
+   "name": "recipe-dev-version-tracker",
+   "verdict": "VIABLE",
+   "competitors": [
+    "meez",
+    "Apicbase",
+    "Kafoodle",
+    "Recipe Keeper"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2001_",
+   "name": "menu-engineering-margins",
+   "verdict": "CROWDED",
+   "competitors": [
+    "Jampos (free web)",
+    "RingChef (free)",
+    "Supy (free)",
+    "SpotOn worksheet",
+    "meez"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2003_",
+   "name": "allergen-matrix-manager",
+   "verdict": "VIABLE",
+   "competitors": [
+    "Allergy Menu (freemium)",
+    "FoodDocs (template free)",
+    "Hubl App",
+    "CertiStar"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2005_",
+   "name": "mise-en-place-checklist",
+   "verdict": "WEAK",
+   "competitors": [
+    "Connecteam (free)",
+    "FoodDocs (free)",
+    "Miratag (free)",
+    "SafetyCulture"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2007_",
+   "name": "bar-inventory-tracker",
+   "verdict": "CROWDED",
+   "competitors": [
+    "Backbar (free forever)",
+    "BinScan (free tier)",
+    "Partender",
+    "Freepour",
+    "BevSpot"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 9,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2009_",
+   "name": "tip-pooling-calculator",
+   "verdict": "WEAK",
+   "competitors": [
+    "7shifts (free)",
+    "Toast (free)",
+    "EasyUtils (free)",
+    "ShiftFlow (free)",
+    "Agendrix (free)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2011_",
+   "name": "server-schedule-small",
+   "verdict": "CROWDED",
+   "competitors": [
+    "Homebase (free)",
+    "Sling (free)",
+    "7shifts (free)",
+    "BriskTable (free)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 9,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2013_",
+   "name": "menu-tasting-notes",
+   "verdict": "NICHE_OK",
+   "competitors": [
+    "VinoMemo (free, offline)",
+    "Curate (free tier)",
+    "Sommo (freemium)",
+    "Vivino"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2015_",
+   "name": "surfing-session-wave-log",
+   "verdict": "wolna nisza: Dawn Patrol/Surf Log istnieją, ale mają subskrypcje i niszowe funkcje; $5 offline logger z licznikiem fal i warunkami ma sens",
+   "competitors": [
+    "Dawn Patrol",
+    "Surf Log",
+    "SurfTrackr",
+    "Surfline"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2017_",
+   "name": "SUP-paddleboard-session-log",
+   "verdict": "Paddle Logger istnieje i jest freemium; gap to offline-first z analizą wiatru/prądu bez sub; uzasadniony $5 one-time",
+   "competitors": [
+    "Paddle Logger",
+    "GeoSUP",
+    "PaddlePal"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2019_",
+   "name": "wakeboarding-trick-tracker",
+   "verdict": "Wake i Wakespot są darmowe i robią swoje; rynek bardzo mały; trudno uzasadnić $5 wobec darmowej konkurencji",
+   "competitors": [
+    "Wake",
+    "Wakespot",
+    "SHREDLOG"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 4,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2021_",
+   "name": "snowboard-trick-park-log",
+   "verdict": "ParkProgress i SBTT dostępne bezpłatnie; Slopes/Trace robią śledzenie tras; $5 offline trick-logger z progresją ma niszę, ale wąską",
+   "competitors": [
+    "ParkProgress",
+    "SBTT",
+    "Slopes",
+    "Trace"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2023_",
+   "name": "BMX-trick-tracker",
+   "verdict": "Brak dedykowanej darmowej apki do rejestracji trików (gry != tracker); społeczność mała; $5 offline trick-logger z przebiegiem prób ma realną niszę",
+   "competitors": [
+    "Touchgrind BMX 2 (gra)",
+    "My BMX book"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2025_",
+   "name": "MTB-trail-session-log",
+   "verdict": "Trailforks+Komoot+Strava pokrywają 95% potrzeb za darmo; saturacja wysoka; nowa apka nie ma przewagi",
+   "competitors": [
+    "Trailforks",
+    "MTB Project",
+    "Komoot",
+    "Strava"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 3,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X2027_",
+   "name": "road-cycling-route-log",
+   "verdict": "Strava free + Komoot free w pełni wystarczają; rynek zdominowany; brak luki na $5 one-time",
+   "competitors": [
+    "Strava",
+    "Komoot",
+    "RideWithGPS",
+    "Garmin Connect"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 2,
+   "reach": 5,
+   "demand": 1
+  },
+  {
+   "id": "X2029_",
+   "name": "gravel-cycling-route-log",
+   "verdict": "Komoot/RideWithGPS/Bikemap mają gravel surface-routing; Komoot enshittification po 2025 stwarza małą lukę; $5 offline gravel-planner możliwy",
+   "competitors": [
+    "Komoot",
+    "RideWithGPS",
+    "Bikemap",
+    "cycle.travel"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2031_",
+   "name": "enduro-MTB-stage-timing",
+   "verdict": "EnduroBro to gotowe pro-rozwiązanie dla organizatorów; dla zawodnika personalny log stagów to nisza; $5 offline stage-log z porównaniem split-ów uzasadniony",
+   "competitors": [
+    "EnduroBro",
+    "California Enduro Timing",
+    "RaceSplitter"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2033_",
+   "name": "downhill-MTB-lap-timer",
+   "verdict": "BYB Chrono/LITPro/Freelap dają timing za darmo (z hardware); czysto-softwarowy $5 offline lap-timer z analizą split-ów ma niszę wśród trenerów DH",
+   "competitors": [
+    "LITPro",
+    "BYB Chrono",
+    "Cyclaps",
+    "Freelap"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2035_",
+   "name": "longboard-session-log",
+   "verdict": "Skateboard Tracker GPS i Ollee dostępne za darmo; społeczność mała; apka GPS-speed-logger za $5 możliwa, ale saturacja",
+   "competitors": [
+    "Ollee",
+    "Skateboard Tracker GPS",
+    "BTB Sports Tracker"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 4,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2037_",
+   "name": "orienteering-training-log",
+   "verdict": "iOrienteering/Livelox/Control darmowe i dobrze zrobione; IOF wspiera ekosystem; brak luki na komercyjną apkę za $5",
+   "competitors": [
+    "iOrienteering",
+    "Control",
+    "Livelox",
+    "GPS Orienteering"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 3,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2039_",
+   "name": "fell-running-race-log",
+   "verdict": "Strava+RunningLog obsługują fell running; FRA prowadzi wyniki; dedykowany $5 fell-log z punktacją FRA i Wainwrights ma mikroszansę w UK",
+   "competitors": [
+    "Strava",
+    "RunningLog",
+    "Fellrunner.org.uk",
+    "Vert.run"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2041_",
+   "name": "wingfoil-session-log",
+   "verdict": "Hoolan jest w pełni darmowy i pokrywa sesje wingfoil+kite+windsurf z Apple Watch/Garmin; luka praktycznie zerowa",
+   "competitors": [
+    "Hoolan",
+    "WindsportTracker",
+    "Wind Tracker",
+    "FoilMotion"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 3,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2043_",
+   "name": "freeride-ski-powder-log",
+   "verdict": "OnTheSnow/wePowder/OpenSnow dają raporty śniegu za darmo; brak dedykowanej apki do osobistego dziennika freeride z off-piste liniami; $5 offline powder-diary ma niszę",
+   "competitors": [
+    "OnTheSnow",
+    "OpenSnow",
+    "wePowder",
+    "Slopes"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2045_",
+   "name": "SUP-race-split-timer",
+   "verdict": "Nikt nie robi dedykowanego split-timera na wyścigi SUP; RaceSplitter ogólny; $5 offline SUP-race-log z dystansami i split-ami ma realny gap",
+   "competitors": [
+    "RaceSplitter",
+    "Paddle Logger"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2047",
+   "name": "snowboard-freeride-line-log",
+   "verdict": "Brak apki do logowania off-piste linii ze zdjęciem + warunkami śniegu + oceną zagrożenia lawinowego w jednym; $5 offline freeride-diary z mapą to realna luka",
+   "competitors": [
+    "Slopes",
+    "OnTheSnow",
+    "Ava avalanche app"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2049",
+   "name": "gravel-bikepacking-route-diary",
+   "verdict": "RideWithGPS ma surface-types od 2025 ale sub $80/yr; $5 offline one-trip bikepacking diary z waypoints, POI, notatkami to odrębna propozycja wartości",
+   "competitors": [
+    "RideWithGPS",
+    "Komoot",
+    "Bikepacking.com GPX"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
   }
  ]
 }
