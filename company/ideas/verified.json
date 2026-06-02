@@ -11255,6 +11255,286 @@
    "durability": 6,
    "reach": 3,
    "demand": 1
+  },
+  {
+   "id": "CM1",
+   "name": "Perfumiarz – pamięć formuł zapachowych",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#12 pamięć-produkcji)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "CM2",
+   "name": "Kolorysta – recall grade'u (DaVinci wbudowane)",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [
+    "(mutacja#12 pamięć-produkcji)"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "CM5",
+   "name": "Ceramik – pamięć szkliwa/wypału (Glazy)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#12 pamięć-produkcji)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "CM6",
+   "name": "Palarnia kawy – recall profilu palenia",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#12 pamięć-produkcji)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "CM7",
+   "name": "FOH – recall miksu agnostyczny sprzętowo",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#12 pamięć-produkcji)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "CM8",
+   "name": "Tatuażysta – pamięć techniki (igły/maszynka/wash) [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "brak dedyk. loga; ALE notatnik/arkusz udźwignie liczby (V/stroke/igła); galeria na zdjęcia"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "CM10",
+   "name": "Witrażysta – pamięć patyny/szkła",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [
+    "(mutacja#12 pamięć-produkcji)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "CM11",
+   "name": "Kowal-artysta – recall temp/stopu",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [
+    "(mutacja#12 pamięć-produkcji)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "RL1",
+   "name": "Rodowód + COI (graf genealogiczny)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#12 struktura-graf)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "RL2",
+   "name": "Graf fabuły interaktywnej (Twine free)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#12 struktura-graf)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "RL3",
+   "name": "Drzewo decyzyjne naprawy (iFixit)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#12 struktura-graf)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "RL4",
+   "name": "Mapa relacji postaci (Obsidian/Chronicler)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#12 struktura-graf)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "RL5",
+   "name": "Drzewo otwarć szachowych (SCID free)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#12 struktura-graf)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "RL6",
+   "name": "Graf fermentacji (Brewtarget free)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#12 struktura-graf)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "RL7",
+   "name": "Drzewo umiejętności treningu",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#12 struktura-graf)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "RL8",
+   "name": "Algorytmy kostki Rubika (free PWA)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#12 struktura-graf)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "RL9",
+   "name": "Graf szczepień roślin (rootstock/scion)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#12 struktura-graf)"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "RL10",
+   "name": "Drzewo wariantów planszówki (FreeMind)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#12 struktura-graf)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "RL11",
+   "name": "Wielopoziomowy BOM rękodzieła (Craftybase)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#12 struktura-graf)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "RL12",
+   "name": "Graf interakcji składników (free apps)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#12 struktura-graf)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
   }
  ]
 }
