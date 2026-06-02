@@ -10765,6 +10765,328 @@
    "durability": 8,
    "reach": 2,
    "demand": 1
+  },
+  {
+   "id": "VD1",
+   "name": "Klipy formy ćwiczenia per pacjent (fizjo)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#11 wideo/foto-sibling)"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "VD2",
+   "name": "Technika sportu per zawodnik (Kinovea free)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#11 wideo/foto-sibling)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "VD3",
+   "name": "Biblioteka tańca wideo per choreografia",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#11 wideo/foto-sibling)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "VD4",
+   "name": "Bank znaków migowych (własne nagrania)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#11 wideo/foto-sibling)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "VD5",
+   "name": "Log trików skater/parkour (wideo)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#11 wideo/foto-sibling)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "VD6",
+   "name": "Beta wspinaczkowa wideo (KAYA free)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#11 wideo/foto-sibling)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "VD7",
+   "name": "Forma podnoszenia wideo (IronPath free)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#11 wideo/foto-sibling)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "VD8",
+   "name": "Klipy chodu konia per koń (prywatny)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#11 wideo/foto-sibling)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "VD9",
+   "name": "Wideo napadów/tików per epizod (SeizureTracker)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#11 wideo/foto-sibling)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "VD10",
+   "name": "Wideo-log mowy dziecka per sesja",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#11 wideo/foto-sibling)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "VD11",
+   "name": "Technika instrumentu wideo per utwór",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#11 wideo/foto-sibling)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "PH1",
+   "name": "Gojenie rany per pacjent (Pixacare)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#11 wideo/foto-sibling)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "PH2",
+   "name": "Wzrost rośliny per egzemplarz",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#11 wideo/foto-sibling)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "PH3",
+   "name": "Progres gojenia tatuażu (galeria wystarcza)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#11 wideo/foto-sibling)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "PH4",
+   "name": "Ewolucja znamion/skóry (MoleMapper)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#11 wideo/foto-sibling)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "PH5",
+   "name": "Restauracja mebla/auta per obiekt",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#11 wideo/foto-sibling)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "PH6",
+   "name": "Postęp budowy modelu per projekt",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#11 wideo/foto-sibling)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "PH7",
+   "name": "Dokumentacja usterek per lokalizacja",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#11 wideo/foto-sibling)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "PH8",
+   "name": "Zdjęcia zęba per wizyta (mały gabinet)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#11 wideo/foto-sibling)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "PH9",
+   "name": "Progres sylwetki per seria (galeria wystarcza)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#11 wideo/foto-sibling)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "PH10",
+   "name": "Dokumentacja uszkodzeń najmu per pokój",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#11 wideo/foto-sibling)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "PH11",
+   "name": "Etapy ceramiki/glazury (Pottery Log free)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#11 wideo/foto-sibling)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "PH12",
+   "name": "Monitoring pęknięć budynku per punkt",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#11 wideo/foto-sibling)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
   }
  ]
 }
