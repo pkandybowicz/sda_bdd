@@ -1720,6 +1720,55 @@
    "durability": 8,
    "reach": 3,
    "demand": 1
+  },
+  {
+   "id": "CigarHumidor",
+   "name": "Tracking kolekcji cygar/humidora",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "CigarTrakr",
+    "humidor.pro",
+    "Cigarro",
+    "Cigarbase",
+    "Boxpressd",
+    "My Humidor",
+    "Cigarino"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "HotSauceFerment",
+   "name": "Tracker fermentacji sosów chili",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Fermentio"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "TeaTasting",
+   "name": "Dziennik degustacji herbat",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "MyTeaPal",
+    "Steepster"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
   }
  ]
 }
