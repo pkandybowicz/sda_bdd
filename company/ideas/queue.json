@@ -97,6 +97,114 @@
    "done": true
   },
   {
+   "idea": "TattooConsent: generator zgód i kart aftercare dla studia tatuażu (tattoo consent/aftercare)",
+   "nisza": "TattooConsent",
+   "score": 98,
+   "done": false
+  },
+  {
+   "idea": "GroomCard: karta klienta + cennik dla groomera psów (dog grooming client card breed cut)",
+   "nisza": "GroomCard",
+   "score": 98,
+   "done": false
+  },
+  {
+   "idea": "DrivingLessonLog: dziennik lekcji i postępów ucznia dla instruktora jazdy (driving instructor pupil log)",
+   "nisza": "DrivingLessonLog",
+   "score": 98,
+   "done": false
+  },
+  {
+   "idea": "PTClientLog: offline log treningów i pomiarów klienta dla trenera personalnego (personal trainer client offline)",
+   "nisza": "PTClientLog",
+   "score": 98,
+   "done": false
+  },
+  {
+   "idea": "MusicPracticeLog: log praktyki i grafik dla nauczyciela muzyki (music teacher lesson practice log)",
+   "nisza": "MusicPracticeLog",
+   "score": 98,
+   "done": false
+  },
+  {
+   "idea": "FloristRecipe: kalkulator wyceny i liczby łodyg bukietu dla florysty (florist recipe stem count pricing)",
+   "nisza": "FloristRecipe",
+   "score": 98,
+   "done": false
+  },
+  {
+   "idea": "CableSize: kalkulator doboru przekroju kabla dla elektryka (electrician cable size calculator)",
+   "nisza": "CableSize",
+   "score": 98,
+   "done": false
+  },
+  {
+   "idea": "DuctSize: kalkulator doboru kanałów wentylacyjnych HVAC (HVAC duct sizing calculator)",
+   "nisza": "DuctSize",
+   "score": 98,
+   "done": false
+  },
+  {
+   "idea": "BakerPct: kalkulator baker's percentage / skalowanie ciasta (bakers percentage dough scaling)",
+   "nisza": "BakerPct",
+   "score": 98,
+   "done": false
+  },
+  {
+   "idea": "MassageSOAP: offline notatki SOAP dla masażysty/fizjo (massage therapist SOAP notes offline)",
+   "nisza": "MassageSOAP",
+   "score": 98,
+   "done": false
+  },
+  {
+   "idea": "WeddingShotList: lista ujęć dla fotografa ślubnego (wedding photographer shot list app)",
+   "nisza": "WeddingShotList",
+   "score": 98,
+   "done": false
+  },
+  {
+   "idea": "CateringPortion: kalkulator porcji i kosztu cateringu na event (catering portion cost calculator)",
+   "nisza": "CateringPortion",
+   "score": 98,
+   "done": false
+  },
+  {
+   "idea": "WeldParams: kalkulator parametrów spawania (welding parameters calculator app)",
+   "nisza": "WeldParams",
+   "score": 98,
+   "done": false
+  },
+  {
+   "idea": "UpholsteryYard: kalkulator metrażu do tapicerki mebli (upholstery yardage calculator)",
+   "nisza": "UpholsteryYard",
+   "score": 98,
+   "done": false
+  },
+  {
+   "idea": "TutorInvoice: log sesji + paragon dla korepetytora (tutor session log invoice slip)",
+   "nisza": "TutorInvoice",
+   "score": 98,
+   "done": false
+  },
+  {
+   "idea": "CidermakerCalc: kalkulator nastawu cydru/wina domowego (cider winemaking batch calculator)",
+   "nisza": "CidermakerCalc",
+   "score": 98,
+   "done": false
+  },
+  {
+   "idea": "AquariumDose: kalkulator dawkowania nawozów/leków do akwarium (aquarium dosing calculator)",
+   "nisza": "AquariumDose",
+   "score": 98,
+   "done": false
+  },
+  {
+   "idea": "PoolChem: kalkulator chemii basenowej dla serwisanta (pool chemical dosing calculator)",
+   "nisza": "PoolChem",
+   "score": 98,
+   "done": false
+  },
+  {
    "idea": "FloorCalc: kalkulator materiałów podłogowych (flooring material calculator)",
    "nisza": "FloorCalc",
    "score": 99,
