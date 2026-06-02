@@ -11087,6 +11087,174 @@
    "durability": 7,
    "reach": 2,
    "demand": 2
+  },
+  {
+   "id": "SW1",
+   "name": "Budżet z bank-sync (strukturalnie ≠ offline-$5)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#11 sub-only wedge)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "SW2",
+   "name": "Tracker snu Android (Sleep as Android istnieje)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#11 sub-only wedge)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "SW3",
+   "name": "Medytacja offline (Insight Timer free)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#11 sub-only wedge)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "SW4",
+   "name": "Licznik kalorii barcode (Cronometer/FatSecret free)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#11 sub-only wedge)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "SW5",
+   "name": "Menedżer haseł (Bitwarden free)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#11 sub-only wedge)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "SW6",
+   "name": "Tracker nawyków (Streaks $4.99/Loop free)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#11 sub-only wedge)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "SW7",
+   "name": "PDF z adnotacjami (GoodNotes one-time)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#11 sub-only wedge)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "SW8",
+   "name": "Tracker zadań (Things/TickTick)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#11 sub-only wedge)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "SW9",
+   "name": "Edytor zdjęć (Snapseed free)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#11 sub-only wedge)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "SW10",
+   "name": "Skaner dokumentów (Adobe Scan free)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#11 sub-only wedge)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "SW11",
+   "name": "Tracker okresu offline (Drip/Clue free)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#11 sub-only wedge)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "SW12",
+   "name": "Apka pogodowa premium (MyRadar one-time)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#11 sub-only wedge)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
   }
  ]
 }
