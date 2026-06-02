@@ -951,6 +951,89 @@
    "durability": 8,
    "reach": 3,
    "demand": 2
+  },
+  {
+   "id": "SoloRPGOracle",
+   "name": "Oracle/tabele losowe do solo RPG",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Mythic GME Digital",
+    "RPG Spark(free)",
+    "Solo Engine",
+    "Juice Oracle"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "RememberPeople",
+   "name": "Zapamiętywanie imion/twarzy (SR)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Who's Who",
+    "Rememorate",
+    "Remet",
+    "Name Shark",
+    "Namerick",
+    "Flashrecall"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "OfflineAINotes",
+   "name": "Offline on-device AI notatki (jednorazowo)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Novi Notes",
+    "Talat",
+    "Char(OSS)",
+    "Blinko"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 6,
+   "demand": 3
+  },
+  {
+   "id": "MushroomKey",
+   "name": "Interaktywny klucz do grzybów (offline, bez AI)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Shroomify",
+    "Book of Mushrooms",
+    "MycoKey(porzucony 2020)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "MemoryPalace",
+   "name": "Builder pałacu pamięci (method of loci)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(brak dominującej apki — same artykuły/techniki)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 6,
+   "demand": 2
   }
  ]
 }

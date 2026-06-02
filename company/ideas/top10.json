@@ -1,7 +1,7 @@
 {
   "algo": "v3",
-  "updated": "2026-06-02 10:22 UTC",
-  "verified": 55,
+  "updated": "2026-06-02 10:25 UTC",
+  "verified": 60,
   "top10": [
     {
       "id": "FoodTemp",
@@ -23,6 +23,20 @@
       "score": 58,
       "verdict": "SŁABO OBSŁUŻONA",
       "n": 4
+    },
+    {
+      "id": "MemoryPalace",
+      "name": "Builder pałacu pamięci (method of loci)",
+      "score": 42,
+      "verdict": "SŁABO OBSŁUŻONA",
+      "n": 1
+    },
+    {
+      "id": "MushroomKey",
+      "name": "Interaktywny klucz do grzybów (offline, bez AI)",
+      "score": 36,
+      "verdict": "SŁABO OBSŁUŻONA",
+      "n": 3
     },
     {
       "id": "BigButtonPhone",
@@ -58,20 +72,6 @@
       "score": 24,
       "verdict": "PUSTA Z PRZYCZYNY",
       "n": 3
-    },
-    {
-      "id": "FalconryWeight",
-      "name": "Log wagi ptaka łowczego (falconry)",
-      "score": 24,
-      "verdict": "ZATŁOCZONA",
-      "n": 3
-    },
-    {
-      "id": "NailCure",
-      "name": "Tabela czasów utwardzania żeli UV/LED",
-      "score": 23,
-      "verdict": "PUSTA Z PRZYCZYNY",
-      "n": 0
     }
   ]
 }
