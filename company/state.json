@@ -1,5 +1,5 @@
 {
-  "nova": { "status": "working", "currentTask": "T-003: Weryfikacja popytu, matematyka 1000×5$, ranking", "since": "2026-06-02T09:25:00Z", "lastReport": null },
+  "nova": { "status": "idle", "currentTask": null, "since": "2026-06-02T09:32:00Z", "lastReport": "reports/T-003-nova.md" },
   "atlas": { "status": "idle", "currentTask": null, "since": "2026-06-02T09:09:00Z", "lastReport": "reports/T-001-atlas.md" },
   "pixel": { "status": "idle", "currentTask": null, "since": "2026-06-02T09:24:00Z", "lastReport": "reports/T-002-pixel.md" }
 }
