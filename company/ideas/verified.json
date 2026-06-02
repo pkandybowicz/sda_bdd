@@ -1588,6 +1588,73 @@
    "durability": 7,
    "reach": 3,
    "demand": 1
+  },
+  {
+   "id": "HerbalTincture",
+   "name": "Tracker formuł nalewek (zielarz)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(brak dedykowanej apki — poradniki/metody free, generyczne notatki)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "TaxidermyOrder",
+   "name": "Pomiary/zlecenia (taksydermista)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Jotform/DocHub tmpl",
+    "spiralne książki pomiarów"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "PianoTuner",
+   "name": "Historia klienta/temperamentu (stroiciel)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "PianoMeter",
+    "TuneLab",
+    "CyberTuner",
+    "PianoScheduler",
+    "Gazelle",
+    "PianoPlanner"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "PigeonLoft",
+   "name": "Zarządzanie lotem gołębi (rodowody/wyniki)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "MyPigeon",
+    "PigeonProfile",
+    "PigeonDB",
+    "Pigeon Planner(OSS)",
+    "LoftMate",
+    "BENZING"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
   }
  ]
 }
