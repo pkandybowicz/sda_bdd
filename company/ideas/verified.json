@@ -2726,6 +2726,56 @@
    "durability": 8,
    "reach": 2,
    "demand": 1
+  },
+  {
+   "id": "EstateExec",
+   "name": "Checklist wykonawcy testamentu (probate)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "EstateExec",
+    "Executor.org",
+    "Cadence",
+    "Trustate"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "ElderFinance",
+   "name": "Opiekun finansowy seniora (POA)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Carefull",
+    "EverSafe",
+    "Everplans",
+    "CareSmartz360"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "DisabilityBenefits",
+   "name": "Tracker świadczeń (SSI/niepełnosprawność)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "SSA myAccount",
+    "SSDI Benefits app",
+    "SSI Benefits 2026"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
   }
  ]
 }
