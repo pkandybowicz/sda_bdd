@@ -2053,6 +2053,53 @@
    "durability": 8,
    "reach": 2,
    "demand": 1
+  },
+  {
+   "id": "TarotLog",
+   "name": "Dziennik czytań tarota (tarocista)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Tarot Journal",
+    "My Tarot Journal",
+    "Labyrinthos",
+    "Tarot Simple"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "WoodturnLog",
+   "name": "Log projektów tokarza drewna",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(brak dedykowanego project-logu; generyki/notatki)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "DogTrainerClient",
+   "name": "Plany lekcji/postępy (trener psów)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Dog Homeskool",
+    "DogTrainerPro",
+    "Gingr"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
   }
  ]
 }
