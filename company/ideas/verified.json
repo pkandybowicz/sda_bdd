@@ -18063,6 +18063,2506 @@
    "durability": 7,
    "reach": 3,
    "demand": 2
+  },
+  {
+   "id": "X1192_",
+   "name": "baby_milestones_tracker",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "BabySparks",
+    "Baby Daybook",
+    "Glow Baby",
+    "Huckleberry",
+    "Nara Baby",
+    "CDC Milestone Tracker"
+   ],
+   "n": 15,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1194_",
+   "name": "kids_chore_chart",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "OurHome",
+    "Homey",
+    "ChoreMonster",
+    "KiddiKash",
+    "Cozi",
+    "Joon"
+   ],
+   "n": 12,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1196_",
+   "name": "screen_time_tracker_kids",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Bark",
+    "Kidslox",
+    "FamilyTime",
+    "MMGuardian",
+    "Qustodio",
+    "Screen Time (Apple built-in)"
+   ],
+   "n": 20,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 5,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1198_",
+   "name": "kids_meal_planning",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Mealime",
+    "Plan to Eat",
+    "Paprika",
+    "Little Lunches",
+    "AnyList",
+    "Prepear"
+   ],
+   "n": 10,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1200_",
+   "name": "potty_training_tracker",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Potty Whiz",
+    "PottyPurr",
+    "Go Potty",
+    "Potty Training Time"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1202_",
+   "name": "baby_sleep_training_log",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Huckleberry",
+    "Napper",
+    "Bambii",
+    "Wake Wise",
+    "Sprout Baby",
+    "Nara Baby"
+   ],
+   "n": 10,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 5,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1204_",
+   "name": "kids_extracurricular_schedule",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Clipboard",
+    "Carpool Kids",
+    "Lil Planner",
+    "Cozi (partial)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1206_",
+   "name": "kids_reading_journal",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Beanstack",
+    "Reading List",
+    "Book Crawler",
+    "StoryGraph"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1208_",
+   "name": "child_allergy_card",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "AllergyCard",
+    "Equal Eats",
+    "Allergy Force",
+    "Food Allergy App"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1210_",
+   "name": "kids_height_weight_growth",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "GrowthKit",
+    "Child Growth Tracker",
+    "Growth by Clafou",
+    "AnthroCalc"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1212_",
+   "name": "kids_allowance_pocket_money",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "RoosterMoney",
+    "GoHenry",
+    "iAllowance",
+    "HyperJar",
+    "Bomad",
+    "Greenlight"
+   ],
+   "n": 10,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1214_",
+   "name": "kids_gift_ideas_wishlist",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Giftster",
+    "Wishlist for Kids",
+    "Listful",
+    "GoWish",
+    "Kidilist"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1216_",
+   "name": "co_parenting_custody_schedule",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "OurFamilyWizard",
+    "TalkingParents",
+    "Kidtime",
+    "AppClose",
+    "WeParent",
+    "Fayr"
+   ],
+   "n": 8,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1218_",
+   "name": "school_supply_checklist",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [
+    "Back to School Supply List",
+    "School Supplies App",
+    "Schupply"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 3,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1220_",
+   "name": "child_vaccination_immunization",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Vaccy",
+    "Family Vitals",
+    "Baby Connect",
+    "CANImmunize",
+    "Docket"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1222_",
+   "name": "kids_speech_development_tracker",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "Baby Talk",
+    "First Word",
+    "CDC Milestone Tracker",
+    "Baby Word Tracker"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1224_",
+   "name": "kids_reward_behavior_chart",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "ClassDojo",
+    "Bloomz",
+    "Joon",
+    "OurHome",
+    "Remind",
+    "SuperBetter Kids"
+   ],
+   "n": 10,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1226_",
+   "name": "kids_birthday_party_planner",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [
+    "Punchbowl",
+    "Partiful",
+    "Pro Party Planner",
+    "Paperless Post"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1228_",
+   "name": "medication-schedule",
+   "verdict": "skip",
+   "competitors": [
+    "Medisafe",
+    "MyTherapy",
+    "Pillo",
+    "MedTimer",
+    "Round Health"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 3,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1230_",
+   "name": "blood-pressure-log",
+   "verdict": "skip",
+   "competitors": [
+    "SmartBP",
+    "Blood Pressure Diary",
+    "MedM BP",
+    "BreathNow"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 3,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1232_",
+   "name": "supplement-stack",
+   "verdict": "maybe",
+   "competitors": [
+    "SuppCo",
+    "SuppTrack",
+    "VitaStack",
+    "Supplify",
+    "Supplemate"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1234_",
+   "name": "intermittent-fasting",
+   "verdict": "skip",
+   "competitors": [
+    "Zero",
+    "Fastic",
+    "Simple",
+    "LIFE Fasting Tracker",
+    "FastHabit"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 2,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1236_",
+   "name": "hydration-water",
+   "verdict": "skip",
+   "competitors": [
+    "WaterMinder",
+    "Hydro Coach",
+    "MyFitnessPal",
+    "Simple",
+    "Fastic"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 2,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X1238_",
+   "name": "sleep-tracker",
+   "verdict": "skip",
+   "competitors": [
+    "Sleep Cycle",
+    "Pillow",
+    "Apple Health",
+    "Google Health",
+    "Oura"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 2,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1240_",
+   "name": "fertility-ttc",
+   "verdict": "skip",
+   "competitors": [
+    "Glow",
+    "Clue Conceive",
+    "Flo",
+    "Ovia",
+    "Natural Cycles"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1242_",
+   "name": "pregnancy-week",
+   "verdict": "skip",
+   "competitors": [
+    "BabyCenter",
+    "Ovia",
+    "The Bump",
+    "Pregnancy+",
+    "Nurture"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "ad-supported",
+   "durability": 3,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1244_",
+   "name": "menopause-symptoms",
+   "verdict": "build",
+   "competitors": [
+    "Flo (partial)",
+    "Clue (partial)",
+    "MenoPro",
+    "Balance"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1246_",
+   "name": "symptom-journal-general",
+   "verdict": "maybe",
+   "competitors": [
+    "Bearable",
+    "CareClinic",
+    "Flaredown",
+    "mySymptoms",
+    "Symple"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1248_",
+   "name": "lab-results-tracker",
+   "verdict": "maybe",
+   "competitors": [
+    "Guava Health",
+    "CareClinic",
+    "Human Health",
+    "Heads Up Health"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1250_",
+   "name": "vaccination-registry-adult",
+   "verdict": "build",
+   "competitors": [
+    "Vaccy",
+    "VaxTrack",
+    "Docket",
+    "CANImmunize"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1252_",
+   "name": "allergy-log",
+   "verdict": "skip",
+   "competitors": [
+    "Bearable",
+    "Best Life (LLIF)",
+    "CareClinic",
+    "Klarify"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1254_",
+   "name": "weight-body-composition",
+   "verdict": "skip",
+   "competitors": [
+    "MyFitnessPal",
+    "HappyScale",
+    "Cronometer",
+    "Withings",
+    "Strong"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 2,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1256_",
+   "name": "menstrual-cycle",
+   "verdict": "skip",
+   "competitors": [
+    "Clue",
+    "Flo",
+    "Belle",
+    "Embody",
+    "Luna"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 2,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1258_",
+   "name": "body-pain-map",
+   "verdict": "build",
+   "competitors": [
+    "My Pain Diary",
+    "PainMap",
+    "Bearable",
+    "Chronic Insights",
+    "WebMD Pain Coach"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1260_",
+   "name": "mood-tracker",
+   "verdict": "skip",
+   "competitors": [
+    "Daylio",
+    "Finch",
+    "Bearable",
+    "Reflectly",
+    "Moodfit"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 2,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1262_",
+   "name": "health-habits",
+   "verdict": "build",
+   "competitors": [
+    "Streaks ($4.99 one-time)",
+    "Habitica",
+    "Finch",
+    "Habi",
+    "Productive"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1264_",
+   "name": "dog-health-record",
+   "verdict": "skip",
+   "competitors": [
+    "PetDesk",
+    "11pets",
+    "PokiPaw",
+    "PetNoter",
+    "Pet Parents",
+    "DogNote"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1266_",
+   "name": "vet-visit-tracker",
+   "verdict": "skip",
+   "competitors": [
+    "PokiPaw",
+    "11pets",
+    "PetDesk",
+    "Animopedia",
+    "Furwell",
+    "guidemypet"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1268_",
+   "name": "pet-vaccination-schedule",
+   "verdict": "skip",
+   "competitors": [
+    "PetVax AI",
+    "PokiPaw",
+    "DogCat App",
+    "Pet Vaccination Tracker",
+    "VitusVet",
+    "PetDesk",
+    "PetNoter"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1270_",
+   "name": "pet-weight-tracker",
+   "verdict": "skip",
+   "competitors": [
+    "DogCat App",
+    "Healthy Pet Tracker",
+    "Petnote Plus",
+    "DogLog",
+    "Pet Tracker: Weight & Vaccines",
+    "Wagsta"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1272_",
+   "name": "feeding-schedule-reminder",
+   "verdict": "skip",
+   "competitors": [
+    "DogLog",
+    "DogCat App",
+    "Feed My Pet",
+    "DogNote",
+    "Meal Time For Pets"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1274_",
+   "name": "medication-deworming-tracker",
+   "verdict": "maybe",
+   "competitors": [
+    "PillPaw",
+    "PetNoter",
+    "PokiPaw",
+    "Animopedia",
+    "Furwell"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1276_",
+   "name": "dog-trick-training-log",
+   "verdict": "skip",
+   "competitors": [
+    "Puppr",
+    "Dogo",
+    "Woofz",
+    "Hundeo",
+    "Zigzag"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1278_",
+   "name": "multi-pet-household-manager",
+   "verdict": "maybe",
+   "competitors": [
+    "Kervo",
+    "myPets",
+    "DogNote",
+    "PetTimely",
+    "11pets"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1280_",
+   "name": "pet-expense-tracker",
+   "verdict": "skip",
+   "competitors": [
+    "PetnotePlus",
+    "Google Sheets templates",
+    "Dear Pet Mom",
+    "DocsJam",
+    "PrintBlame"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1282_",
+   "name": "lost-pet-profile",
+   "verdict": "skip",
+   "competitors": [
+    "PawBoost",
+    "FidoAlert",
+    "PetHub",
+    "Animal ID App"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1284_",
+   "name": "dog-walk-log",
+   "verdict": "skip",
+   "competitors": [
+    "Tails",
+    "Wagsta",
+    "Amiko",
+    "DogLog",
+    "TreatWalk"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1286_",
+   "name": "pet-diet-transition-tracker",
+   "verdict": "maybe",
+   "competitors": [
+    "DuePet",
+    "Pawfolio",
+    "Pawdi",
+    "PAWSM"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1288_",
+   "name": "pet-grooming-schedule",
+   "verdict": "skip",
+   "competitors": [
+    "11pets",
+    "DogCat App",
+    "PetNoter",
+    "GoReminders"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1290_",
+   "name": "pet-insurance-claims-tracker",
+   "verdict": "maybe",
+   "competitors": [
+    "Healthy Paws app",
+    "Figo Pet Cloud",
+    "Trupanion",
+    "Lemonade"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1292_",
+   "name": "senior-pet-care",
+   "verdict": "maybe",
+   "competitors": [
+    "PetPace",
+    "DogLog",
+    "PetNoter",
+    "Pet Care Tracker"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1294_",
+   "name": "aquarium-maintenance-log",
+   "verdict": "skip",
+   "competitors": [
+    "AquaticLog",
+    "TankTracker",
+    "Aquarimate",
+    "Aquarium Log",
+    "Aquarium Manager"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1296_",
+   "name": "bird-care-tracker",
+   "verdict": "maybe",
+   "competitors": [
+    "Bird Tracker - Parrot Care",
+    "BirdCoach",
+    "Exotic Bird Care App",
+    "Ayla"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1298_",
+   "name": "reptile-care-log",
+   "verdict": "maybe",
+   "competitors": [
+    "SnekLog",
+    "Husbandry.Pro",
+    "ReptiCare",
+    "ReptiDex",
+    "Reptile Buddy"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1300_",
+   "name": "personal_sop_routines",
+   "verdict": "pass",
+   "competitors": [
+    "Notion",
+    "Process Street",
+    "Trainual",
+    "SweetProcess"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1302_",
+   "name": "decision_journal",
+   "verdict": "pass",
+   "competitors": [
+    "DecisionJournalApp",
+    "Notion",
+    "Day One",
+    "plain spreadsheet"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1304_",
+   "name": "skill_learning_tracker",
+   "verdict": "pass",
+   "competitors": [
+    "Skill Tracker (App Store)",
+    "Habitica",
+    "Notion",
+    "spreadsheet"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1306_",
+   "name": "personal_okr_goals",
+   "verdict": "weak",
+   "competitors": [
+    "My OKR",
+    "Vis OKR",
+    "Notion",
+    "Todoist",
+    "spreadsheet"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1308_",
+   "name": "time_blocking_planner",
+   "verdict": "weak",
+   "competitors": [
+    "Structured",
+    "Fantastical",
+    "SkedPal",
+    "TimeBloc",
+    "Sunsama"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1310_",
+   "name": "pomodoro_focus_timer",
+   "verdict": "fail",
+   "competitors": [
+    "Forest",
+    "Focus To-Do",
+    "Flow",
+    "Focus Keeper",
+    "Pomofocus",
+    "Be Focused"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 3,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1312_",
+   "name": "idea_capture_inbox",
+   "verdict": "fail",
+   "competitors": [
+    "Obsidian",
+    "Apple Notes",
+    "Notion",
+    "Drafts",
+    "Capture by Notion",
+    "Reflect"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1314_",
+   "name": "personal_crm_relationships",
+   "verdict": "pass",
+   "competitors": [
+    "Monica",
+    "Clay",
+    "Dex",
+    "Notion",
+    "spreadsheet"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1316_",
+   "name": "gift_ideas_tracker",
+   "verdict": "pass",
+   "competitors": [
+    "GiftList",
+    "GiftPlanner",
+    "Gift Idea Tracker",
+    "Shopie",
+    "Christmas Gift List Tracker"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1318_",
+   "name": "wishlist_manager",
+   "verdict": "weak",
+   "competitors": [
+    "Wisher",
+    "Wishlists App",
+    "Giftful",
+    "Moonsift",
+    "Amazon Wishlist"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1320_",
+   "name": "bucket_list",
+   "verdict": "weak",
+   "competitors": [
+    "iWish",
+    "Bucketlist",
+    "iBucket",
+    "Bucket List Maker",
+    "My Bucket List 100"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1322_",
+   "name": "gratitude_journal",
+   "verdict": "fail",
+   "competitors": [
+    "Gratitude: Self-Care Journal",
+    "365 Gratitude",
+    "Reflectly",
+    "Five Minute Journal",
+    "Daylio"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1324_",
+   "name": "weekly_review",
+   "verdict": "pass",
+   "competitors": [
+    "Everdo",
+    "OmniFocus",
+    "Things 3",
+    "Super Productivity",
+    "NotePlan"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1326_",
+   "name": "second_brain_pkm",
+   "verdict": "fail",
+   "competitors": [
+    "Obsidian",
+    "Notion",
+    "Bear",
+    "Craft",
+    "Logseq",
+    "Roam Research"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1328_",
+   "name": "subscription_time_tracker",
+   "verdict": "pass",
+   "competitors": [
+    "Bobby",
+    "Subby",
+    "Orbit",
+    "Subscriptions - Track Expenses",
+    "Rocket Money"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1330_",
+   "name": "anti_procrastination",
+   "verdict": "weak",
+   "competitors": [
+    "Forest",
+    "Cold Turkey",
+    "Arise",
+    "Focus@Will",
+    "Freedom"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 5,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1332_",
+   "name": "energy_mood_productivity",
+   "verdict": "pass",
+   "competitors": [
+    "Ultradian",
+    "Energy Level Tracker",
+    "Peaks",
+    "Daylio",
+    "Rise"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1334_",
+   "name": "learning_queue_to_learn",
+   "verdict": "pass",
+   "competitors": [
+    "Quiche Reader",
+    "Notion",
+    "Readwise Reader",
+    "Matter",
+    "plain list"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1336",
+   "name": "car-build-log",
+   "verdict": "SKIP",
+   "competitors": [
+    "Trackara",
+    "GarageHub",
+    "PartsKeeper",
+    "MyCarProject-Tracker"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1338",
+   "name": "track-day-lap-setup",
+   "verdict": "SKIP",
+   "competitors": [
+    "RaceChrono",
+    "TrackAddict",
+    "Harry's GPS Laptimer",
+    "Track Attack"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1340",
+   "name": "detailing-log",
+   "verdict": "MARGINAL",
+   "competitors": [
+    "Suds Car Spa",
+    "We Are Detailing",
+    "GarageHub"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1342",
+   "name": "fuel-consumption-tracker",
+   "verdict": "SKIP",
+   "competitors": [
+    "Fuelio",
+    "Drivvo",
+    "Simply Auto",
+    "Car Minder Plus"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1344",
+   "name": "ev-charging-log",
+   "verdict": "MARGINAL",
+   "competitors": [
+    "Volt",
+    "ChargeLog",
+    "EEVEE",
+    "EV Charge Tracker",
+    "EV Efficiency Tracker"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1346",
+   "name": "tire-wheel-seasonal-swap",
+   "verdict": "MARGINAL",
+   "competitors": [
+    "My Wheels",
+    "Tire Rack Garage",
+    "Tyre Tracks"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1348",
+   "name": "car-show-entry-tracker",
+   "verdict": "BUILD",
+   "competitors": [
+    "Car Show Pro",
+    "Car-Shows app",
+    "ShowFinder",
+    "Auto Vision"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1350",
+   "name": "autocross-setup-notes",
+   "verdict": "MARGINAL",
+   "competitors": [
+    "SoloStorm",
+    "TrackAddict",
+    "Autocross Advantage",
+    "Apex Pro"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1352",
+   "name": "car-club-management",
+   "verdict": "SKIP",
+   "competitors": [
+    "Join It",
+    "Raklet",
+    "Member Jungle",
+    "Road XS",
+    "Hello Club"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1354",
+   "name": "parts-inventory",
+   "verdict": "MARGINAL",
+   "competitors": [
+    "PartsKeeper",
+    "GarageHub",
+    "Trackara"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1356",
+   "name": "project-car-budget",
+   "verdict": "SKIP",
+   "competitors": [
+    "Trackara",
+    "MyCarProject-Tracker",
+    "Car Build Progress Journal",
+    "GarageHub"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1358",
+   "name": "dyno-log",
+   "verdict": "BUILD",
+   "competitors": [
+    "Log Dyno",
+    "PerfExpert"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1360",
+   "name": "paint-color-code-log",
+   "verdict": "BUILD",
+   "competitors": [
+    "ColorIgual",
+    "iMatchColor",
+    "Car Color"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1362",
+   "name": "vin-document-storage",
+   "verdict": "SKIP",
+   "competitors": [
+    "carVertical",
+    "VIN PRO",
+    "Car History Check",
+    "Carbly"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1364",
+   "name": "car-meet-event-planner",
+   "verdict": "SKIP",
+   "competitors": [
+    "Ryvve",
+    "Strada",
+    "Car Hangout",
+    "Throdle",
+    "CarMeets"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1366",
+   "name": "drift-setup-log",
+   "verdict": "BUILD",
+   "competitors": [
+    "TrackAddict"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1368",
+   "name": "stance-suspension-log",
+   "verdict": "BUILD",
+   "competitors": [
+    "Suspension Master"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1370",
+   "name": "car-audio-install-log",
+   "verdict": "BUILD",
+   "competitors": [
+    "the12volt.com",
+    "Car Stereo Wiring Diagrams"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1372",
+   "name": "TTRPG character keeper (non-D&D)",
+   "verdict": "SKIP",
+   "competitors": [
+    "Dhole's House",
+    "Roll20",
+    "World Anvil",
+    "Pathbuilder"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1374",
+   "name": "Wargaming army list builder",
+   "verdict": "SKIP",
+   "competitors": [
+    "New Recruit",
+    "Sigdex",
+    "official GW app",
+    "OldWorldBuilder"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1376",
+   "name": "Achievement hunting / 100% completion tracker",
+   "verdict": "SKIP",
+   "competitors": [
+    "Trophies Hunter",
+    "Exophase",
+    "MetaGamerScore",
+    "Trophi",
+    "PlayTracker"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1378",
+   "name": "Tournament bracket organizer",
+   "verdict": "SKIP",
+   "competitors": [
+    "Kickertool",
+    "Tourney",
+    "BracketMaker.app",
+    "InstantLiga",
+    "Scoreleader"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1380",
+   "name": "Retro console game collection tracker",
+   "verdict": "SKIP",
+   "competitors": [
+    "Retro Game Collector",
+    "GAMEYE",
+    "Retro Vault Elite",
+    "Backloggd"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1382",
+   "name": "RPG dice physical collection tracker",
+   "verdict": "INVESTIGATE",
+   "competitors": [
+    "spreadsheet template (HarpsCorp)",
+    "Dice Tracker iOS (stats only)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1384",
+   "name": "Board game play-log & statistics (Plays)",
+   "verdict": "SKIP",
+   "competitors": [
+    "BG Stats",
+    "NemeStats",
+    "BGG built-in"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1386",
+   "name": "Esport personal stats tracker",
+   "verdict": "SKIP",
+   "competitors": [
+    "Tracker.gg",
+    "Blitz.gg",
+    "Spike Stats",
+    "Overwolf"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1388",
+   "name": "Chess personal game database",
+   "verdict": "SKIP",
+   "competitors": [
+    "SCID vs PC",
+    "ChessX",
+    "ChessBase (paid)",
+    "ChessDrop"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free-OSS",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1390",
+   "name": "Go/Baduk progress tracker",
+   "verdict": "INVESTIGATE",
+   "competitors": [
+    "BadukPop (freemium)",
+    "Tsumego Pro",
+    "OGS built-in"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1392",
+   "name": "MTG/Pokemon TCG decklist manager",
+   "verdict": "SKIP",
+   "competitors": [
+    "Moxfield",
+    "Limitless TCG",
+    "RK9",
+    "PokemonCard.io"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1394",
+   "name": "Solo campaign journal (board/TTRPG)",
+   "verdict": "INVESTIGATE",
+   "competitors": [
+    "Obsidian (generic)",
+    "itch.io free PDFs",
+    "no dedicated app found"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1396",
+   "name": "Speedrun split timer",
+   "verdict": "SKIP",
+   "competitors": [
+    "LiveSplit",
+    "FramePerfect",
+    "OpenSplit",
+    "Splitty"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free-OSS",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1398",
+   "name": "MMO personal goals / raid progression tracker",
+   "verdict": "INVESTIGATE",
+   "competitors": [
+    "Raider.io (WoW only)",
+    "RaidPlan.io",
+    "no cross-MMO personal tracker found"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1400",
+   "name": "Sim racing car setup manager",
+   "verdict": "INVESTIGATE",
+   "competitors": [
+    "onRails (subscription)",
+    "Sim Racing Setups iOS app",
+    "SimHub (free, overlays only)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1402",
+   "name": "Pinball personal high score tracker",
+   "verdict": "SKIP",
+   "competitors": [
+    "Pindigo",
+    "Scorbit"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X1404",
+   "name": "Flipper / physical pinball machine log",
+   "verdict": "INVESTIGATE",
+   "competitors": [
+    "Pindigo (partial)",
+    "spreadsheet"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X1406",
+   "name": "Escape room personal log",
+   "verdict": "SKIP",
+   "competitors": [
+    "Morty",
+    "Escapes Notebook",
+    "Escape-Room.PRO"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1408",
+   "name": "skincare-routine-shelf",
+   "verdict": "crowded",
+   "competitors": [
+    "Skincare Routine App",
+    "BasicBeauty",
+    "FeelinMySkin",
+    "Skin Bliss",
+    "Clear"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1410",
+   "name": "perfume-collection-layering",
+   "verdict": "crowded",
+   "competitors": [
+    "Parfumo",
+    "Aromoshelf",
+    "ScentShelf",
+    "Perfume Tracker"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1412",
+   "name": "makeup-inventory",
+   "verdict": "crowded",
+   "competitors": [
+    "Beautistics",
+    "ShelfCheck",
+    "GlowinMe",
+    "Peeknest",
+    "BeautyLog"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1414",
+   "name": "haircare-routine-tracker",
+   "verdict": "crowded",
+   "competitors": [
+    "Curlify",
+    "HairKeeper",
+    "Curly Girl Method App"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1416",
+   "name": "nail-art-personal-log",
+   "verdict": "viable",
+   "competitors": [
+    "Lacquergram",
+    "Nail Polish Rack",
+    "ManicurList"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1418",
+   "name": "cosmetics-expiry-tracker",
+   "verdict": "crowded",
+   "competitors": [
+    "BeautyExpiry",
+    "GlowinMe",
+    "Beautistics",
+    "CheckCosmetic.net"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1420",
+   "name": "foundation-shade-matcher",
+   "verdict": "skip",
+   "competitors": [
+    "Fenty Beauty",
+    "Maybelline",
+    "Findation",
+    "YouCam Makeup",
+    "MatchMyMakeup"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1422",
+   "name": "beauty-wishlist",
+   "verdict": "crowded",
+   "competitors": [
+    "GlowinMe",
+    "BeautyLog",
+    "Beautistics",
+    "Moonsift"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1424",
+   "name": "empties-project-pan",
+   "verdict": "viable",
+   "competitors": [
+    "Project Pan Journey",
+    "Makeup Shelf",
+    "Beautistics"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1426",
+   "name": "skin-cycling-scheduler",
+   "verdict": "viable",
+   "competitors": [
+    "FeelinMySkin",
+    "BasicBeauty",
+    "Skincare Routine App"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1428",
+   "name": "patch-test-reaction-log",
+   "verdict": "viable",
+   "competitors": [
+    "SkinSAFE",
+    "Skincare Tracker Skin Journal"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1430",
+   "name": "nail-polish-lacquer-collection",
+   "verdict": "crowded",
+   "competitors": [
+    "Lacquer Tracker",
+    "Lacquergram",
+    "Nail Polish Rack",
+    "NailBuff"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1432",
+   "name": "self-tanner-schedule",
+   "verdict": "viable",
+   "competitors": [
+    "Tanly",
+    "Tan AI",
+    "Tan Routine"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1434",
+   "name": "beard-grooming-tracker",
+   "verdict": "crowded",
+   "competitors": [
+    "GroomTribe",
+    "BeardMax",
+    "BeardForge"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1436",
+   "name": "fragrance-personal-reviews",
+   "verdict": "viable",
+   "competitors": [
+    "Parfumo",
+    "PERFUMIST",
+    "Aromoshelf"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1438",
+   "name": "curly-hair-CGM-protocol",
+   "verdict": "crowded",
+   "competitors": [
+    "Curlify",
+    "CurlsBot",
+    "HairKeeper",
+    "Curly Girl Method App"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1440",
+   "name": "peeling-retinol-schedule",
+   "verdict": "viable",
+   "competitors": [
+    "Skincare Routine App",
+    "Skin Bliss",
+    "FeelinMySkin"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1442",
+   "name": "spf-sunscreen-tracker",
+   "verdict": "crowded",
+   "competitors": [
+    "Reapply",
+    "spf.today",
+    "UV Buddy",
+    "SunCare"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1444",
+   "name": "Freelancer Proposal Builder",
+   "verdict": "skip",
+   "competitors": [
+    "PandaDoc",
+    "Bonsai",
+    "Plutio",
+    "Notion templates"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 3,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1446",
+   "name": "Contract Template Manager",
+   "verdict": "skip",
+   "competitors": [
+    "PandaDoc free",
+    "SignWell",
+    "Wave",
+    "Google Docs",
+    "Bonsai"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 2,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1448",
+   "name": "Testimonial & Portfolio Collector",
+   "verdict": "consider",
+   "competitors": [
+    "Famewall",
+    "Softr",
+    "Canva",
+    "Notion",
+    "WiserReview"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1450",
+   "name": "Simple Lead Pipeline (Freelancer CRM)",
+   "verdict": "skip",
+   "competitors": [
+    "HubSpot free",
+    "Flowlu",
+    "Airtable",
+    "Pipedrive",
+    "Bitrix24"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 2,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1452",
+   "name": "Client Content Approval Workflow",
+   "verdict": "consider",
+   "competitors": [
+    "Filestage",
+    "Gain",
+    "Bonsai",
+    "Pipefy",
+    "Planable"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1454",
+   "name": "Photo Session Scheduler",
+   "verdict": "skip",
+   "competitors": [
+    "Setmore",
+    "Lightfolio",
+    "Picktime",
+    "Koalendar",
+    "YouCanBookMe"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 3,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1456",
+   "name": "Digital Product Launch Checklist",
+   "verdict": "skip",
+   "competitors": [
+    "Asana templates",
+    "Notion",
+    "SafetyCulture",
+    "Viral Loops",
+    "Google Sheets"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 3,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1458",
+   "name": "Affiliate Commission Tracker",
+   "verdict": "consider",
+   "competitors": [
+    "GoAffPro",
+    "UpPromote",
+    "ThirstyAffiliates",
+    "Trackdesk",
+    "Rewardful"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1460",
+   "name": "Service Pricing Calculator",
+   "verdict": "skip",
+   "competitors": [
+    "FreelancePricing.com",
+    "Upwork calculator",
+    "NxCode",
+    "freelancecalculator.app"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 2,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1462",
+   "name": "Client Onboarding Workflow",
+   "verdict": "skip",
+   "competitors": [
+    "Dubsado free",
+    "ClickUp",
+    "HubSpot CRM",
+    "Plutio",
+    "Moxo"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 3,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1464",
+   "name": "Scope Creep Change Log",
+   "verdict": "consider",
+   "competitors": [
+    "ScopeGuard",
+    "ClearTimeline",
+    "No Freebies",
+    "Super Productivity"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1466",
+   "name": "Retainer Hours Tracker",
+   "verdict": "consider",
+   "competitors": [
+    "Clockify",
+    "Toggl Track",
+    "Bonsai",
+    "Hubstaff",
+    "Desklog"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1468",
+   "name": "Subcontractor Coordinator",
+   "verdict": "skip",
+   "competitors": [
+    "Fieldwire",
+    "monday.com",
+    "Toggl Track",
+    "TalentDesk",
+    "Hubstaff"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 4,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1470",
+   "name": "Multi-Currency Invoice (International)",
+   "verdict": "skip",
+   "competitors": [
+    "Zoho Invoice free",
+    "Wave",
+    "Indy",
+    "FreshBooks",
+    "Wise"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 2,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1472",
+   "name": "Portfolio Case Studies Builder",
+   "verdict": "skip",
+   "competitors": [
+    "Fueler",
+    "Notion",
+    "Webflow free",
+    "Contra",
+    "Canva"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 3,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1474",
+   "name": "Sales Follow-Up Sequence Tracker",
+   "verdict": "skip",
+   "competitors": [
+    "HubSpot CRM",
+    "Flowlu",
+    "Capsule CRM",
+    "LEADer CRM",
+    "Plutio"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 2,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1476",
+   "name": "Project Wycena (Quote Estimator)",
+   "verdict": "consider",
+   "competitors": [
+    "WorkQuote",
+    "Paymo",
+    "timentrack quote tool",
+    "Bonsai",
+    "FreshBooks"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1478",
+   "name": "Niche-Down Market Research Organizer",
+   "verdict": "consider",
+   "competitors": [
+    "Superframeworks",
+    "Embarque AI",
+    "SEMrush",
+    "Google Trends",
+    "Ahrefs"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
   }
  ]
 }
