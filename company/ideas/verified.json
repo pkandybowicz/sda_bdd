@@ -1040,8 +1040,8 @@
    "name": "Voice bible: próbki+atrybuty głosu per postać — narratorzy audiobooków, game VO, producenci audio-dram",
    "verdict": "PUSTA Z OKAZJI",
    "competitors": [
-    "(brak apki dla NARRATORÓW)",
-    "Game Master Journal — ale dla mistrzów gry TTRPG, nie narratorów"
+    "(potwierdzone on-the-nose: BRAK apki dla narratorów — AI-narracja ElevenLabs/AuthorVoices to nie to; Speechless=skrypty gier)",
+    "Game Master Journal — TTRPG, nie narratorzy"
    ],
    "n": 2,
    "free_sub": true,
@@ -1928,6 +1928,23 @@
     "Fantasia Archive"
    ],
    "n": 7,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "WebtoonContinuity",
+   "name": "Continuity fabuły/timeline (twórca webtoonów)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Notion Story Planner tmpl",
+    "Jenova AI",
+    "Clip Studio page mgmt",
+    "WEBTOON Character Sheet"
+   ],
+   "n": 4,
    "free_sub": true,
    "model": "mixed",
    "durability": 7,
