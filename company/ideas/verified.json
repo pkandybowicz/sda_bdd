@@ -9415,6 +9415,526 @@
    "durability": 8,
    "reach": 2,
    "demand": 1
+  },
+  {
+   "id": "RF1",
+   "name": "Tablice obciążeń belek stalowych",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#9 ref/agro)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "RF2",
+   "name": "Kody błędów HVAC multi-brand",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#9 ref/agro)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "RF3",
+   "name": "Krzywe grzewcze brand-agnostic",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#9 ref/agro)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "RF4",
+   "name": "Normy zaciskania złączek hydr.",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#9 ref/agro)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "RF5",
+   "name": "Dobór oleju/smaru cross-brand",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#9 ref/agro)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "RF6",
+   "name": "Kody DTC OBD offline",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#9 ref/agro)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "RF7",
+   "name": "Tablice pływów/nawigacja",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#9 ref/agro)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "RF8",
+   "name": "Tabele dekompresji nurkowej",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#9 ref/agro)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "RF9",
+   "name": "Schematy kolorów przewodów (Ugly's)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#9 ref/agro)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "RF10",
+   "name": "Momenty kołnierzy rur (ASME B16.5)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#9 ref/agro)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "RF11",
+   "name": "Dawkowanie weterynaryjne",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#9 ref/agro)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "RF12",
+   "name": "Kody rezystorów",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#9 ref/agro)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "AG1",
+   "name": "Tank-mix oprysku",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#9 ref/agro)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AG2",
+   "name": "Rotacja pastwisk/paddock",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#9 ref/agro)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AG3",
+   "name": "Bilans paszowy małego stada [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Meegle(free)",
+    "MilkingCloud(free)",
+    "BRaNDS(free Excel)",
+    "MSU Sheep Ration(free)",
+    "CowBytes"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AG4",
+   "name": "Kalkulator wylęgu/inkubacji",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#9 ref/agro)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AG5",
+   "name": "Succession planting (warzywa)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#9 ref/agro)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AG6",
+   "name": "Nawożenie NPK pod plon (mobilnie)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#9 ref/agro)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AG7",
+   "name": "Ewidencja małego stada",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#9 ref/agro)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AG8",
+   "name": "Pszczelarstwo towarowe pełne",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#9 ref/agro)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AG9",
+   "name": "Mała winnica: spray log + fenologia [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "VitiScribe($99/mc, offline)",
+    "Vinifera(offline-first, REI/PHI)",
+    "BeVine(fenologia)",
+    "Croptracker"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AG10",
+   "name": "Uprawa grzybów towarowa",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#9 ref/agro)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AG11",
+   "name": "Akwaponika/hydroponika EC/pH",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#9 ref/agro)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AG12",
+   "name": "Szkółka roślin: partie rozsad",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#9 ref/agro)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "CO1",
+   "name": "HOS/ELD kierowca short-haul",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#9 compliance)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "CO2",
+   "name": "Log silnika/dziennik jachtu (PropelLog free)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#9 compliance)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "CO3",
+   "name": "Log konserwacji drona Part 107 [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#9 compliance)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "CO4",
+   "name": "HACCP food truck (free PDF)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#9 compliance)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "CO5",
+   "name": "Log temp. chłodni (free PDF)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#9 compliance)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "CO6",
+   "name": "Log autoklawu dentysta/podolog (brand-agnostic) [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "SterilWize",
+    "Sowingo(cloud)",
+    "Maxill Steri-sox ST",
+    "Steri-Traces",
+    "STERIS",
+    "+ darmowe PDF"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "CO7",
+   "name": "Log kalibracji ISO (GageList free)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#9 compliance)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "CO8",
+   "name": "Książka Obiektu Budowlanego c-KOB (gov free)",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [
+    "(mutacja#9 compliance)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "CO9",
+   "name": "Ewidencja szczepień stada (free PDF)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#9 compliance)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "CO10",
+   "name": "Ewidencja odpadów niebezp. (EPA e-Manifest free)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#9 compliance)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "CO11",
+   "name": "Log przeglądów gaśnic (free PDF)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#9 compliance)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "CO12",
+   "name": "Inspekcja wózka widłowego + godziny [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Airpinpoint",
+    "Oxmaint",
+    "Driveroo",
+    "HVI App",
+    "+ darmowe checklisty"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
   }
  ]
 }
