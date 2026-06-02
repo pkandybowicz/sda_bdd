@@ -812,6 +812,78 @@
    "durability": 3,
    "reach": 3,
    "demand": 2
+  },
+  {
+   "id": "VetWithdrawal",
+   "name": "Kalkulator okresu karencji leku (zwierzęta gospodarskie)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "FARAD WDC",
+    "Cattly(free)",
+    "Livestock Pulse",
+    "Farmbrite",
+    "sheep101"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "HorseFeed",
+   "name": "Bilanser dawki paszy dla konia",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "FeedXL",
+    "Equine Nutrition Calc",
+    "Mad Barn",
+    "Purina",
+    "HorseMath"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "RocketSim",
+   "name": "Symulator wysokości/doboru silnika (rakiety)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "OpenRocket(OSS)",
+    "RockSim",
+    "SpaceCAD",
+    "WALTS",
+    "ThrustCurve"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 9,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "ChurchRota",
+   "name": "Grafik wolontariuszy parafialnych",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Ministry Scheduler Pro",
+    "Planning Center",
+    "GForce(free)",
+    "ParishSOFT",
+    "Pushpay"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
   }
  ]
 }
