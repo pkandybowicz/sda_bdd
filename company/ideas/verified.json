@@ -1228,6 +1228,92 @@
    "durability": 7,
    "reach": 4,
    "demand": 2
+  },
+  {
+   "id": "DoulaClient",
+   "name": "Tracker klientek/terminów (doula)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Mobile Doula",
+    "Doula Life",
+    "BirthBase",
+    "Doulado",
+    "Perfect OB Tracker"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "StainedGlass",
+   "name": "Wzór/ołów witrażu kalkulator",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Glass Eye 2000",
+    "Rapid Resizer",
+    "Dragonfly"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "CalligGuides",
+   "name": "Generator linii pomocniczych (kaligraf)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Calligraffiti",
+    "CalcBE",
+    "ZetaCalculator",
+    "CaliDraw",
+    "Calligraphy Guidelines iOS"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 9,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "EstateLot",
+   "name": "Katalog lotów + wycena (estate sale)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "AuctionMethod",
+    "Valuable",
+    "Selling Lane",
+    "SimpleConsign"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "QueenRearing",
+   "name": "Kalendarz grafting matek pszczelich",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Betterbee",
+    "iowabees",
+    "Apiary Book",
+    "free Android app"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
   }
  ]
 }
