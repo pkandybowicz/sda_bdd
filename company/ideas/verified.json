@@ -6199,6 +6199,174 @@
    "durability": 8,
    "reach": 4,
    "demand": 3
+  },
+  {
+   "id": "NI1",
+   "name": "Keto + powerlifting (makro)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja: przecięcia)"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "NI2",
+   "name": "Cukrzyca T2 + praca zmianowa [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja: przecięcia)"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "NI3",
+   "name": "Tinnitus + muzyk",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja: przecięcia)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "NI4",
+   "name": "ADHD + freelancer",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja: przecięcia)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "NI5",
+   "name": "Wegańska + kulturystyka",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja: przecięcia)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "NI6",
+   "name": "Celiakia + podróże",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja: przecięcia)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "NI7",
+   "name": "Migreny + praca zdalna",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja: przecięcia)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "NI8",
+   "name": "Post przerywany + praca nocna",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja: przecięcia)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "NI9",
+   "name": "Homeschool + specjalne potrzeby",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja: przecięcia)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "NI10",
+   "name": "Low-FODMAP + bieganie [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja: przecięcia)"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "NI11",
+   "name": "Lęk + zawód mówiący",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja: przecięcia)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "NI12",
+   "name": "Perimenopauza + CrossFit",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja: przecięcia)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
   }
  ]
 }
