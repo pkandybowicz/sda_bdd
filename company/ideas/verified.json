@@ -25114,6 +25114,2770 @@
    "durability": 4,
    "reach": 1,
    "demand": 1
+  },
+  {
+   "id": "X1605",
+   "name": "Restaurant Par Sheet & Prep Tracker",
+   "verdict": "skip",
+   "competitors": [
+    "MarketMan",
+    "FusionPrep",
+    "Google Sheets",
+    "Operandio",
+    "xtraCHEF"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "spreadsheet/saas",
+   "durability": 3,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X1607",
+   "name": "Food Truck Operations Manager",
+   "verdict": "skip",
+   "competitors": [
+    "Square for Restaurants",
+    "GloriaFood",
+    "Homebase",
+    "Toast POS"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X1609",
+   "name": "Hair Salon Inventory Tracker",
+   "verdict": "maybe",
+   "competitors": [
+    "Square Appointments",
+    "TimeTailor",
+    "Rosy",
+    "Salonist"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1611",
+   "name": "Small Gym Member Manager",
+   "verdict": "skip",
+   "competitors": [
+    "PushPress Free",
+    "Gymdesk",
+    "Airtable",
+    "Google Sheets",
+    "Zoho Creator"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 3,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X1613",
+   "name": "Barbershop Queue Manager",
+   "verdict": "maybe",
+   "competitors": [
+    "Waitwhile",
+    "ScanQueue",
+    "QueueAway",
+    "TablesReady"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1615",
+   "name": "Daycare & Preschool Attendance",
+   "verdict": "skip",
+   "competitors": [
+    "Brightwheel",
+    "Lillio",
+    "Procare",
+    "Kangarootime"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1617",
+   "name": "Cleaning Company Route Planner",
+   "verdict": "maybe",
+   "competitors": [
+    "Connecteam",
+    "Homebase",
+    "Swept",
+    "SweepOps",
+    "CleanGuru"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1619",
+   "name": "Lawn Care Route Manager",
+   "verdict": "maybe",
+   "competitors": [
+    "FieldVibe",
+    "GorillaDesk",
+    "Jobber",
+    "RealGreen"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1621",
+   "name": "Mobile Detailing Job Manager",
+   "verdict": "build",
+   "competitors": [
+    "ServiceM8",
+    "Markate",
+    "QuoteIQ",
+    "OrbisX",
+    "Kickserv"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1623",
+   "name": "Vending Machine Route & Restock",
+   "verdict": "maybe",
+   "competitors": [
+    "Cantaloupe",
+    "Parlevel",
+    "VendSoft",
+    "Nayax MoMa"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "hardware-tied",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1625",
+   "name": "Laundromat Operations Manager",
+   "verdict": "build",
+   "competitors": [
+    "PayRange",
+    "Laundroworks",
+    "CSC ServiceWorks"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1627",
+   "name": "Self-Storage Tenant Tracker",
+   "verdict": "build",
+   "competitors": [
+    "Storeganise",
+    "Easy Storage Solutions",
+    "Storable",
+    "storEDGE"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1629",
+   "name": "Food Cart Operations Tracker",
+   "verdict": "skip",
+   "competitors": [
+    "Square",
+    "GloriaFood",
+    "Toast",
+    "Jotform"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 3,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1631",
+   "name": "Flower Shop Order Manager",
+   "verdict": "skip",
+   "competitors": [
+    "QuickFlora Basic",
+    "FloristWare",
+    "Hana Florist POS",
+    "Floranext"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1633",
+   "name": "Bakery Daily Production Planner",
+   "verdict": "build",
+   "competitors": [
+    "CakeBoss",
+    "BakeSmart",
+    "Craftybase",
+    "BakeBoost"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1635",
+   "name": "Bike Repair Shop Work Orders",
+   "verdict": "build",
+   "competitors": [
+    "Orderry",
+    "RepairShopr",
+    "Velodrop",
+    "BikeMatrix",
+    "Shopmonkey"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1637",
+   "name": "Shoe Repair Shop Work Orders",
+   "verdict": "build",
+   "competitors": [
+    "ShoeMax",
+    "Geelus",
+    "RepairDesk",
+    "RepairShopr"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 3
+  },
+  {
+   "id": "X1639",
+   "name": "Commercial Beekeeper Honey & Jar Inventory",
+   "verdict": "skip",
+   "competitors": [
+    "HiveBook",
+    "Beekeeping Diary",
+    "Apiary Book",
+    "HiveTracks",
+    "HiveSmartHQ"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X1641",
+   "name": "CNC Tool Library Manager",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "WinTool",
+    "MachiningCloud",
+    "ToolBoss"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1643",
+   "name": "Injection Molding Parameters",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "MBPlastiPro",
+    "EngineersEdge xls",
+    "IDSYS calculator"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1645",
+   "name": "3D Printing Filament Profile Manager",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "FilaMeter",
+    "Spoolman",
+    "Spoolstock",
+    "SimplyPrint",
+    "Spool Buddy"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1647",
+   "name": "PCB Assembly Soldering Reference",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "Unisoft",
+    "IPC-7711 PDFs"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1649",
+   "name": "Sheet Metal Bending Calculator",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "MachineMFG",
+    "SendCutSend",
+    "BendWorks",
+    "SkyCiv",
+    "SteelSolver",
+    "Android app"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1651",
+   "name": "Powder Coating Settings Reference",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "Axalta Axs (color only)",
+    "Interpon app (color only)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1653",
+   "name": "Anodizing Parameters Calculator",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Chemeon 720 Rule Calculator",
+    "Aluminium Anodizing Calculator APK",
+    "Caswell Plating"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1655",
+   "name": "Electroplating / Galvanizing Calculator",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Platers Calculator (MacDermid)",
+    "DataPlate",
+    "Anoplex",
+    "Attalos"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1657",
+   "name": "Hobby Metal Casting / Foundry Reference",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "backyardmetalcasting.com (site)",
+    "Foseco Handbook (book)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1659",
+   "name": "Glassblowing Temperature & Color Reference",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [
+    "Northstar quick guide (web)",
+    "Mountain Glass color charts (web)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X1661",
+   "name": "Neon Sign Tube Bending Reference",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [
+    "SignCustomiser (e-commerce tool)",
+    "trade school PDFs"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "free",
+   "durability": 5,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X1663",
+   "name": "Sign Making Material & Spacing Reference",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "SigniMate",
+    "VinylMaster LTR",
+    "EstiMate"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1665",
+   "name": "Vinyl Cutter / Plotter Settings Database",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "EasyCut Studio",
+    "SignWarehouse guides (web)",
+    "Cricut app"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1667",
+   "name": "Laser Cutter Material Settings Database",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "LightBurn",
+    "LaserGRBL",
+    "Rayforge",
+    "Trotec Ruby",
+    "xTool"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1669",
+   "name": "Welding WPS Register",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Weldia",
+    "WeldEye",
+    "WeldTrace",
+    "weldassistant",
+    "WPSAmerica"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 9,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1671",
+   "name": "Heat Treatment / Hardening Parameters",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "Ovako Steel Navigator (web)",
+    "Lucifer Furnaces chart (PDF)",
+    "EngineersEdge tables"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "free",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1673",
+   "name": "Lathe Turning Calculator",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "FSWizard",
+    "G-Wizard",
+    "HSMAdvisor",
+    "CNCCookbook free"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1675",
+   "name": "Milling Speeds & Feeds Calculator",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "FSWizard",
+    "G-Wizard",
+    "HSMAdvisor",
+    "zero-divide.net",
+    "Machinist's Calculator"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1677",
+   "name": "rideshare_driver_log",
+   "verdict": "skip",
+   "competitors": [
+    "Stride",
+    "MileIQ",
+    "Gridwise",
+    "Everlance",
+    "Hurdlr"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X1679",
+   "name": "gig_delivery_route_optimizer",
+   "verdict": "maybe",
+   "competitors": [
+    "Circuit",
+    "Routific",
+    "Onfleet",
+    "RouteXL",
+    "RoadWarrior"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "saas",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1681",
+   "name": "owner_operator_trucking_mgmt",
+   "verdict": "build",
+   "competitors": [
+    "TruckLogics",
+    "TruckingOffice",
+    "TrueNorth",
+    "ITS Dispatch"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 9,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1683",
+   "name": "small_fleet_dispatcher",
+   "verdict": "skip",
+   "competitors": [
+    "TrueNorth",
+    "Truckbase",
+    "Samsara",
+    "Motive"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "saas",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1685",
+   "name": "route_planning_small_delivery",
+   "verdict": "skip",
+   "competitors": [
+    "Circuit",
+    "Routific",
+    "RouteXL",
+    "Google Maps"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "saas",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1687",
+   "name": "fuel_ifta_tracking",
+   "verdict": "build",
+   "competitors": [
+    "FleetCollect",
+    "Motive",
+    "TruckLogics",
+    "EZLogz"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 10,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1689",
+   "name": "dot_compliance",
+   "verdict": "build",
+   "competitors": [
+    "FleetCollect",
+    "Motive",
+    "Samsara",
+    "Rigbooks"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 10,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1691",
+   "name": "truck_parking_finder",
+   "verdict": "skip",
+   "competitors": [
+    "Trucker Path",
+    "Park My Truck",
+    "Trulos"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1693",
+   "name": "load_board_freight_matching",
+   "verdict": "skip",
+   "competitors": [
+    "DAT One",
+    "Truckstop",
+    "123Loadboard",
+    "Trucker Path Truckloads"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 9,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1695",
+   "name": "hotshot_trucking",
+   "verdict": "maybe",
+   "competitors": [
+    "DAT One",
+    "Truckstop",
+    "123Loadboard",
+    "Fero"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1697",
+   "name": "bicycle_courier_messenger",
+   "verdict": "skip",
+   "competitors": [
+    "BikeMessenger24",
+    "Getcho",
+    "Shipday"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "commission",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1699",
+   "name": "small_moving_company_mgmt",
+   "verdict": "build",
+   "competitors": [
+    "Supermove",
+    "Chariot",
+    "Workiz",
+    "MoveitPro"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1701",
+   "name": "roadside_assistance_tow_dispatch",
+   "verdict": "build",
+   "competitors": [
+    "TraxeroGO",
+    "Roadsider",
+    "OctopusPro",
+    "Road Rescue Network"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1703",
+   "name": "taxi_dispatch",
+   "verdict": "skip",
+   "competitors": [
+    "Gazoop",
+    "Mobion",
+    "UnicoTaxi",
+    "iCabbi"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "saas",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1705",
+   "name": "school_bus_routing",
+   "verdict": "skip",
+   "competitors": [
+    "School Bus Manager",
+    "BusBoss",
+    "SafeBus",
+    "RouteABus"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "saas",
+   "durability": 9,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1707",
+   "name": "food_delivery_zone_mgmt",
+   "verdict": "skip",
+   "competitors": [
+    "GloriaFood",
+    "Ordingo",
+    "Upper",
+    "Deonde"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "commission",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1709",
+   "name": "warehouse_picking_inventory",
+   "verdict": "skip",
+   "competitors": [
+    "Zoho Inventory",
+    "Odoo",
+    "Delivrd",
+    "SKUSavvy"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 9,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1711",
+   "name": "last_mile_delivery_tracking",
+   "verdict": "maybe",
+   "competitors": [
+    "Onfleet",
+    "Track-POD",
+    "Routific",
+    "Tookan",
+    "Spoke"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "saas",
+   "durability": 9,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1713",
+   "name": "Rental Accounting for Small Landlords",
+   "verdict": "skip",
+   "competitors": [
+    "Stessa",
+    "TurboTenant",
+    "Innago",
+    "Landlord Studio",
+    "Baselane"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1715",
+   "name": "Tenant Screening",
+   "verdict": "skip",
+   "competitors": [
+    "TurboTenant",
+    "Avail",
+    "SingleKey",
+    "Stessa",
+    "TenantCloud"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1717",
+   "name": "Lease Tracking",
+   "verdict": "skip",
+   "competitors": [
+    "Innago",
+    "TurboTenant",
+    "Avail",
+    "TenantCloud",
+    "MagicDoor"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1719",
+   "name": "Property Maintenance Tracking",
+   "verdict": "skip",
+   "competitors": [
+    "Innago",
+    "Rentler",
+    "Landlord Studio",
+    "TurboTenant",
+    "Buildium"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1721",
+   "name": "STR Turnover & Cleaning Management",
+   "verdict": "test",
+   "competitors": [
+    "Turno",
+    "TIDY",
+    "Breezeway",
+    "Properly",
+    "Doinn"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1723",
+   "name": "STR Dynamic Pricing",
+   "verdict": "skip",
+   "competitors": [
+    "PriceLabs",
+    "Beyond",
+    "Wheelhouse",
+    "DPGO",
+    "AirDNA Smart Rates"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1725",
+   "name": "House Flipping Budget Tracker",
+   "verdict": "test",
+   "competitors": [
+    "House Flipping Spreadsheet",
+    "FlipperForce",
+    "Baselane",
+    "Mezzi"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1727",
+   "name": "Open House Management",
+   "verdict": "skip",
+   "competitors": [
+    "Curb Hero",
+    "Open Home Pro",
+    "Harvast",
+    "Spacio"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1729",
+   "name": "FSBO Sell Without Agent",
+   "verdict": "skip",
+   "competitors": [
+    "FSBO.com",
+    "ForSaleByOwner.com",
+    "Houzeo",
+    "Zillow",
+    "homecoin"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 4,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1731",
+   "name": "Property Comps & Comparables",
+   "verdict": "skip",
+   "competitors": [
+    "Zillow",
+    "Redfin",
+    "PropStream",
+    "RPR",
+    "Cloud CMA"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1733",
+   "name": "Rent Collection",
+   "verdict": "skip",
+   "competitors": [
+    "Zillow Rental Manager",
+    "Stessa",
+    "TurboTenant",
+    "Innago",
+    "Azibo",
+    "Rent App"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1735",
+   "name": "Security Deposit Tracking",
+   "verdict": "test",
+   "competitors": [
+    "Rentable",
+    "Qira",
+    "Baselane",
+    "Stessa",
+    "Obligo"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1737",
+   "name": "Apartment Inventory & Furnishing Checklist",
+   "verdict": "test",
+   "competitors": [
+    "DomuSpect",
+    "Jotform",
+    "DocHub",
+    "Template.net",
+    "eAuditor"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1739",
+   "name": "Utility Meter Reading Tracker",
+   "verdict": "build",
+   "competitors": [
+    "Utility Meter Tracker",
+    "MyRead Pro",
+    "Meter Readings Read Save",
+    "Smart Meter Reader"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1741",
+   "name": "Real Estate ROI Calculator",
+   "verdict": "skip",
+   "competitors": [
+    "REI-Calculator.net",
+    "Mogul",
+    "Calculator.net",
+    "Rentlab",
+    "Z Real Estate Calculator"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 3,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1743",
+   "name": "Property Inspection Scheduler",
+   "verdict": "skip",
+   "competitors": [
+    "RentCheck",
+    "zInspector",
+    "Xenia",
+    "GoAudits",
+    "Property Inspect"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1745",
+   "name": "Per-Unit Repair Log & Journal",
+   "verdict": "test",
+   "competitors": [
+    "Jotform",
+    "Stessa",
+    "Landlord Studio",
+    "Maintenance Tracker",
+    "TurboTenant"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1747",
+   "name": "Per-Property Cost Tracker",
+   "verdict": "skip",
+   "competitors": [
+    "Stessa",
+    "RentalIncomeExpense.com",
+    "TurboTenant",
+    "Innago",
+    "Apartments.com"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1749",
+   "name": "Dietitian Meal Plan Generator",
+   "verdict": "skip",
+   "competitors": [
+    "That Clean Life",
+    "Nutrium",
+    "Foodzilla",
+    "ProMealPlan",
+    "Practice Better"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 4,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1751",
+   "name": "Nutritionist Client Macro Report",
+   "verdict": "maybe",
+   "competitors": [
+    "Cronometer Pro",
+    "My PT Hub",
+    "MacroFactor",
+    "MyNetDiary"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1753",
+   "name": "Physical Therapist HEP Builder",
+   "verdict": "skip",
+   "competitors": [
+    "HEP2go",
+    "MedBridge",
+    "WebPT HEP",
+    "Exercise Pro Live",
+    "Spry PT"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 3,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1755",
+   "name": "Chiropractor SOAP Notes Pad",
+   "verdict": "maybe",
+   "competitors": [
+    "ChiroScribe",
+    "ChiroUp",
+    "zHealth",
+    "qNotes",
+    "SOAP Notes app"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1757",
+   "name": "Acupuncture Session Point Logger",
+   "verdict": "yes",
+   "competitors": [
+    "Jane App",
+    "A Manual of Acupuncture",
+    "Points-PC",
+    "PatientNotes"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1759",
+   "name": "Dental Hygienist Visit Notes",
+   "verdict": "skip",
+   "competitors": [
+    "Denti.AI",
+    "Kiroku",
+    "DigitalTCO",
+    "PatientNotes",
+    "Fast Notes Dental Surgery"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 3,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1761",
+   "name": "Optometrist Exam Notes Sheet",
+   "verdict": "maybe",
+   "competitors": [
+    "RevolutionEHR",
+    "Eye Handbook",
+    "Compulink",
+    "Sightview"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1763",
+   "name": "Pharmacist Drug Interaction Client Summary",
+   "verdict": "skip",
+   "competitors": [
+    "Epocrates",
+    "Lexidrug",
+    "Pocket Pharmacist",
+    "Vikapic",
+    "Micromedex"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 3,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1765",
+   "name": "Doula/Midwife Client Birth Plan Tracker",
+   "verdict": "yes",
+   "competitors": [
+    "Mobile Doula",
+    "Mobile Midwife EHR",
+    "HoneyBook",
+    "Premier Birth Tools"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1767",
+   "name": "Lactation Consultant Visit Charting",
+   "verdict": "yes",
+   "competitors": [
+    "MilkNotes",
+    "Mobile Lactation Consultant",
+    "SimplePractice",
+    "PatientNotes"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1769",
+   "name": "Mental Health Therapist Progress Notes",
+   "verdict": "skip",
+   "competitors": [
+    "TherapyNotes",
+    "Mentalyc",
+    "AutoNotes",
+    "Upheal",
+    "TheraPro",
+    "Yung Sidekick"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 3,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1771",
+   "name": "Social Worker Case Notes Logger",
+   "verdict": "maybe",
+   "competitors": [
+    "Notehouse",
+    "Social Work Portal",
+    "Noteable",
+    "PatientNotes",
+    "Casebook"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1773",
+   "name": "Podiatrist Clinical Visit Notes",
+   "verdict": "yes",
+   "competitors": [
+    "Pocket Podiatry",
+    "Podana",
+    "ModMed",
+    "PatientNotes"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1775",
+   "name": "Speech-Language Pathologist Private Practice Notes",
+   "verdict": "skip",
+   "competitors": [
+    "SLPFlow",
+    "TheraPlatform",
+    "ClinicSource",
+    "TherapyPM",
+    "SimplePractice"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1777",
+   "name": "Occupational Therapist Session Notes",
+   "verdict": "maybe",
+   "competitors": [
+    "SimplePractice",
+    "Noterro",
+    "ClinicSense",
+    "PatientNotes",
+    "Mentalyc"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1779",
+   "name": "Osteopath Treatment Notes Pad",
+   "verdict": "yes",
+   "competitors": [
+    "Crossuite",
+    "Noterro",
+    "PatientNotes",
+    "Bookem"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1781",
+   "name": "Reflexologist Session Notes",
+   "verdict": "yes",
+   "competitors": [
+    "CompanyOn",
+    "Bookem",
+    "generic SOAP apps"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X1783",
+   "name": "Naturopath Protocol & Supplement Tracker",
+   "verdict": "yes",
+   "competitors": [
+    "Practice Master Pro",
+    "Jane App",
+    "Power2Practice",
+    "coreplus"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1785",
+   "name": "illustrator-commissions-queue",
+   "verdict": "free_wins",
+   "competitors": [
+    "VGen",
+    "Trello",
+    "Notion template (Cortado)",
+    "ArtworkArchive"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1787",
+   "name": "3d-artist-asset-library",
+   "verdict": "gap",
+   "competitors": [
+    "Asset Hoard",
+    "Eagle App",
+    "Anchorpoint",
+    "echo3D"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1789",
+   "name": "solo-game-dev-tasks",
+   "verdict": "free_wins",
+   "competitors": [
+    "Asset Hoard",
+    "ClickUp free",
+    "Notion",
+    "Trello"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1791",
+   "name": "indie-film-production",
+   "verdict": "crowded",
+   "competitors": [
+    "StudioBinder",
+    "Studiovity",
+    "Filmustage",
+    "Croogloo",
+    "Shot Lister"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1793",
+   "name": "motion-graphics-projects",
+   "verdict": "free_wins",
+   "competitors": [
+    "Notion",
+    "ClickUp",
+    "Asana",
+    "Motion app"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 4,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1795",
+   "name": "design-system-ui-ux-manager",
+   "verdict": "crowded",
+   "competitors": [
+    "Figma",
+    "Zeroheight",
+    "Supernova",
+    "Storybook"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1797",
+   "name": "web-designer-component-library",
+   "verdict": "crowded",
+   "competitors": [
+    "Figma",
+    "Anima",
+    "Supernova",
+    "Storybook"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1799",
+   "name": "packaging-designer-projects",
+   "verdict": "gap",
+   "competitors": [
+    "ManageArtworks",
+    "Cway",
+    "ArtiosCAD",
+    "Kittl"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1801",
+   "name": "signage-projects",
+   "verdict": "gap",
+   "competitors": [
+    "generic PM tools",
+    "Notion",
+    "Monday.com"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1803",
+   "name": "mural-artist-projects",
+   "verdict": "gap",
+   "competitors": [
+    "Mural Maker (Da Vinci Eye)",
+    "Notion",
+    "generic PM tools"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X1805",
+   "name": "concept-artist-references",
+   "verdict": "free_wins",
+   "competitors": [
+    "PureRef (free/PWYW)",
+    "Eagle App",
+    "refern.",
+    "Kuadro",
+    "DarkRef"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1807",
+   "name": "character-designer-sheets",
+   "verdict": "free_wins",
+   "competitors": [
+    "generic drawing apps",
+    "Notion",
+    "Clip Studio",
+    "no dedicated app"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1809",
+   "name": "storyboard-app",
+   "verdict": "crowded",
+   "competitors": [
+    "Storyboarder (free)",
+    "ShotPro",
+    "Boords",
+    "Canva"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1811",
+   "name": "colorist-grading-notes",
+   "verdict": "gap",
+   "competitors": [
+    "no dedicated mobile app",
+    "DaVinci Resolve notes",
+    "Notion"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1813",
+   "name": "pixel-art-project-manager",
+   "verdict": "free_wins",
+   "competitors": [
+    "Aseprite (paid one-time)",
+    "Libresprite (free)",
+    "Trello",
+    "Notion"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1815",
+   "name": "nft-generative-art-traits",
+   "verdict": "crowded",
+   "competitors": [
+    "nft-generator.art",
+    "NFT Creator Pro",
+    "NFT Kit",
+    "HashLips (open source)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 3,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1817",
+   "name": "font-type-designer-tracker",
+   "verdict": "free_wins",
+   "competitors": [
+    "FontBase (free)",
+    "RightFont",
+    "Typeface",
+    "Suitcase Fusion",
+    "Extensis"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1819",
+   "name": "sound-designer-sample-library",
+   "verdict": "crowded",
+   "competitors": [
+    "Sononym",
+    "ADSR Sample Manager",
+    "Soundly",
+    "Basehead",
+    "AudioFinder",
+    "Atlas 2"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1821",
+   "name": "hunting_guide_client_mgmt",
+   "verdict": "maybe",
+   "competitors": [
+    "HuntPay",
+    "Krytter",
+    "GuideTime",
+    "Mallard Bay",
+    "LodgeRunner"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1823",
+   "name": "fishing_charter_booking",
+   "verdict": "skip",
+   "competitors": [
+    "Bookeo",
+    "CaptainBook",
+    "Peek Pro",
+    "FareHarbor",
+    "Checkfront"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X1825",
+   "name": "ski_instructor_student_tracking",
+   "verdict": "maybe",
+   "competitors": [
+    "skiKrumb",
+    "Bloowatch",
+    "Yoplanning",
+    "SkiPlanner"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1827",
+   "name": "mountain_guide_trip_mgmt",
+   "verdict": "buy",
+   "competitors": [
+    "GuidePace",
+    "onX Backcountry",
+    "Komoot"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1829",
+   "name": "city_tour_guide_route_group",
+   "verdict": "skip",
+   "competitors": [
+    "Wanderlog",
+    "GPSmyCity",
+    "VoiceMap",
+    "Loquiz"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 5,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X1831",
+   "name": "camp_counselor_activity_mgmt",
+   "verdict": "skip",
+   "competitors": [
+    "Circuitree",
+    "Sawyer",
+    "UltraCamp",
+    "CampNetwork",
+    "ActivityMessenger"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1833",
+   "name": "park_ranger_field_reporting",
+   "verdict": "maybe",
+   "competitors": [
+    "SafetyCulture",
+    "Fulcrum",
+    "GoCanvas",
+    "BasinCheck"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1835",
+   "name": "trail_maintenance_crew_mgmt",
+   "verdict": "maybe",
+   "competitors": [
+    "Trail Sentinel",
+    "TrailCare Pro",
+    "Outway",
+    "UpKeep"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1837",
+   "name": "wildlife_rehab_animal_tracking",
+   "verdict": "buy",
+   "competitors": [
+    "WildTrack",
+    "Fahlo",
+    "iNaturalist",
+    "WRMD (web)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 3
+  },
+  {
+   "id": "X1839",
+   "name": "SAR_incident_mgmt",
+   "verdict": "skip",
+   "competitors": [
+    "D4H",
+    "BCSARA",
+    "AirFlare",
+    "VolunteerRescue",
+    "Risk SAR"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 9,
+   "reach": 1,
+   "demand": 3
+  },
+  {
+   "id": "X1841",
+   "name": "outdoor_educator_lesson_planning",
+   "verdict": "skip",
+   "competitors": [
+    "Planbook",
+    "iDoceo",
+    "Google Classroom",
+    "Canva"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1843",
+   "name": "climbing_instructor_student_prog",
+   "verdict": "maybe",
+   "competitors": [
+    "Lattice",
+    "Crimpd",
+    "Sequence",
+    "ClimbingCoach"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1845",
+   "name": "kayak_guide_trip_mgmt",
+   "verdict": "buy",
+   "competitors": [
+    "PaddleWays",
+    "Savvy Navvy",
+    "GuideTime"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1847",
+   "name": "safari_ecotour_guide_mgmt",
+   "verdict": "buy",
+   "competitors": [
+    "GranIT Safari",
+    "Rezgo",
+    "Tourplan",
+    "ResLogic"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1849",
+   "name": "sailing_instructor_student_tracking",
+   "verdict": "maybe",
+   "competitors": [
+    "NauticEd",
+    "SailTies",
+    "Waterspeed",
+    "Savvy Navvy"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1851",
+   "name": "nomadic_beekeeper_hive_tracking",
+   "verdict": "buy",
+   "competitors": [
+    "HiveTracks",
+    "HiveBook",
+    "Apiary Book",
+    "APiLOG",
+    "BeePlus"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1853",
+   "name": "private_forester_stand_mgmt",
+   "verdict": "maybe",
+   "competitors": [
+    "WoodsApp",
+    "SmartFor",
+    "Avenza Maps",
+    "MyForesters"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1855",
+   "name": "surf_instructor_student_tracking",
+   "verdict": "skip",
+   "competitors": [
+    "Communiti",
+    "Yoplanning",
+    "Viking Bookings",
+    "Bloowatch"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1857",
+   "name": "vendor na targach / craft fair sales tracker",
+   "verdict": "viable",
+   "competitors": [
+    "CraftSale",
+    "Square POS",
+    "Marketspread"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1859",
+   "name": "consignment / komis shop tracker",
+   "verdict": "viable",
+   "competitors": [
+    "BCSS",
+    "BoothTracker",
+    "ConsignCloud",
+    "SimpleConsign"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1861",
+   "name": "pchli targ stoisko / flea market booth mgmt",
+   "verdict": "viable",
+   "competitors": [
+    "BoothTracker",
+    "SeenMarkets",
+    "Marketspread"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1863",
+   "name": "antykwariat wycena / antique valuation",
+   "verdict": "saturated",
+   "competitors": [
+    "Curio",
+    "AntiqSnap",
+    "WorthPoint",
+    "LiveAuctioneers",
+    "Antique Identifier"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1865",
+   "name": "print on demand projekty / POD design manager",
+   "verdict": "saturated",
+   "competitors": [
+    "Printify",
+    "Printful",
+    "Gelato",
+    "Prodigi"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1867",
+   "name": "dropshipping produkty / product tracker",
+   "verdict": "saturated",
+   "competitors": [
+    "DSers",
+    "AutoDS",
+    "Zendrop",
+    "Spocket",
+    "NicheScraper"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 4,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X1869",
+   "name": "inwentarz handmade / handmade inventory",
+   "verdict": "viable",
+   "competitors": [
+    "Craftybase",
+    "inFlow"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1871",
+   "name": "linesheet hurtowy / wholesale linesheet creator",
+   "verdict": "viable",
+   "competitors": [
+    "Linesheets",
+    "Brandboom",
+    "CatalogMachine",
+    "JOOR"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1873",
+   "name": "foto produktowe / product photo checklist app",
+   "verdict": "viable",
+   "competitors": [
+    "Photta"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1875",
+   "name": "pakowanie wysylka / packing & shipping calculator",
+   "verdict": "saturated",
+   "competitors": [
+    "Pirateship",
+    "ShipStation",
+    "EasyPost",
+    "ShipX",
+    "Shippo"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 5,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X1877",
+   "name": "zwroty reklamacje / returns & complaints manager",
+   "verdict": "risky",
+   "competitors": [
+    "Loop Returns",
+    "ZigZag",
+    "Narvar",
+    "Returnly",
+    "AfterShip",
+    "Tidio"
+   ],
+   "n": 6,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 4,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X1879",
+   "name": "kody kreskowe SKU własne / barcode & SKU generator",
+   "verdict": "saturated",
+   "competitors": [
+    "SKUGen",
+    "SGT Barcode",
+    "SKU Auto",
+    "EasyScan",
+    "Shopify free generator",
+    "inFlow"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1881",
+   "name": "market research nisza / niche market research tool",
+   "verdict": "saturated",
+   "competitors": [
+    "NicheScraper",
+    "EverBee",
+    "Marmalead",
+    "Sale Samurai",
+    "eRank"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 4,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X1883",
+   "name": "koszt wytworzenia per produkt / COGS calculator",
+   "verdict": "viable",
+   "competitors": [
+    "Craftybase",
+    "Etsy spreadsheet templates"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1885",
+   "name": "zapas surowców / raw materials inventory",
+   "verdict": "viable",
+   "competitors": [
+    "Craftybase",
+    "Sortly"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1887",
+   "name": "kolejka zamówień custom / custom order queue",
+   "verdict": "viable",
+   "competitors": [
+    "Craftybase"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1889",
+   "name": "program lojalnościowy mały / small loyalty program",
+   "verdict": "risky",
+   "competitors": [
+    "Smile.io",
+    "Square Loyalty",
+    "FiveStars",
+    "TapMango",
+    "Yotpo"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 5,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X1891",
+   "name": "pop-up shop management",
+   "verdict": "viable",
+   "competitors": [
+    "Shopify POS",
+    "ThriveMetrics"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1893",
+   "name": "thesis-writing-structure",
+   "verdict": "skip",
+   "competitors": [
+    "MonsterWriter",
+    "Scrivener",
+    "Notion",
+    "Google Docs"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "saas",
+   "durability": 3,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1895",
+   "name": "bibliography-citation-manager",
+   "verdict": "skip",
+   "competitors": [
+    "Zotero",
+    "Mendeley",
+    "Citavi"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 2,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X1897",
+   "name": "literature-review-matrix",
+   "verdict": "maybe",
+   "competitors": [
+    "Subthesis (free)",
+    "Elicit",
+    "Scholarcy",
+    "GradCoach Excel template"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1899",
+   "name": "conference-submission-tracker",
+   "verdict": "skip",
+   "competitors": [
+    "EasyChair (free)",
+    "Oxford Abstracts",
+    "Notion template"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "saas",
+   "durability": 4,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X1901",
+   "name": "grant-deadline-tracker",
+   "verdict": "maybe",
+   "competitors": [
+    "Notion template",
+    "Grantseeker Basic (free)",
+    "Instrumentl"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1903",
+   "name": "teaching-assistant-grading",
+   "verdict": "skip",
+   "competitors": [
+    "CoGrader (free tier)",
+    "Gradescope",
+    "EssayGrader",
+    "MagicSchool AI"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "saas",
+   "durability": 3,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X1905",
+   "name": "study-abroad-logistics",
+   "verdict": "skip",
+   "competitors": [
+    "Notion",
+    "TripIt",
+    "Splitwise",
+    "Moovit"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 3,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X1907",
+   "name": "LSAT-MCAT-bar-exam-prep",
+   "verdict": "maybe",
+   "competitors": [
+    "Khan Academy LSAT (free)",
+    "7Sage (free tier)",
+    "LSATMax",
+    "BarMax",
+    "Brainscape"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1909",
+   "name": "language-exam-prep-IELTS-TOEFL",
+   "verdict": "skip",
+   "competitors": [
+    "Magoosh",
+    "British Council",
+    "Duolingo English Test prep"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 5,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X1911",
+   "name": "music-conservatory-practice-tracker",
+   "verdict": "build",
+   "competitors": [
+    "Modacity (subscription)",
+    "Instrumentive (subscription)",
+    "Practito (freemium)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1913",
+   "name": "art-school-portfolio-builder",
+   "verdict": "skip",
+   "competitors": [
+    "Behance (free)",
+    "Adobe Portfolio (CC bundle)",
+    "Cara (free)",
+    "ArtStation"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 3,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1915",
+   "name": "med-student-clinical-rotation-tracker",
+   "verdict": "build",
+   "competitors": [
+    "Elentra (institutional)",
+    "Notion DIY"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X1917",
+   "name": "anatomy-flashcards",
+   "verdict": "skip",
+   "competitors": [
+    "Anki (free)",
+    "Brainscape",
+    "Kenhub",
+    "Complete Anatomy"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X1919",
+   "name": "study-plan-ECTS-planner",
+   "verdict": "skip",
+   "competitors": [
+    "MyStudyLife (free)",
+    "Unistacky ECTS calc (free)",
+    "Google Sheets"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1921",
+   "name": "bachelor-thesis-source-organizer",
+   "verdict": "skip",
+   "competitors": [
+    "Zotero (free)",
+    "Mendeley (free)",
+    "ResearchRabbit (free)",
+    "Litmaps"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 3,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X1923",
+   "name": "peer-review-notes",
+   "verdict": "maybe",
+   "competitors": [
+    "Peergrade",
+    "FeedbackFruits",
+    "Scifocus",
+    "Eduflow (free tier)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X1925",
+   "name": "oral-defense-prep-coach",
+   "verdict": "build",
+   "competitors": [
+    "GradCoach (paid coaching)",
+    "PhD Assistance (paid service)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 3
+  },
+  {
+   "id": "X1927",
+   "name": "scholarship-application-tracker",
+   "verdict": "skip",
+   "competitors": [
+    "Notion template (free)",
+    "Craft template (free)",
+    "Scholar's App",
+    "GetSchooled (free)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 4,
+   "demand": 2
   }
  ]
 }
