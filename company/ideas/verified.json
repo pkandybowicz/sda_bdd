@@ -9935,6 +9935,174 @@
    "durability": 7,
    "reach": 3,
    "demand": 2
+  },
+  {
+   "id": "PA1",
+   "name": "Prompt book reżysera/inspicjenta",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#10 perf-arts)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "PA2",
+   "name": "Blocking/notacja ruchu scenicznego",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#10 perf-arts)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "PA3",
+   "name": "Cue sheet światła/dźwięku (QLab)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#10 perf-arts)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "PA4",
+   "name": "Set list + arrangement (zespół cover)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#10 perf-arts)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "PA5",
+   "name": "Repertuar + tonacje wokalisty",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#10 perf-arts)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "PA6",
+   "name": "Notacja choreografii tańca",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#10 perf-arts)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "PA7",
+   "name": "Tracker kostiumów quick-change",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#10 perf-arts)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "PA8",
+   "name": "Rehearsal scheduler",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#10 perf-arts)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "PA9",
+   "name": "Partytura/setup perkusisty",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#10 perf-arts)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "PA10",
+   "name": "Log strojenia instrumentu",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#10 perf-arts)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "PA11",
+   "name": "Bible postaci dla aktora (Rehearsal Pro $19.99)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#10 perf-arts)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "PA12",
+   "name": "Tracker tricków cyrkowca (JuggleFit martwy)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#10 perf-arts)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
   }
  ]
 }
