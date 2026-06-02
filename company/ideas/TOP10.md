@@ -1,6 +1,6 @@
 # 🏆 TOP 10 pomysłów — żywy ranking
 
-> Algorytm: **v3** · Zweryfikowanych realnie: **121** · Aktualizacja: 2026-06-02 11:49 UTC
+> Algorytm: **v3** · Zweryfikowanych realnie: **142** · Aktualizacja: 2026-06-02 12:25 UTC
 
 > Każdy pomysł przeszedł weryfikację konkurencji w sieci PRZED oceną.
 

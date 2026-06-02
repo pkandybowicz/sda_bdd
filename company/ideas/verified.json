@@ -2339,6 +2339,49 @@
    "durability": 7,
    "reach": 3,
    "demand": 1
+  },
+  {
+   "id": "LuthierSetup",
+   "name": "Log setupu skrzypiec (lutnik)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(brak dedykowanej apki; darmowe notatki/zdjęcia)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "AccordionRepair",
+   "name": "Log napraw/strojenia akordeonów",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "DaTuner(generyk)",
+    "(brak dedykowanego repair-logu)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "AntiqueRestore",
+   "name": "Log konserwacji antyków (restorator)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(brak dedykowanej apki; museum software dla pro; notatki+zdjęcia)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
   }
  ]
 }
