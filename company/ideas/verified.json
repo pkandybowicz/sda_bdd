@@ -3023,6 +3023,56 @@
    "durability": 7,
    "reach": 2,
    "demand": 1
+  },
+  {
+   "id": "ProcessServer",
+   "name": "Log doręczeń (process server)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "ServeManager",
+    "custom mobile apps"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "PIsurveillance",
+   "name": "Log obserwacji (detektyw)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Therms",
+    "CROSStrax",
+    "Timestamp Camera"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "BailBonds",
+   "name": "Check-in oskarżonych (bail bonds)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "eBail",
+    "BailVision",
+    "Bailbooks",
+    "Captira",
+    "Bailtec",
+    "Simply Bail"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
   }
  ]
 }
