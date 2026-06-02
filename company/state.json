@@ -1,7 +1,7 @@
 {
   "nova": {
     "status": "idle",
-    "currentTask": "czeka na syntezę (Faza E)",
+    "currentTask": null,
     "since": "2026-06-02T11:00:00Z",
     "lastReport": "reports/T-003-nova.md"
   },
@@ -12,26 +12,26 @@
     "lastReport": "ideas/iteration-1/gen-A-atlas.md"
   },
   "pixel": {
-    "status": "working",
-    "currentTask": "IT1-COMP-1: 10× konkurencja (FODMAPLog, MigraineMap, PostureLog, GlucoLog)",
+    "status": "idle",
+    "currentTask": null,
     "since": "2026-06-02T11:36:00Z",
     "lastReport": "ideas/iteration-1/gen-B-pixel.md"
   },
   "echo": {
-    "status": "working",
-    "currentTask": "IT1-COMP-2: 10× konkurencja (HeirSplit, DivorceAssets, FoodTemp, PrivatePeriod)",
+    "status": "idle",
+    "currentTask": null,
     "since": "2026-06-02T11:36:00Z",
     "lastReport": "ideas/iteration-1/gen-C-echo.md"
   },
   "vera": {
-    "status": "working",
-    "currentTask": "IT1-COMP-3: 10× konkurencja (DyeRatio, DosePaw, PhonicsFirst, SpellDrill)",
+    "status": "idle",
+    "currentTask": null,
     "since": "2026-06-02T11:36:00Z",
     "lastReport": "ideas/iteration-1/gen-D-vera.md"
   },
   "brutus": {
     "status": "idle",
-    "currentTask": "czeka na Red Team (Faza D)",
+    "currentTask": null,
     "since": "2026-06-02T11:00:00Z",
     "lastReport": null
   }

@@ -44,22 +44,45 @@ skarg · gripes na X/Twitter · Google autocomplete + „people also ask" · Goo
 Trends · narzędzia słów kluczowych · Pinterest · branżowe magazyny · wiki subredditów
 · blogi „there should be an app" · marketplace'y hobbystyczne.
 
-## 10-KROTNA WERYFIKACJA KONKURENCJI
+## GENERACJA v2 — generator kombinatoryczny (skala 15k+)
 
-Każdy poważny kandydat przechodzi WSZYSTKIE 10 testów:
+LLM proszony o „15000 pomysłów" produkuje powtórki i śmieci. Zamiast tego skala
+powstaje **systematycznie**: `company/tools/generate_corpus.py` mnoży
+**~160 nisz × ~100 typów narzędzi = ~16 300 kombinacji**, odfiltrowuje te bez sensu
+(typ narzędzia musi pasować do niszy) → **~10 000 sensownych**, i scoruje każdą
+heurystyką (spend+recurring+techAverse+size niszy + durability×2+simplicity+pain
+narzędzia). To **wyczerpujące pokrycie przestrzeni**, nie zgadywanka.
 
-1. **App store'y** — iOS / Android / Mac / Windows: czy już istnieje.
-2. **Google** — „best [X] app" + „[X] alternative".
-3. **Free/open-source** — GitHub / SourceForge: darmowy substytut?
-4. **Web-app** — czy rozwiązuje to darmowa strona.
-5. **Szablon/arkusz** — czy gotowy Sheet/Excel już to robi (i za ile).
-6. **Natywne OS** — czy to już darmowa funkcja systemu/urządzenia.
-7. **Pricing recon** — co biorą gracze i w jakim modelu (sub/jednorazowo).
-8. **Review-mining graczy** — w czym zawodzą = nasz klin.
-9. **Sizing popytu** — proxy wolumenu/trendu wyszukiwań.
-10. **Willingness-to-pay** — czy ktoś GDZIEKOLWIEK już za to płaci.
+Pipeline: generator (tani, deterministyczny) → `seed-corpus.csv` (pełne 16 300) →
+`AUTO-SHORTLIST.md` (top 60) → **dopiero top-slice** idzie do drogiej, ludzkiej
+oceny agentów i **10-metodowej weryfikacji konkurencji**. Warstwę ręczną (~155
+pomysłów generatorów z 20 metod) traktujemy jako wysokojakościowy dosiew do top-slice.
 
-Wynik per nisza: PUSTA Z OKAZJI / SŁABO OBSŁUŻONA / PUSTA Z PRZYCZYNY / ZATŁOCZONA.
+## 10-METODOWA WERYFIKACJA KONKURENCJI (v2)
+
+Cel: **żadnego fałszywego „blue ocean".** Nie 10 ogólnych pytań, tylko **10 różnych
+miejsc/sposobów szukania**, każdy z INNYM zapytaniem — bo ta sama apka kryje się pod
+inną nazwą. Każda metoda MUSI zwrócić **listę realnych apek z nazwy** (albo „0 wyników").
+
+**Google Play — 3 sposoby:**
+1. **Nazwa-funkcja wprost** — np. „period tracker", „mileage log".
+2. **Synonimy/use-case** — inne sformułowania tego samego: „menstrual diary", „cycle calendar offline", „no account period app".
+3. **`site:play.google.com` w Google + sekcja „Similar apps"** i top kategorii — wyłapuje to, czego wyszukiwarka Play nie pokazuje.
+
+**Apple App Store — 3 sposoby:**
+4. **Nazwa-funkcja wprost** w App Store.
+5. **Synonimy/use-case** (jak wyżej, inne frazy).
+6. **`site:apps.apple.com` w Google + „You might also like"** / ranking kategorii.
+
+**4 inne metody:**
+7. **Desktop/OSS** — AlternativeTo.net, GitHub, F-Droid, SourceForge, Product Hunt.
+8. **Google ogólnie + Reddit** — „best [X]", „[X] alternative", „is there an app for [X] reddit".
+9. **Marketplace szablonów** — Etsy / Gumroad / Notion templates (czy printable/arkusz już zaspokaja potrzebę i za ile).
+10. **Pricing & WTP recon** — dla 3–5 najbliżej znalezionych: cena, model (sub/jednorazowo), liczba ocen (proxy skali).
+
+**Reguła twarda:** wynik każdej metody = wypisane nazwy znalezionych apek (lub „brak").
+Jeśli łącznie wyjdzie ≥ ~8–10 apek robiących to samo → nisza **ZATŁOCZONA**, ginie,
+choćby self-score był wysoki. Werdykt: PUSTA Z OKAZJI / SŁABO OBSŁUŻONA / PUSTA Z PRZYCZYNY / ZATŁOCZONA.
 
 ## RUBRYKA SCORINGU (0–5 każde; matematyka 1000 i durability ważone ×2)
 
