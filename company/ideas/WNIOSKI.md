@@ -48,3 +48,9 @@ Research zbiegł się do pewnej odpowiedzi. Najwyższa wartość teraz: **walida
 2. Test popytu: landing + posty w ACX/r/audiobooks/r/VoiceActing/NarratorsRoadmap.
 3. MVP: nagrywanie próbki + atrybuty + notatki per postać, offline, import między projektami (przewaga nad Airtable i Hindenburg Clipboard).
 4. Pozycja vs Airtable (prościej, mobilnie, VO-first) i vs Hindenburg (taniej, samodzielnie, między-projektowo).
+
+## Skala końcowa (2026-06-02)
+- **2048 nisz zbadanych on-the-nose** (16 mutacji tematycznych + 8 fal hurtowych po ~144 nisze).
+- Rozkład kanoniczny: ZATŁOCZONA 48% · SŁABO OBSŁUŻONA 48% · PUSTA Z OKAZJI 3% (57) · PUSTA Z PRZYCZYNY 2%.
+- **Nic nie przebiło Voice bible (77).** Tylko 2 pomysły osiągnęły >=60: Voice bible (77) oraz nalewki PL (61) — ten drugi to agentowa PUSTA [do potw.], niezweryfikowana managersko.
+- Werdykty znormalizowane do 4 kanonicznych; niezweryfikowane gap/build zmapowane uczciwie na SŁABO (bez promowania do blue-ocean).
