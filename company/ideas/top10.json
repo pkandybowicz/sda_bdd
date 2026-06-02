@@ -1,77 +1,77 @@
 {
-  "algo": "v3",
-  "updated": "2026-06-02 17:23 UTC",
-  "verified": 521,
+  "algo": "v4",
+  "updated": "2026-06-02 17:28 UTC",
+  "verified": 571,
   "top10": [
     {
       "id": "AudiobookVoiceBible",
       "name": "Voice bible: próbki+atrybuty głosu per postać — narratorzy audiobooków, game VO, producenci audio-dram",
-      "score": 68,
+      "score": 77,
       "verdict": "PUSTA Z OKAZJI",
       "n": 2
     },
     {
-      "id": "HL10",
-      "name": "Łowienie raków PL/EU – log",
-      "score": 67,
-      "verdict": "PUSTA Z OKAZJI",
+      "id": "CL7",
+      "name": "Kolekcja scyzoryków/noży",
+      "score": 40,
+      "verdict": "SŁABO OBSŁUŻONA",
+      "n": 2
+    },
+    {
+      "id": "DF3",
+      "name": "Kalkulator kosztów wypieku [demand/Etsy]",
+      "score": 40,
+      "verdict": "SŁABO OBSŁUŻONA",
+      "n": 3
+    },
+    {
+      "id": "DF8",
+      "name": "Kalkulator wyceny rękodzieła [demand/Etsy]",
+      "score": 40,
+      "verdict": "SŁABO OBSŁUŻONA",
+      "n": 3
+    },
+    {
+      "id": "FD14",
+      "name": "Przewodnik wędzenia na zimno [do potw.]",
+      "score": 40,
+      "verdict": "SŁABO OBSŁUŻONA",
       "n": 0
     },
     {
-      "id": "HL6",
-      "name": "Poszukiwanie bursztynu bałtyckiego",
-      "score": 67,
-      "verdict": "PUSTA Z OKAZJI",
+      "id": "FD5",
+      "name": "Przewodnik dehydratora [do potw.]",
+      "score": 40,
+      "verdict": "SŁABO OBSŁUŻONA",
       "n": 0
     },
     {
       "id": "FD3",
       "name": "Wyrób sera domowego",
-      "score": 66,
+      "score": 38,
       "verdict": "SŁABO OBSŁUŻONA",
       "n": 2
     },
     {
       "id": "HB12",
       "name": "Menadżer receptur świec",
-      "score": 65,
+      "score": 38,
       "verdict": "SŁABO OBSŁUŻONA",
       "n": 3
     },
     {
-      "id": "ST2",
-      "name": "Operator dźwigu – log ocen/zmian (OSHA)",
-      "score": 64,
+      "id": "RG2",
+      "name": "EU Batteries: generator QR+danych (Reg 2023/1542)",
+      "score": 38,
       "verdict": "SŁABO OBSŁUŻONA",
-      "n": 3
+      "n": 2
     },
     {
-      "id": "ST9",
-      "name": "Krematorium zwierząt – chain of custody log",
-      "score": 63,
+      "id": "SP12",
+      "name": "RC modelarstwo – log lotów+LiPo",
+      "score": 38,
       "verdict": "SŁABO OBSŁUŻONA",
-      "n": 3
-    },
-    {
-      "id": "AS5",
-      "name": "Ewidencja kolekcji broni",
-      "score": 62,
-      "verdict": "SŁABO OBSŁUŻONA",
-      "n": 4
-    },
-    {
-      "id": "ST4",
-      "name": "Wiertacz studni – well completion log",
-      "score": 62,
-      "verdict": "SŁABO OBSŁUŻONA",
-      "n": 4
-    },
-    {
-      "id": "ST5",
-      "name": "Kominiarz – log inspekcji/czyszczeń (CSIA)",
-      "score": 62,
-      "verdict": "SŁABO OBSŁUŻONA",
-      "n": 4
+      "n": 2
     }
   ]
 }

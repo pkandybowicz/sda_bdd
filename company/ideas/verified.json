@@ -1046,7 +1046,7 @@
     "Game Master Journal — TTRPG, nie narratorzy"
    ],
    "n": 2,
-   "free_sub": true,
+   "free_sub": false,
    "model": "onetime",
    "durability": 8,
    "reach": 6,
@@ -7841,6 +7841,708 @@
    ],
    "n": 1,
    "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "CL1",
+   "name": "Kolekcja piór wiecznych",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#7)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "CL2",
+   "name": "Kolekcja keycapów/klawiatur mech. [do potw.]",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "(mutacja#7)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "CL3",
+   "name": "Kolekcja vintage syntezatorów [do potw.]",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "(mutacja#7)"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "CL4",
+   "name": "Kolekcja kości RPG",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#7)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "CL5",
+   "name": "Kolekcja pinsów emaliowanych",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "(mutacja#7)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "CL6",
+   "name": "Kolekcja zegarków vintage",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#7)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "CL7",
+   "name": "Kolekcja scyzoryków/noży",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#7)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "CL8",
+   "name": "Kolekcja perfum",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#7)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "CL9",
+   "name": "Kolekcja kamer analogowych",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#7)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "CL10",
+   "name": "Kolekcja gitar vintage",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#7)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "CL11",
+   "name": "Kolekcja długopisów",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "(mutacja#7)"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "CL12",
+   "name": "Kolekcja militariów",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "(mutacja#7)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AN1",
+   "name": "Hodowla gadów – log",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#7)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AN2",
+   "name": "Gołębie pocztowe – wyścigi/rodowód",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#7)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AN3",
+   "name": "Przepiórki/drób – lęgi/rodowód",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#7)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AN4",
+   "name": "Alpaki – runo/rodowód",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#7)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "AN5",
+   "name": "Koi – rodowód/woda",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#7)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "AN6",
+   "name": "Psy rasowe – mioty/pedigree",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#7)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AN7",
+   "name": "Króliki wystawowe – mioty",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#7)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AN8",
+   "name": "Fretki – hodowla/mioty",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "(mutacja#7)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "AN9",
+   "name": "Papugi – lęgi/inkubacja",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#7)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AN10",
+   "name": "Ślimaki Achatina – pary/jaja",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "(mutacja#7)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "AN11",
+   "name": "Krewetki słodkowodne – morfy [do potw.]",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Shrimp Tank (shrimptank.app — colony/breeding log)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "AN12",
+   "name": "Patyczaki – kolonia/jaja",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "(mutacja#7)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "HE1",
+   "name": "Dziennik napadów padaczki",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#7)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "HE2",
+   "name": "Log żywienia dojelitowego",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#7)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "HE3",
+   "name": "Dieta eliminacyjna FODMAP",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#7)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "HE4",
+   "name": "Trening mięśni dna miednicy (Squeezy)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#7)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "HE5",
+   "name": "Dziennik migreny + triggery",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#7)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "HE6",
+   "name": "Log fototerapii UV (łuszczyca)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#7)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "HE7",
+   "name": "Dziennik zasłaniania oka (amblyopia) [do potw.]",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "(mutacja#7)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "HE8",
+   "name": "Log ćwiczeń logopedycznych (adherencja)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#7)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "HE9",
+   "name": "Dziennik karmienia piersią",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#7)"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "HE10",
+   "name": "Log terapii oddechowej CF (mukowiscydoza)",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "(mutacja#7)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "HE11",
+   "name": "Log sensory diet / SI (terapia dziecka) [do potw.]",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "SensoryTreat",
+    "Sensory Processing Therapy app",
+    "BrainWorks"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "HE12",
+   "name": "Dziennik bólu przewlekłego + mapa ciała",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#7)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "SP1",
+   "name": "Disc golf – scoring/staty",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#7 sport)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "SP2",
+   "name": "Bulder – grade pyramid/log",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#7 sport)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "SP3",
+   "name": "Freediving – log/apnea tabele",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "(mutacja#7 sport)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "SP4",
+   "name": "Spearfishing – log połowów+GPS",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#7 sport)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "SP5",
+   "name": "Łucznictwo – scoring rund WA",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#7 sport)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "SP6",
+   "name": "Curling – staty gracza (nie scoreboard)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#7 sport)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "free",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "SP7",
+   "name": "Ujeżdżenie – scoring testów FEI",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#7 sport)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "SP8",
+   "name": "Strzelectwo IPSC/IDPA – log+amunicja",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#7 sport)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "SP9",
+   "name": "Wioślarstwo erg – log bez C2",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#7 sport)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "SP10",
+   "name": "Slackline – log tricków/PR",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#7 sport)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "free",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "SP11",
+   "name": "Paralotnia – log lotów+warunki",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#7 sport)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "SP12",
+   "name": "RC modelarstwo – log lotów+LiPo",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#7 sport)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "SP13",
+   "name": "Bilard – log drilli/postęp",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "(mutacja#7 sport)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "SP14",
+   "name": "Kendo/szermierka – log treningów/meczów",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "(mutacja#7 sport)"
+   ],
+   "n": 1,
+   "free_sub": false,
    "model": "onetime",
    "durability": 7,
    "reach": 2,
