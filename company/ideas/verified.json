@@ -61813,6 +61813,2316 @@
    "durability": 5,
    "reach": 3,
    "demand": 2
+  },
+  {
+   "id": "X3787_",
+   "name": "Training Matrix / Matryca szkoleń",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "AG5 (od €299/mies)",
+    "Skills Base ($2/user/mies)",
+    "SafetyCulture (sub)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X3789_",
+   "name": "Induction Register / Rejestr wdrożenia",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Trainual ($250/mies)",
+    "OnlineInduction.com (sub)",
+    "Operandio (sub)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3791_",
+   "name": "Competency Assessment / Ocena kompetencji",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "TalentGuard (sub)",
+    "Cognology ($5/user/mies)",
+    "SafetyCulture (sub)",
+    "CompetencyCore (sub)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3793_",
+   "name": "Annual Appraisal Register / Rejestr ocen rocznych",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Evalflow ($4/user/mies)",
+    "Zoho People ($2.50/user/mies)",
+    "Lattice (sub)",
+    "Leapsome (sub)"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3795_",
+   "name": "DBS / Background Check Tracker",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "uCheck (£49 jednorazowo)",
+    "EasyDBS (PAYG)",
+    "InVentry (sub)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3797_",
+   "name": "Right to Work / Prawo do pracy",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Rightcheck (PAYG)",
+    "Yoti (sub)",
+    "TrustID (sub)",
+    "Zinc (PAYG)"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3799_",
+   "name": "Driver Licence Check / Weryfikacja prawa jazdy",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "TDi Software (sub)",
+    "Prolius (sub)",
+    "FleetCheck (sub)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3801_",
+   "name": "RAMS / Method Statement Register",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "HandsHQ (sub)",
+    "Notify Technology (sub)",
+    "Velappity (sub)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3803_",
+   "name": "COSHH Assessment Register / Ocena chemikaliów",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "COSHH365 (£500/rok)",
+    "EcoOnline/Sypol (sub)",
+    "BrightSafe (sub)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3805_",
+   "name": "Manual Handling Training Register / Ręczne przenoszenie",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "Aptien (sub)",
+    "SafetyIQ (sub)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3807_",
+   "name": "First Aider Register / Rejestr pierwszej pomocy",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "iProtectU (sub)",
+    "FirstAidForms (sub)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3809_",
+   "name": "PPE Issue Register / Rejestr wydania PPE",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "SafetyCulture (sub)",
+    "Lumiform (sub)",
+    "Scannable (sub)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3811_",
+   "name": "Occupational Health / Badania lekarskie – terminy",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Immuware (sub)",
+    "Meddbase (sub)",
+    "Evotix (sub)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3813_",
+   "name": "H&S Cert Expiry Tracker / Szkolenia BHP – ważność",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Remindax (freemium)",
+    "Expiration Reminder (sub)",
+    "ExpiryEdge (sub)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 9,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X3815_",
+   "name": "Employee Cert & Licence Register / Uprawnienia pracowników",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Remindax (freemium)",
+    "Aptien (sub)",
+    "RemindCal (sub)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 9,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X3817_",
+   "name": "Timesheet / Ewidencja czasu pracy",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Jibble (free)",
+    "OpenTimeClock (free)",
+    "BuddyPunch (sub)",
+    "Clockify (free)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X3819_",
+   "name": "Holiday Leave Register / Urlopy – ewidencja",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "LeaveBoard (freemium)",
+    "Timetastic ($1/user/mies)",
+    "VacationTracker (free)",
+    "WhosOff (sub)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X3821_",
+   "name": "Disciplinary Log / Dyscyplinarne – log",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "TATSoftApps EmployeeViolationTracker ($950 jednorazowo)",
+    "Safework Suite (sub)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3823_",
+   "name": "Exit Interview Register / Exit interview",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "ExitPro (sub)",
+    "StaffTRAK (jednorazowy szablon)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X3825_",
+   "name": "Onboarding Checklist / Onboarding",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Connecteam ($29/mies/30 users)",
+    "Eddy (sub)",
+    "BambooHR (sub)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3827_",
+   "name": "Business Travel Register / Delegacje – rejestr",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Navan (free do 200 pracowników)",
+    "Ramp (free tier)",
+    "Expensify (sub)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3829_",
+   "name": "Mentor Program Tracker / Program mentorski",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [
+    "MentorcliQ (enterprise sub)",
+    "Qooper (enterprise sub)",
+    "Together (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3831_",
+   "name": "Stamp Duty Calculator (UK)",
+   "verdict": "skip",
+   "competitors": [
+    "Stamp Duty Calculator SDLT (Committed Code, free)",
+    "Stamp Duty UK (free)",
+    "Stamp Duty Calculator AU (free)"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3833_",
+   "name": "Mortgage Affordability Calculator",
+   "verdict": "skip",
+   "competitors": [
+    "Mortgage Pal (free, no IAP)",
+    "Karl's Mortgage Calculator (free)",
+    "Loanzify (free)"
+   ],
+   "n": 12,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X3835_",
+   "name": "Rental Yield Calculator",
+   "verdict": "caution",
+   "competitors": [
+    "BallparkDeal (freemium, 7-day trial)",
+    "RY Rental Property Calculator (free)",
+    "Rent Yield Calculator UK (free)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3837_",
+   "name": "BRRRR Calculator",
+   "verdict": "caution",
+   "competitors": [
+    "FlipperForce (paid SaaS)",
+    "DealCheck ($10-20/mo)",
+    "DealMachine (free web)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3839_",
+   "name": "Capital Gains Tax – Property",
+   "verdict": "caution",
+   "competitors": [
+    "Capital Gains Calculator iOS (free+paid Plus)",
+    "NerdWallet (free web)",
+    "SmartAsset (free web)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3841_",
+   "name": "Bridging Loan Calculator",
+   "verdict": "potential",
+   "competitors": [
+    "Bridging Loan Calculator iOS (free)",
+    "Bridging Loan iOS (free)",
+    "HOA web calculator (free)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3843_",
+   "name": "Ground Rent Calculator (Leasehold UK)",
+   "verdict": "potential",
+   "competitors": [
+    "No dedicated app found; web-only niche"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 7,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X3845_",
+   "name": "Service Charge Calculator (Leasehold)",
+   "verdict": "potential",
+   "competitors": [
+    "ukcalculator.com (free web)",
+    "lease-advice.org (free web)",
+    "No native app found"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 7,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X3847_",
+   "name": "EPC Rating Estimator (Homeowner)",
+   "verdict": "caution",
+   "competitors": [
+    "SMART EPC App (pro tool, not consumer)",
+    "RdSAP Go (assessor-only)",
+    "Heatzen web calculator (free)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3849_",
+   "name": "Council Tax Calculator (UK)",
+   "verdict": "skip",
+   "competitors": [
+    "HMRC Tax Calculator UK (free)",
+    "UK Tax Calculators Android (free)",
+    "Which? web calculator (free)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3851_",
+   "name": "Reverse Mortgage Calculator",
+   "verdict": "caution",
+   "competitors": [
+    "ARLO Reverse Loan Calculator (free iOS+Android)",
+    "reverse.mortgage web (free)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3853_",
+   "name": "Buy-to-Let Tax Calculator (landlord income tax)",
+   "verdict": "caution",
+   "competitors": [
+    "Landlord Studio ($12/mo)",
+    "Landlordy (freemium)",
+    "Stessa (freemium)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3855_",
+   "name": "Tenancy Deposit Calculator",
+   "verdict": "skip",
+   "competitors": [
+    "Prorate Calculator Pro (free+paid)",
+    "General landlord apps cover this"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3857_",
+   "name": "Refinance Break-Even Calculator",
+   "verdict": "skip",
+   "competitors": [
+    "Mortgage Pal (free, includes refi break-even)",
+    "Bankrate web (free)",
+    "Zillow refi calc (free)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3859_",
+   "name": "Cash-on-Cash Return Calculator",
+   "verdict": "skip",
+   "competitors": [
+    "BallparkDeal (freemium)",
+    "IRR Calculator iOS",
+    "DealCheck ($10-20/mo)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3861_",
+   "name": "DSCR Calculator (Investment Property)",
+   "verdict": "potential",
+   "competitors": [
+    "No dedicated native app found; web-only tools (free)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3863_",
+   "name": "Rental Break-Even Occupancy",
+   "verdict": "potential",
+   "competitors": [
+    "BallparkDeal (covers partially)",
+    "DealCheck (SaaS)",
+    "apartment.loans web (free)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3865_",
+   "name": "Property Depreciation Calculator",
+   "verdict": "caution",
+   "competitors": [
+    "Depreciation! iOS (free/paid)",
+    "Depreciation Calculator Calc iOS",
+    "Stessa (handles via platform)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3867_",
+   "name": "Cost per m2 / Maintenance Cost Calculator",
+   "verdict": "potential",
+   "competitors": [
+    "BuildersCalcsPro (construction focus)",
+    "OmniCalc web (free)",
+    "No property-maintenance specific app found"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3869_",
+   "name": "Solar PV Payback Calculator (Home)",
+   "verdict": "caution",
+   "competitors": [
+    "My Solar Panel iOS (free)",
+    "Solar APP PV Calculator iOS",
+    "EnergySage web (free)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3871_",
+   "name": "Lease vs Rent Decision Calculator",
+   "verdict": "skip",
+   "competitors": [
+    "DealCheck ($10-20/mo, includes this)",
+    "Real Estate Master IIIx (paid)",
+    "NerdWallet rent-vs-buy (free web)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3873_",
+   "name": "aromaterapia-mieszanka-per-klient",
+   "verdict": "niche_viable",
+   "competitors": [
+    "AromaDesk ($20 one-time, brak notatek klienta)",
+    "BlendPrecisely ($9/mo, brak CRM)",
+    "EnglishAromatherapist app (free, brak klienta)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3875_",
+   "name": "uzdrawianie-krysztalami-sesja",
+   "verdict": "weak",
+   "competitors": [
+    "wireandstones.com (PDF $5-12 Etsy, brak app)",
+    "Carepatron (free tier, generyczny)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 4,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X3877_",
+   "name": "terapia-dzwiekiem-gongi",
+   "verdict": "weak",
+   "competitors": [
+    "Carepatron (free, generyczny)",
+    "TherapyNotes ($69/mo, overkill)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 4,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X3879_",
+   "name": "hipnoterapeuta-sesja-protokol",
+   "verdict": "niche_viable",
+   "competitors": [
+    "Hypnotes ($22-45/mo, free trial, specjalistyczny)",
+    "PatientNotes AI (sub, ogolny)",
+    "SimplePractice ($79/mo)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3881_",
+   "name": "NLP-praktyk-protokol",
+   "verdict": "weak",
+   "competitors": [
+    "SimplePractice ($79/mo, generyczny)",
+    "TherapyNotes ($69/mo)",
+    "My Best Practice ($39/mo)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3883_",
+   "name": "kinezjologia-protokol",
+   "verdict": "niche_viable",
+   "competitors": [
+    "Noterro ($28/mo, fizjo/kines)",
+    "Hexfit (sub, trening+notatki)",
+    "Nookal (sub, allied health)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3885_",
+   "name": "metoda-Bowena-protokol",
+   "verdict": "weak",
+   "competitors": [
+    "TherapyNotes ($69/mo, generyczny)",
+    "My Best Practice ($39/mo)",
+    "Carepatron (free)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X3887_",
+   "name": "kwiaty-Bacha-mieszanka-per-klient",
+   "verdict": "niche_viable",
+   "competitors": [
+    "Hompath Bach Flower app (sub, tylko flores)",
+    "MindfulRemedies (konsultacje, brak software)",
+    "brak dedykowanego CRM"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3889_",
+   "name": "ajurweda-dosha-protokol",
+   "verdict": "niche_viable",
+   "competitors": [
+    "AyurAdmin (sub, kliniki)",
+    "Clinicea (sub, EMR)",
+    "Healthray (sub, EMR)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3891_",
+   "name": "homeopatia-remedium-per-klient",
+   "verdict": "strong",
+   "competitors": [
+    "RadarOpus (sub/one-time, brak darmowego)",
+    "Similia (free tier 5 repertoriow, sub premium)",
+    "Hompath Zomeo (sub, free trial)",
+    "Zanda (sub, generyczny)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3893_",
+   "name": "banki-cupping-protokol",
+   "verdict": "weak",
+   "competitors": [
+    "Carepatron (free, generyczny)",
+    "ClinikNote (sub, fizjo)",
+    "TherapyNotes ($69/mo)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3895_",
+   "name": "gua-sha-protokol",
+   "verdict": "weak",
+   "competitors": [
+    "Carepatron (free)",
+    "Zanda (sub)",
+    "TherapyNotes ($69/mo)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3897_",
+   "name": "swiecowanie-uszu",
+   "verdict": "skip",
+   "competitors": [
+    "brak dedykowanego software",
+    "Carepatron (free, generyczny)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 2,
+   "reach": 1,
+   "demand": 0
+  },
+  {
+   "id": "X3899_",
+   "name": "terapia-kolorami-chromopatia",
+   "verdict": "weak",
+   "competitors": [
+    "BioPulse (urzadzenie+software, hardware bundle)",
+    "Carepatron (free)",
+    "brak dedykowanego CRM"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 4,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X3901_",
+   "name": "magnetoterapia-protokol",
+   "verdict": "weak",
+   "competitors": [
+    "BTL Industries (hardware+db, nie app)",
+    "Carepatron (free)",
+    "brak dedykowanego CRM"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 4,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3903_",
+   "name": "terapia-czaszkowa-krzyżowa",
+   "verdict": "niche_viable",
+   "competitors": [
+    "TherapyNotes ($69/mo)",
+    "My Best Practice ($39/mo)",
+    "Carepatron (free, generyczny)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3905_",
+   "name": "shiatsu-punkty-per-klient",
+   "verdict": "niche_viable",
+   "competitors": [
+    "Acusimple (sub, akupunktura)",
+    "zHealth (sub, EHR)",
+    "Zanda (sub, generyczny)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3907_",
+   "name": "dogoterapia-sesja",
+   "verdict": "weak",
+   "competitors": [
+    "Pawfinity (sub, pet therapy)",
+    "TheraPlatform (sub, generyczny)",
+    "PawsAdmin (sub)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3909_",
+   "name": "terapia-tlenowa-protokol",
+   "verdict": "weak",
+   "competitors": [
+    "brak dedykowanego CRM",
+    "Carepatron (free)",
+    "generyczne EHR"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3911_",
+   "name": "joga-terapeutyczna-plan",
+   "verdict": "niche_viable",
+   "competitors": [
+    "TherapyNotes ($69/mo)",
+    "Blueprint (free EHR + AI pay-per-use)",
+    "AutoNotes ($19/mo)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3913_",
+   "name": "Cocktail Menu Pour Cost Calculator",
+   "verdict": "crowded – Backbar free tool dominates, multiple free web calculators exist; paid niche possible only with deep recipe DB + batching",
+   "competitors": [
+    "Backbar (free)",
+    "Menubly (free)",
+    "BevSpot (free)",
+    "Jeffrey Morgenthaler spreadsheet (free)",
+    "Pour Cost iOS app"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3915_",
+   "name": "Cafe Beverage COGS Calculator",
+   "verdict": "crowded – many free tools (ICONIK, Odeko, Bugle Call, TOP Creamery, Coffee Marketer) cover espresso COGS; standalone paid tool hard to justify",
+   "competitors": [
+    "Odeko calculator (free)",
+    "ICONIK COGS calculator (free)",
+    "Bugle Call Coffee COGS sheet (free)",
+    "TOP Creamery calculator (free)",
+    "CoffeeMarketer calculator (free)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3917_",
+   "name": "Bubble Tea / Boba Cost Calculator",
+   "verdict": "viable niche – PriceWise.cloud exists but thin; no dominant offline tool; boba shop owners underserved for full recipe+packaging+waste costing",
+   "competitors": [
+    "PriceWise.cloud (online, thin)",
+    "Mustea.com cost guide (article only)",
+    "BusinessDojo blog (no tool)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3919_",
+   "name": "Smoothie Bar Recipe Cost Calculator",
+   "verdict": "moderate competition – KitchenCost.app and Back of Napkin cover basics; gap for offline desktop tool with ingredient DB and portion waste",
+   "competitors": [
+    "KitchenCost.app",
+    "Back of Napkin juice/smoothie calculator (free)",
+    "Menubly recipe cost (free)",
+    "StockTake Online (free)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3921_",
+   "name": "Juice Bar Cold-Press Cost Calculator",
+   "verdict": "viable – Goodnature blog covers theory well; Juicing to Profit Teachable calculator exists but is a course upsell; gap for clean standalone offline tool with yield/waste math",
+   "competitors": [
+    "Juicing to Profit calculator (Teachable paywall)",
+    "Goodnature blog calc (web)",
+    "Back of Napkin (free)",
+    "PriceWise juice bar (online)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3923_",
+   "name": "Cold Brew Coffee Batch Cost Calculator",
+   "verdict": "thin niche – Toddy wholesale calculator covers the basics; Torque Coffee calculator exists; very small addressable market (coffee roasters/cafes); demand low outside specialty segment",
+   "competitors": [
+    "Toddy Cold Brewed Drink Cost Calculator (free)",
+    "Torque Coffee calculator (free)",
+    "Big Island Coffee Roasters cost-per-cup (free)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3925_",
+   "name": "Craft Syrup Recipe Cost & Pricing",
+   "verdict": "weak standalone – Jeffrey Morgenthaler Universal Syrup Calculator (free Google Sheet) fully covers it; no clear gap for paid tool; better as a module inside a broader cocktail costing app",
+   "competitors": [
+    "Jeffrey Morgenthaler Universal Syrup Calculator (free)",
+    "MySyrupArchive simple syrup calculator (free)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 4,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3927_",
+   "name": "Bitters & Aromatic Tincture Recipe Costing",
+   "verdict": "weak standalone – very niche; no dedicated calculator found; demand extremely low; best as a feature inside cocktail costing, not standalone product",
+   "competitors": [
+    "Backbar cocktail calculator (partial)",
+    "No dedicated tool found"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 4,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X3929_",
+   "name": "Homemade Liqueur Recipe & Cost Calculator",
+   "verdict": "weak – no dedicated tool found; Love Brewing UK cost guide covers it narratively; market too small for standalone; could bundle with fruit wine module",
+   "competitors": [
+    "Love Brewing cost guide (article)",
+    "General recipe cost calculators (Menubly, RecipeCostCalculator.net)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X3931_",
+   "name": "Fruit Wine Cost & Recipe Calculator",
+   "verdict": "moderate – AlcoFermBrew calculator exists (free, online); Brewer's Friend and CraftyWiners free tools; gap for offline tool with ingredient DB; hobbyist market stable",
+   "competitors": [
+    "AlcoFermBrew winemaking calculator (free)",
+    "Brewer's Friend wine calcs (free)",
+    "CraftyWiners tools (free)",
+    "WineBusiness.com calculators (free)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3933_",
+   "name": "Craft Lemonade Recipe Cost Calculator",
+   "verdict": "weak – OmniCalculator lemonade stand tool and multiple free stand calculators exist; market is mostly hobbyist/kids; no serious commercial gap",
+   "competitors": [
+    "OmniCalculator lemonade stand (free)",
+    "FineCalculators lemonade stand (free)",
+    "MiniWebTool lemonade stand (free)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 4,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X3935_",
+   "name": "Craft Soda / Artisan Soda Recipe Costing",
+   "verdict": "weak – no dedicated tool found; general recipe cost calculators cover it; market tiny; better as module in broader beverage costing app",
+   "competitors": [
+    "Menubly recipe cost (free)",
+    "RecipeCostCalculator.net (freemium)",
+    "CookKeepBook (free)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X3937_",
+   "name": "Isotonic / Electrolyte Drink Recipe Cost Calculator",
+   "verdict": "viable niche – Dyutam.com and OmniCalculator DIY sports drink tools exist but focus on athlete hydration math, not business costing; gap for micro-brand/cafe costing angle",
+   "competitors": [
+    "Dyutam homemade sports drink calculator (free)",
+    "OmniCalculator DIY sports drink (free)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3939_",
+   "name": "Specialty Coffee Pour Cost / Espresso Bar Costing",
+   "verdict": "crowded – Big Island cost-per-cup, Coffee Marketer calculator, Bugle Call COGS sheet, Odeko calculator all free; very saturated; only premium offline tool with full menu modeling might work",
+   "competitors": [
+    "Big Island Coffee Roasters cost-per-cup (free)",
+    "Coffee Marketer calculator (free)",
+    "Odeko drink calculator (free)",
+    "Kerry Food Service margin calculator (free)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3941_",
+   "name": "Matcha Menu Cost Calculator",
+   "verdict": "viable – no dedicated standalone tool found; Barista Underground price calculator partial; First Agri JP has analysis articles; growing matcha cafe trend; gap for offline tool covering grade comparison + markup",
+   "competitors": [
+    "Barista Underground price calculator (partial)",
+    "Bugle Call COGS sheet (generic)",
+    "No matcha-specific standalone tool found"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3943_",
+   "name": "Iced Tea / Cold Brew Tea Cost Calculator",
+   "verdict": "weak – Toddy calculator covers cold brew broadly; no dedicated tea costing tool found; ingredient cost so low (pennies per serving) that cost calculator has limited value to operators",
+   "competitors": [
+    "Toddy Cold Brewed Drink Cost Calculator (free, generic)",
+    "No dedicated iced tea cost tool found"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 4,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3945_",
+   "name": "Hot Chocolate Recipe Cost Calculator",
+   "verdict": "weak standalone – Embassy Chocolate recipe cost calculator exists; Bugle Call generic COGS sheet covers it; Etsy template available; seasonal demand; better as module than standalone",
+   "competitors": [
+    "Embassy Chocolate recipe cost calculator (free)",
+    "Etsy coffee shop cost calculator template ($)",
+    "Bugle Call COGS sheet (free)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 4,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3947_",
+   "name": "Mocktail / Zero-Proof Drink Cost Calculator",
+   "verdict": "viable niche – Backbar covers it partially; KitchenNmbrs.app has mocktail cost article+tool; growing NA beverage trend; gap for dedicated offline tool that handles fresh produce waste and premium NA spirit pricing",
+   "competitors": [
+    "Backbar cocktail calculator (partial NA support)",
+    "KitchenNmbrs.app mocktail cost tool (online)",
+    "Menubly drink pricing (generic)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3949_",
+   "name": "Wellness Shot / Health Shot Recipe Costing",
+   "verdict": "viable – no dedicated cost calculator found; Canoly and Smartblend UK have cost comparison articles only; juice bar operators need ingredient-level shot costing with yield math; small but growing segment",
+   "competitors": [
+    "No dedicated tool found",
+    "Generic recipe cost calculators (Menubly, ReciPal)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3951",
+   "name": "Water Kefir Soda Recipe Cost Calculator",
+   "verdict": "weak – no dedicated cost tool found; market is small hobbyist/fermentation community; grain reuse makes per-batch cost trivial; low willingness to pay for dedicated tool",
+   "competitors": [
+    "No dedicated tool found",
+    "Generic fermentation calculators (Brewer's Friend partial)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X3953",
+   "name": "Instalacja sieci LAN – zlecenie",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "ManageEngine OpManager (od $945)",
+    "PRTG (free do 100 sensorów)",
+    "Zabbix (open-source)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3955",
+   "name": "Kontrola dostępu / Access Control – raport instalacji",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Genetec Security Center ($10k+)",
+    "Kisi (sub)",
+    "GoAudits (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-off",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3957",
+   "name": "Okablowanie strukturalne – mapa portów",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "NetBox (open-source)",
+    "PatchCableMgr (free)",
+    "FNT Command ($50k+/rok)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3959",
+   "name": "Spaw światłowodu / Fiber Splice Log",
+   "verdict": "NISZA OTWARTA",
+   "competitors": [
+    "Splice.me (SaaS)",
+    "netTerrain OSP (custom pricing)",
+    "VIAVI FiberTrace (licencja)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-off",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3961",
+   "name": "Instalacja anteny SAT – protokół",
+   "verdict": "NISZA OTWARTA",
+   "competitors": [
+    "ManageMart (sub)",
+    "DishPointer (app $4.99)",
+    "brak dedykowanego narzędzia do raportów"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-off",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3963",
+   "name": "Smart Home – instalacja / protokół uruchomienia",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Biamp Workplace Tools (sub)",
+    "SafetyCulture (sub)",
+    "brak dedykowanego narzędzia"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-off",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3965",
+   "name": "Ładowarka EV – protokół instalacji",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "QuoteIQ (od $29.99/mies)",
+    "Kickserv (free 2 users)",
+    "BuildOps (enterprise)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3967",
+   "name": "Pompa ciepła – log uruchomienia / komisjonowania",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Payaca (sub)",
+    "Heatpunk (UK/MCS)",
+    "Correla (sub)",
+    "Carno (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3969",
+   "name": "Serwerownia – audyt i inwentarz",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "eAuditor (sub)",
+    "GoAudits (sub)",
+    "Lumiform (sub)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3971",
+   "name": "WiFi Survey / Heatmapa – raport instalatora",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "NetSpot PRO (sub)",
+    "TamoGraph ($399 one-off)",
+    "Acrylic WiFi Heatmaps (sub)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-off",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3973",
+   "name": "Instalacja domofonu – protokół",
+   "verdict": "NISZA OTWARTA",
+   "competitors": [
+    "SafetyCulture (ogólny)",
+    "brak dedykowanego narzędzia"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-off",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3975",
+   "name": "Instalacja interkomu wideo – zlecenie",
+   "verdict": "NISZA OTWARTA",
+   "competitors": [
+    "SafetyCulture (ogólny)",
+    "Swiftlane (sub)",
+    "brak dedykowanego narzędzia"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-off",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3977",
+   "name": "Instalacja szlabanu / boom barrier – protokół",
+   "verdict": "NISZA OTWARTA",
+   "competitors": [
+    "brak dedykowanego narzędzia",
+    "ogólne FSM (Jobber, Tradify)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-off",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3979",
+   "name": "Instalacja bramy automatycznej – protokół uruchomienia",
+   "verdict": "NISZA OTWARTA",
+   "competitors": [
+    "brak dedykowanego narzędzia",
+    "ogólne FSM (ServiceM8)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-off",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3981",
+   "name": "Monitoring serwerów – log konfiguracji",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Atera ($156/mies/tech)",
+    "Datadog ($15/host/mies)",
+    "Checkmk (sub)",
+    "Zabbix (free)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3983",
+   "name": "Patch panel – dokumentacja portów",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "PatchCableMgr (free)",
+    "PatchManager.com (sub)",
+    "Device42 (enterprise)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3985",
+   "name": "Rack – inwentarz i okablowanie",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "NetBox (open-source)",
+    "Device42 (enterprise)",
+    "Hudu (sub $99/mies)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3987",
+   "name": "Instalacja drukarki sieciowej – zlecenie",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "PaperCut MF (sub)",
+    "PrinterLogic (sub)",
+    "ServiceNow (enterprise)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-off",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X3989",
+   "name": "Radiolinia point-to-point – log instalacji",
+   "verdict": "NISZA OTWARTA",
+   "competitors": [
+    "Aviat Design (free)",
+    "Pathloss (PL5B, licencja)",
+    "MLinkPlanner (sub)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-off",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3991",
+   "name": "Instalacja nagłośnienia PA – protokół uruchomienia",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Biamp Workplace Tools (sub)",
+    "SafetyCulture (template free)",
+    "NTi Audio (hardware+SW)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-off",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3993",
+   "name": "Morskie-spots/marks log (sea fishing marks)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Fishing Points (freemium)",
+    "FishTrack (sub)",
+    "Smart Fishing Spots (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time $5-7",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3995",
+   "name": "Karpiowe-sesja (carp session log)",
+   "verdict": "NISZA OK",
+   "competitors": [
+    "CarpersLog (free)",
+    "Pro Carp (free)",
+    "finScribe (free)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time $5-7",
+   "durability": 9,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3997",
+   "name": "Feeder/method-sesja (feeder session log)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "LogIT (sub)",
+    "Anglers Log (one-time $5)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time $4-6",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3999",
+   "name": "Spinning-połowy log (lure/spin catch log)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Fishbrain (freemium $9.99/mies)",
+    "GotOne (free)",
+    "Tackle Tracker (free)",
+    "MyCatch (free)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time $4-6",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X4001",
+   "name": "Lodowe/ice fishing log",
+   "verdict": "NISZA OK",
+   "competitors": [
+    "Winter Fishing Track & Log (free)",
+    "ANGLR (sub)",
+    "Anglers Log (one-time $5)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time $5-7",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X4003",
+   "name": "Match fishing-waga (match weight log)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Weighfish (free)",
+    "iAngler Tournament (free)",
+    "Hot Fishin (free)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time $5-8",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X4005",
+   "name": "Sumowe (wels catfish log)",
+   "verdict": "NISZA OK",
+   "competitors": [
+    "GotOne (free)",
+    "Catch Fish Log (free)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time $6-9",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X4007",
+   "name": "Drapieżnik-spinning (predator/lure log)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Fishbrain (freemium)",
+    "Fishency (free)",
+    "ANGLR (sub)",
+    "GotOne (free)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time $4-6",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X4009",
+   "name": "Jeziorowe-mapa łowisk (lake fishing map log)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "onX Fish (sub)",
+    "Navionics (sub)",
+    "Fishing Points (freemium)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time $5-8",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X4011",
+   "name": "Rzeczne-poziom wody (river conditions log)",
+   "verdict": "NISZA OK",
+   "competitors": [
+    "RiverApp (freemium)",
+    "Fish Swami (free)",
+    "LogIT (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time $5-7",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X4013",
+   "name": "Dorsz/bełtwa morski (cod/pollock boat log)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Fishing Points (freemium)",
+    "FishTrack (sub)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time $6-9",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X4015",
+   "name": "Troling jeziorowy (lake trolling log)",
+   "verdict": "NISZA OK",
+   "competitors": [
+    "Navionics (sub)",
+    "Fishing Points (freemium)",
+    "ANGLR (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time $5-8",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X4017",
+   "name": "Zanęta-receptura/koszt (groundbait recipe & cost)",
+   "verdict": "BRAK KONKURENCJI",
+   "competitors": [
+    "brak dedykowanej aplikacji; ogólne notatniki"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time $4-7",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X4019",
+   "name": "Przypony-wiązanie wzory (rig & knot pattern log)",
+   "verdict": "OBSŁUŻONA",
+   "competitors": [
+    "Fishing Knots & Rigs (free)",
+    "Animated Fishing Knots (free)",
+    "Pro Knot (one-time $2)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time $4-6",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X4021",
+   "name": "Spławikowe-sesja (float fishing session log)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Anglers Log (one-time $5)",
+    "LogIT (sub)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time $4-6",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X4023",
+   "name": "Gruntowe (ledger/bottom fishing log)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "LogIT (sub)",
+    "Anglers Log (one-time $5)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time $4-6",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X4025",
+   "name": "Big game morskie (offshore big game log)",
+   "verdict": "NISZA OK",
+   "competitors": [
+    "BigBlue (sub)",
+    "RipCharts (sub)",
+    "Pro Angler (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time $7-9",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X4027",
+   "name": "Sandacz-noc (zander night fishing log)",
+   "verdict": "BRAK KONKURENCJI",
+   "competitors": [
+    "brak dedykowanej; Fishbrain (freemium ogólny)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time $5-8",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X4029",
+   "name": "Pstrąg górski (mountain trout stream log)",
+   "verdict": "OBSŁUŻONA",
+   "competitors": [
+    "TroutRoutes (sub $29/rok)",
+    "Troutspotting (free)",
+    "Fish Swami (free)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time $5-7",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X4031",
+   "name": "Lin/karaś (tench/crucian carp log)",
+   "verdict": "BRAK KONKURENCJI",
+   "competitors": [
+    "brak dedykowanej; CarpersLog (ogólne karpie)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time $4-6",
+   "durability": 9,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X4033",
+   "name": "Okoń-vertical (perch vertical jigging log)",
+   "verdict": "BRAK KONKURENCJI",
+   "competitors": [
+    "brak dedykowanej; GotOne (ogólny)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time $5-7",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X4035",
+   "name": "online-course-module-planner",
+   "verdict": "niche-viable",
+   "competitors": [
+    "Teachable",
+    "Thinkific",
+    "Notion"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X4037",
+   "name": "ebook-structure-chapters-planner",
+   "verdict": "niche-viable",
+   "competitors": [
+    "Plottr ($99 one-time)",
+    "Scrivener ($49)",
+    "Story Planner ($5.99 iOS)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X4039",
+   "name": "webinar-rundown-planner",
+   "verdict": "marginal",
+   "competitors": [
+    "Notion (free)",
+    "Banzai",
+    "GoTo Webinar"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X4041",
+   "name": "livestream-scenario-script",
+   "verdict": "marginal",
+   "competitors": [
+    "KIT Scenarist (free)",
+    "Filmustage",
+    "StudioBinder"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X4043",
+   "name": "content-calendar-social-planner",
+   "verdict": "crowded-skip",
+   "competitors": [
+    "Buffer (free/$5mo)",
+    "Metricool (free/$18mo)",
+    "Publer ($12mo)",
+    "SocialBee ($29mo)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X4045",
+   "name": "video-edit-project-versions-tracker",
+   "verdict": "niche-viable",
+   "competitors": [
+    "Ziflow",
+    "ftrack ($30/user/mo)",
+    "Wrike",
+    "Plutio ($19mo)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X4047",
+   "name": "music-release-checklist",
+   "verdict": "marginal",
+   "competitors": [
+    "ReleaseLoop (free/lifetime)",
+    "Groover (free)",
+    "Symphonic (free)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X4049",
+   "name": "album-credits-manager",
+   "verdict": "niche-viable",
+   "competitors": [
+    "Muso.AI ($7.50/seat/mo)",
+    "Reprtoir",
+    "DDEX tools"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X4051",
+   "name": "concert-tour-routing-planner",
+   "verdict": "marginal",
+   "competitors": [
+    "Master Tour (Eventric)",
+    "Tourmanagement.com",
+    "AmptUp"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X4053",
+   "name": "merch-design-order-tracker",
+   "verdict": "marginal",
+   "competitors": [
+    "Fourthwall (free/commission)",
+    "Printful (free+$24.99mo)",
+    "Shopify Trackr ($10mo)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X4055",
+   "name": "ad-script-planner",
+   "verdict": "niche-viable",
+   "competitors": [
+    "StudioBinder ($29mo)",
+    "Atlabs ($19mo)",
+    "FrameForge ($12.99mo)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X4057",
+   "name": "storyboard-ad-planner",
+   "verdict": "crowded",
+   "competitors": [
+    "Boords ($24.99mo)",
+    "Storyboarder.ai",
+    "MockFlow ($7mo)",
+    "Storyboard That ($9.99)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X4059",
+   "name": "influencer-collab-deliverables-tracker",
+   "verdict": "crowded-skip",
+   "competitors": [
+    "Modash",
+    "Traackr",
+    "Sprout Social ($199mo)",
+    "Ampfluence"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 5,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X4061",
+   "name": "ugc-creator-brief-generator",
+   "verdict": "niche-viable",
+   "competitors": [
+    "Billo ($99/video)",
+    "Trend.io",
+    "Collabstr"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X4063",
+   "name": "product-photography-shot-list",
+   "verdict": "niche-viable",
+   "competitors": [
+    "Milanote (free)",
+    "Planit! ($)",
+    "DoMyShoot"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X4065",
+   "name": "animation-shot-list-planner",
+   "verdict": "niche-viable",
+   "competitors": [
+    "Shot Lister (iOS)",
+    "StudioBinder (free tier)",
+    "Boords",
+    "Studiovity"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X4067",
+   "name": "voiceover-scripts-project",
+   "verdict": "marginal",
+   "competitors": [
+    "VoiceOverMaker (free tier)",
+    "Descript ($16mo)",
+    "ElevenLabs (free tier)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X4069",
+   "name": "transcription-project-tracker",
+   "verdict": "marginal",
+   "competitors": [
+    "Otter.ai (free/$10mo)",
+    "Rev (free tier)",
+    "Descript (free/$16mo)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X4071",
+   "name": "subtitling-captioning-project",
+   "verdict": "marginal",
+   "competitors": [
+    "Rev ($3.25/min)",
+    "Closed Caption Creator",
+    "SyncWords (pay-per-use)",
+    "Trint"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "per-use",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X4073",
+   "name": "thumbnail-variants-planner",
+   "verdict": "niche-viable",
+   "competitors": [
+    "ThumbnailTest (~$10/test)",
+    "TubeBuddy ($9mo)",
+    "Thumblytics ($19mo)",
+    "YouTube native (free)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X4075",
+   "name": "multi-platform-publish-schedule",
+   "verdict": "crowded-skip",
+   "competitors": [
+    "Buffer (free/$5mo per channel)",
+    "Planable ($33mo)",
+    "Metricool (free/$18mo)",
+    "Hootsuite ($199mo)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 5,
+   "demand": 3
   }
  ]
 }
