@@ -33427,6 +33427,2679 @@
    "reach": 2,
    "demand": 2,
    "verdict_raw": "gap-exists"
+  },
+  {
+   "id": "X2049___",
+   "name": "NFPA 25 Sprinkler Inspection Log",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "InspectPoint",
+    "InspectNTrack",
+    "Array",
+    "Uptick",
+    "fireNspec",
+    "SafetyCulture"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 9,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2051__",
+   "name": "NFPA 72 Fire Alarm Inspection Log",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "InspectPoint",
+    "InspectNTrack",
+    "Array",
+    "Uptick",
+    "OnSite LSI",
+    "BRYCER",
+    "SafetyCulture"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 9,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2053__",
+   "name": "Emergency Lighting Inspection Log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "InspectNTrack",
+    "Essential",
+    "fireNspec"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2055__",
+   "name": "NFPA 80 Fire Door Inspection Log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Krinkle Fire Door",
+    "InspectPoint",
+    "GoAudits",
+    "PocketSurvey"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2057__",
+   "name": "NFPA 96 Kitchen Hood / Ansul Inspection Log",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "InspectNTrack"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2059__",
+   "name": "Exit Sign Inspection Log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "InspectNTrack",
+    "Essential",
+    "SafetyCulture"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2061__",
+   "name": "Smoke Damper Inspection Log",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "InspectPoint",
+    "OnSite LSI"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2063__",
+   "name": "Standpipe / Internal Hydrant Inspection Log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "InspectPoint",
+    "Array",
+    "Fire Hydrant Manager"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2065_",
+   "name": "Fire Hose Inspection Log (NFPA 1962)",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "InspectNTrack"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2067",
+   "name": "Mass Notification / Voice Evacuation (DSO) Inspection Log",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "Bolster Systems"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2069",
+   "name": "Smoke Control System Inspection Log",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "Bolster Systems"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2071",
+   "name": "Fire Detector / Sensor Inspection Log",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "InspectPoint",
+    "InspectNTrack",
+    "SafetyCulture",
+    "GoAudits",
+    "Array"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2073",
+   "name": "Fire Blanket Inspection Log",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [
+    "SafetyCulture (template)"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "free",
+   "durability": 3,
+   "reach": 1,
+   "demand": 0
+  },
+  {
+   "id": "X2075",
+   "name": "Gas Suppression System Inspection Log (FM200/CO2/Halon)",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "InspectPoint (Special Hazards)",
+    "OnSite LSI (Clean Agent)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2077",
+   "name": "Fire Pump Inspection Log (NFPA 20)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "InspectNTrack",
+    "ServiceTrade",
+    "InspectPoint"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2079",
+   "name": "Fire Water Storage Tank Inspection Log",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "InspectNTrack"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2081",
+   "name": "Pump Room Inspection Log",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "InspectNTrack"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2083",
+   "name": "Grease Separator / Grease Trap Inspection Log",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "Tank Track",
+    "HiperWeb FOG"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2085",
+   "name": "Fire Gate Inspection Log",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "InspectPoint"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2087",
+   "name": "Smoke Curtain Inspection Log",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [],
+   "n": 0,
+   "free_sub": false,
+   "model": "free",
+   "durability": 4,
+   "reach": 1,
+   "demand": 0
+  },
+  {
+   "id": "X2089",
+   "name": "Rescue Equipment Inspection Log (SCBA)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "PSTrax",
+    "InspectNTrack"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2091",
+   "name": "AED Inspection Log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "AED Log",
+    "IMEC Technologies",
+    "SafetyCulture"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2093",
+   "name": "First Aid Kit Inspection Log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "First Aid Kit Register",
+    "CHEQSITE",
+    "SafetyCulture"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2095",
+   "name": "Fire Hose Cabinet / Reel Inspection Log",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "InspectNTrack"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2097",
+   "name": "Crane/Hoist Inspection Log (OSHA 1926.1412)",
+   "verdict": "viable",
+   "competitors": [
+    "InspectAll",
+    "HVI App",
+    "Hi-Vis (Crosby)",
+    "MP LIFT Inspector (Tractel)",
+    "Sitemate",
+    "crewOS"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 9,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2099",
+   "name": "Forklift Daily Inspection Log (OSHA 1910.178)",
+   "verdict": "viable",
+   "competitors": [
+    "HVI App",
+    "Driveroo",
+    "SafetyCulture",
+    "GoAudits",
+    "Airpinpoint",
+    "LocaXion"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 9,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2101",
+   "name": "Scaffolding Inspection Log (OSHA 1926.451)",
+   "verdict": "viable",
+   "competitors": [
+    "SafetyCulture",
+    "GoAudits",
+    "Lumiform",
+    "Field1st",
+    "Ecesis"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2103",
+   "name": "Harness/Fall Protection Inspection Log (OSHA 1926.502)",
+   "verdict": "viable",
+   "competitors": [
+    "SafetyCulture",
+    "GoAudits",
+    "Ecesis",
+    "PopProbe"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2105",
+   "name": "Confined Space Entry Permit Log (OSHA 1910.146)",
+   "verdict": "viable",
+   "competitors": [
+    "SafetyCulture",
+    "MaintainX",
+    "GoAudits"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2107",
+   "name": "Ladder Inspection Log (OSHA 1926.1053)",
+   "verdict": "marginal",
+   "competitors": [
+    "NIOSH Ladder Safety (free)",
+    "SafetyCulture",
+    "GoAudits"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 5,
+   "demand": 1
+  },
+  {
+   "id": "X2109",
+   "name": "Lifting Slings/LOLER Inspection Log (LOLER 98/EU)",
+   "verdict": "viable",
+   "competitors": [
+    "Lolerflow (£250/mo)",
+    "Boxcore",
+    "CertFlow",
+    "OnSiteForm",
+    "CoreRFID CheckedOK"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 9,
+   "reach": 2,
+   "demand": 3
+  },
+  {
+   "id": "X2111",
+   "name": "PUWER Machinery Inspection Log (PUWER 98/EU)",
+   "verdict": "viable",
+   "competitors": [
+    "Boxcore",
+    "CertFlow",
+    "SafetyCulture",
+    "Sitemate"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2113",
+   "name": "Pressure Vessel/Boiler Inspection Log (ASME VIII/API 510)",
+   "verdict": "viable",
+   "competitors": [
+    "API510app.com",
+    "OxMaint",
+    "Codeware",
+    "JotForm (freemium)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 10,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2115",
+   "name": "Scissor Lift/MEWP Inspection Log (IPAF/ANSI A92)",
+   "verdict": "viable",
+   "competitors": [
+    "Ecesis",
+    "SafetyCulture",
+    "HVI App",
+    "GoAudits"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2117",
+   "name": "Overhead Crane Inspection Log (OSHA 1910.179)",
+   "verdict": "viable",
+   "competitors": [
+    "InspectAll",
+    "Hi-Vis (Crosby)",
+    "HVI App",
+    "Sitemate",
+    "crewOS",
+    "OxMaint"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 9,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2119",
+   "name": "Chain Hoist Inspection Log (ASME B30.16)",
+   "verdict": "viable",
+   "competitors": [
+    "SafetyCulture",
+    "HVI App",
+    "InspectAll"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2121",
+   "name": "PPE/ŚOI Register & Inspection Log (EU 89/656/EEC)",
+   "verdict": "viable",
+   "competitors": [
+    "Scannable",
+    "SafetyCulture",
+    "Knowella",
+    "Aptien",
+    "Fluix"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2123",
+   "name": "Pallet Racking Inspection Log (SEMA)",
+   "verdict": "viable",
+   "competitors": [
+    "Econform",
+    "Damotech App",
+    "Lumiform",
+    "Apex Rack Repair (free)",
+    "Nene"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2125",
+   "name": "Industrial Gates/Doors Inspection Log (BS EN 13241)",
+   "verdict": "niche",
+   "competitors": [
+    "SafetyCulture",
+    "GoAudits"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2127",
+   "name": "Press Machine Inspection Log (OSHA 1910.217/PUWER)",
+   "verdict": "marginal",
+   "competitors": [
+    "MaintainX",
+    "SafetyCulture"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2129",
+   "name": "Lathe/Machine Tool Inspection Log (PUWER/OSHA)",
+   "verdict": "marginal",
+   "competitors": [
+    "MaintainX",
+    "SafetyCulture"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2131",
+   "name": "Air Compressor Inspection Log (OSHA 1910.169/PSSR)",
+   "verdict": "marginal",
+   "competitors": [
+    "MaintainX",
+    "HVI App",
+    "SafetyCulture"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2133",
+   "name": "Generator Inspection Log (OSHA/NFPA 110)",
+   "verdict": "marginal",
+   "competitors": [
+    "HVI App",
+    "1st Reporting",
+    "SafetyCulture"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2135",
+   "name": "Welder/Welding Equipment Inspection Log (AWS/OSHA)",
+   "verdict": "marginal",
+   "competitors": [
+    "SafetyCulture",
+    "GoAudits"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2137",
+   "name": "PAT Testing Log (UK IET CoP)",
+   "verdict": "viable",
+   "competitors": [
+    "KEWPAT (free)",
+    "iCertifi PAT",
+    "PATMobile (Seaward)",
+    "Easy Safety Cert",
+    "SimplyPats"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2139",
+   "name": "Hook/Shackle Rigging Inspection Log (ASME B30.10)",
+   "verdict": "marginal",
+   "competitors": [
+    "SafetyCulture",
+    "GoAudits"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2141",
+   "name": "Wire Rope Inspection Log (ASME B30.9/LOLER)",
+   "verdict": "viable",
+   "competitors": [
+    "SafetyCulture",
+    "InspectAll",
+    "CertFlow"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2143",
+   "name": "Hand Pallet Truck Inspection Log (OSHA/EN 1757)",
+   "verdict": "marginal",
+   "competitors": [
+    "SafetyCulture",
+    "GoAudits",
+    "eAuditor",
+    "GoCanvas"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X2145",
+   "name": "Asbestos Survey Log",
+   "verdict": "viable – sub $75-80/user/mo market dominated by PocketSurvey/Clarinspect; offline+norm preload differentiates; strong compliance pull in UK/AU",
+   "competitors": [
+    "PocketSurvey",
+    "Clarinspect",
+    "Alpha Tracker",
+    "FlowMobile"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2147",
+   "name": "Lead Paint Inspection Log",
+   "verdict": "viable niche – few dedicated apps (Inspect2Go, iSpecX); demand driven by US HUD rules and pre-1978 housing; one-time report tool fits small inspectors",
+   "competitors": [
+    "Inspect2Go",
+    "iSpecX",
+    "Verdant Web Tech"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2149",
+   "name": "Mold Inspection Log",
+   "verdict": "viable – MIRC $299/yr, AI Mold Inspector $49-89/mo show active market; offline norm preload (IICRC S520) adds value for indie inspectors",
+   "competitors": [
+    "AI Mold Inspector",
+    "MIRC",
+    "MoldSentry",
+    "iSpecX"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2151",
+   "name": "Radon Inspection Log",
+   "verdict": "niche but solid – AARST app at $10/inspection shows per-report appetite; OneRADON covers integrations; low inspector count limits TAM",
+   "competitors": [
+    "AARST Mitigation App",
+    "OneRADON",
+    "SunRADON"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2153",
+   "name": "Legionella / Water Hygiene Log",
+   "verdict": "strong – PocketSurvey £125/user/mo, L8MS, LegionellaDossier all sub; HSG274/ACoP L8 compliance mandated in UK; offline schematic + norm preload = clear gap",
+   "competitors": [
+    "PocketSurvey Legionella",
+    "L8MS",
+    "LegionellaDossier",
+    "ZetaSafe"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 9,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2155",
+   "name": "Indoor Air Quality Inspection Log",
+   "verdict": "moderate – professional IAQ reporting niche not well served by consumer apps; Aeroqual/Airthings target hardware bundles; standalone log app for consultants underserved",
+   "competitors": [
+    "SafetyCulture",
+    "Aeroqual Cloud",
+    "Airthings for Business",
+    "Kaiterra"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2157",
+   "name": "Oil Tank Inspection Log",
+   "verdict": "marginal – market skews to large industrial O&G asset management (TankPro, Metegrity) with high price; domestic oil tank inspection niche thin",
+   "competitors": [
+    "TankPro (Metegrity)",
+    "Floodlight",
+    "InspectionXpert"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2159",
+   "name": "Home Energy Audit Log",
+   "verdict": "viable – Snugg Pro (pay-per-job), EDS Auditor $24/mo, SnapCount show active market; $15-25 one-time app for indie auditors with offline checklist competes on price",
+   "competitors": [
+    "Snugg Pro",
+    "EDS Auditor",
+    "SnapCount",
+    "SafetyCulture"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2161",
+   "name": "EICR Electrical Inspection Log",
+   "verdict": "strong UK niche – iCertifi, TradeCert, ProCerts all active; BS 7671 / 18th Edition norm preload offline is key differentiator; high inspector volume in UK",
+   "competitors": [
+    "iCertifi",
+    "TradeCert",
+    "ProCerts",
+    "Gas Engineer Software"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 9,
+   "reach": 2,
+   "demand": 3
+  },
+  {
+   "id": "X2163",
+   "name": "Gas Safety / CP12 Log",
+   "verdict": "strong UK niche – Gas Certificate App from £7.50/mo, Gas App UK free+upsell; 80k+ engineers market; offline CP12 form preload is clear value; strong regulatory pull",
+   "competitors": [
+    "Gas Certificate App",
+    "iCertifi Gas Cert",
+    "Gas App UK",
+    "Tradify"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 9,
+   "reach": 2,
+   "demand": 3
+  },
+  {
+   "id": "X2165",
+   "name": "Chimney & Flue Inspection Log",
+   "verdict": "viable – ChimSpect, Array, HomeGauge $29-49/mo cover market; solo chimney sweep niche wants cheap offline report tool; $15-25 one-time attractive vs $29+/mo",
+   "competitors": [
+    "ChimSpect",
+    "Array",
+    "HomeGauge",
+    "QuoteIQ"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2167",
+   "name": "Ventilation Inspection Log",
+   "verdict": "moderate – no dedicated ventilation-only app; HVAC software ($40-300/user/mo) overkill for single-purpose vent inspector; gap exists for lightweight offline log",
+   "competitors": [
+    "SafetyCulture",
+    "GoAudits",
+    "BuildOps HVAC"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2169",
+   "name": "Drinking Water Sampling Log",
+   "verdict": "moderate – SampleServe $5-12/sample suits labs, not field inspectors; indie water quality consultants underserved by affordable offline sampling log",
+   "competitors": [
+    "SampleServe",
+    "WaterTrax",
+    "Klir",
+    "Ecesis"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2171",
+   "name": "Sewage / Effluent Sampling Log",
+   "verdict": "marginal – market dominated by CCTV pipeline software (WinCan $6k+, Explorer $500/mo); wastewater sampling log niche narrower; mostly public utility buyers",
+   "competitors": [
+    "WinCan",
+    "Explorer by Keykl",
+    "Inspect2Go",
+    "POSM"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2173",
+   "name": "Workplace Noise Measurement Log",
+   "verdict": "moderate – NIOSH SLM app free (iOS only); NoiseTools free with hardware; paid standalone noise log with offline report generation underserved for OHs",
+   "competitors": [
+    "NIOSH SLM App",
+    "NoiseTools (Cirrus)",
+    "NoiseAtWork (DGMR)",
+    "ideagen"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2175",
+   "name": "Vibration Exposure (HAV/WBV) Log",
+   "verdict": "niche – no dominant cheap app; HSE HAVS regulations drive demand in UK construction/manufacturing; offline exposure calculator + daily log is clear gap",
+   "competitors": [
+    "SafetyCulture",
+    "enDAQ",
+    "Larson Davis IH tools"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2177",
+   "name": "Workplace Lighting (Lux) Inspection Log",
+   "verdict": "thin niche – Lighting Assessor app exists; lux measurement requires hardware; standalone offline report log for OHs/safety reps is small but real gap",
+   "competitors": [
+    "Lighting Assessor",
+    "SnapCount",
+    "ecoInsight",
+    "SafetyCulture"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2179",
+   "name": "Building Thermography Log",
+   "verdict": "moderate – FLIR Ignite cloud and Thermal Studio dominate; indie thermographers need lightweight offline report tool separate from camera manufacturer software",
+   "competitors": [
+    "FLIR Thermal Studio",
+    "Fluke SmartView",
+    "InfraTec IRBIS",
+    "Inspekt AI"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2181",
+   "name": "Blower Door / Airtightness Test Log",
+   "verdict": "niche – no dedicated app found; test software bundled with hardware (Minneapolis Blower Door, RetroTec TECTITE); standalone offline log for PHPP/SAP results is real gap",
+   "competitors": [
+    "TECTITE (RetroTec)",
+    "DG-1000 software",
+    "ATTMA tracker"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2183",
+   "name": "Damp & Moisture Survey Log",
+   "verdict": "viable UK niche – PocketSurvey Damp £125/user/mo; Awaab's Law (2023) creates surge in social housing demand; $15-25 one-time for indie surveyors vs £125/mo is strong value gap",
+   "competitors": [
+    "PocketSurvey Damp",
+    "Tramex Meters App",
+    "SafetyCulture"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 2,
+   "demand": 3
+  },
+  {
+   "id": "X2185",
+   "name": "Arborist Tree Survey Log",
+   "verdict": "moderate – ArboStar $150/mo, Jobber $49/mo serve tree service businesses; solo arborist needing offline BS 5837 survey log underserved by cheap one-time tool",
+   "competitors": [
+    "ArboStar",
+    "ArborNote",
+    "Jobber",
+    "SingleOps"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2187",
+   "name": "Roof Inspection Log",
+   "verdict": "competitive – Roofr, HomeGauge, SafetyCulture all active; market crowded but mostly subscription; $15-25 one-time for indie roofers/surveyors vs $13/report (Roofr) is viable",
+   "competitors": [
+    "Roofr",
+    "HomeGauge",
+    "Xactimate",
+    "SafetyCulture"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2189",
+   "name": "Facade / Cladding Inspection Log",
+   "verdict": "moderate – Hammer Missions, T2D2, Scopito target drone+AI market (premium); traditional facade surveyor doing visual inspection has no cheap offline log tool",
+   "competitors": [
+    "Hammer Missions",
+    "T2D2 AI",
+    "Scopito",
+    "SafetyCulture"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2191",
+   "name": "Thermal Bridge Calculation Log",
+   "verdict": "niche technical – flixo, HTflux, THERM (free) serve engineers; field inspector needing offline psi-value log + norm reference (ISO 10211) is narrow but specialist gap",
+   "competitors": [
+    "flixo",
+    "HTflux",
+    "AutoPSI",
+    "THERM (free)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2193",
+   "name": "voltage-drop-calc",
+   "verdict": "skip",
+   "competitors": [
+    "Southwire Voltage Drop (free app+web)",
+    "SparkShift (freemium)",
+    "ElectricalCalc.com (free web)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X2195",
+   "name": "conduit-fill-calc",
+   "verdict": "skip",
+   "competitors": [
+    "Southwire Conduit Fill (free app)",
+    "Belden (free web)",
+    "TSS USA (free web)",
+    "NassauNationalCable (free web)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X2197",
+   "name": "wire-sizing-load-calc",
+   "verdict": "skip",
+   "competitors": [
+    "Southwire SIMpull 600V (free)",
+    "SparkShift (freemium)",
+    "ElectricalCalc.com (free)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X2199",
+   "name": "breaker-sizing-calc",
+   "verdict": "skip",
+   "competitors": [
+    "EleCalculator (free)",
+    "Allumiax (free)",
+    "kWCalc (free)",
+    "CircuitBreakerCalc Android (free)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X2201",
+   "name": "grounding-earthing-calc",
+   "verdict": "watch",
+   "competitors": [
+    "SparkShift (freemium)",
+    "EleCalculator (free web)",
+    "Firgelli (free web)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2203",
+   "name": "solar-pv-string-sizing",
+   "verdict": "skip",
+   "competitors": [
+    "EasySolar ($50/mo sub)",
+    "ECalPro (free web)",
+    "SolarMathLab (free)",
+    "PVsyst (sub)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2205",
+   "name": "water-pipe-sizing",
+   "verdict": "skip",
+   "competitors": [
+    "PlumberCalc.com (free)",
+    "h2x (free)",
+    "AioFlo (one-time $139)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2207",
+   "name": "pump-sizing-head-loss",
+   "verdict": "watch",
+   "competitors": [
+    "PlumberCalc.com (free)",
+    "Pipe Flow Wizard (one-time ~$99)",
+    "PipeFlowCalculations.com (sub $40/yr)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2209",
+   "name": "duct-sizing-hvac",
+   "verdict": "watch",
+   "competitors": [
+    "CoolCalc (~$100/mo sub)",
+    "Wrightsoft ($400/mo sub)",
+    "h2x free calculators"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2211",
+   "name": "manual-j-heat-load",
+   "verdict": "skip",
+   "competitors": [
+    "Wrightsoft ($400/mo)",
+    "CoolCalc ($100/mo + per-report)",
+    "Elite RHVAC ($233/mo)",
+    "ServiceTitan (free basic)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2213",
+   "name": "manual-d-duct-design",
+   "verdict": "skip",
+   "competitors": [
+    "Wrightsoft Right-D ($400/mo bundle)",
+    "Elite AccuDuct ($233/mo)",
+    "CoolCalc (sub)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2215",
+   "name": "gas-pipe-sizing",
+   "verdict": "go",
+   "competitors": [
+    "Carmel Software HVAC Gas Sizer ($12–$25 one-time iOS)",
+    "h2x (free web only)",
+    "Gas Pipe Sizing Calc Android (free)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2217",
+   "name": "refrigerant-subcooling-superheat",
+   "verdict": "watch",
+   "competitors": [
+    "HVAC Buddy (~$9.99 one-time)",
+    "Carmel HVAC RefCharge (one-time ~$10)",
+    "LennoxPros (free web)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2219",
+   "name": "radiator-sizing",
+   "verdict": "watch",
+   "competitors": [
+    "h2x (free web)",
+    "BestHeating BTU calc (free)",
+    "BTU Calc Lite Android (freemium)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2221",
+   "name": "hrv-erv-sizing",
+   "verdict": "go",
+   "competitors": [
+    "HVAC Toolkit ERV Calc (free web, basic)",
+    "EZ Virtual Tools (free web)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2223",
+   "name": "radiant-floor-heating-loops",
+   "verdict": "watch",
+   "competitors": [
+    "Uponor LoopCAD (sub, manufacturer-tied)",
+    "AirLucent PEX calc (free)",
+    "SupplyHouse PEX calc (free)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2225",
+   "name": "pressure-flow-calc",
+   "verdict": "skip",
+   "competitors": [
+    "PlumberCalc.com (free)",
+    "h2x (free)",
+    "PipeFlowCalculations.com (sub $40/yr)",
+    "Omni Calculator (free)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2227",
+   "name": "valve-sizing-cv",
+   "verdict": "watch",
+   "competitors": [
+    "Swagelok Cv Calc (free)",
+    "Gemini Valve (free)",
+    "PipeFlowCalcuations.com (sub $40/yr)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2229",
+   "name": "drain-sewer-slope",
+   "verdict": "skip",
+   "competitors": [
+    "PlumberCalc.com (free)",
+    "BuildersCalculator (free)",
+    "HousecallPro (free)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2231",
+   "name": "expansion-tank-sizing",
+   "verdict": "go",
+   "competitors": [
+    "Wessels Co. free app (but single-brand)",
+    "Plumbing Formulator Pro (one-time, includes 200+ calcs)",
+    "PlumberCalc.com (free web)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2233",
+   "name": "compressed-air-sizing",
+   "verdict": "go",
+   "competitors": [
+    "Atlas Copco InstallAIR (free, brand-locked)",
+    "Kaeser Toolbox (free, brand-locked)",
+    "Fluid-Aire CFM Calc (free web)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2235",
+   "name": "dc-cable-sizing-solar",
+   "verdict": "go",
+   "competitors": [
+    "ELEK Software (free article/calc)",
+    "SolarMathLab (free)",
+    "Solar-Wind.co.uk (free web)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2237",
+   "name": "lighting-lux-calc",
+   "verdict": "watch",
+   "competitors": [
+    "ReluxDesktop (free desktop)",
+    "Signify LuxiFlux (free web)",
+    "EleCalculator (free)",
+    "Lighting Calculations Android (free)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2239",
+   "name": "ac-cooling-load-calc",
+   "verdict": "skip",
+   "competitors": [
+    "ServiceTitan (free)",
+    "ACCalculator.com (free)",
+    "HVAC Calc Load Lite iOS (one-time)",
+    "AC Calc Pro iOS (one-time)",
+    "FieldCamp (free)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X2241",
+   "name": "beton-objetosc",
+   "verdict": "skip",
+   "competitors": [
+    "Concrete Calculator All In One",
+    "Concrete Calculator Plus",
+    "Concrete Calc Pro (sub $40/yr)",
+    "Binder",
+    "Sakrete App"
+   ],
+   "n": 15,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2243",
+   "name": "zbrojenie-rebar",
+   "verdict": "consider",
+   "competitors": [
+    "Rebar Calc (Appco LLC)",
+    "Rebar Estimator (Google Play)",
+    "Constropedia Steel BBS Calc",
+    "OmniCalculator (web free)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2245",
+   "name": "zaprawa-cegly-bloczki",
+   "verdict": "consider",
+   "competitors": [
+    "Block Calculator Plus",
+    "Brick Masonry Calculator",
+    "Brick and Plaster Calculator",
+    "Block Calculator (Android)"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2247",
+   "name": "plyta-GK-drywall",
+   "verdict": "consider",
+   "competitors": [
+    "VibeCalc (free incl drywall)",
+    "SpikeVM interior calcs (web)",
+    "FreeWWW HiCalc (web)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2249",
+   "name": "farba-wydajnosc-coverage",
+   "verdict": "skip",
+   "competitors": [
+    "Paint Calc (freemium)",
+    "PaintPlanner (freemium)",
+    "Paint Calculator Estimator",
+    "Paint Advisor Calculator",
+    "Paint Estimator Pro"
+   ],
+   "n": 10,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2251",
+   "name": "podloga-panele-m2",
+   "verdict": "consider",
+   "competitors": [
+    "Flooring & Tile Calculator",
+    "Flooring Calculator Pro",
+    "MeasureSquare (web+app)",
+    "Flooring Job Bid Calculator"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2253",
+   "name": "plytki-fuga",
+   "verdict": "consider",
+   "competitors": [
+    "Tile Calculator Offline (Android)",
+    "Tile & Grout Calculator (iOS)",
+    "TilePro (web free)",
+    "OmniCalculator grout (web)"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2255",
+   "name": "dachowka-squares",
+   "verdict": "consider",
+   "competitors": [
+    "Roofing Calculator Pro",
+    "Construction Roofing Calc",
+    "VibeCalc (shingles)",
+    "iRoofing (sub)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2257",
+   "name": "izolacja-welna",
+   "verdict": "consider",
+   "competitors": [
+    "Insulation R-Value Calculator",
+    "Thermal Insulation Calculator (freemium)",
+    "Knauf U-value (web brand)",
+    "ROCKWOOL U-value (web brand)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2259",
+   "name": "krokwie-rafter",
+   "verdict": "build",
+   "competitors": [
+    "RedX Roof Rafter Calculator (freemium)",
+    "Rafter Estimator (Android)",
+    "Roofing Framing Calculator (freemium)",
+    "VibeCalc (free basic)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "freemium",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2261",
+   "name": "schody-obliczenia",
+   "verdict": "build",
+   "competitors": [
+    "RedX Stairs 3D (freemium)",
+    "StairCalc",
+    "Stairs-X Lite (Android)",
+    "Classic Stair Calculator (Android)"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "freemium",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2263",
+   "name": "niwelacja-grading",
+   "verdict": "build",
+   "competitors": [
+    "Soil and Earthwork Calculator (iOS)",
+    "Moasure (sub)",
+    "Kubla Cubed (desktop sub)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 9,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2265",
+   "name": "kostka-brukowa-pavers",
+   "verdict": "consider",
+   "competitors": [
+    "Patio Calculator Plus (iOS free)",
+    "Patio Calculator (Android free)",
+    "Inch Calculator paver (web)",
+    "Nicolock (web brand)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2267",
+   "name": "ogrodzenie-slupki",
+   "verdict": "consider",
+   "competitors": [
+    "Fence Calculator Pro (iOS)",
+    "FencePro Wood Picket Calc",
+    "Fence Calculator Materials (offline free)",
+    "Fence Calculator Estimator"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2269",
+   "name": "tynk-zuzycie",
+   "verdict": "build",
+   "competitors": [
+    "Builder-Calc.com (web only)",
+    "CalcTrue (web only)",
+    "no dedicated app found"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "free_web",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2271",
+   "name": "wylewka-screed",
+   "verdict": "build",
+   "competitors": [
+    "Screedfast calculator (web)",
+    "Kalk.pro (web)",
+    "ScreedCalculator.org.uk (web)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "free_web",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2273",
+   "name": "ocieplenie-grubosc",
+   "verdict": "consider",
+   "competitors": [
+    "Knauf U-value (web brand)",
+    "Celotex U-value (web)",
+    "IKO U-value (web)",
+    "Thermal Insulation Calculator (freemium iOS)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2275",
+   "name": "papa-membrana",
+   "verdict": "build",
+   "competitors": [
+    "SOPREMA U-value (web brand)",
+    "no dedicated standalone app found"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "free_web",
+   "durability": 9,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2277",
+   "name": "rynny-drainage",
+   "verdict": "consider",
+   "competitors": [
+    "SMACNA Gutter Sizing (web)",
+    "LocalProBook (sub)",
+    "ToolBlocks gutter (web free)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2279",
+   "name": "parkiet",
+   "verdict": "build",
+   "competitors": [
+    "Par-ky Pattern Calculator (web, herringbone)",
+    "Flooring Calculator Pro (generic)",
+    "no dedicated parquet app found"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "free_web",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2281",
+   "name": "tapeta",
+   "verdict": "consider",
+   "competitors": [
+    "WallFit Wallpaper Calculator (iOS)",
+    "Wallpaper Calculator (Android free)",
+    "Lowe's Wallpaper Calc (web)",
+    "OmniCalculator (web)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2283",
+   "name": "klej-zaprawa-zuzycie",
+   "verdict": "build",
+   "competitors": [
+    "Sika tile grout adhesive (web brand)",
+    "Mapei tile mortars calc (web brand)",
+    "Tile & Grout Calculator (iOS, partial)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "free_web",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2285",
+   "name": "piasek-zwir-tona",
+   "verdict": "consider",
+   "competitors": [
+    "Gravel Calculator Plus (iOS free)",
+    "Gravel Calculator (Android free)",
+    "Landscaping Calculator Plus",
+    "LandScaping Material Estimator"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2287",
+   "name": "mulcz-kora-ogrod",
+   "verdict": "consider",
+   "competitors": [
+    "Mulch Calculator Estimator (iOS free)",
+    "Mulch Calculator Landscape (iOS)",
+    "Landscaping Calculator Plus",
+    "LandScaping Material Estimator (Android)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2289",
+   "name": "microblading_PMU_brow_map",
+   "verdict": "strong",
+   "competitors": [
+    "PMU Studio ($29/mo or $249/yr)",
+    "pmuforms.com (sub)",
+    "Beauty Boss Hub (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2291",
+   "name": "PMU_lips_formula",
+   "verdict": "viable",
+   "competitors": [
+    "PMU Studio ($29/mo)",
+    "pmuforms.com (sub)",
+    "GlossGenius (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2293",
+   "name": "nail_tech_client_design_card",
+   "verdict": "marginal",
+   "competitors": [
+    "Fresha (free tier has notes)",
+    "GlossGenius (sub)",
+    "Etsy Canva templates ($3-10 one-off)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2295",
+   "name": "esthetician_facial_treatment_card",
+   "verdict": "viable",
+   "competitors": [
+    "Fresha (client notes free tier)",
+    "SpaSphere ($48/mo)",
+    "Etsy digital forms ($5-15)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2297",
+   "name": "henna_brows_formula_card",
+   "verdict": "marginal",
+   "competitors": [
+    "hennabrows.net record cards (pack of 25)",
+    "Fresha (free notes)",
+    "paper forms"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2299",
+   "name": "spray_tan_settings_formula",
+   "verdict": "marginal",
+   "competitors": [
+    "Fresha (free notes)",
+    "Vagaro (sub)",
+    "GlossGenius (sub)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2301",
+   "name": "wax_depilation_body_map",
+   "verdict": "marginal",
+   "competitors": [
+    "Fresha (free notes)",
+    "GoCanvas (sub)",
+    "Mindbody (sub)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2303",
+   "name": "makeup_artist_face_chart",
+   "verdict": "viable",
+   "competitors": [
+    "Prêt-à-Makeup (iOS paid)",
+    "Greene Street Beauty app (free/paid)",
+    "GlossGenius (sub)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2305",
+   "name": "barber_client_pattern_clipper_card",
+   "verdict": "viable",
+   "competitors": [
+    "theCut (free/sub hybrid)",
+    "Barberly (sub)",
+    "Vagaro (sub)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2307",
+   "name": "color_analysis_silhouette_card",
+   "verdict": "viable",
+   "competitors": [
+    "Dressika app (paid)",
+    "Your Color Guru ($169+ one-off report)",
+    "color-analysis.app (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2309",
+   "name": "bridal_makeup_artist_lookbook",
+   "verdict": "strong",
+   "competitors": [
+    "Bridal Beauty Pro App (paid)",
+    "Total Beauty Planner (paid)",
+    "Goldie (sub)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2311",
+   "name": "podologist_foot_care_card",
+   "verdict": "marginal",
+   "competitors": [
+    "TheClinicApp (sub)",
+    "WriteUpp (sub)",
+    "PatientNotes (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2313",
+   "name": "cosmetologist_skin_protocol_card",
+   "verdict": "viable",
+   "competitors": [
+    "ASCP SkinPro (member-only free)",
+    "Skinforyou ($174/mo sub)",
+    "Etsy forms ($5-15)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2315",
+   "name": "trichologist_scalp_analysis_card",
+   "verdict": "marginal",
+   "competitors": [
+    "TrichoSciencePro (sub)",
+    "Medesk (sub)",
+    "iHairium (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2317",
+   "name": "brow_lamination_formula_timing",
+   "verdict": "viable",
+   "competitors": [
+    "paper protocol sheets",
+    "Fresha notes (free)",
+    "Elleebana PDF guides (free)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2319",
+   "name": "lash_lift_processing_times_card",
+   "verdict": "viable",
+   "competitors": [
+    "Lash Lift Society PDF guides (free)",
+    "Elleebana processing times PDF (free)",
+    "SetTime (free tier)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2321",
+   "name": "mesotherapy_injection_map",
+   "verdict": "strong",
+   "competitors": [
+    "generic EMR (sub, overkill)",
+    "paper maps",
+    "no dedicated micro-tool found"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2323",
+   "name": "microneedling_zones_protocol",
+   "verdict": "strong",
+   "competitors": [
+    "Portrait (sub)",
+    "generic medspa EMR (sub)",
+    "no dedicated micro-tool found"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2325",
+   "name": "chemical_peel_protocol_per_skin",
+   "verdict": "strong",
+   "competitors": [
+    "Portrait (sub)",
+    "ASCP SkinPro (member-only)",
+    "Etsy aftercare cards ($5-15)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2327",
+   "name": "laser_hair_removal_phototype_params",
+   "verdict": "strong",
+   "competitors": [
+    "Beauty Therma digital forms bundle (one-off ~$15)",
+    "generic medspa EMR (sub)",
+    "no dedicated micro-tool found"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2329",
+   "name": "piercing_map_client_card",
+   "verdict": "marginal",
+   "competitors": [
+    "Piercing Release Forms app (PAYG bundles + sub)",
+    "Fresha (free notes)",
+    "GlossGenius (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2331",
+   "name": "lash_extensions_map",
+   "verdict": "skip-dup",
+   "competitors": [],
+   "n": 0,
+   "free_sub": false,
+   "model": "skip",
+   "durability": 0,
+   "reach": 0,
+   "demand": 0
+  },
+  {
+   "id": "X2333",
+   "name": "massage_pressure_points",
+   "verdict": "skip-dup",
+   "competitors": [],
+   "n": 0,
+   "free_sub": false,
+   "model": "skip",
+   "durability": 0,
+   "reach": 0,
+   "demand": 0
+  },
+  {
+   "id": "X2335",
+   "name": "tattoo_spec",
+   "verdict": "skip-dup",
+   "competitors": [],
+   "n": 0,
+   "free_sub": false,
+   "model": "skip",
+   "durability": 0,
+   "reach": 0,
+   "demand": 0
+  },
+  {
+   "id": "X2337",
+   "name": "Screen Printing Cost Calculator",
+   "verdict": "viable – no dedicated offline one-time app; Printavo/InkSoft are agency subs; Etsy spreadsheets and ConvertCalculator ($250+/mo) leave gap for $9.99 one-time mobile app for hobbyist screen printers",
+   "competitors": [
+    "Printavo",
+    "InkSoft",
+    "ConvertCalculator",
+    "ScreenPrintDirect free web calc"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2339",
+   "name": "Sublimation Printing Cost Calculator",
+   "verdict": "viable niche – free web tools (SilhouetteU, QuickSPI) dominate but no polished offline app; Craft Calculators spreadsheet ~$10 one-time shows willingness to pay; large beginner community on TikTok/YouTube",
+   "competitors": [
+    "SilhouetteU free calc",
+    "CraftCalculators spreadsheet",
+    "SubligeniusPrint web tool",
+    "QuickSPI free"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2341",
+   "name": "Vinyl / Cricut Cut File Pricing Calculator",
+   "verdict": "viable – massive Cricut hobbyist market; InsideOutlined spreadsheet and Etsy templates show demand; no dedicated mobile app; Craftybase ($24/mo) is overkill for vinyl-only sellers",
+   "competitors": [
+    "InsideOutlined spreadsheet",
+    "CuttingForBusiness web calc",
+    "Craftybase $24/mo",
+    "Etsy template sellers"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X2343",
+   "name": "Bath Bomb Recipe + Cost Calculator",
+   "verdict": "viable – UseCalcPro free web calc exists but no offline app combining full recipe sizing + COGS; BrambleBerry and SoapQueen content shows high DIY demand; bespoke enough that $8-12 one-time app converts",
+   "competitors": [
+    "UseCalcPro free web",
+    "SoapQueen blog guides",
+    "Airtable DIY setups",
+    "iLoveBathBombs Tableau"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2345",
+   "name": "Lip Balm Recipe + Cost Calculator",
+   "verdict": "moderate – MakingSkincare.com free calc covers ingredient cost; Paper+Spark spreadsheet ($one-time) is closest competitor; market smaller than soap/candle; bundling with broader cosmetics app more viable",
+   "competitors": [
+    "MakingSkincare.com free",
+    "Paper+Spark spreadsheet",
+    "Makesy free calc",
+    "Alippo formulation calculator"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2347",
+   "name": "Natural Cosmetics Formulation + Cost Calculator",
+   "verdict": "viable – Formulator Online (sub), KhalidaNaturals digital tool (one-time) prove market; MakingSkincare.com free calc is partial; indie beauty boom drives demand; offline formulation + COGS in one app is differentiator",
+   "competitors": [
+    "Formulator Online sub",
+    "KhalidaNaturals one-time tool",
+    "MakingSkincare.com free",
+    "Good Formulations app"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2349",
+   "name": "Cream / Lotion Recipe Cost Calculator",
+   "verdict": "moderate – overlaps natural cosmetics niche; MakingSkincare free, Lotioncrafter free, Paper+Spark $one-time spreadsheet cover basics; standalone cream-only app is too narrow; best as feature in broader skincare app",
+   "competitors": [
+    "MakingSkincare.com free",
+    "Lotioncrafter free calc",
+    "Paper+Spark spreadsheet",
+    "Famalth free calc"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2351",
+   "name": "Custom Cake Decoration Pricing Calculator",
+   "verdict": "strong viable – CakeCost app (iOS/Android, freemium), CakeUlator (£2.99 one-time), Bake Diary (sub) confirm active paid market; My Cake Calculator (sub) shows demand; gap for offline $8-10 one-time with recipe + decoration time costing",
+   "competitors": [
+    "CakeCost freemium app",
+    "CakeUlator £2.99",
+    "Bake Diary sub",
+    "BakeCalc free web"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2353",
+   "name": "Bean-to-Bar Chocolate Cost Calculator",
+   "verdict": "niche viable – Cacao Craft platform exists (likely sub) but no simple one-time mobile COGS app; TheChocolateLife community notes lack of startup cost tools; small passionate maker community; $10-15 one-time could convert",
+   "competitors": [
+    "Cacao Craft platform",
+    "generic Recipe Cost Calculator (Play Store)",
+    "TheChocolateLife spreadsheet DIY"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2355",
+   "name": "Home Distilling / Moonshine Cost Calculator",
+   "verdict": "tricky – ABV/yield calculators abundant (HowToMoonshine, Philbilly, AHDA all free); no dedicated COGS+pricing app; legal grey area limits App Store distribution; niche but loyal community; risk of store rejection",
+   "competitors": [
+    "HowToMoonshine free calc",
+    "Alco Calculator free app",
+    "Home Moonshine free app",
+    "American Home Distillers free calc"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2357",
+   "name": "Artisan Pasta Cost Calculator",
+   "verdict": "weak – no dedicated app found; niche too small for standalone tool; general recipe cost apps (RecipeCosting app on Play Store) cover use case; better as feature in broader artisan food app",
+   "competitors": [
+    "Generic Recipe Cost Calculator apps",
+    "Spreadsheet DIY",
+    "no dedicated competitor found"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2359",
+   "name": "Artisan Ice Cream / Gelato Cost Calculator",
+   "verdict": "viable niche – IceCreamCalc.com free (Windows/web), Gelato Maestro Pro iOS app, inteliGelato AI sub show active market; gap for simple offline $8-10 mobile COGS + recipe scaling app for home-batch sellers",
+   "competitors": [
+    "IceCreamCalc free web",
+    "Gelato Maestro Pro iOS",
+    "inteliGelato AI sub",
+    "Ice Solution app"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2361",
+   "name": "Home Brewery Beer Batch Cost Calculator",
+   "verdict": "crowded – Brewfather (free+$4/mo premium), Brewer's Friend (free web), BeerSmith (paid desktop/mobile) dominate; highly active community; cost tracking in Brewfather is solid; very hard to differentiate a new one-time app",
+   "competitors": [
+    "Brewfather freemium",
+    "Brewer's Friend free",
+    "BeerSmith paid",
+    "Brew Cloud free"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 5,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2363",
+   "name": "Kombucha Brewing Cost Calculator",
+   "verdict": "weak – only generic fermentation calculators and Fermenters Club free web tool found; Bucha30 is enterprise; market too small for standalone paid app; could be bundled in fermentation/homebrewing app",
+   "competitors": [
+    "Fermenters Club free web",
+    "Calculator Cloud free web",
+    "Bucha30 enterprise",
+    "generic homebrewing apps"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2365",
+   "name": "Depilatory Wax Production Cost Calculator",
+   "verdict": "niche viable – no dedicated app found; WAXWAX offers a free salon pricing web tool (not COGS for wax makers); gap for wax formula + COGS app targeting estheticians making their own wax products; small but precise audience",
+   "competitors": [
+    "WAXWAX free salon pricing tool",
+    "ItalWax blog pricing guide",
+    "Starpil pricing guide",
+    "no dedicated app found"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2367",
+   "name": "Perfume / Fragrance Formula Cost Calculator",
+   "verdict": "viable – Formulair (iOS/Mac, free+paid), BC Fragrance app (free+pro), SillagePro (free), PerfumersWorld desktop software show active market; Formulair is strong but limited; gap for $9.99 offline app combining IFRA limits + COGS + batch scaling",
+   "competitors": [
+    "Formulair iOS free+paid",
+    "BC Fragrance app free+pro",
+    "SillagePro free web",
+    "PerfumersWorld paid desktop"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2369",
+   "name": "Resin / Epoxy Jewelry Cost Calculator",
+   "verdict": "viable – BohriAli Resin & Jesmonite Calculator (iOS one-time) is closest competitor; ResincCalulators.com and CraftCalc.com free web tools exist; large resin art community; $8 one-time mobile app for COGS + mold fill calc is defensible",
+   "competitors": [
+    "BohriAli iOS one-time app",
+    "ResincCalculators.com free",
+    "CraftCalc.com free",
+    "Resiners free web calc"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2371",
+   "name": "Macrame Pricing Calculator",
+   "verdict": "moderate – no macrame-specific app; Craft Calculators 127+ spreadsheet bundle (one-time) covers macrame; generic Craft Pricing Calculator apps (iOS/Android) exist; dedicated macrame COGS app (yarn by meter + knot time) is differentiated but small market",
+   "competitors": [
+    "Craft Calculators spreadsheet bundle",
+    "Craft Pricing Calculator iOS app",
+    "CraftsTrack free web",
+    "Craftybase $24/mo"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2373",
+   "name": "Custom Rubber Stamp / Stamp-Making Cost Calculator",
+   "verdict": "weak – no dedicated pricing app for stamp makers found; general craft pricing calculators cover use case; market is very small (most makers use Etsy calculators); not viable as standalone product",
+   "competitors": [
+    "Generic craft pricing apps",
+    "Etsy fee calculators",
+    "no dedicated competitor found"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 4,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X2375",
+   "name": "Laser Engraving / Laser Cut Pricing Calculator",
+   "verdict": "viable – LaserEngravingBusiness.com free web calc, VectorDad free calc, Kim&Garrett free tool exist but no offline one-time mobile app; growing Glowforge/xTool hobbyist community; $9.99 app with machine cost amortization + material COGS is differentiated",
+   "competitors": [
+    "LaserEngravingBusiness.com free web",
+    "VectorDad free calc",
+    "Calculator Academy free",
+    "Kim&Garrett free tool"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
   }
  ]
 }
