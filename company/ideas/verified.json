@@ -64123,6 +64123,342 @@
    "durability": 6,
    "reach": 5,
    "demand": 3
+  },
+  {
+   "id": "X3932",
+   "name": "Kalendarz wizyt offline",
+   "verdict": "TRUDNY RYNEK",
+   "competitors": [
+    "Setmore (free+$5/user/mies)",
+    "Square Appointments (free)",
+    "Calendly (free tier)",
+    "Noder (App Store)"
+   ],
+   "n": 12,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X3934",
+   "name": "Lista klientów / mini-CRM offline",
+   "verdict": "SŁABO OBSŁUŻONA (offline)",
+   "competitors": [
+    "OfflineCRM (free)",
+    "HubSpot CRM (free)",
+    "Client Records Android (free)",
+    "eWay-CRM ($18/user/mies)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3936",
+   "name": "Karta lojalnościowa / stamp offline",
+   "verdict": "TRUDNY RYNEK",
+   "competitors": [
+    "Stamp Me (freemium)",
+    "Loopy Loyalty (sub)",
+    "WinStamp (6mies free)",
+    "VeeCard (trial)"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3938",
+   "name": "Vouchery / bony – rejestr offline",
+   "verdict": "NISZA DO ZBADANIA",
+   "competitors": [
+    "Gift Up! (free+komisja)",
+    "VaocherApp (free app)",
+    "Square Gift Cards (komisja)",
+    "Cardivo (bez sub)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "commission/free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3940",
+   "name": "Lista oczekujących / waitlist offline",
+   "verdict": "NISZA DO ZBADANIA",
+   "competitors": [
+    "QueuePad (free basic offline)",
+    "Waitlist.me ($27.99/mies)",
+    "Waitlist App (free PWA)",
+    "NextMe (sub)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3942",
+   "name": "Terminarz rezerwacji offline",
+   "verdict": "TRUDNY RYNEK",
+   "competitors": [
+    "Square Appointments (free)",
+    "Setmore (free)",
+    "Calendly (free)",
+    "Acuity (sub)"
+   ],
+   "n": 10,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X3944",
+   "name": "Follow-up ofert / tracker wycen",
+   "verdict": "UMIARKOWANIE OBSŁUŻONA",
+   "competitors": [
+    "Bitrix24 CRM (free)",
+    "Zoho CRM (free 3 users)",
+    "HubSpot (free)",
+    "QuoteIQ ($29.99/mies)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3946",
+   "name": "Lista dostawców offline",
+   "verdict": "NISZA SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Zoho Creator (free)",
+    "Excel/Google Sheets",
+    "Square Vendor Mgmt (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time/free",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3948",
+   "name": "Cennik / katalog produktów offline",
+   "verdict": "NISZA DO ZBADANIA",
+   "competitors": [
+    "MyBusinessCatalog (one-time)",
+    "Onsight (sub)",
+    "CatalogBar (sub)",
+    "Ketengo"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3950",
+   "name": "Spis z natury / stock count offline",
+   "verdict": "TRUDNY RYNEK",
+   "competitors": [
+    "Sortly (od $9/mies)",
+    "inFlow ($110/mies)",
+    "Stock & Inventory Android (free)",
+    "Zoho Inventory (free tier)"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3952",
+   "name": "Godziny otwarcia / special hours",
+   "verdict": "SŁABY POPYT",
+   "competitors": [
+    "Google Business Profile (free)",
+    "brak dedykowanych offline-only app"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "brak dedyk.",
+   "durability": 3,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3954",
+   "name": "Grafik pracowników offline",
+   "verdict": "TRUDNY RYNEK",
+   "competitors": [
+    "Homebase (free 1 lok.)",
+    "Connecteam (free do 10 os.)",
+    "Sling (free)",
+    "ZoomShift (sub)"
+   ],
+   "n": 10,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3956",
+   "name": "Zamiana zmian / shift swap",
+   "verdict": "TRUDNY RYNEK",
+   "competitors": [
+    "Shyft (free)",
+    "Coast App (free)",
+    "Homebase (free tier)",
+    "Deputy ($5/user/mies)"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3958",
+   "name": "Urlopy zespołu / leave tracker",
+   "verdict": "TRUDNY RYNEK",
+   "competitors": [
+    "Day Off (free do 10 os.)",
+    "Vacation Tracker (free 1 typ)",
+    "Jibble (free PTO)",
+    "BambooHR (sub)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3960",
+   "name": "Timesheet offline",
+   "verdict": "TRUDNY RYNEK",
+   "competitors": [
+    "Clockify (free)",
+    "Harvest (freemium)",
+    "WorkingHours (one-time per platform)",
+    "Homebase (free)"
+   ],
+   "n": 9,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3962",
+   "name": "Zwroty / rejestr zwrotów offline",
+   "verdict": "NISZA SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Loop Returns (Shopify sub)",
+    "ReturnGO (sub)",
+    "AfterShip (sub)",
+    "brak offline-only"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub (ecom)",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3964",
+   "name": "Reklamacje / complaint log offline",
+   "verdict": "NISZA SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Apportunix Complaint Reg. (app)",
+    "Zoho Desk (sub)",
+    "Bitrix24 (free cloud)",
+    "brak offline-only"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub/free-cloud",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3966",
+   "name": "Karta klienta / historia serwisu",
+   "verdict": "NISZA DO ZBADANIA",
+   "competitors": [
+    "Client Records Android (free)",
+    "Siyami Apps CRM (free)",
+    "RetailEdge POS (sub)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3968",
+   "name": "Kolejka zamówień offline",
+   "verdict": "UMIARKOWANIE OBSŁUŻONA",
+   "competitors": [
+    "QueuePad (free basic)",
+    "ScanQueue (free do 10/dzień)",
+    "CafeQueue (sub)",
+    "QueueBee (sub)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3970",
+   "name": "No-show rejestr",
+   "verdict": "NISZA SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Square Appointments (no-show protection, sub)",
+    "Acuity (sub)",
+    "Setmore (offline desktop view)",
+    "brak standalone offline"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "brak dedyk.",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
   }
  ]
 }
