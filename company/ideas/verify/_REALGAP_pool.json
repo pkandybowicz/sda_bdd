@@ -1,0 +1,1262 @@
+[
+ {
+  "niche": "Anchor point / fall arrest re-test certificate (EN795 / BS7883)",
+  "cluster": "compliance_cert",
+  "gap": "Zero dedicated solo-inspector app for UK anchor-point / eyebolt re-test certificates (BS7883 / EN795). Large companies use internal CRMs not sold publicly. SafetyCulture is generic EN-only, no preloaded BS7883 fields, pull-test load values, or per-eyebolt asset serial numbering. No App Store app found. Solo work-at-height inspectors (small firms doing 20-200 eyebolts/visit) have no vertical product. Third-party deliverable (building manager cert) confirmed. Penalty: Work at Height Regs + PUWER, HSE enforcement.",
+  "confidence": "M",
+  "killer_risk": "Generic inspection app (SafetyCulture) with user-built EN795 template could suffice if user accepts EN-generic form; large firms building own tooling",
+  "found": [
+   {
+    "name": "No dedicated standalone app found",
+    "url": "",
+    "price": "brak danych",
+    "model": "brak danych"
+   },
+   {
+    "name": "SafetyCulture iAuditor (generic)",
+    "url": "https://safetyculture.com/iauditor",
+    "price": "free tier (5 templates) / ~£24/user/month",
+    "model": "freemium SaaS"
+   },
+   {
+    "name": "Heightsafe PRIME CRM (internal tool)",
+    "url": "https://www.heightsafesystems.com",
+    "price": "internal, not for sale",
+    "model": "internal"
+   },
+   {
+    "name": "Velocity Safety (digital reports, internal)",
+    "url": "https://velocitysafety.co.uk",
+    "price": "internal, not for sale",
+    "model": "internal"
+   }
+  ],
+  "market": "UK ~2000+ specialist height-safety firms + rope access companies; anchor-point testing is growing due to flat-roof/solar boom",
+  "demand": "WAHSA TGN03 guidance doc, multiple UK H&S companies offering testing services, clear market of small height-safety firms",
+  "third_party": true
+ },
+ {
+  "niche": "Lightning protection test BS EN 62305 (annual) certificate",
+  "cluster": "compliance_cert",
+  "gap": "No UK-specific dedicated app for annual BS EN 62305 lightning protection inspection certificates. LPS Manager is French-origin, IEC 62305 focused (not BS EN specific UK format), no UK certificate format. SafetyCulture template is generic/EN only. UK lightning protection inspectors (specialist niche) appear to use paper or own bespoke systems. Annual cert required by UK insurers. Penalty: potential insurance invalidation + HSE enforcement up to £20,000 fine. Third-party deliverable (building owner/insurer).",
+  "confidence": "M",
+  "killer_risk": "Very small addressable market (few hundred specialist firms); LPS Manager could expand to UK BS EN format; SafetyCulture custom template covers basic need",
+  "found": [
+   {
+    "name": "LPS Manager",
+    "url": "https://lpsmanager.io/en/",
+    "price": "free (basic) / £2.49-£24.99/month equivalent (Data/Pro/Expert tiers)",
+    "model": "freemium SaaS, French origin, IEC 62305 not BS EN specific"
+   },
+   {
+    "name": "SafetyCulture — free BS EN 62305 template",
+    "url": "https://safetyculture.com/library/property-and-facilities-management/lightning-protection-system",
+    "price": "free template / paid app ~£24/user/month",
+    "model": "freemium SaaS, generic EN-language template"
+   },
+   {
+    "name": "No UK-specific standalone app found",
+    "url": "",
+    "price": "brak danych",
+    "model": "brak danych"
+   }
+  ],
+  "market": "UK ~500-1000 specialist lightning protection companies + electrical contractors; niche but clear",
+  "demand": "UK market: all structures with lightning protection systems require annual cert; insurance requirement; specialist firms nationwide",
+  "third_party": true
+ },
+ {
+  "niche": "Local exhaust ventilation LEV thorough examination (COSHH Reg 9, 14-month cycle)",
+  "cluster": "compliance_cert",
+  "gap": "No dedicated app for P601-qualified LEV inspectors generating HSG258-format TExT reports. SafetyCulture has free LEV templates but they are generic EN-only and do not match the structured HSG258 report sections (face velocity, capture velocity, duct transport, filter, fan data). LEV Vault is a storage tool, not a report generator. P601 inspectors (BOHS qualified, specialist occupational hygienists) appear to use bespoke Word/Excel reports or nothing. 14-month cycle (not 12) is unusual — anti-subscription by design. Third-party deliverable: employer keeps cert, must show to HSE on request. Penalty: COSHH breach, HSE enforcement, unlimited fine.",
+  "confidence": "M",
+  "killer_risk": "SafetyCulture with custom HSG258 template could partially serve; small addressable market of P601 inspectors",
+  "found": [
+   {
+    "name": "SafetyCulture — free LEV templates",
+    "url": "https://safetyculture.com/library/manufacturing/lev-inspection-and-test",
+    "price": "free template / £24/user/month paid",
+    "model": "freemium SaaS, EN-generic templates, not HSG258-specific UK format"
+   },
+   {
+    "name": "LEV Vault (document storage)",
+    "url": "https://www.vent-tech.co.uk/testing/",
+    "price": "brak danych",
+    "model": "password-protected document storage, not report generation"
+   },
+   {
+    "name": "No dedicated P601 inspector app found",
+    "url": "",
+    "price": "brak danych",
+    "model": "brak danych"
+   }
+  ],
+  "market": "UK ~2000-5000 P601-qualified LEV inspectors/engineers; thousands of employers with LEV requiring testing",
+  "demand": "UK manufacturing, woodworking, welding, spray painting sectors all require LEV; BOHS P601 is a growing qualification; niche but well-defined professional segment",
+  "third_party": true
+ },
+ {
+  "niche": "Protokół przeglądu gaśnic/hydrantów ppoż PL",
+  "cluster": "compliance-protokol",
+  "gap": "Brak taniego one-time lub darmowego PL narzędzia dla solo-technika ppoż. TCS.net to SaaS dla firm, iService wymaga min. 9 techników. Darmowe szablony SafetyCulture są EN-only. Klin: offline generator zgodny z Rozp. MSWiA 2010 dla 1-2-osobowego serwisu ppoż.",
+  "confidence": "M",
+  "killer_risk": "SafetyCulture wchodzi z PL-językiem lub TCS.net obniży próg wejścia",
+  "found": [
+   {
+    "name": "TCS.net (SoftwareStudio)",
+    "url": "https://tcs.softwarestudio.com.pl/program-do-obslugi-narzedziowni/cyfrowe-protokoly-przegladow-przeciwpozarowych/",
+    "price": "SaaS/abonament, brak cennika online",
+    "model": "SaaS, min. kilka stanowisk"
+   },
+   {
+    "name": "iService",
+    "url": "https://iserviceonline.pl/branze/automatyka-drzwiowa-i-bramy-przemyslowe/",
+    "price": "abonament, wymaga min. 9 techników",
+    "model": "FSM SaaS, nie dla solo"
+   },
+   {
+    "name": "Druki-akcydensowe (KOB-39, Pu/Pb-57)",
+    "url": "https://druki-akcydensowe.eu/",
+    "price": "kilkanaście PLN za formularz",
+    "model": "elektroniczny formularz drukowany"
+   },
+   {
+    "name": "Worker-PRO",
+    "url": "https://worker-pro.com/",
+    "price": "brak danych",
+    "model": "SaaS FSM, branża DDD/serwis"
+   }
+  ],
+  "market": "PL — ok. 3 000–8 000 serwisantów ppoż. solo/mikro",
+  "demand": "forum branżowe: brak dowodów Reddit; rynek serwisu ppoż w PL — tysiące małych firm 1-3 osobowych",
+  "third_party": true
+ },
+ {
+  "niche": "Protokół przeglądu placu zabaw PN-EN 1176 PL",
+  "cluster": "compliance-protokol",
+  "gap": "SafetyCulture i Lumiform mają szablony EN (BS EN 1176), ale nie PL-specyfika (KOB-39, dziennik placu zabaw PL). Formularz KOB-39 to papier/PDF, nie interaktywny generator. Klin: offline generator protokołu po polsku zgodny z PN-EN 1176 i wymogami c-KOB dla solo-inspektora lub zarządcy gminnego.",
+  "confidence": "M",
+  "killer_risk": "SafetyCulture z PL tłumaczeniem lub proste narzędzie BIP-generyczne",
+  "found": [
+   {
+    "name": "SafetyCulture (iAuditor)",
+    "url": "https://safetyculture.com/library/property-and-facilities-management/annual-playground-inspection-qttnfuhh9va75le3",
+    "price": "darmowy plan dostępny",
+    "model": "freemium SaaS, szablony EN (BS EN 1176-7), nie PL-specyfika"
+   },
+   {
+    "name": "Druki akcydensowe KOB-39",
+    "url": "https://druki-akcydensowe.eu/protokol_okresowej_kontroli_placu_zabaw_KOB-39",
+    "price": "kilkanaście PLN",
+    "model": "formularz elektroniczny do druku"
+   },
+   {
+    "name": "inspekcja.org",
+    "url": "https://www.inspekcja.org/",
+    "price": "brak danych (usługa inspektora)",
+    "model": "platforma inspektorów, nie solo-generator"
+   },
+   {
+    "name": "Lumiform",
+    "url": "https://lumiformapp.com/",
+    "price": "darmowy plan",
+    "model": "freemium SaaS, szablony EN-generic"
+   }
+  ],
+  "market": "PL — ok. 50 000+ placów zabaw publicznych, gminy, spółdzielnie",
+  "demand": "tysiące placów zabaw w PL, gminy i zarządcy nieruchomości zobowiązani do dokumentacji",
+  "third_party": true
+ },
+ {
+  "niche": "Protokół przeglądu bram/wrót przemysłowych PL",
+  "cluster": "compliance-protokol",
+  "gap": "iService wprost mówi, że nie jest dla małych firm (<9 techników). Brak znalezionego tanie one-time lub darmowego narzędzia PL dla solo-serwisanta bram. Przegląd bramy jest obowiązkowy (prawo budowlane, normy EN 12604/12605), protokół trafia do zarządcy budynku. Klin: offline generator protokołu PL dla 1-2-osobowego serwisu bram.",
+  "confidence": "M",
+  "killer_risk": "Worker-PRO obniży cenę do solo lub pojawi się freemium generic",
+  "found": [
+   {
+    "name": "iService",
+    "url": "https://iserviceonline.pl/branze/automatyka-drzwiowa-i-bramy-przemyslowe/",
+    "price": "abonament (min. 9 techników)",
+    "model": "SaaS FSM, duże firmy serwisowe"
+   },
+   {
+    "name": "Worker-PRO",
+    "url": "https://worker-pro.com/",
+    "price": "brak danych",
+    "model": "SaaS FSM ogólny"
+   },
+   {
+    "name": "Brak one-time / solo",
+    "url": "",
+    "price": "",
+    "model": ""
+   }
+  ],
+  "market": "PL — ok. 2 000–5 000 solo/mikro serwisantów bram",
+  "demand": "brak danych Reddit; tysiące firm 1-osobowych serwisujących bramy",
+  "third_party": true
+ },
+ {
+  "niche": "Protokół przeglądu wentylacji/klimatyzacji PL",
+  "cluster": "compliance-protokol",
+  "gap": "eDomki to platforma dla właścicieli budynków (zamawianie usług), nie narzędzie technika HVAC do generowania protokołu. Darmowe wzory Word/BIP istnieją, ale nie są interaktywnym generatorem z polami norm PL. Klin: offline generator protokołu wentylacji/klimatyzacji z preładowanymi polami PN-EN 15239 dla solo-technika HVAC.",
+  "confidence": "M",
+  "killer_risk": "Darmowe wzory Word z BIP wystarczają dla wielu; SafetyCulture EN-only",
+  "found": [
+   {
+    "name": "eDomki.app",
+    "url": "https://edomki.app/przeglady-wentylacji-w-aplikacji/",
+    "price": "brak danych",
+    "model": "SaaS platforma zamawiania usług, nie generator solo-technika"
+   },
+   {
+    "name": "Druki (wzory Word/PDF BIP)",
+    "url": "https://www.ifpan.edu.pl/przetargi/pliki_2020/",
+    "price": "darmowe",
+    "model": "darmowe wzory BIP/instytucji"
+   },
+   {
+    "name": "Brak dedykowanego generatora PL",
+    "url": "",
+    "price": "",
+    "model": ""
+   }
+  ],
+  "market": "PL — kilka tysięcy techników HVAC solo/mikro",
+  "demand": "tysiące małych firm HVAC w PL; obowiązek rocznej kontroli dla budynków z wentylacją mechaniczną",
+  "third_party": true
+ },
+ {
+  "niche": "Protokół DDD dezynfekcja/deratyzacja PL",
+  "cluster": "compliance-protokol",
+  "gap": "Worker-PRO to SaaS, brak cennika online, prawdopodobnie abonament nieadekwatny dla mikro-firm DDD (1-2 osoby). CEPEST za drogi (5 000 PLN). Klin: offline one-time generator protokołu DDD z rejestrem biocydów PL dla solo-firmy. Protokół DDD wymagany przez sanepid na kontroli (HACCP, obiekty spożywcze).",
+  "confidence": "M",
+  "killer_risk": "Worker-PRO może zaoferować tani plan solo; darmowy Word-szablon wystarczy dla niektórych",
+  "found": [
+   {
+    "name": "Worker-PRO",
+    "url": "https://worker-pro.com/aplikacja-do-zarzadzania-firma-ddd",
+    "price": "brak danych (abonament SaaS)",
+    "model": "SaaS FSM z modułem DDD"
+   },
+   {
+    "name": "CEPEST.eu",
+    "url": "https://www.cepest.eu/",
+    "price": "od 5 000 PLN netto jednorazowo (serwer dedykowany)",
+    "model": "własna instalacja, drogi"
+   },
+   {
+    "name": "Druki-akcydensowe / Word",
+    "url": "",
+    "price": "kilkanaście PLN / darmowe",
+    "model": "formularz papierowy/PDF"
+   }
+  ],
+  "market": "PL — ok. 2 000–5 000 firm DDD solo/mikro",
+  "demand": "tysiące firm DDD 1-3 osobowych w PL",
+  "third_party": true
+ },
+ {
+  "niche": "Standpipe/Internal Hydrant Inspection Log",
+  "cluster": "fire-safety",
+  "gap": "Brak dedykowanej offline/jednorazowej appki dla standpipe/hydrant wewnętrznych. Snappii jest darmowy, ale generyczny (nie specyficzny dla standpipe NFPA 14). Profesjonalne narzędzia to enterprise lub sub >$2k/yr. Solo facility manager zostaje z arkuszem Excel.",
+  "confidence": "M",
+  "killer_risk": "Snappii darmowy generyczny; GoAudits $10/mth wystarczy jeśli user załaduje własny szablon",
+  "found": [
+   {
+    "name": "FHinspector",
+    "url": "https://apps.apple.com/us/app/fhinspector/id396229272",
+    "price": "brak danych; wymaga FIREHOUSE Software — enterprise",
+    "model": "enterprise"
+   },
+   {
+    "name": "Fire Hydrant Manager",
+    "url": "https://apps.apple.com/us/app/fire-hydrant-manager/id1488275715",
+    "price": "brak danych",
+    "model": "sub"
+   },
+   {
+    "name": "Array Fire Hydrant Inspection",
+    "url": "https://www.buildarray.com/use-cases/fire-hydrant-inspection-software",
+    "price": "~$40/user/mth",
+    "model": "sub"
+   },
+   {
+    "name": "Streamline Inspections",
+    "url": "https://streamlineas.com/",
+    "price": "~$2,000/yr flat",
+    "model": "sub"
+   },
+   {
+    "name": "Snappii Fire Hydrant Inspection",
+    "url": "https://www.snappii.com/app/fire-hydrant-inspection/",
+    "price": "free download",
+    "model": "free"
+   },
+   {
+    "name": "InspectNTrack",
+    "url": "https://inspecttrack.com/",
+    "price": "~$2,900/yr",
+    "model": "sub"
+   }
+  ],
+  "market": "USA, UK, Kanada, Australia; budynki komercyjne powyżej 3 kondygnacji; rynek fire inspection software",
+  "demand": "NFPA 25 wymaga rocznych testów standpipe; każdy budynek wielopiętrowy; budynki z wewnętrznymi hydrantami w UK, USA, Australii",
+  "third_party": null
+ },
+ {
+  "niche": "Emergency Lighting Monthly Test Log",
+  "cluster": "fire-safety",
+  "gap": "Appki producenckie (Acuity, LiteTrace) działają tylko z własnym sprzętem. Brak generycznej offline/jednorazowej appki logbooka dla dowolnych lamp awaryjnych per BS 5266/NFPA 101 dla solo property managera bez ekosystemu. SafetyCulture free tier ma limit 10 użytkowników i ograniczone raporty.",
+  "confidence": "M",
+  "killer_risk": "SafetyCulture darmowy tier + gotowy template pokrywa wielu solo-użytkowników; Lux Meter Pro może mieć logbook",
+  "found": [
+   {
+    "name": "Emergency Test (iOS, UK)",
+    "url": "https://apps.apple.com/gb/app/emergency-test/id1433806385",
+    "price": "brak danych z App Store (403); wymaga MultiControls LightBox hub — producent-specific",
+    "model": "freemium"
+   },
+   {
+    "name": "CLAIRITY+ (Acuity Brands)",
+    "url": "https://apps.apple.com/us/app/clairity/id1358315075",
+    "price": "free (dla ekosystemu Acuity Brands)",
+    "model": "free"
+   },
+   {
+    "name": "Emerlite (Google Play)",
+    "url": "https://play.google.com/store/apps/details?id=com.litetrace.emerlite.bluetooth.light",
+    "price": "brak danych; Bluetooth ecosystem app",
+    "model": "freemium"
+   },
+   {
+    "name": "Lux Meter Pro",
+    "url": "https://apps.apple.com/gb/app/lux-meter-pro/id6740999944",
+    "price": "brak danych; Emergency Lighting Logbook module",
+    "model": "freemium"
+   },
+   {
+    "name": "InspectNTrack Emergency Lighting",
+    "url": "https://inspecttrack.com/mobile-inspection-services-software/emergency-lighting-inspection-software/",
+    "price": "~$2,900/yr",
+    "model": "sub"
+   },
+   {
+    "name": "SafetyCulture (template)",
+    "url": "https://safetyculture.com/library/energy-and-utilities/emergency-lighting-log-and-test-sheet",
+    "price": "free template; app od $19/user/mth",
+    "model": "freemium"
+   }
+  ],
+  "market": "UK (BS 5266 mandatory), USA (NFPA 101), Australia, EU; każdy budynek komercyjny; bardzo duży rynek",
+  "demand": "BS 5266 (UK) i NFPA 101 (US) wymagają comiesięcznych testów; miliony budynków komercyjnych; SafetyCulture oferuje gotowy template = potwierdzony popyt",
+  "third_party": null
+ },
+ {
+  "niche": "NFPA 96 Kitchen Hood/Ansul Inspection Log",
+  "cluster": "fire-safety",
+  "gap": "Brak dedykowanej appki NFPA 96 / kitchen hood. Nikt nie zbudował specjalistycznego narzędzia: technik Ansul/suppression musi używać generycznych platform lub papierowych formularzy. Niche z prawdziwym brakiem dedykowanego produktu.",
+  "confidence": "M",
+  "killer_risk": "GoAudits $10/mth i SafetyCulture free tier mogą obsłużyć technrika który załaduje własny NFPA 96 checklist",
+  "found": [
+   {
+    "name": "MapTrack NFPA 96 template",
+    "url": "https://www.maptrack.com/templates/nfpa-kitchen-hood-inspection-checklist",
+    "price": "brak danych (template w platformie sub)",
+    "model": "sub"
+   },
+   {
+    "name": "InspectNTrack (generic)",
+    "url": "https://inspecttrack.com/",
+    "price": "~$2,900/yr",
+    "model": "sub"
+   },
+   {
+    "name": "GoAudits (template)",
+    "url": "https://goaudits.com/",
+    "price": "$10/user/mth",
+    "model": "sub"
+   },
+   {
+    "name": "SafetyCulture (template)",
+    "url": "https://safetyculture.com/",
+    "price": "free tier / $19+/user/mth",
+    "model": "freemium"
+   },
+   {
+    "name": "Joyfill fire inspection",
+    "url": "https://joyfill.io/fire-inspection-software-mobile-app",
+    "price": "brak danych",
+    "model": "sub"
+   }
+  ],
+  "market": "USA głównie; szacunkowo 1M+ kuchni komercyjnych wymagających inspekcji NFPA 96; rynek hood cleaning + inspection to $1B+",
+  "demand": "NFPA 96 wymaga inspekcji co 6 miesięcy; USA: setki tysięcy kuchni komercyjnych (restauracje, hotele, szpitale); MapTrack oferuje template = potwierdzony popyt na digitalizację",
+  "third_party": null
+ },
+ {
+  "niche": "Safety Shower/Eyewash Inspection Log",
+  "cluster": "fire-safety",
+  "gap": "Brak dedykowanej offline/jednorazowej appki dla eyewash/safety shower. FireTag jest nowy i generyczny. Wszystkie pełne rozwiązania to enterprise sub >$2,900/yr. SafetyCulture free tier wystarczy dla prostego checklisty, ale nie ma dedykowanego logbooka z ANSI Z358.1.",
+  "confidence": "M",
+  "killer_risk": "SafetyCulture free template + darmowy tier wystarczy dla prostego tygodniowego checklisty; Safesite i inne generyczne appki",
+  "found": [
+   {
+    "name": "FireTag Safety Inspections",
+    "url": "https://apps.apple.com/br/app/firetag-safety-inspections/id6762494298",
+    "price": "brak danych; nowa appka",
+    "model": "sub"
+   },
+   {
+    "name": "InspectNTrack Eyewash",
+    "url": "https://inspecttrack.com/mobile-inspection-services-software/eyewash-station-inspection-software/",
+    "price": "~$2,900/yr",
+    "model": "sub"
+   },
+   {
+    "name": "InspectAll",
+    "url": "https://www.inspectall.com/",
+    "price": "brak danych",
+    "model": "sub"
+   },
+   {
+    "name": "SafetyCulture (template)",
+    "url": "https://safetyculture.com/",
+    "price": "free tier / $19+/user/mth",
+    "model": "freemium"
+   },
+   {
+    "name": "Safety Reports SR",
+    "url": "https://apps.apple.com/us/app/safety-reports-inspection-sr/id536327518",
+    "price": "brak danych (sub)",
+    "model": "sub"
+   }
+  ],
+  "market": "USA (OSHA), Kanada, UK, Australia; przemysł chemiczny, farmaceutyczny, laboratoryjny; tysiące zakładów",
+  "demand": "OSHA wymaga tygodniowych aktywacji; laboratoria, zakłady chemiczne, szpitale — setki tysięcy stacji w USA; ANSI Z358.1 to norma obowiązkowa; brak dedykowanej appki = jest nisza",
+  "third_party": null
+ },
+ {
+  "niche": "Infection Control Audit Log",
+  "cluster": "fire-safety",
+  "gap": "CDC ICAR jest darmowy, ale to narzędzie webowe bez offline appki. CleanHands i HAT to sub dedykowane dla dużych placówek. Mała klinika lub gabinet nie ma dobrej offline/jednorazowej appki per WHO 5 moments lub CQC wymagania. GoAudits $10/mth to najbliższy odpowiednik, ale generyczny.",
+  "confidence": "M",
+  "killer_risk": "SafetyCulture darmowy tier + CDC ICAR web tool pokrywają podstawowe potrzeby; GoAudits $10/mth dla zaawansowanych",
+  "found": [
+   {
+    "name": "CleanHands Audit",
+    "url": "https://play.google.com/store/apps/details?id=com.credetechnologies.hh_saas",
+    "price": "SaaS sub; brak konkretnej ceny publicznej",
+    "model": "sub"
+   },
+   {
+    "name": "HAT Hygiene Audit Tool (B. Braun)",
+    "url": "https://play.google.com/store/apps/details?id=com.bbraun.opm.hat",
+    "price": "paid sub (0.5 GB/yr plan); brak konkretnej ceny",
+    "model": "sub"
+   },
+   {
+    "name": "iSynbiotix SIGMA",
+    "url": "https://apps.apple.com/om/app/isynbiotix/id1479404974",
+    "price": "brak danych (enterprise)",
+    "model": "enterprise"
+   },
+   {
+    "name": "GoAudits (healthcare template)",
+    "url": "https://goaudits.com/",
+    "price": "$10/user/mth",
+    "model": "sub"
+   },
+   {
+    "name": "SafetyCulture IPC template",
+    "url": "https://safetyculture.com/checklists/infection-control-audits",
+    "price": "free tier / $19+/user/mth",
+    "model": "freemium"
+   },
+   {
+    "name": "CDC ICAR Tool",
+    "url": "https://www.cdc.gov/healthcare-associated-infections/php/toolkit/icar.html",
+    "price": "free (web tool, nie appka)",
+    "model": "free"
+   }
+  ],
+  "market": "UK (CQC), USA (CDC/CMS), Australa (ACQSC); tysiące małych klinik i domów opieki; rosnący po COVID-19",
+  "demand": "CQC (UK) wymaga dowodów audytów IPC; WHO My 5 Moments standard globalny; wzrost popytu po COVID-19; GoAudits i SafetyCulture oferują template = rynek potwierdzony",
+  "third_party": null
+ },
+ {
+  "niche": "Airbnb/Short-Term Rental Safety Checklist",
+  "cluster": "fire-safety",
+  "gap": "Brak dedykowanej appki offline/jednorazowej specyficznie dla bezpieczeństwa pożarowego STR z wymaganymi checklistami (smoke detector, CO, gaśnica, drogi ewakuacyjne) i logiem historii na potrzeby AirCover/ubezpieczenia. Properly i Hostaway skupiają się na turnovers, nie compliance.",
+  "confidence": "M",
+  "killer_risk": "SafetyCulture free tier wystarczy dla prostej checklisty; Airbnb sam daje darmowe alarmy i wymaga tylko deklaracji online",
+  "found": [
+   {
+    "name": "Rental Inspection Checklist",
+    "url": "https://apps.apple.com/us/app/rental-inspection-checklist/id6759527153",
+    "price": "brak danych; nowa appka",
+    "model": "sub"
+   },
+   {
+    "name": "Properly",
+    "url": "https://apps.apple.com/us/app/properly-visual-checklists/id1032619209",
+    "price": "$12.99/property/mth",
+    "model": "sub"
+   },
+   {
+    "name": "Xenia",
+    "url": "https://www.xenia.team/templates/airbnb-safety-inspection-checklist",
+    "price": "sub; brak konkretnej ceny",
+    "model": "sub"
+   },
+   {
+    "name": "Hostaway",
+    "url": "https://www.hostaway.com/blog/airbnb-property-inspections/",
+    "price": "sub (property management suite)",
+    "model": "sub"
+   },
+   {
+    "name": "SafetyCulture (template)",
+    "url": "https://safetyculture.com/",
+    "price": "free tier",
+    "model": "freemium"
+   }
+  ],
+  "market": "Globalny; ~7M listingów Airbnb + VRBO/Booking; USA, UK, EU; solo host to dominujący segment (80%+ to indywidualnie)",
+  "demand": "Airbnb wymaga od 2024 roku deklaracji bezpieczeństwa; regulacje lokalne w USA/EU rosną; EU Short-Term Rental Regulation 2025; r/airbnb liczne posty o regulacjach; ~7M aktywnych listings Airbnb globalnie",
+  "third_party": null
+ },
+ {
+  "niche": "Emergency/Spill Response Log",
+  "cluster": "fire-safety",
+  "gap": "ERG i CAMEO są darmowe, ale to narzędzia ODNIESIENIA (co robić z danym chemikałem), nie LOGBOOKI zdarzeń. Brak offline/jednorazowej appki do prowadzenia dziennika rozlewów z akcjami naprawczymi, podpisami, zdjęciami per OSHA HAZWOPER dla małego zakładu. Spill Center enterprise-only.",
+  "confidence": "L",
+  "killer_risk": "SafetyCulture free tier + template pokrywa większość przypadków; rynek trudny bo EPA/OSHA reporting często idzie przez zintegrowane EHS systemy",
+  "found": [
+   {
+    "name": "Spill Center Mobile",
+    "url": "https://apps.apple.com/us/app/spill-center-mobile/id6740185693",
+    "price": "brak danych; enterprise-oriented",
+    "model": "enterprise"
+   },
+   {
+    "name": "ERG for iOS / Android (PHMSA)",
+    "url": "https://apps.apple.com/us/app/erg-2020/id592158838",
+    "price": "free",
+    "model": "free"
+   },
+   {
+    "name": "CAMEO Chemicals (EPA)",
+    "url": "https://apps.apple.com/us/app/cameo-chemicals/id1151912682",
+    "price": "free",
+    "model": "free"
+   },
+   {
+    "name": "Fulcrum Chemical Spill Report",
+    "url": "https://www.fulcrumapp.com/apps/chemical-spill-report/",
+    "price": "sub; brak konkretnej ceny",
+    "model": "sub"
+   },
+   {
+    "name": "Kissflow Chemical Spill Tracker",
+    "url": "https://kissflow.com/appstore/chemical-spill-response-tracker",
+    "price": "sub; brak konkretnej ceny (enterprise)",
+    "model": "enterprise"
+   },
+   {
+    "name": "SafetyCulture (template)",
+    "url": "https://safetyculture.com/",
+    "price": "free tier / $19+",
+    "model": "freemium"
+   }
+  ],
+  "market": "USA (OSHA/EPA), UK (EA), EU; zakłady przemysłowe, laboratoria, bazy paliw; tysiące małych zakładów bez dedykowanego oprogramowania",
+  "demand": "OSHA HAZWOPER wymaga dokumentacji; EPA wymaga raportowania rozlewów powyżej RQ; małe zakłady chemiczne/farmaceutyczne używają papierowych logów; Fulcrum template istnieje = popyt potwierdzony",
+  "third_party": null
+ },
+ {
+  "niche": "Asbestos Survey Log",
+  "cluster": "environmental-compliance",
+  "gap": "Wszystkie opcje to subskrypcje £25-75+/mc lub enterprise z backendem; brak one-time, offline, solo-surveyor desktop/tablet z preloaded HSG264 schema. Segment: niezależny rzeczoznawca (UK ~5k firm asbestos) chcący kupić aplikację raz.",
+  "confidence": "M",
+  "killer_risk": "PocketSurvey Lite £25/mc to bariera niska — user może uznać £25/mc za wystarczająco tanie; Flow Mobile może obniżyć ceny",
+  "found": [
+   {
+    "name": "PocketSurvey Asbestos",
+    "url": "https://www.pocketsurvey.org/asbestos/",
+    "price": "£25/mo Lite, £75/mo Standard, no one-time option",
+    "model": "subscription"
+   },
+   {
+    "name": "Flow Mobile Surveying",
+    "url": "https://www.flowmobile.app/asbestos-surveying-software",
+    "price": "brak danych (trial 30 dni)",
+    "model": "subscription"
+   },
+   {
+    "name": "Assure360 Paperless 2",
+    "url": "https://apps.apple.com/gb/app/assure360-paperless-2/id1502411134",
+    "price": "brak danych",
+    "model": "subscription/enterprise"
+   },
+   {
+    "name": "miAsbestos",
+    "url": "https://apps.apple.com/us/app/miasbestos/id453209868",
+    "price": "free (viewer only, requires ToolKit CS licensed backend)",
+    "model": "freemium/subscription"
+   },
+   {
+    "name": "Alpha Tracker",
+    "url": "https://alpha-tracker.co.uk/asbestos",
+    "price": "brak danych, enterprise",
+    "model": "subscription"
+   }
+  ],
+  "market": "UK primarly + US secondary; ~5000 asbestos surveying firms UK; globalnie $470M rynek testowania",
+  "demand": "Rynek asbestos testing UK+US: $470M globally; UK wiodący rynek compliance; 5k+ małych firm surveying w UK; PocketSurvey aktywnie obsługuje ten segment ale tylko sub",
+  "third_party": null
+ },
+ {
+  "niche": "Waste Carrier Manifest Log",
+  "cluster": "environmental-compliance",
+  "gap": "UK Digital Waste Tracking (DWTS) obowiązkowy od październik 2026 — DEFRA mandatuje cyfrowy system zastępujący papierowe WTN. Wszyscy mali waste carriers muszą compliance. Istniejące narzędzia albo enterprise (Mandata, Quantum SDS) albo SaaS bez jasnej ceny. Okno: 4 miesiące do mandatu.",
+  "confidence": "M",
+  "killer_risk": "DEFRA może dostarczyć darmowe GOV.UK narzędzie; WasteProof i AnyWaste mogą szybko skalować; okno czasowe ograniczone (post-Oct 2026 rynek stabilizuje się)",
+  "found": [
+   {
+    "name": "WasteProof",
+    "url": "https://wasteproof.co.uk/",
+    "price": "brak danych",
+    "model": "subscription SaaS"
+   },
+   {
+    "name": "AnyWaste",
+    "url": "https://anywaste.com/",
+    "price": "brak danych",
+    "model": "subscription/enterprise"
+   },
+   {
+    "name": "Smart Manifest",
+    "url": "https://apps.apple.com/us/app/smart-manifest/id6502011905",
+    "price": "brak danych",
+    "model": "nieznany"
+   },
+   {
+    "name": "Quantum SDS Waste Manifest",
+    "url": "https://www.capterra.co.uk/software/1061058/quantum-sds-waste-manifest",
+    "price": "brak danych",
+    "model": "subscription"
+   },
+   {
+    "name": "Mandata TMS",
+    "url": "https://www.mandata.co.uk/sectors/waste-transport/",
+    "price": "enterprise",
+    "model": "subscription/enterprise"
+   }
+  ],
+  "market": "UK; ~60k registered waste carriers; compliance wymóg pod sankcją unlimited fine; DWTS launch tworzy popyt teraz",
+  "demand": "Silny regulatory push — DEFRA October 2026 DWTS mandate; ~60k zarejestrowanych waste carriers UK (Environment Agency data); WasteProof aktywnie marketuje to jako problem",
+  "third_party": null
+ },
+ {
+  "niche": "CCTV Drainage Survey Reporting",
+  "cluster": "environmental-compliance",
+  "gap": "WinCan to de facto standard ale enterprise pricing i brak przejrzystości cenowej; Drainify sub/PAYG bez kwot; większość software bundlowana z hardware (Minicam/Scanprobe) — solo contractor z własną kamerą musi płacić za enterprise. Segment solo UK contractor (buy once, use offline) niezaspokojony.",
+  "confidence": "M",
+  "killer_risk": "WinCan może zaoferować tańszy tier; Drainify może upublicznić PAYG pricing; nisza technicznie złożona (wymaga znajomości WRc coding)",
+  "found": [
+   {
+    "name": "WinCan VX",
+    "url": "https://www.wincan.com/",
+    "price": "brak danych publicznych, subscription roczna, enterprise",
+    "model": "subscription/enterprise"
+   },
+   {
+    "name": "Drainify",
+    "url": "https://drainify.io/",
+    "price": "subscription lub pay-as-you-go, brak konkretnych kwot",
+    "model": "subscription/PAYG"
+   },
+   {
+    "name": "Mina App (Scanprobe)",
+    "url": "https://scanprobe.uk/reporting-software/reporting-options/",
+    "price": "bundled z hardware",
+    "model": "embedded/hardware-bundle"
+   },
+   {
+    "name": "ProPIPE+ (Minicam)",
+    "url": "https://www.minicam.co.uk/products/uncategorized/reporting-software/",
+    "price": "bundled z hardware",
+    "model": "embedded/hardware-bundle"
+   }
+  ],
+  "market": "UK primarily; ~3000+ drain survey contractors; globalnie rynek sewer inspection software ~$500M",
+  "demand": "UK CCTV drain survey rynek aktywny; liczne firmy 1-5 osób; WRc coding wymóg na kontrakty komercyjne i ubezpieczeniowe; forum zapytania o alternatywy do WinCan",
+  "third_party": null
+ },
+ {
+  "niche": "Fumigation Register Log",
+  "cluster": "environmental-compliance",
+  "gap": "GoFumig8 (Australia) adresuje import/export fumigation z DAFF compliance ale brak przejrzystości cen; rynek US/EU dla solo fumigator (residential + stored product) nie ma dedykowanej apki z preloaded EPA RUP recordkeeping forms. Pesticide and Field Records II App Store — brak reviews, najprawdopodobniej martwa apka.",
+  "confidence": "L",
+  "killer_risk": "GoFumig8 może wejść na rynek US/EU; pesticide tracking apps (ABCspray, Croptracker) mogą rozszerzyć na fumigation; rynek mały i regulacyjnie skomplikowany",
+  "found": [
+   {
+    "name": "GoFumig8",
+    "url": "https://gofumig8.com/",
+    "price": "brak danych (free trial, flexible pricing)",
+    "model": "subscription/PAYG — brak danych"
+   },
+   {
+    "name": "Pesticide and Field Records II",
+    "url": "https://apps.apple.com/us/app/pesticide-and-field-records-ii/id1167102779",
+    "price": "brak danych",
+    "model": "nieznany"
+   },
+   {
+    "name": "PestScan Pest Control",
+    "url": "https://play.google.com/store/apps/details?id=eu.pestscan.phoneapp",
+    "price": "brak danych",
+    "model": "nieznany"
+   },
+   {
+    "name": "Fumiklin Tecnico",
+    "url": "https://play.google.com/store/apps/details?id=com.mx.fumiklin.ionic",
+    "price": "brak danych",
+    "model": "nieznany"
+   }
+  ],
+  "market": "USA + Australia primarily; ~15k certyfikowanych fumigatorów USA; compliance wymóg federalny",
+  "demand": "USEPA wymaga recordkeeping dla Restricted Use Pesticides (RUP) — obowiązek prawny; USDA APHIS dla fumigacji importowej; aktywny rynek ~15k certyfikowanych fumigatorów USA",
+  "third_party": null
+ },
+ {
+  "niche": "Instrument sterilization tracking log (dental/tattoo/vet)",
+  "cluster": "MedLab Compliance",
+  "gap": "Wszystkie poważne rozwiązania (SterilWize, Reprolog, W&H) to cloud SaaS + hardware lub quote-based enterprise; brak jednorazowo płatnej, offline apki dla solo-kliniki stomatologicznej, gabinetu tatuażu lub weterynarza. Tattoo studio całkowicie pominięte przez wszystkich vendorów. Segment solo/offline/one-time niezaspokojony.",
+  "confidence": "M",
+  "killer_risk": "W&H udostępni darmową pełnofunkcjonalną apkę offline lub Reprolog uruchomi tani tier $5/mc; EHR-y branżowe (Dentrix, Cornerstone) dodadzą moduł gratis",
+  "found": [
+   {
+    "name": "W&H Steri App",
+    "url": "https://apps.apple.com/us/app/w-h-steri/id1481188730",
+    "price": "Free app; paid activation code for ioDent Reprocessing cloud package — price undisclosed",
+    "model": "Freemium / cloud sub; tied to W&H autoclave hardware"
+   },
+   {
+    "name": "SterilWize",
+    "url": "https://sterilwize.com/",
+    "price": "Quote-based sub; hardware data-logger required",
+    "model": "SaaS + hardware bundle"
+   },
+   {
+    "name": "Reprolog",
+    "url": "https://reprolog.net/",
+    "price": "Quote-based sub",
+    "model": "Cloud SaaS (QR/RFID)"
+   },
+   {
+    "name": "Dental Steri Track",
+    "url": "https://www.dentalsteritrack.com/",
+    "price": "brak danych",
+    "model": "Cloud/web"
+   },
+   {
+    "name": "Sowingo Compliance",
+    "url": "https://sowingo.com/compliance/",
+    "price": "brak danych (bundled with dental supply platform)",
+    "model": "SaaS sub"
+   },
+   {
+    "name": "SafetyCulture templates",
+    "url": "https://safetyculture.com/",
+    "price": "Free templates; app from $19/user/mo",
+    "model": "SaaS / template — generic, not instrument-specific"
+   }
+  ],
+  "market": "US+EU+AU: ok. 200k gabinetów stomatologicznych, 50k salonów tatuażu, 30k klinik weterynaryjnych wymagających logowania; potencjał $10-30 jednorazowo za apkę",
+  "demand": "Regulatory requirement (CDC, EN ISO 15883, state health depts); dentists/tattoo artists googled 'autoclave log app' — wyniki z forum painfulpleasures.com i tattooswizard.com potwierdzają lukę w segmencie tattoo",
+  "third_party": null
+ },
+ {
+  "niche": "Autoclave/Sterilizer cycle log (generic — lab/research/hospital)",
+  "cluster": "MedLab Compliance",
+  "gap": "Brak dedykowanej, jednorazowo płatnej, offline apki do logowania cykli autoklawu dla laboratoriów. SafetyCulture i GoAudits oferują generyczne szablony (sub), brak preładowanej normy ISO 17665. Segment research lab / small hospital niezaspokojony offline.",
+  "confidence": "M",
+  "killer_risk": "LIMS-y (LabWare, SampleManager) mogą dodać moduł autoclave; SafetyCulture z gotowym templatem wystarczy dla audytorów niewymagających strukturalnego logu",
+  "found": [
+   {
+    "name": "Avtolog",
+    "url": "https://apps.apple.com/us/app/avtolog/id1534217543",
+    "price": "brak danych (app okazała się vehicle history — nie autoclave log)",
+    "model": "Błędna identyfikacja w wynikach wyszukiwania"
+   },
+   {
+    "name": "SterilWize",
+    "url": "https://sterilwize.com/",
+    "price": "Quote, hardware required",
+    "model": "SaaS+hardware"
+   },
+   {
+    "name": "SafetyCulture (iAuditor)",
+    "url": "https://safetyculture.com/",
+    "price": "Free template; $19+/user/mo app",
+    "model": "SaaS — generic inspection, nie dedykowany autoclave log"
+   },
+   {
+    "name": "GoAudits",
+    "url": "https://goaudits.com/",
+    "price": "Free template; sub od $10/user/mo",
+    "model": "SaaS — generic"
+   }
+  ],
+  "market": "Global lab market — US, EU, UK, AU; szacunkowo 500k+ punktów (szpitale, kliniki, laboratoria, uczelnie)",
+  "demand": "Szacunkowo 100k+ laboratoriów na świecie wymagających prowadzenia rejestru; brak wyspecjalizowanej apki widoczny w Google Play (brak trafień dla 'autoclave log app' na GP)",
+  "third_party": null
+ },
+ {
+  "niche": "Aircraft AD/SB tracking (GA maintenance)",
+  "cluster": "aviation_compliance",
+  "gap": "REAL: FlightBoss/BetterPlane subskrypcyjne, Traxxall enterprise dla bizjet. WhenYouFly $100 to usługa ręczna (A&P weryfikuje), nie apka DIY. Brak prostej offline one-time apki z wbudowaną bazą AD dla GA (Cessna/Piper/etc.) którą A&P lub właściciel prowadzi sam. Nisza regulacyjna FAA Part 91 + znajomość AD compliance = bariera.",
+  "confidence": "M",
+  "killer_risk": "FlightBoss może dodać offline; regulacje wymagają A&P sign-off więc apka to wsparcie, nie substytut; niszowa baza użytkowników",
+  "found": [
+   {
+    "name": "FlightBoss",
+    "url": "https://apps.apple.com/us/app/flightboss/id1556221444",
+    "price": "sub miesięczny/roczny (kwota brak danych)",
+    "model": "sub"
+   },
+   {
+    "name": "BetterPlane",
+    "url": "https://apps.apple.com/us/app/betterplane/id6701693347",
+    "price": "brak danych",
+    "model": "unknown"
+   },
+   {
+    "name": "FlightGuard",
+    "url": "https://apps.apple.com/us/app/flightguard/id6736479190",
+    "price": "brak danych",
+    "model": "unknown"
+   },
+   {
+    "name": "Traxxall 360",
+    "url": "https://apps.apple.com/us/app/traxxall-360/id1493070352",
+    "price": "enterprise custom",
+    "model": "enterprise"
+   },
+   {
+    "name": "WhenYouFly",
+    "url": "https://www.whenyoufly.com/ad_summary.html",
+    "price": "$100/aircraft one-time AD summary entry",
+    "model": "one-time per-aircraft"
+   },
+   {
+    "name": "JSSI AviatorMX (Traxxall Aviator)",
+    "url": "https://jetsupport.com/software/traxxall-aviator/",
+    "price": "enterprise",
+    "model": "enterprise"
+   }
+  ],
+  "market": "~200k aktywnych GA aircraft w USA Part 91; ~50k UK/EU; właściciele nie korporacyjni",
+  "demand": "Forum PilotsOfAmerica.com wątek 'Tracking ADs and Maintenance' — aktywna dyskusja o ręcznych spreadsheetach; brak danych o TAM",
+  "third_party": null
+ },
+ {
+  "niche": "Crane/LOLER lifting equipment inspection",
+  "cluster": "workplace_safety_compliance",
+  "gap": "REAL: Lolerflow £250/mies. — dedykowane dla firm inspekcyjnych (multi-client). Solo operator/mała firma (1 żuraw, 1 osoba) nie potrzebuje £250/mies. SafetyCulture i MasterCheck generyczne. Brak prostej, taniej (one-time lub <£30/rok) apki offline dla UK sole trader prowadzącego własny LOLER register. Bariera: znajomość LOLER Reg 9/10/11 + Schedule 1 = compliance bariera. Popyt: tysiące UK małych firm lifting equipment.",
+  "confidence": "M",
+  "killer_risk": "SafetyCulture może wejść z tanią wersją; Lolerflow może zrobić solo tier; UK-only ogranicza TAM",
+  "found": [
+   {
+    "name": "Lolerflow",
+    "url": "https://www.lolerflow.co.uk/",
+    "price": "£250/mies. (flat, unlimited assets)",
+    "model": "sub"
+   },
+   {
+    "name": "Konecranes CheckApp",
+    "url": "https://apps.apple.com/us/app/konecranes-checkapp/id1463751022",
+    "price": "brak danych (vendor-tied)",
+    "model": "vendor-specific"
+   },
+   {
+    "name": "SafetyCulture",
+    "url": "https://safetyculture.com/",
+    "price": "$24+/user/mo",
+    "model": "sub"
+   },
+   {
+    "name": "MasterCheck",
+    "url": "https://mastercheckapp.com/",
+    "price": "$39.99/unit/rok",
+    "model": "sub roczna"
+   },
+   {
+    "name": "Lorry Loader App",
+    "url": "https://apps.apple.com/us/app/lorry-loader-app-crane-safety/id6476082068",
+    "price": "brak danych",
+    "model": "unknown"
+   }
+  ],
+  "market": "UK ~500k+ businesses z lifting equipment podlegające LOLER; Irlandia analogicznie; brak EU-wide LOLER equiv (ale PUWER/national laws)",
+  "demand": "LOLER 1998 obowiązkowe dla każdego pracodawcy UK z lifting equipment; HSE dane: miliony equipment items; małe firmy płacą £100-300 za inspekcję + potrzebują własnego rejestru",
+  "third_party": null
+ },
+ {
+  "niche": "Pressure vessel/PSSR inspection log",
+  "cluster": "workplace_safety_compliance",
+  "gap": "REAL: Sitecert i Inspectly360 enterprise-grade, brak cen publicznych = duże firmy. BasinCheck $149/mies. Jotform to generic form, nie compliance log z Written Scheme of Examination structure. Brak dedykowanej apki dla solo UK operatora (farm, workshop, laundry) prowadzącego własny PSSR WSE log offline, one-time. Bariera: PSSR Reg 5/8/9 + WSE format + Competent Person wymagania.",
+  "confidence": "M",
+  "killer_risk": "Competent Person (wyznaczony inspektor) musi podpisać WSE — apka to wsparcie; inspektorzy mogą mieć własne narzędzia; brak TAM danych",
+  "found": [
+   {
+    "name": "Sitecert",
+    "url": "https://www.sitecert.net/solutions/pssr/",
+    "price": "brak danych publicznych (enterprise)",
+    "model": "enterprise"
+   },
+   {
+    "name": "Inspectly360",
+    "url": "https://www.inspectly360.com/apps/energy-utilities/pressure-vessel-maintenance-app",
+    "price": "brak danych",
+    "model": "unknown"
+   },
+   {
+    "name": "Jotform",
+    "url": "https://www.jotform.com/app-templates/unfired-pressure-vessel-inspection-app",
+    "price": "free template (generic)",
+    "model": "free/generic"
+   },
+   {
+    "name": "BasinCheck",
+    "url": "https://basincheck.com/",
+    "price": "$149+/mies.",
+    "model": "sub"
+   }
+  ],
+  "market": "UK ~300k+ businesses z pressure systems PSSR-relevant; Irlandia, byłe-Commonwealth z analogicznymi przepisami",
+  "demand": "HSE UK: PSSR 2000 obowiązkowe dla każdego biznesu z pressure system powyżej limitów; tysiące małych firm (warsztaty, drukarnie, pralnie, fermy) ma kotły/sprężarki; brak forum dyskusji ale obowiązek prawny jest dowodem popytu",
+  "third_party": null
+ },
+ {
+  "niche": "Fire pump weekly churn test log",
+  "cluster": "fire_protection_compliance",
+  "gap": "REAL: fireNspec $49.95/mies. celuje w fire protection contractors (multi-client). Solo facility manager z 1 pompą nie potrzebuje $50/mies. US Fire Pump i SHO-FLOW bez publicznych cen. Jotform generic PDF — nie NFPA 25 structured log z wymaganymi polami (pressure, RPM, controller reading). Brak offline one-time apki dla 1 facility + 1 pompa z NFPA 25 churn test template. Bariera: znajomość NFPA 25 §8.3 fields = compliance angle.",
+  "confidence": "M",
+  "killer_risk": "fireNspec może zrobić solo tier; generalny CMMS może dodać template; AHJ może zaakceptować PDF Jotform",
+  "found": [
+   {
+    "name": "fireNspec Pro",
+    "url": "https://apps.apple.com/us/app/firenspec-pro/id1469615950",
+    "price": "$49.95/mies.",
+    "model": "sub"
+   },
+   {
+    "name": "US Fire Pump",
+    "url": "https://apps.apple.com/us/app/us-fire-pump/id1507974220",
+    "price": "brak danych",
+    "model": "unknown"
+   },
+   {
+    "name": "SHO-FLOW",
+    "url": "https://apps.apple.com/us/app/sho-flow/id1447418345",
+    "price": "brak danych",
+    "model": "unknown"
+   },
+   {
+    "name": "FireView",
+    "url": "https://apps.apple.com/us/app/fireview/id1436607628",
+    "price": "brak danych",
+    "model": "unknown"
+   },
+   {
+    "name": "Jotform (generic form)",
+    "url": "https://www.signnow.com/fill-and-sign-pdf-form/22418-nfpa-fire-pump-testing-forms",
+    "price": "free PDF form",
+    "model": "free/generic"
+   }
+  ],
+  "market": "USA: ~500k+ commercial buildings z fire pumps (NFPA 25 scope); UK: duży analogicznie; global standardy",
+  "demand": "NFPA 25 wymaga cotygodniowego/comiesięcznego logu dla każdej fire pump; AHJ (Authority Having Jurisdiction) audytuje zapisy; setki tysięcy budynków z pompami pożarowymi USA; UK analogicznie BS 9990",
+  "third_party": null
+ },
+ {
+  "niche": "vinyl_cricut_seller_allinone",
+  "cluster": "maker_costing",
+  "gap": "Brak appki łączącej: (1) katalog plików SVG/cut z licencją, (2) wycenę materiałową per projekt (vinyl cm², HTV, transfer paper, blanki), (3) offline inwentarz materiałów. Craft Maker Pro jest generyk bez obsługi cut-files; Craftybase online+sub. Segment solo Etsy/Cricut sprzedawcy offline niezaspokojony.",
+  "confidence": "M",
+  "killer_risk": "Craftybase obniży cenę lub doda offline; darmowy arkusz Google Sheets wystarczy wielu",
+  "found": [
+   {
+    "name": "Craftybase",
+    "url": "https://craftybase.com",
+    "price": "$49/mc (Studio) do $349/mc (Growth)",
+    "model": "subscription_online"
+   },
+   {
+    "name": "Craft Maker Pro",
+    "url": "https://www.craftmakerpro.com",
+    "price": "~$150 one-time",
+    "model": "one_time_desktop"
+   },
+   {
+    "name": "Craft Pricing (iOS app)",
+    "url": "https://apps.apple.com/us/app/craft-pricing/id6474603776",
+    "price": "brak danych (freemium)",
+    "model": "freemium_mobile"
+   },
+   {
+    "name": "Craft Pricing Calculator (iOS)",
+    "url": "https://apps.apple.com/us/app/craft-pricing-calculator/id725600238",
+    "price": "brak danych",
+    "model": "freemium_mobile"
+   }
+  ],
+  "market": "USA+CA+UK — szac. 500k+ aktywnych sprzedawców Cricut/Silhouette na Etsy, rynek ~$2B crafting supplies",
+  "demand": "r/cricut (1,4M członków), r/cricutexplore, r/EtsySellers — regularnie pytania o spreadsheet do wyceny vinyla; blog cuttingforbusiness.com z tysiącami czytelników",
+  "third_party": null
+ },
+ {
+  "niche": "stained_glass_cost_calculator",
+  "cluster": "maker_costing",
+  "gap": "Glass Eye 2000 to stare oprogramowanie CAD/design dla Windows (brak macOS/mobile), skupione na projektowaniu wzoru, kalkulator kosztów jest dodatkiem. Brak dedykowanej mobilnej appki robiącej TYLKO: inwentarz tafli szkła (kolor/typ/producent) + came metry + foil stopy + solder waga = koszt per projekt. Arkusze spreadsheet istnieją ale nie appka.",
+  "confidence": "M",
+  "killer_risk": "Glass Eye 2000 może wydać mobilną wersję; niszowy rynek może być zbyt mały dla ROI",
+  "found": [
+   {
+    "name": "Glass Eye 2000",
+    "url": "https://www.dfly.com",
+    "price": "$99-$395 one-time (edycje: Personal/Standard/Professional)",
+    "model": "one_time_desktop_Windows"
+   },
+   {
+    "name": "Lucent Glass pricing tool",
+    "url": "https://lucentglassandart.com/blogs/news/the-ultimate-pricing-tool-for-glass-artists",
+    "price": "brak danych (web/spreadsheet)",
+    "model": "free_web"
+   },
+   {
+    "name": "Kim Mathiot Magic Calculator",
+    "url": "https://www.kimmathiotglass.com/kimsglassroom/stainedglasspricingcalculator",
+    "price": "brak danych (download)",
+    "model": "brak danych"
+   },
+   {
+    "name": "BradstreetGlass spreadsheet",
+    "url": "https://www.bradstreetglass.com",
+    "price": "free spreadsheet",
+    "model": "free_spreadsheet"
+   }
+  ],
+  "market": "USA ~100k hobbyists + ~15k profesjonalnych artystów witrażowych; rynek niszowy ~$200M",
+  "demand": "Aktywna społeczność: r/StainedGlass (~85k), Glass Patterns Quarterly, Delphi Glass forums. Pytania o pricing regularne.",
+  "third_party": null
+ },
+ {
+  "niche": "leather_goods_costing_saddlery_holster",
+  "cluster": "maker_costing",
+  "gap": "Brak appki z wertykalną głębią: inwentarz skóry po sq.ft z wagą (oz) i typem garbarni (veg-tan/chrome), hardware (snaps/rivets/buckles) per sztuka, barwniki per ml. Log & Tracker to dziennik projektów bez kalkulacji kosztów. Sully & Proper = prosty kalkulator bez inwentarza. Leatherworker.net forum (forum z sekcją pricing) pokazuje niezaspokojony popyt na narzędzie.",
+  "confidence": "M",
+  "killer_risk": "Craft Maker Pro wystarczy dla prostych projektów; niszowy rynek, niski WTP",
+  "found": [
+   {
+    "name": "Sully & Proper Leather Calculator",
+    "url": "https://www.sullyandproper.supply/leather-calculator/leather-cost-calculator",
+    "price": "free web",
+    "model": "free_web"
+   },
+   {
+    "name": "Craft Maker Pro",
+    "url": "https://www.craftmakerpro.com",
+    "price": "~$150 one-time",
+    "model": "one_time_desktop_generyk"
+   },
+   {
+    "name": "Leather Craft Log & Tracker (iOS)",
+    "url": "https://apps.apple.com/ie/app/leather-craft-log-tracker/id6761112837",
+    "price": "brak danych",
+    "model": "brak danych_mobile"
+   },
+   {
+    "name": "Leather Craft Project Log (iOS)",
+    "url": "https://apps.apple.com/in/app/leather-craft-project-log/id6759046942",
+    "price": "brak danych",
+    "model": "brak danych_mobile"
+   }
+  ],
+  "market": "USA rynek skórzanych wyrobów rękodzielniczych ~$800M retail; ~200k aktywnych twórców",
+  "demand": "Leatherworker.net (aktywne forum, wątki o pricing holsters/saddles). r/Leathercraft ~250k. Pytania o wycenę regularne.",
+  "third_party": null
+ },
+ {
+  "niche": "resin_epoxy_jewelry_cost",
+  "cluster": "maker_costing",
+  "gap": "Jedyna dedykowana appka mobilna (Resin & Jesmonite Calculator) została WYCOFANA z App Store w lipcu 2024. Resin Calculator by ResinPro liczy objętość mieszanki, nie koszt sprzedaży. Web-kalkulatory są generyczne i bez inwentarza. Segment bez działającej mobilnej appki z inwentarzem żywic/pigmentów + wycena = realna luka.",
+  "confidence": "H",
+  "killer_risk": "Nowa appka może wejść szybko; web-kalkulatory wystarczają prostym twórcom; WTP umiarkowany",
+  "found": [
+   {
+    "name": "Resin and Jesmonite Calculator (iOS/Android — USUNIĘTA z App Store 07/2024)",
+    "url": "https://apps.apple.com/us/app/resin-and-jesmonite-calculator/id1522370169",
+    "price": "free + PRO sub (14-day trial)",
+    "model": "freemium_sub_WYCOFANA"
+   },
+   {
+    "name": "resincalculators.com",
+    "url": "https://resincalculators.com/resin-cost-calculator",
+    "price": "free web",
+    "model": "free_web"
+   },
+   {
+    "name": "craftcalc.com resin",
+    "url": "https://craftcalc.com/calculators/resin/cost",
+    "price": "free web",
+    "model": "free_web"
+   },
+   {
+    "name": "resincalculator.com",
+    "url": "https://resincalculator.com/craft-pricing-caclulator/",
+    "price": "free web",
+    "model": "free_web"
+   },
+   {
+    "name": "Resin Calculator by ResinPro (iOS)",
+    "url": "https://apps.apple.com/us/app/resin-calculator-by-resinpro/id1552555507",
+    "price": "brak danych",
+    "model": "brak danych_mobile"
+   }
+  ],
+  "market": "USA+Global, rynek żywicy dla rzemiosła ~$1B; dziesiątki tysięcy twórców biżuterii żywicznej",
+  "demand": "r/ResinCasting ~200k; r/jewelry ~700k; aktywne grupy FB resin art. Etsy spreadsheets do resin pricing sprzedawane. Popyt udowodniony.",
+  "third_party": null
+ },
+ {
+  "niche": "Voice bible (próbki+atrybuty głosu per postać — narratorzy/aktorzy dubbingu)",
+  "cluster": "per-client",
+  "gap": "Nie znaleziono żadnej dedykowanej apki 'voice bible' jako narzędzia produkcyjnego. Reżyserzy dubbingu używają Notion/Airtable/Word lub własnych spreadsheetów. Nisza istnieje (polskie super-produkcje Audio Bible z 500+ aktorami, seriale animowane, gry) ALE: rynek B2B ultra-niszowy, decyzje zakupowe w studiach produkcyjnych, nie solo-dev market. Brak App Store/Play Store konkurencji = słabo obsłużona nisza.",
+  "confidence": "L",
+  "killer_risk": "Bardzo mały rynek B2B; decydenci to studia a nie solo-kupujący; Notion/Airtable + custom spreadsheet rozwiązuje 80% potrzeby; low WTP jako one-time mobile app",
+  "found": [
+   {
+    "name": "Brak dedykowanej apki",
+    "url": "brak danych",
+    "price": "brak danych",
+    "model": "brak"
+   },
+   {
+    "name": "Speechify Studio (AI dubbing)",
+    "url": "https://speechify.com",
+    "price": "brak danych (subscription)",
+    "model": "SaaS AI"
+   },
+   {
+    "name": "Notion/Airtable (general notes)",
+    "url": "https://notion.so",
+    "price": "free–$16/mc",
+    "model": "SaaS general"
+   },
+   {
+    "name": "Dwell: Audio Bible",
+    "url": "https://apps.apple.com/us/app/dwell-audio-bible/id1343917374",
+    "price": "brak danych",
+    "model": "consumer app (nie narzędzie produkcyjne)"
+   }
+  ],
+  "market": "Niszowy: studia dubbingowe, producenci audiobooków, małe wytwórnie. Polska silna w produkcji dubbingowej (Netflix dubbing hub). Globalna brak danych.",
+  "demand": "Polska produkcja Audio Bible (500 aktorów, 10k statystów) — realne zapotrzebowanie na narzędzie organizacyjne. Brak Reddit/forum dyskusji o płatnym narzędziu.",
+  "third_party": null
+ },
+ {
+  "niche": "Immigration consultant client case log",
+  "cluster": "per-client",
+  "gap": "Wszystkie narzędzia są albo dla prawników (drogie SaaS $55+/mc), albo dla klientów śledzących własne sprawy (consumer apps). Doradcy imigracyjni (nie prawnicy, np. RCIC w Kanadzie, OISC w UK, MARA w Australii) to oddzielny segment regulacyjny — mają własne wymagania compliance (logi zmian, przechowywanie dokumentów wg norm regulatora). BRAK dedykowanej apki dla tej grupy. REAL_GAP z compliance angle.",
+  "confidence": "M",
+  "killer_risk": "Doradcy mogą używać Clio/Docketwise sub (jeśli pracują blisko prawników); Excel+Dropbox jako 'wystarczające'; regulatorzy mogą wymagać cloud audit trail, co podważa offline model",
+  "found": [
+   {
+    "name": "eimmigration (Cerenade)",
+    "url": "https://get.eimmigration.com",
+    "price": "$55–100/user/mc sub",
+    "model": "SaaS subscription"
+   },
+   {
+    "name": "Docketwise",
+    "url": "https://www.docketwise.com",
+    "price": "brak danych (SaaS)",
+    "model": "SaaS subscription"
+   },
+   {
+    "name": "LollyLaw",
+    "url": "https://lollylaw.com",
+    "price": "brak danych (SaaS)",
+    "model": "SaaS subscription"
+   },
+   {
+    "name": "Clio (immigration module)",
+    "url": "https://www.clio.com/practice-types/immigration-law-software",
+    "price": "od ~$49/mc sub",
+    "model": "SaaS subscription"
+   },
+   {
+    "name": "USCIS Case Tracker apps (consumer)",
+    "url": "https://apps.apple.com/us/app/uscis-immigration-case-tracker/id1435063223",
+    "price": "free/freemium",
+    "model": "consumer freemium"
+   },
+   {
+    "name": "ImmiCompliance",
+    "url": "https://immicompliance.com",
+    "price": "brak danych (SaaS)",
+    "model": "SaaS subscription"
+   }
+  ],
+  "market": "~13k licencjonowanych doradców imigracyjnych w CA/UK/AU; przeciętna opłata $2-5k/sprawa → wysoki ARPU klientów → WTP na narzędzie ~$100-300 jednorazowo",
+  "demand": "RCIC (Kanada) ~5000 licencjonowanych doradców, OISC (UK) ~3000, MARA (Australia) ~5000 — łącznie ~13k doradców z regulacyjnym przymusem dokumentacji; fora ICCRC/OISC mają pytania o narzędzia",
+  "third_party": null
+ },
+ {
+  "niche": "Process server log",
+  "cluster": "per-client",
+  "gap": "ServeManager to subscription $44+/mc — zbyt drogi dla solo process servera robiącego 20-30 doręczeń miesięcznie. Proof to marketplace (bierze prowizję), nie standalone log. Process Server Mobile i Mobile Agent mają nieznane ceny i model. Luka: standalone offline one-time apka dla solo independent server z GPS proof + photo + affidavit export bez sub. Compliance angle: affidavit of service ma wymogi prawne per stanowe/krajowe → deliverable to rekord regulacyjny.",
+  "confidence": "M",
+  "killer_risk": "ServeManager dominuje agencje (polecają swoim serverom); stanowe przepisy mogą wymagać konkretnych formatów affidavit co fragmentuje rynek; app musi być aktualizowana per stanowe wymogi",
+  "found": [
+   {
+    "name": "ServeManager",
+    "url": "https://www.servemanager.com",
+    "price": "$44–169/mc sub (per job tier)",
+    "model": "SaaS subscription"
+   },
+   {
+    "name": "Proof: Process Server",
+    "url": "https://apps.apple.com/us/app/proof-process-server/id1322698675",
+    "price": "$75/serve (marketplace model)",
+    "model": "marketplace per-serve"
+   },
+   {
+    "name": "Process Server Mobile",
+    "url": "https://apps.apple.com/us/app/process-server-mobile/id840284343",
+    "price": "brak danych",
+    "model": "unknown"
+   },
+   {
+    "name": "Mobile Agent for Process Servers",
+    "url": "https://apps.apple.com/us/app/mobile-agent-for-process-servers/id1109083588",
+    "price": "brak danych",
+    "model": "unknown"
+   },
+   {
+    "name": "EzServe / state-specific tools",
+    "url": "brak danych",
+    "price": "brak danych",
+    "model": "unknown"
+   }
+  ],
+  "market": "~30k process serverów USA, ~5k UK, ~3k AU; solo operatorzy ~60% rynku; WTP $50-150 one-time na offline tool",
+  "demand": "serve-now.com artykuł 'Apps Every Process Server Should Have' → aktywna społeczność szukająca narzędzi; ~30k process serverów w USA (BLS)",
+  "third_party": null
+ }
+]
