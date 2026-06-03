@@ -51428,6 +51428,2807 @@
    "durability": 5,
    "reach": 3,
    "demand": 2
+  },
+  {
+   "id": "X3149",
+   "name": "enamel-jewelry-cost",
+   "verdict": "SKIP",
+   "competitors": [
+    "CraftCalc Jewelry Pricing",
+    "JewelCraft Calculate (iOS)",
+    "Arts of Sam Jewelry Calc",
+    "Eni Oken Price Calculator",
+    "CrestButteCBJS free app",
+    "Continental Bead Suppliers calc",
+    "Flourish & Thrive Bundle",
+    "craftcalc.com"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3151",
+   "name": "lampwork-glass-beads-cost",
+   "verdict": "BUILD",
+   "competitors": [
+    "Craftybase craft-calc (generic)",
+    "UseCalcPro kumihimo/cord calc (partial)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3153",
+   "name": "fused-glass-recipe-cost",
+   "verdict": "BUILD",
+   "competitors": [
+    "WarmGlass.com forum formulas (no app)",
+    "Lucent Glass stained-glass calc (different niche)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3155",
+   "name": "mosaic-pricing",
+   "verdict": "MAYBE",
+   "competitors": [
+    "Craftybase craft-calc (generic)",
+    "Craft Price Calculator (iOS, generic)",
+    "Craft Calculators 127 spreadsheets"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X3157",
+   "name": "polymer-clay-cost",
+   "verdict": "MAYBE",
+   "competitors": [
+    "ClayCaulculators.com ceramics pricer",
+    "ideasdecor.shop free calc",
+    "Craftybase craft-calc",
+    "CraftCalc pottery guide"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3159",
+   "name": "air-dry-clay-self-hardening",
+   "verdict": "BUILD",
+   "competitors": [
+    "ClayCaculators.com (kiln-focused, poor fit)",
+    "Craftybase craft-calc (generic)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X3161",
+   "name": "cold-porcelain",
+   "verdict": "BUILD",
+   "competitors": [
+    "ClayCaculators.com (kiln-focused, poor fit)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3163",
+   "name": "wax-carving-sculpture-cost",
+   "verdict": "MAYBE",
+   "competitors": [
+    "Cire Perdue iOS app (educational, not cost calc)",
+    "Castimize instant quote (B2B service, not DIY)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3165",
+   "name": "lost-wax-casting-jewelry",
+   "verdict": "MAYBE",
+   "competitors": [
+    "Castimize instant-quote platform",
+    "Premier Jewelry Casting charts",
+    "JewelCraft Calculate (iOS)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3167",
+   "name": "pewter-tin-casting",
+   "verdict": "BUILD",
+   "competitors": [
+    "Craftybase craft-calc (generic only)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3169",
+   "name": "bead-loom-cost",
+   "verdict": "MAYBE",
+   "competitors": [
+    "Beadographer (pattern+inventory, sub $14.99/yr)",
+    "Beadloo (bead qty calc, free tier)",
+    "Loomerly (pattern, one-time iOS)",
+    "Craftybase craft-calc"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3171",
+   "name": "kumihimo-cost",
+   "verdict": "BUILD",
+   "competitors": [
+    "UseCalcPro kumihimo cord-length calc (free, no costing)",
+    "Atelier Miyabi simulator (design only)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3173",
+   "name": "tatting-frivolite",
+   "verdict": "BUILD",
+   "competitors": [
+    "Craftybase craft-calc (generic only)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3175",
+   "name": "bobbin-lace",
+   "verdict": "BUILD",
+   "competitors": [
+    "LACE 8 design software ($169, not cost calc)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3177",
+   "name": "wet-felting-cost",
+   "verdict": "MAYBE",
+   "competitors": [
+    "Craftybase craft-calc (generic)",
+    "Craft Price Calculator (iOS, generic)",
+    "craftpricingcalculator.com (generic)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3179",
+   "name": "rug-hooking-punch-needle",
+   "verdict": "BUILD",
+   "competitors": [
+    "Craft Calculators 127 spreadsheets (generic)",
+    "Craftybase craft-calc (generic)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3181",
+   "name": "salt-dough-cost",
+   "verdict": "SKIP",
+   "competitors": [
+    "Craftybase craft-calc",
+    "Craft Pricing Calculator (iOS)",
+    "Craft Price Calculator (iOS)",
+    "craftpricingcalculator.com",
+    "Craft Calculators spreadsheets"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 3,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X3183",
+   "name": "art-glass-stained-glass-cost",
+   "verdict": "SKIP",
+   "competitors": [
+    "Lucent Glass Stained Glass Pricing Calculator (spreadsheet $)",
+    "Stained Glass Pricing Pro – Kim Mathiot Glass",
+    "BradstreetGlass spreadsheet",
+    "Etsy Stained Glass Price Pro Calculator",
+    "Millennium Art Glass estimate page"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3185",
+   "name": "encaustic-wax-painting-cost",
+   "verdict": "BUILD",
+   "competitors": [
+    "All Things Encaustic free spreadsheet download",
+    "ArtistHu Art Pricing Calculator (generic)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3187",
+   "name": "decoupage-cost",
+   "verdict": "SKIP",
+   "competitors": [
+    "DUPLICATE – already covered"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "none",
+   "durability": 0,
+   "reach": 0,
+   "demand": 0
+  },
+  {
+   "id": "X3189",
+   "name": "resin-jewelry-cost",
+   "verdict": "SKIP",
+   "competitors": [
+    "DUPLICATE – already covered"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "none",
+   "durability": 0,
+   "reach": 0,
+   "demand": 0
+  },
+  {
+   "id": "X3191",
+   "name": "ceramics-kiln-firing-cost",
+   "verdict": "SKIP",
+   "competitors": [
+    "DUPLICATE – already covered"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "none",
+   "durability": 0,
+   "reach": 0,
+   "demand": 0
+  },
+  {
+   "id": "X3193",
+   "name": "Nursery Staff-Child Ratio Monitor",
+   "verdict": "niche – real compliance need, but absorbed by Brightwheel/Parenta/Connect Childcare; standalone ratio-only tool hard to justify",
+   "competitors": [
+    "Brightwheel",
+    "Parenta",
+    "Connect Childcare",
+    "PebbleDesk"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3195",
+   "name": "Preschool Daily Child Report",
+   "verdict": "saturated – Daily Connect $8.99/mo, MyKidReports free tier, Brightwheel all cover this; margin-thin, high churn",
+   "competitors": [
+    "Daily Connect",
+    "MyKidReports",
+    "Brightwheel",
+    "Famly"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3197",
+   "name": "School Attendance Register",
+   "verdict": "overcrowded with free options (Jibble free, eSkooly free, OneTap free); no pricing floor, extremely hard to monetise",
+   "competitors": [
+    "Jibble",
+    "eSkooly",
+    "OneTap",
+    "Team Satchel"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 4,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3199",
+   "name": "School Allergy & Medication Log",
+   "verdict": "promising gap – school-specific allergy+medication log is underserved vs. generic daycare software; one-time PDF kit viable at $8–14",
+   "competitors": [
+    "Brightwheel (partial)",
+    "MedicalTracker",
+    "SchoolDoc"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3201",
+   "name": "EYFS Observation Tracker (UK)",
+   "verdict": "competitive UK niche with Tapestry dominant; smaller settings may buy a cheaper one-time kit, but Tapestry ~£1/child/mo is the ceiling",
+   "competitors": [
+    "Tapestry",
+    "Evidence Me",
+    "Kinderly",
+    "Edna",
+    "Parenta Footsteps2"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3203",
+   "name": "School Fire/Emergency Drill Log",
+   "verdict": "good fit – Raptor DrillManager is enterprise-priced; a simple $10 one-time compliance log for single schools has clear white space",
+   "competitors": [
+    "Raptor DrillManager",
+    "Kissflow (generic)",
+    "Twinkl (template)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3205",
+   "name": "Safeguarding Concern Log",
+   "verdict": "regulated niche with several dedicated UK providers; MyConcern/RecordMy dominate; one-time kit viable only for very small settings",
+   "competitors": [
+    "MyConcern",
+    "RecordMy",
+    "SHARP System",
+    "Securus"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3207",
+   "name": "Student Behaviour Incident Register",
+   "verdict": "strong US market (Raptor PublicSchoolWORKS, LiveSchool, Panorama) but pricing starts low ($2.29/yr); one-time offline register has niche among UK/AU primary schools",
+   "competitors": [
+    "Raptor PublicSchoolWORKS",
+    "LiveSchool",
+    "Panorama",
+    "Bloomz"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3209",
+   "name": "School Accident/Injury Book (Digital)",
+   "verdict": "clear gap – paper accident books still common in UK schools; MedicalTracker and FirstAidForms exist but are sub-based; a $10–15 offline digital log hits sweet spot",
+   "competitors": [
+    "MedicalTracker",
+    "FirstAidForms",
+    "SGWorld"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3211",
+   "name": "School Trip Risk Assessment Form",
+   "verdict": "decent niche – eduTrips (UK) and Xcursion cover this but at subscription pricing; standalone RA template kit at $8–12 viable for small schools",
+   "competitors": [
+    "eduTrips",
+    "Xcursion",
+    "TrackMyRisks",
+    "CompliSpace"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3213",
+   "name": "School Cleaning Audit Checklist",
+   "verdict": "well-covered by GoAudits, OrangeQC, SafetyCulture free templates; commoditised, difficult to differentiate beyond free",
+   "competitors": [
+    "GoAudits",
+    "OrangeQC",
+    "SafetyCulture",
+    "CleanTelligent"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one_time",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X3215",
+   "name": "School HACCP Kitchen Record",
+   "verdict": "skip – duplicate flagged by user",
+   "competitors": [],
+   "n": 0,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 0,
+   "reach": 0,
+   "demand": 0
+  },
+  {
+   "id": "X3217",
+   "name": "SEN/Special Needs Register",
+   "verdict": "Tes Engage and IDL cover this at school level; one-time SEN register template viable for small independent schools at $10–15",
+   "competitors": [
+    "Tes Engage",
+    "IDL",
+    "PowerSchool",
+    "Frontline"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3219",
+   "name": "Student Attendance / Absence Diary",
+   "verdict": "distinct from register – a personal daily diary format for tracking patterns is lightly served; one-time kit at $8–12 valid for small/home-ed settings",
+   "competitors": [
+    "Jibble",
+    "SchoolCues",
+    "OneTap"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3221",
+   "name": "Playground Safety Inspection Log",
+   "verdict": "skip – duplicate flagged by user",
+   "competitors": [],
+   "n": 0,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 0,
+   "reach": 0,
+   "demand": 0
+  },
+  {
+   "id": "X3223",
+   "name": "After-School Club / Wraparound Attendance",
+   "verdict": "covered by Brightwheel/MyKidzDay/Daily Connect; narrower after-school focus is lightly served, one-time register kit plausible for small clubs",
+   "competitors": [
+    "Brightwheel",
+    "MyKidzDay",
+    "Daily Connect",
+    "Playground"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3225",
+   "name": "School Bus / Transport Passenger List",
+   "verdict": "GPS-focused vendors (SchoolBusTracker, Transfinder, Edulog) dominate; simple offline boarding list for small operators has gap at $8–12",
+   "competitors": [
+    "SchoolBusTracker",
+    "Transfinder",
+    "Edulog",
+    "BusBoss"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3227",
+   "name": "Teacher Duty / Supervision Rota",
+   "verdict": "Deputy, Findmyshift ($27/mo), and general scheduling tools cover this; one-time rota template kit is weak proposition vs. free options",
+   "competitors": [
+    "Deputy",
+    "Findmyshift",
+    "Teach'n Go",
+    "Setmore"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one_time",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X3229",
+   "name": "School Library Log",
+   "verdict": "skip – duplicate flagged by user",
+   "competitors": [],
+   "n": 0,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 0,
+   "reach": 0,
+   "demand": 0
+  },
+  {
+   "id": "X3231",
+   "name": "School Nurse / Health Room Visit Log",
+   "verdict": "strong niche – SchoolDoc, SNAP Health, Frontline are all expensive EHR subs; a simple $10–15 offline daily visit log serves small/independent schools well",
+   "competitors": [
+    "SchoolDoc",
+    "SNAP Health",
+    "EduHealth",
+    "Frontline Education"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3233",
+   "name": "School Swimming Pool Supervision Log",
+   "verdict": "very niche but near-zero dedicated tools; DigiQuatics is aquatics-centre focused; a $10 pool-session supervision log for school pools is genuinely unserved",
+   "competitors": [
+    "DigiQuatics",
+    "PoolShark H2O",
+    "SwimSchool Pro"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3235",
+   "name": "School Gym / PE Equipment Inspection Log",
+   "verdict": "good fit – Facilitron FIT is enterprise K-12; GoAudits generic; a $10–15 one-time gym equipment inspection log for PE departments is underserved",
+   "competitors": [
+    "Facilitron FIT",
+    "GoAudits",
+    "eAuditor",
+    "Xenia"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3237",
+   "name": "Housekeeping room inspection",
+   "verdict": "crowded-sub",
+   "competitors": [
+    "GoAudits",
+    "Xenia",
+    "SafetyCulture/iAuditor",
+    "Snapfix",
+    "Innspector",
+    "eAuditor"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3239",
+   "name": "Hotel maintenance/konserwacja log",
+   "verdict": "crowded-sub",
+   "competitors": [
+    "Snapfix",
+    "Xenia",
+    "Flexkeeping",
+    "OxMaint",
+    "Hotelogix"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3241",
+   "name": "Bar – czyszczenie linii piwnych log",
+   "verdict": "niche-gap",
+   "competitors": [
+    "LineTrak (OnTrak)",
+    "VerifyClean (Qualflow)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3243",
+   "name": "Deep clean kuchni – harmonogram",
+   "verdict": "generic-tools",
+   "competitors": [
+    "SafetyCulture",
+    "GoAudits",
+    "eAuditor",
+    "GoCanvas"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3245",
+   "name": "Pranie/linen – rozliczenie",
+   "verdict": "rfid-heavy",
+   "competitors": [
+    "LinenTech",
+    "SMARTLINEN",
+    "LinenIQ",
+    "HID Acuity"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3247",
+   "name": "Minibar – uzupełnianie log",
+   "verdict": "niche-gap",
+   "competitors": [
+    "BoxHero",
+    "WISK (bar focus)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3249",
+   "name": "Siłownia hotelowa – przegląd sprzętu",
+   "verdict": "niche-gap",
+   "competitors": [
+    "GoAudits (template)",
+    "eAuditor (template)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3251",
+   "name": "Sauna – log temperatura/czyszczenie",
+   "verdict": "whitespace",
+   "competitors": [
+    "eAuditor (generic template)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X3253",
+   "name": "Recepcja – zmiana/kasa log",
+   "verdict": "niche-gap",
+   "competitors": [
+    "ShiftForce/ShiftNote",
+    "CheddrSuite",
+    "7shifts"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3255",
+   "name": "Restauracja – otwarcie/zamknięcie checklist",
+   "verdict": "crowded-free",
+   "competitors": [
+    "SafetyCulture",
+    "GoAudits",
+    "eAuditor",
+    "OpsAnalitica",
+    "Jolt"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 5,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X3257",
+   "name": "Room service – zamówienia log",
+   "verdict": "erp-dominated",
+   "competitors": [
+    "STAY App",
+    "Hungrrr",
+    "GuestBell",
+    "Mews PMS"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3259",
+   "name": "Konferencje – setup sali checklist",
+   "verdict": "generic-tools",
+   "competitors": [
+    "SafetyCulture",
+    "GoAudits",
+    "Jotform"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3261",
+   "name": "Śniadania – bufet uzupełnianie log",
+   "verdict": "whitespace",
+   "competitors": [
+    "GoAudits (generic)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3263",
+   "name": "Ogród hotelowy – konserwacja log",
+   "verdict": "whitespace",
+   "competitors": [
+    "Generic CMMS (Xenia)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X3265",
+   "name": "Parking – rejestr wjazdów/wyjazdów",
+   "verdict": "erp-dominated",
+   "competitors": [
+    "Parkade",
+    "ParkingBOXX",
+    "ParkingPass",
+    "Anolla"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3267",
+   "name": "Zgubione i znalezione – log",
+   "verdict": "free-competition",
+   "competitors": [
+    "Chargerback",
+    "Deliverback",
+    "iLeftMyStuff",
+    "RepoApp"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3269",
+   "name": "Skargi gości – log",
+   "verdict": "crm-generic",
+   "competitors": [
+    "Xenia",
+    "Hotelogix",
+    "Shiftforce",
+    "Jotform"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3271",
+   "name": "Dostawcy – przyjęcia towaru log",
+   "verdict": "niche-gap",
+   "competitors": [
+    "GoAudits (template)",
+    "SafetyCulture (template)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3273",
+   "name": "Magazyn F&B – rotacja FIFO log",
+   "verdict": "niche-gap",
+   "competitors": [
+    "FoodDocs",
+    "MarketMan",
+    "BlueCart"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3275",
+   "name": "Klucze/karty – wydania log",
+   "verdict": "whitespace",
+   "competitors": [
+    "Jotform (template only)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3277",
+   "name": "PPOŻ hotel – obchód/inspekcja log",
+   "verdict": "generic-inspect",
+   "competitors": [
+    "SafetyCulture",
+    "Inspect Point",
+    "GoCanvas",
+    "PlanRadar"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3279",
+   "name": "Snapfix hotel CMMS (benchmark)",
+   "verdict": "crowded-sub",
+   "competitors": [
+    "Snapfix",
+    "Xenia",
+    "Flexkeeping",
+    "Hotelogix",
+    "Quore"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3281",
+   "name": "ND Filter / Long Exposure Calculator",
+   "verdict": "skip",
+   "competitors": [
+    "LExp",
+    "ND Filter Expert",
+    "NiSi App",
+    "ND Calculator (Android)",
+    "PhotoPills"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3283",
+   "name": "Timelapse Interval Calculator",
+   "verdict": "skip",
+   "competitors": [
+    "PhotoPills Timelapse",
+    "Time-lapse Calculator (App Store)",
+    "LRTimelapse"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3285",
+   "name": "Hyperfocal / Depth of Field Calculator",
+   "verdict": "skip",
+   "competitors": [
+    "PhotoPills ($10.99)",
+    "pCAM Pro ($10.99)",
+    "Simple DoF Calculator",
+    "DOFMaster",
+    "Depth of Field Calculator (App Store)"
+   ],
+   "n": 10,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X3287",
+   "name": "Flash Guide Number (GN) Calculator",
+   "verdict": "maybe",
+   "competitors": [
+    "Manual Flash Calculator",
+    "PhotographyCalc",
+    "PhotoCalc",
+    "Flash Photography Adviser"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3289",
+   "name": "Color Temperature / White Balance Calculator",
+   "verdict": "maybe",
+   "competitors": [
+    "KEV White Balance Meter AI",
+    "White Balance Kelvin Meter",
+    "LightSpectrum Pro ($1.99)",
+    "Colour Temperature & Lux Meter Bundle"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3291",
+   "name": "Frame Rate / Shutter Angle Calculator",
+   "verdict": "maybe",
+   "competitors": [
+    "FLICKERfree Calculator",
+    "Shutter-Speed-Angle (App Store)",
+    "Over|Under",
+    "pCAM Pro"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3293",
+   "name": "Bitrate / SD Card Storage Calculator",
+   "verdict": "build",
+   "competitors": [
+    "MemoryCardCalculator.com (web only)",
+    "StoredBits (web only)",
+    "SanDisk web tool"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3295",
+   "name": "Video Render Time Estimator",
+   "verdict": "maybe",
+   "competitors": [
+    "RenderCalc (App Store)",
+    "Render Monitor (App Store)",
+    "CG Nodes app",
+    "RenderTime.app (web)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3297",
+   "name": "Audio Bit Budget Calculator",
+   "verdict": "build",
+   "competitors": [
+    "Audiofile Calc (App Store)",
+    "Bit Bandit (free)",
+    "Omni Calculator (web)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3299",
+   "name": "LUFS / Loudness Calculator",
+   "verdict": "skip",
+   "competitors": [
+    "Youlean Loudness Meter Lite",
+    "Loudness.app",
+    "MAZTR (web)",
+    "SoundBoost LUFS Meter (web)",
+    "Process.audio Decibel"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3301",
+   "name": "Delay / Reverb Time Calculator (BPM-synced)",
+   "verdict": "skip",
+   "competitors": [
+    "Delay & Reverb Calculator (Another Producer)",
+    "Reverb & Delay Calculator (App Store)",
+    "delayreverbcalculator.com",
+    "nickfever.com (web)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3303",
+   "name": "BPM Tap Tempo Calculator",
+   "verdict": "skip",
+   "competitors": [
+    "Built into DAWs",
+    "bpm-calculator.utils.com (web)",
+    "dozens of free tap-tempo apps"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3305",
+   "name": "Sample Rate Conversion Calculator",
+   "verdict": "skip",
+   "competitors": [
+    "r8brain (free desktop)",
+    "Audacity",
+    "online converters (Aconvert, SoundBoost)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3307",
+   "name": "DOF Macro / Close-Up Calculator",
+   "verdict": "maybe",
+   "competitors": [
+    "Simple DoF Calculator",
+    "Depth Of Field Calculator (App Store)",
+    "PhotoPills ($10.99)",
+    "Field Tools (free iOS)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3309",
+   "name": "Panorama Overlap Calculator",
+   "verdict": "maybe",
+   "competitors": [
+    "Panorama Calculator Pro (App Store)",
+    "PanoCalc (web)",
+    "PanoTool (web)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3311",
+   "name": "Focus Stacking Steps Calculator",
+   "verdict": "build",
+   "competitors": [
+    "DOFMaster (web/mobile, basic)",
+    "Android DOF app by Sachs (free, mentions stacking)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3313",
+   "name": "Gimbal Balance Calculator",
+   "verdict": "skip",
+   "competitors": [
+    "Gimbal manufacturer apps (DJI, Zhiyun, Moza — proprietary)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3315",
+   "name": "Slider Motion Speed Calculator",
+   "verdict": "build",
+   "competitors": [
+    "GVM Slider app (OEM only)",
+    "SliderONE app (OEM only)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3317",
+   "name": "Green Screen Lighting Calculator",
+   "verdict": "maybe",
+   "competitors": [
+    "Green Screener (App Store, paid)",
+    "KeyLight PRO (App Store)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3319",
+   "name": "Motion Blur / Shutter Speed Calculator",
+   "verdict": "skip",
+   "competitors": [
+    "LExp",
+    "Long Exposure Calculator",
+    "ND Filter Expert",
+    "PhotoPills"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3321",
+   "name": "Aspect Ratio / Crop Calculator",
+   "verdict": "skip",
+   "competitors": [
+    "Adobe Express (free)",
+    "Canva (freemium)",
+    "Imagy (web free)",
+    "PhotoDirector",
+    "VSCO"
+   ],
+   "n": 9,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3323",
+   "name": "Data Wrangling / 3-2-1 Backup Calculator",
+   "verdict": "build",
+   "competitors": [
+    "Hedge OffShoot (paid desktop)",
+    "YoYotta (paid desktop)",
+    "Pomfort Silverstack (paid desktop)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3325",
+   "name": "fabric-yardage",
+   "verdict": "SKIP",
+   "competitors": [
+    "Sailrite Fabric Calculator",
+    "OmniCalculator Fabric",
+    "Yardage Calc 2 (iOS)",
+    "FinanceNS Fabric Yardage"
+   ],
+   "n": 12,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X3327",
+   "name": "pattern-grading",
+   "verdict": "MAYBE",
+   "competitors": [
+    "CalculatorCollection Pattern Grading",
+    "Patterngrader.com",
+    "Techpacker auto-grading",
+    "Seamly2D (free OSS)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3329",
+   "name": "seam-allowance",
+   "verdict": "SKIP",
+   "competitors": [
+    "QuiltCalc Seam Allowance",
+    "FoundTheTool seam-allowance",
+    "converterslab.com",
+    "mamad.purbo iOS app (OSS)"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X3331",
+   "name": "gathering-pleats-ratio",
+   "verdict": "MAYBE",
+   "competitors": [
+    "pleatcalculator.web.app (+ Google Play TWA)",
+    "SeamWhisperer Pleating Calc",
+    "OmniCalculator Pleated Skirt",
+    "SewCalcs Pleat Calc"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3333",
+   "name": "dart-calculator",
+   "verdict": "GO",
+   "competitors": [
+    "Charnold Bust Dart Calc",
+    "VibhasFashion Blouse Dart",
+    "anicka.design (tutorial-based)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3335",
+   "name": "ease-allowance",
+   "verdict": "MAYBE",
+   "competitors": [
+    "Craftematics ease guide",
+    "ToolsRail Pattern Size Calc",
+    "PatternReview forums"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3337",
+   "name": "zipper-selector",
+   "verdict": "GO",
+   "competitors": [
+    "converterslab Zipper Size Calc",
+    "sewsketchy 5-step zipper length",
+    "Zipper Shipper size guide"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3339",
+   "name": "elastic-length",
+   "verdict": "GO",
+   "competitors": [
+    "GoPathToMillions Elastic Calc",
+    "ApostrophePatterns Elastic Waistband Calc"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3341",
+   "name": "bias-tape",
+   "verdict": "MAYBE",
+   "competitors": [
+    "Calculator Academy Bias Tape",
+    "FabricFringe Bias Tape Calc",
+    "TheSeamanMom bias calc",
+    "Designed to Quilt Bias Binding"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3343",
+   "name": "smocking-calculator",
+   "verdict": "GO",
+   "competitors": [
+    "elizabethancostume.net smock pattern generator (old, costume-focused)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3345",
+   "name": "embroidery-thread-usage",
+   "verdict": "MAYBE",
+   "competitors": [
+    "TextileApex embroidery thread calc",
+    "XStitch Calculator (iOS)",
+    "CalcDomain embroidery calc",
+    "A&E Thread Consumption"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3347",
+   "name": "dye-bath-ratio",
+   "verdict": "GO",
+   "competitors": [
+    "TextileApex Dyeing Recipe Calc",
+    "Dharma Trading dye estimator",
+    "Rit Dye Color Calculator",
+    "agentcalc Fabric Dye Concentration"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3349",
+   "name": "shrinkage-calculator",
+   "verdict": "MAYBE",
+   "competitors": [
+    "SmartPatternMaking Shrinkage Calc",
+    "TextileCalculator Shrinkage",
+    "GrammySews Shrinkage",
+    "Textile Pro Calculator (Android)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3351",
+   "name": "pattern-layout-nesting",
+   "verdict": "GO",
+   "competitors": [
+    "Patternsmith (pro CAD, paid)",
+    "Seamly2D (OSS)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3353",
+   "name": "hem-calculator",
+   "verdict": "MAYBE",
+   "competitors": [
+    "SewingKnit Hemming Calc",
+    "converterslab Hem Length Calc",
+    "Circle Skirt Calculator (iOS)",
+    "anicka.design circle skirt"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3355",
+   "name": "box-pleat-kontrafald",
+   "verdict": "MAYBE",
+   "competitors": [
+    "SewCalcs Pleat Calc (box+inverted)",
+    "pleatcalculator.web.app",
+    "OmniCalculator Pleated Skirt",
+    "SeamWhisperer"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3357",
+   "name": "pattern-matching-repeat",
+   "verdict": "GO",
+   "competitors": [
+    "Dart sewing pattern matching calc",
+    "Sew-Helpful half-drop repeat calc",
+    "CalculatorsHub Fabric Repeat"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3359",
+   "name": "lining-yardage",
+   "verdict": "SKIP",
+   "competitors": [
+    "OmniCalculator Fabric",
+    "Sailrite Fabric Calc",
+    "Yardage Calc 2",
+    "ReadyCalculator (lining tab)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X3361",
+   "name": "batting-quilting",
+   "verdict": "SKIP",
+   "competitors": [
+    "Designed to Quilt / Quilt Geek app",
+    "QuiltingCalc (iOS)",
+    "Quilter's Paradise Batting Calc",
+    "CraftCalc batting"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3363",
+   "name": "size-chart-table",
+   "verdict": "MAYBE",
+   "competitors": [
+    "ToolsRail Sewing Pattern Size Calc",
+    "CalculatorCollection Pattern Grading",
+    "Patterngrader.com"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3365",
+   "name": "tailoring-margin",
+   "verdict": "GO",
+   "competitors": [
+    "CraftsTrack Craft Pricing Calc",
+    "MyDesignsInTheChaos Pricing Calc",
+    "ToolsRail Tailoring Cost Estimator"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3367",
+   "name": "notions-haberdashery",
+   "verdict": "GO",
+   "competitors": [
+    "no dedicated standalone app found; general sewing apps (Sewing Directory list) include partial tracking"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3369",
+   "name": "curtain-tape-gathering",
+   "verdict": "SKIP",
+   "competitors": [
+    "Curtain Calculator (iOS, AppStore)",
+    "Sew-Helpful Curtain Fabric Calc",
+    "Sailrite window curtains calc",
+    "Livingstone Textiles fullness calc",
+    "Claire Holmes Curtain/Drapes app"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3371",
+   "name": "recipe_scaling",
+   "verdict": "crowded – Paprika $4.99, Recipe Scaler App free, meez sub; pure scaler has no moat",
+   "competitors": [
+    "Paprika",
+    "Recipe Scaler App",
+    "meez",
+    "Recipe Keeper Pro"
+   ],
+   "n": 6,
+   "free_sub": false,
+   "model": "paid_one_time",
+   "durability": 5,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X3373",
+   "name": "brine_ratio",
+   "verdict": "niche winner – Brine! app paid (Tastelab), web tools free; mobile offline gap exists",
+   "competitors": [
+    "Brine! by Tastelab",
+    "BrineCalculators.com (web)",
+    "destination-bbq.com (web)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "paid_one_time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3375",
+   "name": "sous_vide_time_temp",
+   "verdict": "moderate competition – Sous Vide Timing Ruler (one-time), Underbelly app; thickness calc underserved",
+   "competitors": [
+    "Sous Vide Timing Ruler",
+    "Sous Vide °Celsius",
+    "iVide",
+    "Amazing Food Made Easy app"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "paid_one_time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3377",
+   "name": "sourdough_proofing",
+   "verdict": "crowded free tier – Flourwise free, proofit free, Loaflo free; paid gap tiny",
+   "competitors": [
+    "Flourwise",
+    "proofit",
+    "Loaflo",
+    "DoughRight"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X3379",
+   "name": "macro_nutrition_per_recipe",
+   "verdict": "very crowded subscriptions – MyFitnessPal, Cronometer, RecipeIQ; one-time purchase gap possible",
+   "competitors": [
+    "MyFitnessPal",
+    "Cronometer",
+    "MacroFactor",
+    "RecipeIQ",
+    "Nutrition Facts Maker"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 4,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X3381",
+   "name": "ice_cream_PAC_POD",
+   "verdict": "strong gap – icecreamcalc.com is web-only Windows SW; no dedicated mobile offline app found",
+   "competitors": [
+    "icecreamcalc.com (web)",
+    "icecreamcalc.app (web)",
+    "Dream Scoops (web)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "paid_one_time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3383",
+   "name": "chocolate_tempering_curve",
+   "verdict": "no dedicated app found – only PDF charts from Callebaut/Guittard; clear blue-ocean mobile gap",
+   "competitors": [
+    "Callebaut PDF charts",
+    "Guittard PDF charts"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid_one_time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3385",
+   "name": "sugar_stages_candy",
+   "verdict": "thin app coverage – My Kitchen Calculator includes it incidentally; UseCalcPro web-only; standalone gap",
+   "competitors": [
+    "My Kitchen Calculator (iOS)",
+    "UseCalcPro (web)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "paid_one_time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3387",
+   "name": "meat_roasting_time",
+   "verdict": "well covered – Simple Roast (free+premium), Time to Roast, Roast Calc all exist; low differentiation",
+   "competitors": [
+    "Simple Roast",
+    "Time to Roast",
+    "Roast Calc",
+    "Cook Times Calculator"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3389",
+   "name": "meat_smoking_time",
+   "verdict": "moderate – MeatSmokingCalculator web, Smokin Log Android, ThermoPro HW-tied; standalone offline gap",
+   "competitors": [
+    "MeatSmokingCalculator (web)",
+    "Smokin Log BBQ Journal",
+    "ThermoPro BBQ (HW-tied)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "paid_one_time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3391",
+   "name": "ganache_proportions",
+   "verdict": "web-only tools only – Miss Vickie, Handy Chefdom, CakeFlix all web; no dedicated mobile app",
+   "competitors": [
+    "MissVickie ganache calc (web)",
+    "Chef Jungstedt calc (web)",
+    "theganacherator (web)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "paid_one_time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3393",
+   "name": "caramel_temperature",
+   "verdict": "no dedicated app – sugar stages folded into generic kitchen apps; niche but narrow audience",
+   "competitors": [
+    "UseCalcPro candy calc (web)",
+    "My Kitchen Calculator (partial)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "paid_one_time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3395",
+   "name": "yeast_dough_proofing",
+   "verdict": "competitive – Yeasto (freemium), PizzApp+ free, Rise free; pizza-focused but general bread underserved",
+   "competitors": [
+    "Yeasto",
+    "PizzApp+",
+    "Rise",
+    "Ooni app",
+    "Flourwise"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X3397",
+   "name": "breading_coating_yield",
+   "verdict": "no dedicated app – buried in food-cost platforms (meez, CookKeepBook); focused offline tool gap",
+   "competitors": [
+    "meez (pro platform)",
+    "CookKeepBook (web SaaS)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "paid_one_time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3399",
+   "name": "agar_gelatin_proportions",
+   "verdict": "web-only – Cape Crystal Brands hydrocolloid calc (web); no mobile app; niche but stable demand",
+   "competitors": [
+    "Cape Crystal hydrocolloid calc (web)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid_one_time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3401",
+   "name": "sauce_reduction_volume",
+   "verdict": "not found as dedicated tool – generic KitchenCalc Pro covers unit math; specific reduction calc gap",
+   "competitors": [
+    "KitchenCalc Pro (partial)",
+    "Culinary Calculator Pro (partial)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "paid_one_time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3403",
+   "name": "cocktail_ABV",
+   "verdict": "covered – Cocktail Calculator Pro (one-time unlock), Bevnap (no sub), ABV Calculator free; market filled",
+   "competitors": [
+    "Cocktail Calculator Pro",
+    "Bevnap",
+    "ABV Calculator",
+    "Alcohol Calculator+"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "paid_one_time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3405",
+   "name": "syrup_brix",
+   "verdict": "thin mobile – Brix Refractometer app iOS exists; Universal Syrup Calculator web-only; partial gap",
+   "competitors": [
+    "Brix Refractometer app (iOS)",
+    "syrupmath.com (web)",
+    "jeffreymorgenthaler.com calc (web)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "paid_one_time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3407",
+   "name": "cake_pan_size_conversion",
+   "verdict": "web saturated (Omni, Symbolab, 10+ sites) but no dedicated standalone mobile app; simple to build",
+   "competitors": [
+    "Omni Calculator (web)",
+    "Symbolab (web)",
+    "Kitchen Calculator PRO (partial)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "paid_one_time",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3409",
+   "name": "marinade_injection_ratio",
+   "verdict": "overlap with brine niche – BrineCalculators.com has injection calc (web); Brine! app covers partially",
+   "competitors": [
+    "Brine! by Tastelab",
+    "BrineCalculators.com injection calc (web)",
+    "destination-bbq.com (web)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "paid_one_time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3411",
+   "name": "fermentation_salt_percent",
+   "verdict": "SKIP – duplicate of brine niche; covered by Brine! app and fermentation-specific tools",
+   "competitors": [
+    "Brine! by Tastelab",
+    "myfermentedfoods.com (web)",
+    "BrineCalculators.com"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3413",
+   "name": "coffee_brew_ratio",
+   "verdict": "SKIP – well-covered by Brew Timer, Acaia, Ratio Coffee; very crowded free-tier market",
+   "competitors": [
+    "Brew Timer",
+    "Acaia app",
+    "Ratio Coffee",
+    "AeroPress Go app"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X3415",
+   "name": "Home Renovation Diary",
+   "verdict": "thin – Remodelum free budget tracker covers overlap; no dedicated diary niche with one-time pricing; Diarium $5-10 one-time but generic; demand real but fragmentary",
+   "competitors": [
+    "Remodelum",
+    "Diarium",
+    "Magicplan",
+    "Houzz"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3417",
+   "name": "Self-Build / House Construction Journal",
+   "verdict": "niche – no dedicated consumer self-build diary app found; construction software (BuilderTrend, Projul) targets pros at $150+/mo; one-time $5-12 gap exists but audience tiny",
+   "competitors": [
+    "BuilderTrend",
+    "Projul",
+    "Cedreo",
+    "Planner 5D"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3419",
+   "name": "Home Energy Usage Monitoring Log",
+   "verdict": "hardware-dominated – Emporia Vue $100-200 hw + free app, Sense $299; software-only log has low willingness to pay; Homewizard free app; one-time app hard to justify",
+   "competitors": [
+    "Emporia Vue",
+    "Sense",
+    "HomeWizard Energy",
+    "Vivint"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3421",
+   "name": "EV Home Charging Log",
+   "verdict": "saturated freeware – EEVEE free, Plugged EV free, EV Charging Cost Tracker free, Volt freemium; one-time $5-12 competes directly with free apps; margin very thin",
+   "competitors": [
+    "EEVEE",
+    "Volt",
+    "Plugged EV",
+    "ev.energy"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3423",
+   "name": "Home Gym Equipment Service Log",
+   "verdict": "gap – no dedicated home-gym maintenance tracker found; commercial gym software (UpKeep, Zapium) targets facilities; one-time niche with loyal hobbyist base; low competition at consumer level",
+   "competitors": [
+    "UpKeep",
+    "Zapium",
+    "generic spreadsheet"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3425",
+   "name": "Home Sauna Session & Maintenance Log",
+   "verdict": "small niche – manufacturer apps (MyHarvia, HUUM) bundled free with hardware; standalone log unproven; sauna ownership growing but app willingness-to-pay low; one-time $5-8 plausible",
+   "competitors": [
+    "MyHarvia",
+    "HUUM app",
+    "Saunum app"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3427",
+   "name": "Jacuzzi / Hot Tub Water Chemistry Log",
+   "verdict": "partially covered – pHin subscription $149/3mo (hardware+app), Sutro $229, HTH Test to Swim free; pure software log gap at $5-12 one-time is real but niche; demand solid among owners",
+   "competitors": [
+    "pHin",
+    "Sutro",
+    "HTH Test to Swim",
+    "Pool Care App"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3429",
+   "name": "Fireplace & Chimney Service Log",
+   "verdict": "gap at consumer level – all found apps target chimney sweep businesses (Jobber $9/mo, ServiceTitan, QuoteIQ $29.99/mo); no homeowner-facing one-time log app; niche but genuine",
+   "competitors": [
+    "Jobber",
+    "QuoteIQ",
+    "ServusOne",
+    "Shifton"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3431",
+   "name": "Heat Pump Performance & Service Log",
+   "verdict": "open-source only – HeatpumpMonitor.org free/open-source; Homely smart controller targets optimisation not logging; no consumer one-time log found; tech-savvy owner niche",
+   "competitors": [
+    "HeatpumpMonitor.org",
+    "OpenEnergyMonitor",
+    "Homely"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3433",
+   "name": "Home Ventilation (HRV/ERV) Filter Reminder Log",
+   "verdict": "very thin – HRV Home Ventilation app free on App Store (control only); no dedicated filter-log app found; reminder overlap with generic maintenance apps (HomeZada); micro-niche",
+   "competitors": [
+    "HRV Home Ventilation app",
+    "HomeZada",
+    "generic calendar apps"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X3435",
+   "name": "Garden Work Diary",
+   "verdict": "competitive – Gardenize $4.40/mo freemium, GrowVeg journal free, GrowNotes free, Garden Diary free on App Store; one-time $5-12 viable but crowded with freemium; demand solid",
+   "competitors": [
+    "Gardenize",
+    "GrowVeg",
+    "GrowNotes",
+    "Garden Diary app"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3437",
+   "name": "Lawn Care & Treatment Programme Log",
+   "verdict": "saturated at business level; homeowner side served by GreenPal (free), Wemow; no dedicated owner-facing one-time treatment diary found; seasonal demand, moderate gap",
+   "competitors": [
+    "GreenPal",
+    "Wemow",
+    "LawnPro",
+    "Yardbook"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3439",
+   "name": "Rainwater Tank / Cistern Log",
+   "verdict": "hardware-first – Aqvify sensor kit from 537 EUR/yr; Rain Harvesting app free (Bluetooth); no pure software log at one-time price found; very small audience of DIY harvesting owners",
+   "competitors": [
+    "Aqvify",
+    "Rain Harvesting app",
+    "Intellitank"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X3441",
+   "name": "Deck / Terrace / Facade Maintenance Log",
+   "verdict": "gap – no dedicated app found; homeowner maintenance covered by generic home-log apps (HomeZada sub); one-time $5-12 niche plausible; low competition but also low awareness demand",
+   "competitors": [
+    "HomeZada",
+    "Centriq",
+    "generic checklists"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3443",
+   "name": "Roof Inspection & Maintenance Log",
+   "verdict": "contractor-dominated – SafetyCulture, GoCanvas target pros; homeowner side has no dedicated one-time app; niche real (annual inspection reminder + photo log); low competition at consumer level",
+   "competitors": [
+    "SafetyCulture",
+    "GoCanvas",
+    "Jobber",
+    "HomeZada"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3445",
+   "name": "Gate & Garage Door Automation Service Log",
+   "verdict": "no dedicated app found – LiftMaster/Remootio apps free with hardware (operation only, no service log); one-time maintenance diary gap is genuine but micro-niche",
+   "competitors": [
+    "Remootio app",
+    "LiftMaster MyQ",
+    "Nice app"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X3447",
+   "name": "Home Alarm System Test & Event Log",
+   "verdict": "bundled free – SimpliSafe, Ring, Abode, Frontpoint all include free apps with event history; standalone test-log app has near-zero addressable market; skip",
+   "competitors": [
+    "SimpliSafe app",
+    "Ring app",
+    "Abode",
+    "Frontpoint app"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3449",
+   "name": "Pellet Stove Consumption & Maintenance Log",
+   "verdict": "genuine gap – no dedicated pellet consumption tracker app found at consumer level; pellet owners track bags/kg manually; one-time $5-10 plausible; small but loyal niche in Europe/US Northeast",
+   "competitors": [
+    "generic spreadsheets",
+    "Harvia/HUUM (wood only)",
+    "no direct competitor found"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3451",
+   "name": "planowanie_nabozenstwa",
+   "verdict": "skip",
+   "competitors": [
+    "Planning Center Services ($14/mo)",
+    "WorshipPlanning.com",
+    "Worship Extreme ($9-49/mo)",
+    "OpenLP (free/OSS)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3453",
+   "name": "archiwum_kazan",
+   "verdict": "skip",
+   "competitors": [
+    "Sermon Keeper (free 3 rec)",
+    "SermonAI",
+    "Logos",
+    "Tithe.ly"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3455",
+   "name": "setlista_uwielbienia",
+   "verdict": "skip",
+   "competitors": [
+    "Planning Center Services",
+    "WorshipTools (free tier)",
+    "OnSong ($9.99/mo)",
+    "Setlist Helper ($14.99 one-time)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3457",
+   "name": "liczenie_tacy_ofiar",
+   "verdict": "build",
+   "competitors": [
+    "ChurchTrac ($9/mo)",
+    "Church Metrics (free)",
+    "Tithe.ly (free+fees)",
+    "Givelify (free+fees)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3459",
+   "name": "rejestr_sakramentow",
+   "verdict": "build",
+   "competitors": [
+    "Sacramental Scribe",
+    "PDS by ACS Technologies",
+    "ParishStaq (Pushpay)",
+    "OPRS"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 3
+  },
+  {
+   "id": "X3461",
+   "name": "grupa_domowa_obecnosc",
+   "verdict": "skip",
+   "competitors": [
+    "ChMeetings (free tier)",
+    "ChurchTrac ($37/mo)",
+    "Rock RMS (OSS free)",
+    "Breeze ($72/mo)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3463",
+   "name": "lancuch_modlitwy",
+   "verdict": "build",
+   "competitors": [
+    "Uplift Prayer (free)",
+    "Echo Prayer (free)",
+    "Prayer Chain Online (free)",
+    "iPrayerCenter"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3465",
+   "name": "wyjazd_misyjny_organizacja",
+   "verdict": "build",
+   "competitors": [
+    "ManagedMissions (free tier)",
+    "SquadTrip (free tier)",
+    "ServiceReef",
+    "GO by MKDSCPLS (free)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3467",
+   "name": "bank_zywnosci_inwentarz",
+   "verdict": "build",
+   "competitors": [
+    "PantrySoft ($29/mo)",
+    "FoodBank Manager",
+    "SmartChoice Pantry",
+    "Link2Feed ($500+/mo)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3469",
+   "name": "sklep_charytatywny_stan",
+   "verdict": "build",
+   "competitors": [
+    "ThriftCart (custom)",
+    "BCSS ($395 one-time)",
+    "KORONA POS",
+    "Resale World ($149/mo)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3471",
+   "name": "wyniki_zawodow_klubu",
+   "verdict": "build",
+   "competitors": [
+    "TeamSnap ($7/mo/team)",
+    "TeamLinkt (free)",
+    "Waresport (free)",
+    "Tournify"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3473",
+   "name": "protokol_walnego_AGM",
+   "verdict": "build",
+   "competitors": [
+    "Diligent (enterprise)",
+    "ConveneAGM",
+    "Atlas AGM",
+    "GoToMeeting ($12/mo)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3475",
+   "name": "loteria_raffle_rozliczenie",
+   "verdict": "build",
+   "competitors": [
+    "Zeffy (free)",
+    "BetterWorld (free)",
+    "RallyUp (free+5%)",
+    "GalaBid (free)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3477",
+   "name": "event_charytatywny_organizacja",
+   "verdict": "skip",
+   "competitors": [
+    "Zeffy (free)",
+    "Givebutter (free)",
+    "Bloomerang ($40/mo)",
+    "OneCause (custom)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3479",
+   "name": "oboz_harcerski_logistyka",
+   "verdict": "build",
+   "competitors": [
+    "TroopTrack ($99/yr)",
+    "TroopMaster ($80/yr web)",
+    "Doubleknot",
+    "CampDoc ($340/mo)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3481",
+   "name": "klub_sportowy_skladki",
+   "verdict": "skip",
+   "competitors": [
+    "Wild Apricot ($29/mo)",
+    "Join It ($29/mo)",
+    "ClubMon (free tier)",
+    "SportMember"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3483",
+   "name": "intencje_mszalne_rejestr",
+   "verdict": "build",
+   "competitors": [
+    "Mass Intentions Online (sub)",
+    "Sacramentum",
+    "Parish Solutions Co.",
+    "ParishStaq"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 3
+  },
+  {
+   "id": "X3485",
+   "name": "cmentarz_parafialny_groby",
+   "verdict": "build",
+   "competitors": [
+    "CemeteryPro ($100/mo)",
+    "Cemify ($1000-1500/acre setup)",
+    "Grave Discover",
+    "Ecclesiared"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 10,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3487",
+   "name": "wolontariat_grafik",
+   "verdict": "skip",
+   "competitors": [
+    "Bugle (free)",
+    "POINT (free)",
+    "PlanHero ($12/mo)",
+    "Civic Champs ($49/mo)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3489",
+   "name": "biuletyn_parafialny_przygotowanie",
+   "verdict": "skip",
+   "competitors": [
+    "Canva (free/Pro $15/mo)",
+    "eChurch (free)",
+    "Bulletin Plus",
+    "bltn"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X3491",
+   "name": "chor_frekwencja_repertuar",
+   "verdict": "build",
+   "competitors": [
+    "ChoirMate (free)",
+    "Chorus Connection",
+    "Rehearsal Assistant ($9/mo)",
+    "Choir Genius"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
   }
  ]
 }
