@@ -64774,6 +64774,319 @@
    "durability": 5,
    "reach": 2,
    "demand": 1
+  },
+  {
+   "id": "X3971_",
+   "name": "Cable Tray Fill Calculator",
+   "verdict": "weak",
+   "competitors": [
+    "Cable Tray Fill Calc (iOS, free)",
+    "Chatsworth web tool",
+    "Southwire app"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "paid_once",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3973_",
+   "name": "Motor FLA / Full Load Amps Calculator",
+   "verdict": "weak",
+   "competitors": [
+    "Mike Holt Electrical Toolbox (paid)",
+    "ElectroDroid/Electrodoc (free+pro)",
+    "GoodCalculators (web free)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "paid_once",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3975_",
+   "name": "Transformer kVA Selection Calculator",
+   "verdict": "weak",
+   "competitors": [
+    "Electrical Transformer Helper (paid app)",
+    "Maddox/Alfa Transformer (web free)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "paid_once",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3977_",
+   "name": "Power Factor Correction / Capacitor kVAR Calculator",
+   "verdict": "ok",
+   "competitors": [
+    "Electrical Calculations by Ettore (freemium)",
+    "PowerCalc (free)",
+    "myElectrical web free"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "paid_once",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3979_",
+   "name": "Earth Fault Loop Impedance (Zs) Calculator",
+   "verdict": "ok",
+   "competitors": [
+    "ELcalcZs Pro (paid, BS7671)",
+    "Fault Current Calc PFC (free)",
+    "SparkyCalc (web free)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "paid_once",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3981_",
+   "name": "Protection Coordination / Relay Selectivity Calculator",
+   "verdict": "weak",
+   "competitors": [
+    "ELEK CablePro Web (SaaS paid)",
+    "EleCalculator (web free)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid_once",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3983_",
+   "name": "Busbar Sizing / Current Capacity Calculator",
+   "verdict": "ok",
+   "competitors": [
+    "Electrical Calculations by Ettore (freemium)",
+    "Elec-Mate web free",
+    "kwcalc.com free"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "paid_once",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3985_",
+   "name": "Short Circuit Current (Isc) Calculator",
+   "verdict": "ok",
+   "competitors": [
+    "Short Circuit Analytic SCA (free limited)",
+    "Fault Current Calc by Eaton Bussmann (free iOS)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "paid_once",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3987_",
+   "name": "UPS Runtime / Battery Backup Time Calculator",
+   "verdict": "weak",
+   "competitors": [
+    "UPS Battery Backup Time Calc (free Android)",
+    "CyberPower runtime tool (free web)",
+    "Eaton Tripp Lite (free web)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3989_",
+   "name": "Battery Bank Capacity (Ah) Calculator",
+   "verdict": "weak",
+   "competitors": [
+    "SurgePV (free web)",
+    "Unbound Solar (free web)",
+    "Solar Calculator PV Planner (free app)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3991_",
+   "name": "Generator Sizing (kVA/kW) Calculator",
+   "verdict": "weak",
+   "competitors": [
+    "Power Continuity kVA app (free)",
+    "Pro Certs kVA app (paid)",
+    "many free web tools"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3993_",
+   "name": "Electric Space Heater Wattage Sizing Calculator",
+   "verdict": "weak",
+   "competitors": [
+    "Electric heating calculator (free Android)",
+    "Watlow web free",
+    "Ouellet web free"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3995_",
+   "name": "Motor Start/Run Capacitor Sizing Calculator",
+   "verdict": "weak",
+   "competitors": [
+    "kwcalc.com free",
+    "ElectricianCalc.com free",
+    "EleCalculator free"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3997_",
+   "name": "Current Transformer (CT) Ratio & Selection Calculator",
+   "verdict": "weak",
+   "competitors": [
+    "Electrical4u CT calc (free web)",
+    "ForumElectrical (free web)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3999_",
+   "name": "SPD Surge Protection Device Selection Calculator",
+   "verdict": "weak",
+   "competitors": [
+    "Littelfuse SPD selector (free web)",
+    "Siemens Compas surge calc (free web)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X4001_",
+   "name": "Grounding / Earth Electrode Resistance Calculator",
+   "verdict": "weak",
+   "competitors": [
+    "Earth Electrode Calc (free Android)",
+    "ELEK free web",
+    "ElectricianCalc.com free"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X4003_",
+   "name": "Heat Trace Cable Sizing Calculator",
+   "verdict": "ok",
+   "competitors": [
+    "Chromalox ChromaTrace (desktop free vendor)",
+    "ToolGrit free web",
+    "OEM Heaters free web"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid_once",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X4005_",
+   "name": "Solar PV Inverter Sizing Calculator",
+   "verdict": "weak",
+   "competitors": [
+    "PV Calculator Android (free+paid)",
+    "Solar Calculator PV Planner (free)",
+    "SolarCT (free)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X4007_",
+   "name": "EV Charger Load Calculation (home install)",
+   "verdict": "ok",
+   "competitors": [
+    "Electrical Calculations by Ettore (freemium)",
+    "Kopperfield load calc (free web)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "paid_once",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X4009_",
+   "name": "PLC I/O Count & Module Sizing Calculator",
+   "verdict": "ok",
+   "competitors": [
+    "controlsystemguide.com free web calc",
+    "no dedicated paid app found"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid_once",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
   }
  ]
 }
