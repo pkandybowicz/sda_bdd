@@ -59140,6 +59140,2679 @@
    "durability": 6,
    "reach": 2,
    "demand": 1
+  },
+  {
+   "id": "X3623__",
+   "name": "ground-handling-airport-checklist",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "SafetyCulture/iAuditor",
+    "Planfix",
+    "INPUT SOFT",
+    "Amadeus IT",
+    "Lufthansa Systems",
+    "AeroCloud"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3625__",
+   "name": "de-icing-log-airport",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "LTF Solutions",
+    "Aerosimple",
+    "MWAA Labs"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3627__",
+   "name": "fuel-truck-airport-inspection",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "McFarland Johnson INSPECT",
+    "Aerosimple",
+    "OXmaint"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3629__",
+   "name": "runway-inspection-log",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Field Eagle",
+    "Fulcrum",
+    "OXmaint",
+    "App-139 GateKeeper",
+    "Team Eagle AIROps",
+    "Array",
+    "Jotform"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3631__",
+   "name": "helideck-inspection",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Smart HCOMS",
+    "Vaisala HMS",
+    "WISE Group HMS"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3633__",
+   "name": "marine-pilot-log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "SeaLogs",
+    "Marine Inspection App",
+    "Helm CONNECT"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3635__",
+   "name": "harbour-master-port-register",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Harbour Assist",
+    "eHarbours",
+    "i-Seaports ERP",
+    "HarborLab"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3637__",
+   "name": "dredging-vessel-log",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "Helm CONNECT (generic maritime)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 9,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X3639__",
+   "name": "buoy-navigation-marking-service",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "Custom GPS/IoT SBMS (bespoke)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 9,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X3641__",
+   "name": "lock-sluice-gate-journal",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 9,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X3643__",
+   "name": "cable-car-gondola-inspection",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "SAMBESI (Highstep Systems)",
+    "Argenie AR"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 9,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X3645__",
+   "name": "FBO-handling-software",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "X-1FBO",
+    "FBO One",
+    "FBO Director",
+    "SMS Pro",
+    "Nimbl",
+    "myairops"
+   ],
+   "n": 6,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3647__",
+   "name": "hangar-inspection",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Aviatize",
+    "CloudVisit",
+    "Quantum MX"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3649__",
+   "name": "ARFF-equipment-inspection",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Aerosimple ARFF",
+    "ProDIGIQ PATMOS"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 3
+  },
+  {
+   "id": "X3651__",
+   "name": "GSE-ground-support-equipment-inspection",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "SafetyCulture/iAuditor",
+    "Veryon GSE",
+    "OXmaint"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3653__",
+   "name": "ship-bunkering-fueling-log",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "ClearLynx",
+    "Shiptech Inatech",
+    "Integr8 ENGINE",
+    "FuelVision365",
+    "Veson Nautical"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3655__",
+   "name": "container-terminal-inspection",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Konecranes TOS+CheckApp",
+    "Marine Inspection App",
+    "InspectAll",
+    "Konecranes WISE"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3657__",
+   "name": "port-crane-inspection",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Konecranes CheckApp",
+    "InspectAll",
+    "Hi-Vis by Reach"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3659__",
+   "name": "ferry-safety-inspection",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Marine Inspection App",
+    "SeaLogs",
+    "PrimeMarine HSSE"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3661__",
+   "name": "marina-pontoon-dock-inspection",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Field Eagle Marina",
+    "Dockwa (mgmt focus)",
+    "DockMaster (mgmt focus)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3663__",
+   "name": "business_coach_client_notes",
+   "verdict": "go",
+   "competitors": [
+    "CoachAccountable",
+    "Practice.do",
+    "Paperbell",
+    "Simply.Coach"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X3665__",
+   "name": "life_coach_session_notes",
+   "verdict": "go",
+   "competitors": [
+    "CoachAccountable",
+    "CoachVantage",
+    "Quenza",
+    "Simply.Coach"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X3667__",
+   "name": "career_coach_notes",
+   "verdict": "go",
+   "competitors": [
+    "CoachAccountable",
+    "Practice.do",
+    "CoachVantage"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3669__",
+   "name": "executive_coach_notes",
+   "verdict": "go",
+   "competitors": [
+    "CoachAccountable",
+    "Paperbell",
+    "Simply.Coach"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3671__",
+   "name": "adhd_coach_notes",
+   "verdict": "go",
+   "competitors": [
+    "CoachAccountable",
+    "Practice.do",
+    "Shimmer"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3673__",
+   "name": "relationship_coach_notes",
+   "verdict": "go",
+   "competitors": [
+    "CoachAccountable",
+    "CoachVantage",
+    "Simply.Coach"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3675__",
+   "name": "financial_coach_plan_notes",
+   "verdict": "go",
+   "competitors": [
+    "MoneyQuill",
+    "CoachAccountable",
+    "Paperbell"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3677__",
+   "name": "vocal_singing_coach_notes",
+   "verdict": "go",
+   "competitors": [
+    "CoachAccountable",
+    "Practice.do",
+    "VocalCoach.com"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3679__",
+   "name": "accent_diction_coach_notes",
+   "verdict": "go",
+   "competitors": [
+    "BoldVoice",
+    "Astound",
+    "CoachAccountable"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3681__",
+   "name": "acting_coach_notes",
+   "verdict": "go",
+   "competitors": [
+    "CoachAccountable",
+    "Practice.do"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3683__",
+   "name": "public_speaking_coach_notes",
+   "verdict": "go",
+   "competitors": [
+    "Speeko",
+    "Orai",
+    "CoachAccountable",
+    "Yoodli"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3685__",
+   "name": "business_coach_goals_tracking",
+   "verdict": "maybe",
+   "competitors": [
+    "CoachAccountable",
+    "Quenza",
+    "UpCoach",
+    "Simply.Coach"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3687__",
+   "name": "habit_coach_notes",
+   "verdict": "go",
+   "competitors": [
+    "CoachMe",
+    "HabitsCoach",
+    "CoachAccountable"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3689__",
+   "name": "startup_mentor_notes",
+   "verdict": "go",
+   "competitors": [
+    "CoachAccountable",
+    "Practice.do"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3691__",
+   "name": "career_advisor_assessment_notes",
+   "verdict": "go",
+   "competitors": [
+    "CoachAccountable",
+    "CoachVantage",
+    "TutorBird"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3693__",
+   "name": "parenting_coach_notes",
+   "verdict": "go",
+   "competitors": [
+    "CoachAccountable",
+    "Quenza",
+    "Simply.Coach"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3695__",
+   "name": "mindfulness_coach_notes",
+   "verdict": "go",
+   "competitors": [
+    "CoachAccountable",
+    "Quenza",
+    "MindfulnessCoach-VA"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3697__",
+   "name": "image_consultant_notes",
+   "verdict": "go",
+   "competitors": [
+    "HoneyBook",
+    "CoachAccountable"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3699__",
+   "name": "sales_coach_notes",
+   "verdict": "go",
+   "competitors": [
+    "CoachAccountable",
+    "Practice.do",
+    "Paperbell"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3701__",
+   "name": "exam_tutor_notes",
+   "verdict": "go",
+   "competitors": [
+    "TutorBird",
+    "TeachnGo",
+    "CoachAccountable"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3703__",
+   "name": "Jam & Konfitury – kalkulator kosztów",
+   "verdict": "niche",
+   "competitors": [
+    "Craftybase",
+    "BakeProfit",
+    "CookKeepBook",
+    "ReciPal"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3705_",
+   "name": "Sos ostry (hot sauce) – kalkulator kosztów",
+   "verdict": "niche",
+   "competitors": [
+    "Craftybase",
+    "ReciPal",
+    "hotsaucehell.wordpress.com (DIY)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3707_",
+   "name": "Produkty miodowe (miód, pyłek, propolis) – kalkulator kosztów",
+   "verdict": "niche",
+   "competitors": [
+    "OSU Extension Excel",
+    "PollenOps",
+    "beekeepingmadesimple.com guide"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3709_",
+   "name": "Mieszanki przypraw (spice blends) – kalkulator kosztów",
+   "verdict": "niche",
+   "competitors": [
+    "Craftybase",
+    "SpiceBlendCalculator.com",
+    "BatchMaster ERP"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3711_",
+   "name": "Mieszanki herbat (tea blends) – kalkulator kosztów",
+   "verdict": "niche",
+   "competitors": [
+    "gopathtomillions.com Tea Blend Calculator",
+    "hattonnaturals.com guide",
+    "BakeProfit"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3713_",
+   "name": "Blendy kawy (coffee blends) – kalkulator kosztów",
+   "verdict": "weak",
+   "competitors": [
+    "Artisan (open-source)",
+    "Roasterly",
+    "Craftybase",
+    "roastertools.com"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3715_",
+   "name": "Granola – kalkulator kosztów",
+   "verdict": "niche",
+   "competitors": [
+    "BakeProfit",
+    "FloridaCottageFoods",
+    "BakeMargin",
+    "Craftybase"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3717_",
+   "name": "Jerky / suszone mięso – kalkulator kosztów",
+   "verdict": "niche",
+   "competitors": [
+    "Craftybase",
+    "generic Recipe Cost Calculator apps"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3719_",
+   "name": "Pikle / ogórki konserwowe – kalkulator kosztów",
+   "verdict": "niche",
+   "competitors": [
+    "BakeProfit",
+    "findhomegrown.com guide",
+    "ReciPal"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3721_",
+   "name": "Kapusta kiszona (sauerkraut) – kalkulator kosztów",
+   "verdict": "weak",
+   "competitors": [
+    "BakeProfit",
+    "generic fermentation guides",
+    "Homegrown"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3723_",
+   "name": "Makaron (artisan pasta) – kalkulator kosztów",
+   "verdict": "niche",
+   "competitors": [
+    "Craftybase",
+    "Craft Pricing Calculator (iOS)",
+    "recipe-costing.com"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3725_",
+   "name": "Pierogi / pierożki – kalkulator kosztów",
+   "verdict": "niche",
+   "competitors": [
+    "kitchencost.app",
+    "generic recipe costing apps"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3727_",
+   "name": "Tamales – kalkulator kosztów",
+   "verdict": "niche",
+   "competitors": [
+    "ReciPal",
+    "BakeProfit",
+    "FoodLabelMaker"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3729_",
+   "name": "Kiełbasa / sausage – kalkulator kosztów",
+   "verdict": "niche",
+   "competitors": [
+    "Craftybase",
+    "generic Recipe Cost Calculator apps",
+    "Capterra-listed tools"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3731_",
+   "name": "Masło / ghee – kalkulator kosztów",
+   "verdict": "weak",
+   "competitors": [
+    "Butterbase",
+    "BakeProfit",
+    "CottageCMS"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3733",
+   "name": "Jogurt – kalkulator kosztów",
+   "verdict": "weak",
+   "competitors": [
+    "BakeProfit",
+    "SweetBooks",
+    "Butterbase"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3735",
+   "name": "Kefir – kalkulator kosztów",
+   "verdict": "weak",
+   "competitors": [
+    "BakeProfit",
+    "SweetBooks",
+    "generic dairy guides"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3737",
+   "name": "Gelato / lody rzemieślnicze – kalkulator kosztów",
+   "verdict": "niche",
+   "competitors": [
+    "IceCreamCalc.com (free)",
+    "IceCreamScience.com spreadsheet",
+    "kitchennmbrs.app",
+    "PriceWise"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3739",
+   "name": "Czekoladki / bonbony – kalkulator kosztów",
+   "verdict": "niche",
+   "competitors": [
+    "BakeProfit",
+    "BakeMargin",
+    "Butterbase",
+    "cocoterra.com guide"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3741",
+   "name": "Toffi / karmelki – kalkulator kosztów",
+   "verdict": "weak",
+   "competitors": [
+    "Butterbase",
+    "BetterBakerClub guide",
+    "BakeProfit"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3743",
+   "name": "Musli / batony energetyczne – kalkulator kosztów",
+   "verdict": "weak",
+   "competitors": [
+    "BakeProfit",
+    "BakeMargin",
+    "generic cottage food tools"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3745",
+   "name": "chess-clock-tournament",
+   "verdict": "skip",
+   "competitors": [
+    "Chess.com Clock (free)",
+    "ChessTime $2.99",
+    "DGT hardware"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3747",
+   "name": "sudoku-generator",
+   "verdict": "skip",
+   "competitors": [
+    "Sudoku.com (freemium)",
+    "Good Sudoku $3.99",
+    "Andoku3 free",
+    "SourceForge OSS"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3749",
+   "name": "crossword-maker",
+   "verdict": "maybe",
+   "competitors": [
+    "Crossword Labs (free)",
+    "Crossword Compiler (pro)",
+    "Canva (free)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3751",
+   "name": "jigsaw-puzzle-cut-designer",
+   "verdict": "maybe",
+   "competitors": [
+    "JigsawDesigner (IAP)",
+    "PuzziPix Pro",
+    "JigsawMake (free web)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3753",
+   "name": "rubiks-cube-alg-trainer",
+   "verdict": "maybe",
+   "competitors": [
+    "CFOPTrainer",
+    "Cubedex",
+    "Rubikstrainer.com (free)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3755",
+   "name": "chord-theory-music",
+   "verdict": "skip",
+   "competitors": [
+    "Tonality (one-time)",
+    "iReal Pro",
+    "ChordBank",
+    "Muted.io"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X3757",
+   "name": "tuning-temperament",
+   "verdict": "maybe",
+   "competitors": [
+    "TonalEnergy $5.99",
+    "Cleartune $3.99",
+    "PianoMeter $30",
+    "iStroboSoft $9.99"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3759",
+   "name": "capo-transposer",
+   "verdict": "skip",
+   "competitors": [
+    "Capo app (iOS)",
+    "Capo Calc (free)",
+    "Chordify Premium $8.99/mo"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3761",
+   "name": "scales-and-modes",
+   "verdict": "skip",
+   "competitors": [
+    "ScaleBank $4.49/mo",
+    "More Than Modes (free offline)",
+    "GuitarScales (free)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3763",
+   "name": "guitar-fretboard-trainer",
+   "verdict": "skip",
+   "competitors": [
+    "JustinGuitar $1.99",
+    "Fretonomy $2.99/mo",
+    "SmartChord $27.99",
+    "GuitarTuna Pro"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X3765",
+   "name": "drum-notation-editor",
+   "verdict": "maybe",
+   "competitors": [
+    "Musink Lite (free)/Pro $80",
+    "Aered (pay-what-you-want)",
+    "MuseScore (free OSS)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3767",
+   "name": "rhyme-finder-songwriting",
+   "verdict": "skip",
+   "competitors": [
+    "RhymeZone $2.99 iOS",
+    "RHYMEBOOK (freemium)",
+    "RhymeFlux $249 lifetime",
+    "Lazyjot (free)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3769",
+   "name": "tab-editor",
+   "verdict": "skip",
+   "competitors": [
+    "Guitar Pro $69.95",
+    "Ultimate Guitar Pro $39.99/yr",
+    "GuitarTab",
+    "TablEdit"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3771",
+   "name": "ear-training-intervals",
+   "verdict": "maybe",
+   "competitors": [
+    "Sonofield $17.99",
+    "Complete Ear Trainer $6.99",
+    "Perfect Ear $12.99",
+    "Chet (free)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3773",
+   "name": "circle-of-fifths",
+   "verdict": "skip",
+   "competitors": [
+    "Josh Liebe app (free)",
+    "Tonaly",
+    "Ultimate Circle of Fifths",
+    "188+ iOS apps"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3775",
+   "name": "chord-progression-generator",
+   "verdict": "skip",
+   "competitors": [
+    "Autochords $5",
+    "ChordChord (freemium)",
+    "Hookpad $7.99/mo",
+    "OpenMusic (free)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X3777",
+   "name": "ukulele-chords",
+   "verdict": "skip",
+   "competitors": [
+    "Ukulele Tabs & Chords (free)",
+    "Pocket Ukulele Chords (free)",
+    "Yousician (subscription)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3779",
+   "name": "harmonica-positions",
+   "verdict": "build",
+   "competitors": [
+    "HarmonicaBar (free basic)",
+    "HarpNinja",
+    "HARPION (free)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3781",
+   "name": "mandolin-chords",
+   "verdict": "build",
+   "competitors": [
+    "Mandolin Chords Compass (one-time)",
+    "Mandolin Tuner LikeTones (free)",
+    "Neonway apps"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3783",
+   "name": "banjo-rolls-trainer",
+   "verdict": "build",
+   "competitors": [
+    "Banjo Rolls Trainer ~$5 iOS only",
+    "banjotabs.org (free web)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X3785",
+   "name": "drum-rudiments-trainer",
+   "verdict": "skip",
+   "competitors": [
+    "DRT (free Android)",
+    "drumrudiments.app $5/mo",
+    "Drumr (subscription)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3787",
+   "name": "MAR Chart – Nursing Home Medication Round",
+   "verdict": "Crowded sub market; eMAR giants dominate; tiny offline gap exists for single-home operators",
+   "competitors": [
+    "Person Centred Software mCare",
+    "everyLIFE PASSsystem",
+    "CareLineLive eMAR",
+    "eMAR Plus",
+    "Access Group EMM"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3789",
+   "name": "Home Care Visit Log",
+   "verdict": "Saturated by VC-backed subs; no credible offline one-time product; weak differentiation angle",
+   "competitors": [
+    "Birdie",
+    "Log my Care (free tier)",
+    "ShiftCare",
+    "AxisCare",
+    "Axxess"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3791",
+   "name": "Assisted Living Resident Log",
+   "verdict": "GetApp lists 76+ tools; sub-only; small standalone-app gap for family-run homes offline",
+   "competitors": [
+    "Log my Care",
+    "Nourish Care",
+    "StoriiCare",
+    "CareVoyant",
+    "Person Centred Software"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3793",
+   "name": "Foster Care Daily Log",
+   "verdict": "Thin app market; agency tools exist but no polished offline daily-log one-time app; real gap",
+   "competitors": [
+    "FosterShare (free web)",
+    "Foster Friendly (free)",
+    "FOCUS on Foster Families (free)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3795",
+   "name": "Respite Care Log",
+   "verdict": "No dedicated standalone app found; informal caregiver tools only; genuine niche gap",
+   "competitors": [
+    "Jointly (£2.99 one-time, generic)",
+    "Neela (sub)",
+    "CareZapp (sub)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3797",
+   "name": "Adult Day Care Activity Log",
+   "verdict": "Niche software exists (Daycenta, StoriiCare, ElderSuite) all cloud-sub; no cheap offline app",
+   "competitors": [
+    "StoriiCare",
+    "Daycenta",
+    "ElderSuite",
+    "myAdultDayCare",
+    "myEZcare"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3799",
+   "name": "Hospice Care Chart",
+   "verdict": "Specialist EMR market (Hospice Tools $85/user/mo, WellSky); no one-time offline product; high-reg barrier",
+   "competitors": [
+    "Hospice Tools EMR",
+    "WellSky Hospice",
+    "Brightree",
+    "MatrixCare Hospice"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3801",
+   "name": "Dementia Unit Log",
+   "verdict": "ALREADY DONE – skip per brief",
+   "competitors": [],
+   "n": 0,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 0,
+   "reach": 0,
+   "demand": 0
+  },
+  {
+   "id": "X3803",
+   "name": "Intellectual Disability (IDD) Support Worker Log",
+   "verdict": "Niche gap: ShareVision, AxisCare IDD are sub-only; no cheap offline log app; DSP market underserved",
+   "competitors": [
+    "ShareVision",
+    "AxisCare IDD",
+    "MapHabit (assistive, not log)",
+    "ShiftCare"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3805",
+   "name": "Mental Health Ward Log",
+   "verdict": "No dedicated app found; EMR-adjacent; small niche with high compliance burden; gap exists",
+   "competitors": [
+    "Nourish Care (generic)",
+    "Access Group (generic)",
+    "RiO (NHS, not consumer)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3807",
+   "name": "Rehab Center Progress Log",
+   "verdict": "Dominated by PT EMR subs (WebPT $99+/mo, Rehab Guru); no cheap offline standalone app",
+   "competitors": [
+    "WebPT",
+    "Rehab Guru",
+    "Rehab My Patient",
+    "TheraNest",
+    "SimplePractice"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3809",
+   "name": "Nursing Home CQC Audit",
+   "verdict": "Several tools found (Care Audit Pro, GoAudits, InspectReady £49/mo); small gap for one-time offline checklist app",
+   "competitors": [
+    "Care Audit Tool",
+    "GoAudits",
+    "Care Audit Pro",
+    "InspectReady (£49/mo sub)",
+    "Access Group Compliance"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3811",
+   "name": "DoLS / Deprivation of Liberty Log",
+   "verdict": "364,900 applications in 2024-25 in UK alone; no dedicated standalone app found; real gap, high-compliance niche",
+   "competitors": [
+    "Log my Care (LPS guide only)",
+    "Generic form tools (Jotform)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3813",
+   "name": "Palliative Care Notes",
+   "verdict": "FLAGGED as potential duplicate of Hospice; overlap high; skip or merge with hospice niche",
+   "competitors": [
+    "Hospice Tools",
+    "WellSky Palliative",
+    "Carepatron (templates, free)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3815",
+   "name": "Feeding & Fluid Balance Chart",
+   "verdict": "No dedicated offline app found; paper-dominant; genuine gap for care home staff offline log",
+   "competitors": [
+    "Generic nursing forms",
+    "CareLineLive (sub, bundled)",
+    "Nourish (sub, bundled)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3817",
+   "name": "Continence / Pad Change Log",
+   "verdict": "No standalone app exists; embedded in large platforms only; strong gap for simple offline one-time app",
+   "competitors": [
+    "Nourish Care (bundled)",
+    "Log my Care (bundled)",
+    "Paper charts"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3819",
+   "name": "Mobility & Transfers Log",
+   "verdict": "No dedicated app; bundled into large platforms; high daily-use frequency = good retention; real gap",
+   "competitors": [
+    "CareVoyant (bundled)",
+    "ShiftCare (bundled)",
+    "Paper MAR-style sheets"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3821",
+   "name": "Wound / Pressure Ulcer Body Map",
+   "verdict": "VA PUR free; WoundMatrix cloud-sub; imitoMeasure free; RCNi nurse-created app noted; gap for simple offline body-map log",
+   "competitors": [
+    "VA PUR (free)",
+    "WoundMatrix (sub)",
+    "imitoMeasure (free)",
+    "Medline NE1 (commercial)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3823",
+   "name": "Falls Register / Incident Log",
+   "verdict": "SafetyCulture/GoAudits generic; no care-home-specific falls register one-time app; SafetyCulture $24/user/mo; gap exists",
+   "competitors": [
+    "SafetyCulture iAuditor ($24/user/mo)",
+    "GoAudits ($10/user/mo)",
+    "Care Audit Pro (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3825",
+   "name": "Bathing & Hygiene Schedule",
+   "verdict": "No dedicated app at all; purely paper/whiteboard in most care homes; strongest gap, least competition",
+   "competitors": [
+    "Generic scheduling apps",
+    "Paper rotas"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 10,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X3827",
+   "name": "Bat (Ecology) Survey – report app",
+   "verdict": "niche",
+   "competitors": [
+    "Wildnote",
+    "Fulcrum",
+    "ArcGIS Field Maps",
+    "KoboToolbox"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3829",
+   "name": "Japanese Knotweed Survey – report app",
+   "verdict": "niche",
+   "competitors": [
+    "PocketSurvey",
+    "GoReport",
+    "custom Word templates"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3831",
+   "name": "CCTV Drainage Survey – reporting software",
+   "verdict": "niche",
+   "competitors": [
+    "Drainify",
+    "WinCan",
+    "Granite XP",
+    "PipeLogix"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3833",
+   "name": "Structural Crack Monitoring – survey report app",
+   "verdict": "niche",
+   "competitors": [
+    "Villari Technology",
+    "BUILDERA CRACKMON",
+    "Hexagon",
+    "Dewesoft"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3835",
+   "name": "Woodworm / Timber Survey – report app",
+   "verdict": "niche",
+   "competitors": [
+    "PocketSurvey",
+    "GoReport",
+    "Rentokil internal tools"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3837",
+   "name": "Measured Building Survey – field & report app",
+   "verdict": "promising",
+   "competitors": [
+    "PocketSurvey (£75+/mo)",
+    "GoReport",
+    "Bluebeam Revu",
+    "Spectora"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3839",
+   "name": "Topographic Survey – field data & report app",
+   "verdict": "niche",
+   "competitors": [
+    "Carlson Survey ($2,349)",
+    "MicroSurvey FieldGenius",
+    "Trimble BC",
+    "QGIS (free)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3841",
+   "name": "Utility Locating / Underground Service Survey – report app",
+   "verdict": "niche",
+   "competitors": [
+    "PointMan",
+    "Geolantis.360",
+    "4M Analytics",
+    "SmarterWX"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3843",
+   "name": "GPR (Ground Penetrating Radar) Survey – data & report software",
+   "verdict": "niche",
+   "competitors": [
+    "RADAN/GSSI ($5,995)",
+    "gRED 3D (€4,950)",
+    "EKKO_Project",
+    "GeoHammer"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3845",
+   "name": "Breeding Bird Survey – field data & report app",
+   "verdict": "niche",
+   "competitors": [
+    "Coreo",
+    "BirdTrack (BTO, free)",
+    "Fulcrum",
+    "KoboToolbox"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3847",
+   "name": "Hazardous Tree Risk Assessment Survey – report app",
+   "verdict": "niche",
+   "competitors": [
+    "VALID Tree Risk App (free)",
+    "ForestMetrix",
+    "Fulcrum",
+    "ArborNote ($50-200/user/mo)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3849",
+   "name": "Bridge Inspection Survey – report app",
+   "verdict": "niche",
+   "competitors": [
+    "inspectX",
+    "Bentley AssetWise",
+    "Snappii",
+    "Esri ArcGIS"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3851",
+   "name": "Tower / Mast Inspection Survey – report app",
+   "verdict": "niche",
+   "competitors": [
+    "vHive",
+    "Optelos (per-project)",
+    "Hammer Missions",
+    "SafetyCulture"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3853",
+   "name": "Rising Damp Survey – mobile report app",
+   "verdict": "promising",
+   "competitors": [
+    "PocketSurvey (£75+/mo)",
+    "GoReport",
+    "Damp Solutions custom",
+    "Excel templates"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3855",
+   "name": "Dry Rot / Timber Fungal Survey – report app",
+   "verdict": "niche",
+   "competitors": [
+    "PocketSurvey",
+    "GoReport",
+    "Rentokil/PCA internal tools"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3857",
+   "name": "Industrial Energy Audit Survey – report app",
+   "verdict": "promising",
+   "competitors": [
+    "EMAT",
+    "SnapCount/Streamlinx",
+    "Lumiform",
+    "RETScreen ($300/yr)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3859",
+   "name": "Contour / Level Survey – field & report app",
+   "verdict": "niche",
+   "competitors": [
+    "Carlson Survey",
+    "Topcon Field",
+    "Trimble BC",
+    "QGIS (free)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3861",
+   "name": "Green Infrastructure / Tree Inventory Survey – app",
+   "verdict": "niche",
+   "competitors": [
+    "TreePlotter INVENTORY",
+    "ArborNote",
+    "i-Tree (USDA free)",
+    "ArboStar"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3863",
+   "name": "Contaminated Land / Soil Survey – report app",
+   "verdict": "niche",
+   "competitors": [
+    "Scribe (EPA)",
+    "Fulcrum",
+    "EQuIS",
+    "Autodesk Civil 3D"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3865",
+   "name": "Party-Wall / Structural Condition Schedule – report app",
+   "verdict": "promising",
+   "competitors": [
+    "PocketSurvey (£75+/mo)",
+    "GoReport",
+    "Surveyor custom Word macros"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3867",
+   "name": "Introligatorstwo – log projektu/wycena",
+   "verdict": "niche",
+   "competitors": [
+    "Craftybase",
+    "generic spreadsheet",
+    "no dedicated app found"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3869",
+   "name": "Letterpress – wycena zlecenia",
+   "verdict": "niche",
+   "competitors": [
+    "OnPrintShop",
+    "PrintPoint",
+    "manual quote forms"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3871",
+   "name": "Risograph – kalkulator kosztów",
+   "verdict": "niche",
+   "competitors": [
+    "Matiz Press web calc",
+    "Cal Poly Excel calc",
+    "Ink'chacha web calc"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3873",
+   "name": "Akwarela – inwentarz prac",
+   "verdict": "niche",
+   "competitors": [
+    "Artwork Archive (sub)",
+    "Artwork Codex (sub)",
+    "Art Galleria (sub)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3875",
+   "name": "Olej – katalog obrazów",
+   "verdict": "niche",
+   "competitors": [
+    "Artwork Archive (sub)",
+    "My Art Collection ($599 one-time)",
+    "ArtBinder (sub)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3877",
+   "name": "Edycja grafik/print edition – log",
+   "verdict": "niche",
+   "competitors": [
+    "Artwork Codex (sub)",
+    "manual spreadsheet",
+    "no dedicated one-time app found"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3879",
+   "name": "Giclée – wycena druku",
+   "verdict": "niche",
+   "competitors": [
+    "Giclee Today (service)",
+    "artpricecalculator.com (web free)",
+    "contemporaryartissue.com Excel"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3881",
+   "name": "Galeria – consignment/komis",
+   "verdict": "niche",
+   "competitors": [
+    "ConsignPro",
+    "ConsignMint",
+    "Art Galleria (sub)",
+    "ArtBinder (sub)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3883",
+   "name": "Kartki okolicznościowe – kalkulator kosztów",
+   "verdict": "niche",
+   "competitors": [
+    "greetingcardcalc.netlify.app (free web)",
+    "generic spreadsheet",
+    "Craftybase"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X3885",
+   "name": "Ekslibris – wycena/projekt",
+   "verdict": "niche",
+   "competitors": [
+    "Exlibris-insel.de (custom service)",
+    "Zazzle (marketplace)",
+    "no dedicated app"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X3887",
+   "name": "Linoryt/linocut – inwentarz i wycena",
+   "verdict": "niche",
+   "competitors": [
+    "Artwork Archive (sub)",
+    "Artwork Codex (sub)",
+    "manual spreadsheet"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3889",
+   "name": "Monotypia – log prac",
+   "verdict": "niche",
+   "competitors": [
+    "Artwork Archive (sub)",
+    "no dedicated app found",
+    "spreadsheet"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3891",
+   "name": "Pastele – katalog prac",
+   "verdict": "niche",
+   "competitors": [
+    "Artwork Codex (sub)",
+    "My Art Collection ($599)",
+    "Artwork Archive (sub)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3893",
+   "name": "Rzeźba – katalog",
+   "verdict": "niche",
+   "competitors": [
+    "Artwork Archive (sub)",
+    "contemporaryartissue.com Excel",
+    "ArtBinder (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3895",
+   "name": "Ceramika artystyczna – portfolio",
+   "verdict": "niche",
+   "competitors": [
+    "My Art Collection ($599)",
+    "Artwork Codex (sub)",
+    "Gesso (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3897",
+   "name": "Fotografia artystyczna – edycje/sprzedaż",
+   "verdict": "niche",
+   "competitors": [
+    "Fine Art America (marketplace)",
+    "ArtPhotoLimited",
+    "Artwork Archive (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3899",
+   "name": "Plakat – log nakładu/edycji",
+   "verdict": "niche",
+   "competitors": [
+    "1XRUN (publisher)",
+    "Prints.com",
+    "manual spreadsheet"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X3901",
+   "name": "Kolaż – inwentarz i wycena",
+   "verdict": "niche",
+   "competitors": [
+    "Artwork Codex (sub)",
+    "My Art Collection ($599)",
+    "generic spreadsheet"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3903",
+   "name": "Malarstwo na zamówienie – specyfikacja/wycena",
+   "verdict": "niche",
+   "competitors": [
+    "MyArtBrief",
+    "artpricecalculator.com",
+    "Trello/Notion (generic)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3905",
+   "name": "Ilustracja książkowa – wycena projektu",
+   "verdict": "niche",
+   "competitors": [
+    "Reedsy",
+    "generic invoice tools",
+    "Affinity Designer (design only)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3907",
+   "name": "Mural – portfolio/wycena",
+   "verdict": "niche",
+   "competitors": [
+    "Angi (cost guide)",
+    "generic portfolio sites",
+    "no dedicated app found"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3909",
+   "name": "Sitodruk artystyczny – log edycji",
+   "verdict": "niche",
+   "competitors": [
+    "Artwork Codex (sub)",
+    "Raygun Printing (service)",
+    "manual spreadsheet"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3911",
+   "name": "lineup-squad-builder",
+   "verdict": "skip",
+   "competitors": [
+    "TeamSnap",
+    "Lineup Soccer App",
+    "Quick Lineup",
+    "buildlineup.com"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3913",
+   "name": "substitution-tracker",
+   "verdict": "pursue",
+   "competitors": [
+    "SubTime",
+    "Substitution Manager (free iOS)",
+    "CoachAny"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3915",
+   "name": "player-stats-tracker",
+   "verdict": "skip",
+   "competitors": [
+    "SportMember (free)",
+    "TeamStats (freemium)",
+    "Wooter (free)",
+    "Ollie Sports"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X3917",
+   "name": "player-availability-tracker",
+   "verdict": "skip",
+   "competitors": [
+    "Spond (free)",
+    "Heja (free)",
+    "TeamLinkt (free)",
+    "Teamy"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3919",
+   "name": "match-schedule-maker",
+   "verdict": "skip",
+   "competitors": [
+    "Spond (free)",
+    "TeamLinkt (free)",
+    "Playpass (free)",
+    "4league (free)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 3,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3921",
+   "name": "standings-table-tracker",
+   "verdict": "pursue",
+   "competitors": [
+    "4league (free tier)",
+    "Tournament & league manager (Google Play)",
+    "LeagueLobster"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3923",
+   "name": "kit-equipment-tracker",
+   "verdict": "pursue",
+   "competitors": [
+    "SportSoft (enterprise)",
+    "Helmet Tracker (enterprise)",
+    "RedBeam (enterprise)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3925",
+   "name": "carpool-to-games",
+   "verdict": "skip",
+   "competitors": [
+    "GoKid (freemium $4.99/mo)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X3927",
+   "name": "tournament-travel-logistics",
+   "verdict": "skip",
+   "competitors": [
+    "Lucid Travel",
+    "SquadTrip",
+    "Engine"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3929",
+   "name": "training-attendance-tracker",
+   "verdict": "skip",
+   "competitors": [
+    "SportMember (free)",
+    "Jibble (free)",
+    "SquadDeck (free)",
+    "Practice Attendance Tracker iOS"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3931",
+   "name": "practice-session-planner",
+   "verdict": "skip",
+   "competitors": [
+    "TeamBuildr ($90/mo)",
+    "planet.training",
+    "CoachThem",
+    "Sportplan"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3933",
+   "name": "discipline-card-register",
+   "verdict": "pursue",
+   "competitors": [
+    "FA Grassroots Tech (partial)",
+    "no dedicated standalone app found"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3935",
+   "name": "pitch-field-rental-booking",
+   "verdict": "skip",
+   "competitors": [
+    "Pitchbooking",
+    "AllBooked",
+    "Anolla",
+    "SimplyBook.me"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3937",
+   "name": "coach-player-evaluation",
+   "verdict": "skip",
+   "competitors": [
+    "SkillShark ($5/player/yr)",
+    "CoachNow Analyze ($4.99/mo)",
+    "CoachBetter ($59.99/yr)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3939",
+   "name": "opponent-scouting",
+   "verdict": "skip",
+   "competitors": [
+    "Hudl (~$100-500/mo)",
+    "Nacsport (€295+/yr)",
+    "ScoutingStats (£12.99/mo)",
+    "360Scouting"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3941",
+   "name": "playbook-tactics-formations",
+   "verdict": "skip",
+   "competitors": [
+    "TacticalPad ($63/yr)",
+    "Tactic3D",
+    "Football Tactic Board (free)",
+    "Tactics Manager"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3943",
+   "name": "warmup-drill-plan",
+   "verdict": "skip",
+   "competitors": [
+    "Sportplan (freemium)",
+    "WarmUp iOS app",
+    "planet.training"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X3945",
+   "name": "captain-team-communication",
+   "verdict": "skip",
+   "competitors": [
+    "Spond (free)",
+    "Heja (free)",
+    "TeamLinkt (free)",
+    "sportsYou"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 3,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3947",
+   "name": "youth-player-minutage-development",
+   "verdict": "pursue",
+   "competitors": [
+    "SubTime (freemium)",
+    "PlayMetrics (enterprise)",
+    "no simple offline-only tool found"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3949",
+   "name": "tournament-team-entry-submission",
+   "verdict": "skip",
+   "competitors": [
+    "Tournify (free up to 8 teams)",
+    "Tourney Machine ($99+/event)",
+    "TeamSnap Tournaments"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "per-event",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
   }
  ]
 }
