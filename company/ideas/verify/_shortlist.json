@@ -1,0 +1,882 @@
+[
+{
+"name": "świece (candle making recipe tracker)",
+"v6": 85.4,
+"model": "freemium/sub",
+"reach": 4,
+"n": 1,
+"free_sub": true
+},
+{
+"name": "duct-sizing-hvac",
+"v6": 83.8,
+"model": "sub",
+"reach": 4,
+"n": 2,
+"free_sub": false
+},
+{
+"name": "Vinyl / Cricut Cut File Pricing Calculator",
+"v6": 83.8,
+"model": "onetime",
+"reach": 5,
+"n": 5,
+"free_sub": false
+},
+{
+"name": "Cost Per Service / Product Usage Calculator",
+"v6": 83.7,
+"model": "sub",
+"reach": 4,
+"n": 5,
+"free_sub": true
+},
+{
+"name": "Kalkulator wyceny bukietu (florysta)",
+"v6": 81.2,
+"model": "sub",
+"reach": 5,
+"n": 5,
+"free_sub": true
+},
+{
+"name": "Tabela proporcji farb do włosów (UWAGA: Charm/Gloss freemium)",
+"v6": 80.3,
+"model": "sub",
+"reach": 6,
+"n": 6,
+"free_sub": true
+},
+{
+"name": "art-glass-stained-glass-cost",
+"v6": 80.3,
+"model": "one-time",
+"reach": 4,
+"n": 5,
+"free_sub": false
+},
+{
+"name": "Pompa ciepła – log uruchomienia / komisjonowania",
+"v6": 80.3,
+"model": "sub",
+"reach": 3,
+"n": 2,
+"free_sub": false
+},
+{
+"name": "charcuterie-boards-costing",
+"v6": 80.2,
+"model": "sub",
+"reach": 5,
+"n": 5,
+"free_sub": true
+},
+{
+"name": "tip_pool_calculator",
+"v6": 79.8,
+"model": "sub",
+"reach": 3,
+"n": 4,
+"free_sub": false
+},
+{
+"name": "Hair Dye Inventory Reorder / Order Quantity Calculator",
+"v6": 79.8,
+"model": "sub",
+"reach": 3,
+"n": 4,
+"free_sub": false
+},
+{
+"name": "owner_operator_trucking_log",
+"v6": 79.7,
+"model": "subscription",
+"reach": 5,
+"n": 1,
+"free_sub": false
+},
+{
+"name": "leather-cuffs-bracelets-costing",
+"v6": 78.7,
+"model": "one-time",
+"reach": 4,
+"n": 2,
+"free_sub": false
+},
+{
+"name": "Instrukcje BHP-rejestr",
+"v6": 78.5,
+"model": "sub+onetime",
+"reach": 4,
+"n": 4,
+"free_sub": false
+},
+{
+"name": "immigration-consultant-client",
+"v6": 78.3,
+"model": "sub",
+"reach": 3,
+"n": 4,
+"free_sub": false
+},
+{
+"name": "H&S Cert Expiry Tracker / Szkolenia BHP – ważność",
+"v6": 78.2,
+"model": "sub",
+"reach": 4,
+"n": 3,
+"free_sub": true
+},
+{
+"name": "fuga-zuzycie",
+"v6": 77.9,
+"model": "one_time",
+"reach": 4,
+"n": 5,
+"free_sub": false
+},
+{
+"name": "radiant-floor-heating-loops",
+"v6": 77.8,
+"model": "sub",
+"reach": 3,
+"n": 2,
+"free_sub": false
+},
+{
+"name": "wycena-elewacji-siding",
+"v6": 77.8,
+"model": "sub",
+"reach": 3,
+"n": 3,
+"free_sub": false
+},
+{
+"name": "Nursery Staff-Child Ratio Monitor",
+"v6": 77.8,
+"model": "sub",
+"reach": 3,
+"n": 2,
+"free_sub": false
+},
+{
+"name": "inwentarz handmade / handmade inventory",
+"v6": 77.7,
+"model": "sub",
+"reach": 3,
+"n": 2,
+"free_sub": false
+},
+{
+"name": "Service Menu Pricing & Margin Calculator",
+"v6": 77.2,
+"model": "sub",
+"reach": 4,
+"n": 5,
+"free_sub": true
+},
+{
+"name": "Voice bible: próbki+atrybuty głosu per postać — narratorzy audiobooków, game VO, producenci audio-dram + aktorzy dubbingowi",
+"v6": 76.9,
+"model": "onetime",
+"reach": 6,
+"n": 2,
+"free_sub": false
+},
+{
+"name": "cabinets-costing",
+"v6": 76.9,
+"model": "sub",
+"reach": 4,
+"n": 6,
+"free_sub": false
+},
+{
+"name": "fire_calculator",
+"v6": 76.7,
+"model": "subscription",
+"reach": 4,
+"n": 1,
+"free_sub": true
+},
+{
+"name": "termite inspection WDO/WDI log",
+"v6": 75.7,
+"model": "sub",
+"reach": 4,
+"n": 3,
+"free_sub": false
+},
+{
+"name": "leather-cases-pouches-costing",
+"v6": 75.5,
+"model": "one-time",
+"reach": 4,
+"n": 1,
+"free_sub": false
+},
+{
+"name": "leather-card-cases-costing",
+"v6": 75.5,
+"model": "one-time",
+"reach": 4,
+"n": 1,
+"free_sub": false
+},
+{
+"name": "Salon Product Inventory Reorder Calculator",
+"v6": 75.4,
+"model": "sub",
+"reach": 3,
+"n": 6,
+"free_sub": false
+},
+{
+"name": "tractor_farm_machinery_service_log",
+"v6": 75.2,
+"model": "subscription",
+"reach": 4,
+"n": 2,
+"free_sub": false
+},
+{
+"name": "beekeeping_hive_manager",
+"v6": 75.2,
+"model": "subscription",
+"reach": 4,
+"n": 5,
+"free_sub": false
+},
+{
+"name": "Mieszanki przypraw (spice blends) – kalkulator kosztów",
+"v6": 75.2,
+"model": "one-time",
+"reach": 3,
+"n": 2,
+"free_sub": false
+},
+{
+"name": "Airbnb / Short-Term Rental Safety Checklist",
+"v6": 74.7,
+"model": "sub",
+"reach": 4,
+"n": 3,
+"free_sub": false
+},
+{
+"name": "Jam & Konfitury – kalkulator kosztów",
+"v6": 74.7,
+"model": "one-time",
+"reach": 3,
+"n": 2,
+"free_sub": false
+},
+{
+"name": "Sos ostry (hot sauce) – kalkulator kosztów",
+"v6": 74.7,
+"model": "one-time",
+"reach": 3,
+"n": 2,
+"free_sub": false
+},
+{
+"name": "Granola – kalkulator kosztów",
+"v6": 74.7,
+"model": "one-time",
+"reach": 3,
+"n": 2,
+"free_sub": false
+},
+{
+"name": "Makaron (artisan pasta) – kalkulator kosztów",
+"v6": 74.7,
+"model": "one-time",
+"reach": 3,
+"n": 2,
+"free_sub": false
+},
+{
+"name": "Tracker spójności charakteryzacji głosu (≈Voice bible)",
+"v6": 74.5,
+"model": "onetime",
+"reach": 5,
+"n": 1,
+"free_sub": false
+},
+{
+"name": "gorzelnia-rejestr-akcyzowy",
+"v6": 74.5,
+"model": "sub",
+"reach": 3,
+"n": 3,
+"free_sub": false
+},
+{
+"name": "3D Print Filament / Cost Calculator",
+"v6": 74.4,
+"model": "mixed",
+"reach": 5,
+"n": 7,
+"free_sub": false
+},
+{
+"name": "krawiec_slubny_poprawki",
+"v6": 74.3,
+"model": "sub_low",
+"reach": 2,
+"n": 2,
+"free_sub": false
+},
+{
+"name": "przerobki-alterations-kwit",
+"v6": 74.3,
+"model": "subscription",
+"reach": 2,
+"n": 2,
+"free_sub": false
+},
+{
+"name": "Macrame Pricing Calculator",
+"v6": 74.2,
+"model": "onetime",
+"reach": 3,
+"n": 3,
+"free_sub": false
+},
+{
+"name": "rug-hooking-punch-needle",
+"v6": 74.2,
+"model": "one-time",
+"reach": 3,
+"n": 2,
+"free_sub": false
+},
+{
+"name": "suspension_geometry_clearance",
+"v6": 73.8,
+"model": "sub",
+"reach": 2,
+"n": 2,
+"free_sub": false
+},
+{
+"name": "keg_yield_cost",
+"v6": 73.8,
+"model": "sub",
+"reach": 2,
+"n": 4,
+"free_sub": false
+},
+{
+"name": "Resin / Epoxy Jewelry Cost Calculator",
+"v6": 73.7,
+"model": "onetime",
+"reach": 4,
+"n": 4,
+"free_sub": true
+},
+{
+"name": "manual-j-heat-load",
+"v6": 73.5,
+"model": "sub",
+"reach": 4,
+"n": 4,
+"free_sub": false
+},
+{
+"name": "farma-hydroponiczna-parametry",
+"v6": 73.3,
+"model": "sub",
+"reach": 2,
+"n": 4,
+"free_sub": false
+},
+{
+"name": "aircraft-AD-SB-tracking",
+"v6": 73.3,
+"model": "sub",
+"reach": 3,
+"n": 8,
+"free_sub": false
+},
+{
+"name": "resin-art-project-manager",
+"v6": 73.2,
+"model": "one-time",
+"reach": 4,
+"n": 3,
+"free_sub": true
+},
+{
+"name": "Sublimation Printing Cost Calculator",
+"v6": 73.2,
+"model": "onetime",
+"reach": 4,
+"n": 4,
+"free_sub": true
+},
+{
+"name": "Tracker wzorów krzyżykowych iOS (Pattern Keeper pokrywa)",
+"v6": 73.1,
+"model": "sub",
+"reach": 5,
+"n": 4,
+"free_sub": true
+},
+{
+"name": "Genealogy / Family Tree",
+"v6": 73.1,
+"model": "subscription",
+"reach": 5,
+"n": 3,
+"free_sub": true
+},
+{
+"name": "fantasy_sports_tracker",
+"v6": 73.0,
+"model": "subscription",
+"reach": 3,
+"n": 1,
+"free_sub": false
+},
+{
+"name": "practice-session-planner",
+"v6": 73.0,
+"model": "subscription",
+"reach": 3,
+"n": 3,
+"free_sub": false
+},
+{
+"name": "Hair Color Cost / Dye Usage Calculator",
+"v6": 72.8,
+"model": "sub",
+"reach": 4,
+"n": 6,
+"free_sub": true
+},
+{
+"name": "airbrush-paint-mixing-recorder",
+"v6": 72.7,
+"model": "one-time",
+"reach": 3,
+"n": 2,
+"free_sub": false
+},
+{
+"name": "Badania profilaktyczne-rejestr",
+"v6": 72.5,
+"model": "sub",
+"reach": 4,
+"n": 2,
+"free_sub": false
+},
+{
+"name": "meat_roasting_time",
+"v6": 72.5,
+"model": "freemium",
+"reach": 4,
+"n": 4,
+"free_sub": false
+},
+{
+"name": "leather-wallets-costing",
+"v6": 72.4,
+"model": "one-time",
+"reach": 5,
+"n": 2,
+"free_sub": false
+},
+{
+"name": "Salon Package Pricing Calculator",
+"v6": 72.3,
+"model": "sub",
+"reach": 4,
+"n": 6,
+"free_sub": true
+},
+{
+"name": "wycena-malowania",
+"v6": 72.3,
+"model": "one-time",
+"reach": 4,
+"n": 5,
+"free_sub": false
+},
+{
+"name": "Fire Pump Inspection Log (NFPA 20)",
+"v6": 72.2,
+"model": "sub",
+"reach": 3,
+"n": 3,
+"free_sub": false
+},
+{
+"name": "EV Fleet Charging Log",
+"v6": 72.2,
+"model": "sub",
+"reach": 3,
+"n": 5,
+"free_sub": false
+},
+{
+"name": "instrument_sterilization_tracking_log",
+"v6": 72.2,
+"model": "sub",
+"reach": 3,
+"n": 4,
+"free_sub": false
+},
+{
+"name": "freelancer_time_tracker_offline",
+"v6": 72.1,
+"model": "subscription",
+"reach": 5,
+"n": 1,
+"free_sub": true
+},
+{
+"name": "Gitara – Postęp Akordów (Guitar Chord Progress)",
+"v6": 72.1,
+"model": "sub",
+"reach": 5,
+"n": 5,
+"free_sub": true
+},
+{
+"name": "astrology-personal-charts",
+"v6": 72.1,
+"model": "subscription",
+"reach": 5,
+"n": 4,
+"free_sub": true
+},
+{
+"name": "holster-costing",
+"v6": 72.0,
+"model": "one-time",
+"reach": 3,
+"n": 1,
+"free_sub": false
+},
+{
+"name": "mushroom_cultivation_log",
+"v6": 71.7,
+"model": "subscription",
+"reach": 3,
+"n": 2,
+"free_sub": false
+},
+{
+"name": "equipment_fuel_log",
+"v6": 71.7,
+"model": "sub",
+"reach": 3,
+"n": 3,
+"free_sub": false
+},
+{
+"name": "Smoke Damper Inspection Log",
+"v6": 71.7,
+"model": "sub",
+"reach": 3,
+"n": 2,
+"free_sub": false
+},
+{
+"name": "Standpipe / Internal Hydrant Inspection Log",
+"v6": 71.7,
+"model": "sub",
+"reach": 3,
+"n": 3,
+"free_sub": false
+},
+{
+"name": "Asbestos Survey Log",
+"v6": 71.7,
+"model": "sub",
+"reach": 3,
+"n": 4,
+"free_sub": false
+},
+{
+"name": "Emergency Lighting Monthly Test Log",
+"v6": 71.7,
+"model": "sub",
+"reach": 3,
+"n": 3,
+"free_sub": false
+},
+{
+"name": "Fire Door / Curtain Service Log",
+"v6": 71.7,
+"model": "sub",
+"reach": 3,
+"n": 5,
+"free_sub": false
+},
+{
+"name": "Fire Risk Assessment Log FRA (UK)",
+"v6": 71.7,
+"model": "sub",
+"reach": 3,
+"n": 4,
+"free_sub": false
+},
+{
+"name": "autoclave_sterilizer_log",
+"v6": 71.7,
+"model": "sub",
+"reach": 3,
+"n": 3,
+"free_sub": false
+},
+{
+"name": "infection_control_audit_log",
+"v6": 71.7,
+"model": "sub",
+"reach": 3,
+"n": 5,
+"free_sub": false
+},
+{
+"name": "commercial-fishing-vessel-log",
+"v6": 71.7,
+"model": "sub",
+"reach": 3,
+"n": 3,
+"free_sub": false
+},
+{
+"name": "siec-wod-kan-przeglad",
+"v6": 71.7,
+"model": "sub",
+"reach": 3,
+"n": 5,
+"free_sub": false
+},
+{
+"name": "Cell Culture Passaging Log",
+"v6": 71.7,
+"model": "sub",
+"reach": 3,
+"n": 3,
+"free_sub": false
+},
+{
+"name": "Autoclave / Sterilization Log",
+"v6": 71.7,
+"model": "sub",
+"reach": 3,
+"n": 4,
+"free_sub": false
+},
+{
+"name": "Magazyn F&B – rotacja FIFO log",
+"v6": 71.7,
+"model": "sub",
+"reach": 3,
+"n": 3,
+"free_sub": false
+},
+{
+"name": "CCTV Drainage Survey – reporting software",
+"v6": 71.7,
+"model": "sub",
+"reach": 3,
+"n": 3,
+"free_sub": false
+},
+{
+"name": "fumigation register log",
+"v6": 71.7,
+"model": "sub",
+"reach": 3,
+"n": 2,
+"free_sub": false
+},
+{
+"name": "Home Inspection Report (US)",
+"v6": 71.6,
+"model": "sub",
+"reach": 5,
+"n": 12,
+"free_sub": false
+},
+{
+"name": "Mała winnica: spray log + fenologia [do potw.]",
+"v6": 71.2,
+"model": "sub",
+"reach": 3,
+"n": 4,
+"free_sub": false
+},
+{
+"name": "NFPA 96 Kitchen Hood / Ansul Inspection Log",
+"v6": 71.2,
+"model": "sub",
+"reach": 3,
+"n": 1,
+"free_sub": false
+},
+{
+"name": "Fire Warden Register & Training Log",
+"v6": 71.2,
+"model": "sub",
+"reach": 3,
+"n": 3,
+"free_sub": false
+},
+{
+"name": "Waste Carrier Manifest Log",
+"v6": 71.2,
+"model": "sub",
+"reach": 3,
+"n": 3,
+"free_sub": false
+},
+{
+"name": "pool-chemical-service-log",
+"v6": 71.2,
+"model": "sub",
+"reach": 3,
+"n": 2,
+"free_sub": false
+},
+{
+"name": "solar-collector-OM-log",
+"v6": 71.2,
+"model": "sub",
+"reach": 3,
+"n": 2,
+"free_sub": false
+},
+{
+"name": "art-painting-collection",
+"v6": 71.2,
+"model": "subscription",
+"reach": 3,
+"n": 4,
+"free_sub": false
+},
+{
+"name": "safety_shower_eyewash_inspection_log",
+"v6": 71.2,
+"model": "sub",
+"reach": 3,
+"n": 2,
+"free_sub": false
+},
+{
+"name": "gleba-testy-tracking",
+"v6": 71.2,
+"model": "sub",
+"reach": 3,
+"n": 3,
+"free_sub": false
+},
+{
+"name": "Calibration management – tools/gauges",
+"v6": 71.2,
+"model": "sub",
+"reach": 3,
+"n": 3,
+"free_sub": true
+},
+{
+"name": "animal movement / passport log",
+"v6": 71.2,
+"model": "sub",
+"reach": 3,
+"n": 3,
+"free_sub": false
+},
+{
+"name": "Sample Chain of Custody Log",
+"v6": 71.2,
+"model": "sub",
+"reach": 3,
+"n": 4,
+"free_sub": false
+},
+{
+"name": "Snapfix hotel CMMS (benchmark)",
+"v6": 71.2,
+"model": "sub",
+"reach": 3,
+"n": 5,
+"free_sub": false
+},
+{
+"name": "process-server-log",
+"v6": 71.2,
+"model": "sub",
+"reach": 3,
+"n": 3,
+"free_sub": false
+},
+{
+"name": "cutting-boards-costing",
+"v6": 71.2,
+"model": "one-time",
+"reach": 5,
+"n": 4,
+"free_sub": true
+},
+{
+"name": "RAMS / Method Statement Register",
+"v6": 71.2,
+"model": "sub",
+"reach": 3,
+"n": 3,
+"free_sub": false
+},
+{
+"name": "wildlife removal service log",
+"v6": 71.2,
+"model": "sub",
+"reach": 3,
+"n": 2,
+"free_sub": false
+},
+{
+"name": "Log wagi ptaka łowczego (falconry)",
+"v6": 71.1,
+"model": "sub",
+"reach": 3,
+"n": 3,
+"free_sub": true
+},
+{
+"name": "dropshipping produkty / product tracker",
+"v6": 71.1,
+"model": "sub",
+"reach": 5,
+"n": 5,
+"free_sub": true
+},
+{
+"name": "planowanie-wyjazdu-grupowego",
+"v6": 71.1,
+"model": "sub",
+"reach": 5,
+"n": 3,
+"free_sub": true
+},
+{
+"name": "wycena-hvac",
+"v6": 71.1,
+"model": "sub",
+"reach": 4,
+"n": 7,
+"free_sub": false
+},
+{
+"name": "Macro Meal Plan — dietetyk makro jadłospis",
+"v6": 71.0,
+"model": "sub",
+"reach": 4,
+"n": 4,
+"free_sub": false
+}
+]
