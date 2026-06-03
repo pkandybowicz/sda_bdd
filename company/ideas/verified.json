@@ -57321,6 +57321,1825 @@
    "durability": 7,
    "reach": 2,
    "demand": 2
+  },
+  {
+   "id": "X3513_",
+   "name": "notary-journal",
+   "verdict": "skip",
+   "competitors": [
+    "NotaryGadget($11.95/mo)",
+    "NotaryAssist($8.99/mo)",
+    "NotaryAct(one-time)",
+    "NotaryCentral($139/yr)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3515_",
+   "name": "process-server-log",
+   "verdict": "validate",
+   "competitors": [
+    "ServeManager($49/user/mo)",
+    "PaperTracker",
+    "PS-Writes($19.95/mo)",
+    "TrackMyServe($19/mo)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3517_",
+   "name": "bail-bonds-case",
+   "verdict": "skip",
+   "competitors": [
+    "Captira($99/mo)",
+    "eBail",
+    "SimplyBail",
+    "Bailtec"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3519_",
+   "name": "paralegal-case",
+   "verdict": "skip",
+   "competitors": [
+    "PracticePanther($39/mo)",
+    "CaseFox(free≤4cases)",
+    "Lawcus($34/mo)",
+    "CosmoLex($79/mo)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3521_",
+   "name": "immigration-consultant-client",
+   "verdict": "skip",
+   "competitors": [
+    "Docketwise($69/mo)",
+    "LollyLaw",
+    "eImmigration($55/mo)",
+    "ImmiCompliance($39/mo)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3523_",
+   "name": "tax-preparer-client",
+   "verdict": "skip",
+   "competitors": [
+    "TaxDome",
+    "Drake",
+    "ProSeries",
+    "FinancialCents"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X3525_",
+   "name": "bookkeeper-client-folder",
+   "verdict": "validate",
+   "competitors": [
+    "TaxDome",
+    "ContentSnare($29/mo)",
+    "Double($10/user/mo)",
+    "Agiled"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3527_",
+   "name": "estate-planner-client",
+   "verdict": "skip",
+   "competitors": [
+    "WealthCounsel",
+    "Vanilla",
+    "LEAP",
+    "MyCase"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3529_",
+   "name": "mediator-session",
+   "verdict": "build",
+   "competitors": [
+    "ScaleMediation(free)",
+    "ADRNotable(custom)",
+    "Casedoc",
+    "Impend"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3531_",
+   "name": "court-reporter-case",
+   "verdict": "skip",
+   "competitors": [
+    "CaseView($99/mo)",
+    "Eclipse($150/mo)",
+    "Filevine(custom)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3533_",
+   "name": "private-investigator-case",
+   "verdict": "validate",
+   "competitors": [
+    "CaseJacket(free≤25cases)",
+    "CROSStrax",
+    "CaseFlowInvestigator",
+    "Tracers($39/mo)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3535_",
+   "name": "debt-collector-case",
+   "verdict": "skip",
+   "competitors": [
+    "CaseMasterPro($45/mo)",
+    "CaseFox",
+    "Collect!",
+    "Lateral"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3537_",
+   "name": "insurance-broker-client",
+   "verdict": "skip",
+   "competitors": [
+    "EZLynx",
+    "Bigin(Zoho)",
+    "AgencyMate",
+    "Salesforce"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3539_",
+   "name": "financial-advisor-notes",
+   "verdict": "skip",
+   "competitors": [
+    "Redtail($39/mo)",
+    "Wealthbox($59/mo)",
+    "Zoho($14/mo)",
+    "Orion"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3541_",
+   "name": "real-estate-appraiser-report",
+   "verdict": "validate",
+   "competitors": [
+    "Anow($35/mo)",
+    "DataMaster",
+    "Spark(TrueFootage)",
+    "Realquantum"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3543_",
+   "name": "bankruptcy-trustee-case",
+   "verdict": "skip",
+   "competitors": [
+    "TrusteeSuite(custom)",
+    "TrusteSolutions(custom)",
+    "NextChapter($1999/yr)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X3545_",
+   "name": "bailiff-enforcement-case",
+   "verdict": "build",
+   "competitors": [
+    "generic law-enforcement platforms(Kaseware)",
+    "no dedicated solo tool found"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3547_",
+   "name": "sworn-translator-repertorium",
+   "verdict": "build",
+   "competitors": [
+    "XTRF",
+    "ProZ Cloud",
+    "no dedicated repertorium app found"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3549_",
+   "name": "customs-broker-filings",
+   "verdict": "validate",
+   "competitors": [
+    "Magaya",
+    "Strix($30/entry)",
+    "TurboBroker",
+    "CargoWise"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3551_",
+   "name": "tax-advisor-client-folder",
+   "verdict": "skip",
+   "competitors": [
+    "TaxDome($5-11/mo billed annually)",
+    "SmartVault",
+    "Canopy",
+    "eFileCabinet"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3553_",
+   "name": "auditor-working-papers",
+   "verdict": "skip",
+   "competitors": [
+    "AuditFile(flexible)",
+    "TeamMate(Wolters Kluwer)",
+    "DataSnipper",
+    "DiligentHighBond"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3555_",
+   "name": "court-guardian-ward",
+   "verdict": "build",
+   "competitors": [
+    "Tyler Technologies(enterprise)",
+    "Reconnect",
+    "FieldWare",
+    "no solo-focused tool found"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3557_",
+   "name": "saddlery-harness-costing",
+   "verdict": "build",
+   "competitors": [
+    "Craftybase($29/mo sub)",
+    "CraftPriceCalculator(iOS free+IAP)",
+    "generic spreadsheets"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3559_",
+   "name": "leather-bags-costing",
+   "verdict": "validate",
+   "competitors": [
+    "Craftybase($29/mo)",
+    "Sewspire BagCalc(free web)",
+    "RuralHandmade(free)",
+    "Weaver guide(free)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X3561_",
+   "name": "leather-belts-costing",
+   "verdict": "validate",
+   "competitors": [
+    "Craftybase($29/mo)",
+    "SullyAndProper leather calc(free)",
+    "Weaver guide(free)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3563_",
+   "name": "holster-costing",
+   "verdict": "build",
+   "competitors": [
+    "Craftybase($29/mo)",
+    "leatherworker.net forum(free)",
+    "generic craft calculators"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3565_",
+   "name": "knife-sheath-costing",
+   "verdict": "build",
+   "competitors": [
+    "Craftybase($29/mo)",
+    "leatherworker.net forum(free)",
+    "no dedicated app found"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3567_",
+   "name": "wood-pens-costing",
+   "verdict": "validate",
+   "competitors": [
+    "MakerPrice(free web)",
+    "Craftybase($29/mo)",
+    "penturners.org forum spreadsheets"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3569_",
+   "name": "cutting-boards-costing",
+   "verdict": "skip",
+   "competitors": [
+    "CuttingBoardCalculator(iOS free)",
+    "HammockDave(free web)",
+    "WoodworkCalc(free)",
+    "SageCalculator(free)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X3571_",
+   "name": "charcuterie-boards-costing",
+   "verdict": "skip",
+   "competitors": [
+    "Charculator($9/mo)",
+    "GrazingBiz(free)",
+    "CharcuterieCalculator.com(free)",
+    "VisionBoards(free)",
+    "AmazingCharcuterie(free)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 5,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X3573_",
+   "name": "wood-bowls-costing",
+   "verdict": "validate",
+   "competitors": [
+    "WoodworkingTraining calc(free)",
+    "TurningForProfit guides(free)",
+    "MarleyTurned segmented calc(free)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3575_",
+   "name": "wooden-boxes-costing",
+   "verdict": "validate",
+   "competitors": [
+    "WoodworkCalc(free)",
+    "ContractorPlus(sub)",
+    "Craftybase($29/mo)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3577_",
+   "name": "wooden-signs-costing",
+   "verdict": "validate",
+   "competitors": [
+    "TheSignExpert calc(free)",
+    "FatBison quote tool(free)",
+    "ContractorPlus(sub)",
+    "ArtSignWorks(free)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3579_",
+   "name": "cabinets-costing",
+   "verdict": "skip",
+   "competitors": [
+    "CabinetCruncher(sub)",
+    "Pro100(sub)",
+    "CustomCabinetEstimator(sub)",
+    "CabinetShopSoftware(sub)",
+    "KitchenDev(sub)",
+    "WoodworkCalc(free)"
+   ],
+   "n": 6,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X3581_",
+   "name": "cajon-drum-costing",
+   "verdict": "build",
+   "competitors": [
+    "no dedicated app found",
+    "Craftybase($29/mo)",
+    "generic craft calculators"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3583_",
+   "name": "wooden-toys-costing",
+   "verdict": "validate",
+   "competitors": [
+    "WoodworkCalc(free)",
+    "ContractorPlus(sub)",
+    "Craftybase($29/mo)",
+    "MakerCalc(free)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3585_",
+   "name": "picture-frames-costing",
+   "verdict": "skip",
+   "competitors": [
+    "TheFramersPricingApp(paid app)",
+    "SimulArt(sub)",
+    "Hingmy calc(free)",
+    "TheCals(free)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3587_",
+   "name": "intarsia-marquetry-costing",
+   "verdict": "build",
+   "competitors": [
+    "Craftybase($29/mo)",
+    "MakerPrice(free)",
+    "no dedicated app found"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3589_",
+   "name": "wood-turning-projects-costing",
+   "verdict": "validate",
+   "competitors": [
+    "TurningForProfit(free guides)",
+    "CustomTurnings calc(free)",
+    "WoodworkingTraining calc(free)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3591_",
+   "name": "leather-wallets-costing",
+   "verdict": "validate",
+   "competitors": [
+    "Craftybase($29/mo)",
+    "Weaver guide(free)",
+    "LeatherBeast guide(free)",
+    "SullyAndProper calc(free)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X3593_",
+   "name": "leather-cases-pouches-costing",
+   "verdict": "build",
+   "competitors": [
+    "Craftybase($29/mo)",
+    "generic craft calculators",
+    "no dedicated app found"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3595_",
+   "name": "leather-watch-straps-costing",
+   "verdict": "build",
+   "competitors": [
+    "Craftybase($29/mo)",
+    "leatherworker.net forum(free)",
+    "no dedicated app found"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3597_",
+   "name": "leather-cuffs-bracelets-costing",
+   "verdict": "validate",
+   "competitors": [
+    "Craftybase($29/mo)",
+    "Weaver guide(free)",
+    "generic Etsy pricing calculators"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3599_",
+   "name": "leather-card-cases-costing",
+   "verdict": "build",
+   "competitors": [
+    "Craftybase($29/mo)",
+    "no dedicated app found",
+    "generic craft calculators"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3601_",
+   "name": "Clock Restoration Journal",
+   "verdict": "weak",
+   "competitors": [
+    "NAWCC forums",
+    "generic note apps"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid_one_time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3603_",
+   "name": "Watch Service Log",
+   "verdict": "ok",
+   "competitors": [
+    "Watch Collection Tracker (free)",
+    "Watchee",
+    "ChronoLog",
+    "tickIQ"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3605_",
+   "name": "Fountain Pen Restoration Log",
+   "verdict": "ok",
+   "competitors": [
+    "Fountain Pen Companion (free/Patreon)",
+    "PenList",
+    "My Fountain Pens & Inks"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3607_",
+   "name": "Film Camera CLA Log",
+   "verdict": "ok",
+   "competitors": [
+    "CollectiBlend",
+    "iFixit app (free)",
+    "generic spreadsheets"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid_one_time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3609_",
+   "name": "Vintage Bicycle Restoration Log",
+   "verdict": "weak",
+   "competitors": [
+    "generic note apps",
+    "Notion templates"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid_one_time",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3611_",
+   "name": "Pinball Machine Restoration Log",
+   "verdict": "weak",
+   "competitors": [
+    "Arcade-Projects forum logs",
+    "Pinside",
+    "generic spreadsheets"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid_one_time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3613_",
+   "name": "Arcade Cabinet Restoration Log",
+   "verdict": "weak",
+   "competitors": [
+    "Arcade-Museum forum",
+    "Arcade-Projects forum",
+    "generic note apps"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid_one_time",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3615_",
+   "name": "Jukebox Restoration Log",
+   "verdict": "skip",
+   "competitors": [
+    "generic spreadsheets",
+    "Steve Hoffman forums"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid_one_time",
+   "durability": 4,
+   "reach": 1,
+   "demand": 0
+  },
+  {
+   "id": "X3617_",
+   "name": "Turntable / Gramophone Restoration Log",
+   "verdict": "weak",
+   "competitors": [
+    "Turntable Doc / Medic service notes",
+    "generic note apps"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid_one_time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3619_",
+   "name": "Vintage Sewing Machine Restoration Log",
+   "verdict": "weak",
+   "competitors": [
+    "Quiltingboard forums",
+    "Sewing Doc Academy",
+    "generic spreadsheets"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid_one_time",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3621_",
+   "name": "Vintage Hand Tool Restoration Log",
+   "verdict": "weak",
+   "competitors": [
+    "The Todd-Mark blog",
+    "permies forums",
+    "generic note apps"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid_one_time",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3623_",
+   "name": "Antique Furniture Restoration Log",
+   "verdict": "ok",
+   "competitors": [
+    "CompanyCam (pro)",
+    "generic note apps",
+    "Notion"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid_one_time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3625_",
+   "name": "Musical Instrument Restoration Log",
+   "verdict": "ok",
+   "competitors": [
+    "generic spreadsheets",
+    "shop management tools",
+    "iFixit app"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid_one_time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3627_",
+   "name": "Antique Lamp & Chandelier Restoration Log",
+   "verdict": "skip",
+   "competitors": [
+    "generic note apps",
+    "Houzz forums"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid_one_time",
+   "durability": 4,
+   "reach": 1,
+   "demand": 0
+  },
+  {
+   "id": "X3629_",
+   "name": "Wooden Boat Restoration Log",
+   "verdict": "weak",
+   "competitors": [
+    "WoodenBoat magazine/forum",
+    "generic project logs"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid_one_time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3631_",
+   "name": "Stained Glass Restoration Log",
+   "verdict": "skip",
+   "competitors": [
+    "generic note apps",
+    "Houzz forums"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid_one_time",
+   "durability": 4,
+   "reach": 1,
+   "demand": 0
+  },
+  {
+   "id": "X3633_",
+   "name": "Porcelain & China Restoration Log",
+   "verdict": "skip",
+   "competitors": [
+    "Lakeside Pottery tutorials",
+    "generic note apps"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid_one_time",
+   "durability": 4,
+   "reach": 1,
+   "demand": 0
+  },
+  {
+   "id": "X3635_",
+   "name": "Mantel Clock Restoration Log",
+   "verdict": "weak",
+   "competitors": [
+    "NAWCC forums",
+    "clockworks.com guides",
+    "generic note apps"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid_one_time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3637_",
+   "name": "Vintage Camera Restoration Log",
+   "verdict": "ok",
+   "competitors": [
+    "CollectiBlend",
+    "iFixit app (free)",
+    "Hunting for Vintage Cameras blog"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "paid_one_time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3639_",
+   "name": "Film Projector Service Log",
+   "verdict": "skip",
+   "competitors": [
+    "Oak Tree Vintage resources",
+    "generic spreadsheets"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid_one_time",
+   "durability": 4,
+   "reach": 1,
+   "demand": 0
+  },
+  {
+   "id": "X3641_",
+   "name": "Vintage Calculator & Retrocomputer Restoration Log",
+   "verdict": "weak",
+   "competitors": [
+    "Adam's Vintage Computer Restorations blog",
+    "Vintage Calculators Web Museum",
+    "generic note apps"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid_one_time",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3643_",
+   "name": "Mantel / Fireplace Clock Restoration Log",
+   "verdict": "skip",
+   "competitors": [
+    "NAWCC forums",
+    "Maison-Robert service",
+    "generic note apps"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid_one_time",
+   "durability": 5,
+   "reach": 1,
+   "demand": 0
+  },
+  {
+   "id": "X3645_",
+   "name": "Tempo biegu / Race Predictor",
+   "verdict": "skip",
+   "competitors": [
+    "RunCalcs (one-time)",
+    "Race Time Calculator (free)",
+    "PredictMyRun (free web)",
+    "Pace app (free)"
+   ],
+   "n": 8,
+   "free_sub": false,
+   "model": "free",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3647_",
+   "name": "FTP / Strefy mocy kolarstwo",
+   "verdict": "skip",
+   "competitors": [
+    "TrainerRoad ($210/yr)",
+    "FormBeat ($25/yr)",
+    "DataCranker (free web)",
+    "CyclistsHub (free web)"
+   ],
+   "n": 10,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3649_",
+   "name": "Tempo pływania / CSS",
+   "verdict": "skip",
+   "competitors": [
+    "SwimSmooth Guru (free web)",
+    "MyProCoach (free web)",
+    "Effortless Swimming (free web)",
+    "MySwimsplits (free web)"
+   ],
+   "n": 6,
+   "free_sub": false,
+   "model": "free",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3651_",
+   "name": "Split wioślarski / Erg Pace",
+   "verdict": "weak",
+   "competitors": [
+    "Concept2 official (free web)",
+    "ErgSplits (paid iOS)",
+    "RowingRegimen (free web)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3653_",
+   "name": "Piramida trudności wspinaczka",
+   "verdict": "skip",
+   "competitors": [
+    "Climbing Grades (free iOS)",
+    "Rock Climbing Grade Converter (free iOS/Android)",
+    "Climbing Grades Converter (free)",
+    "Darth Grader (free web)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3655_",
+   "name": "Wilks / DOTS Powerlifting",
+   "verdict": "skip",
+   "competitors": [
+    "WilksandDots (free iOS)",
+    "PowerLIFTING CALC (iOS)",
+    "LifterCalc (free web)",
+    "Lift Vault (free web)"
+   ],
+   "n": 6,
+   "free_sub": false,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3657_",
+   "name": "Benchmark CrossFit / WOD Score",
+   "verdict": "skip",
+   "competitors": [
+    "PRzilla (free)",
+    "Beyond the Whiteboard ($10/mo)",
+    "SugarWOD (freemium)",
+    "WOD Generator (freemium)"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3659_",
+   "name": "Plan maratonu - tempa splitów",
+   "verdict": "weak",
+   "competitors": [
+    "runbundle (free web)",
+    "paceband.org (free)",
+    "MarathonGuide (free web)",
+    "Race & Pace (free multi-platform)"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3661_",
+   "name": "Strefy tętna / HR Zones",
+   "verdict": "skip",
+   "competitors": [
+    "HR Zones app (free iOS)",
+    "Zones for Training (free iOS)",
+    "Polar Beat (free)",
+    "Zone 2 app (free)"
+   ],
+   "n": 9,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3663_",
+   "name": "VO2max szacowanie",
+   "verdict": "skip",
+   "competitors": [
+    "VO2max Calculator (free iOS)",
+    "VO2 Max Estimator (free iOS)",
+    "12 Minute VO2 Max (free iOS)",
+    "COROS built-in"
+   ],
+   "n": 8,
+   "free_sub": false,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3665_",
+   "name": "Tempo interwałów biegowych",
+   "verdict": "skip",
+   "competitors": [
+    "RUN interval (iOS)",
+    "Intervals Pro HIIT (iOS)",
+    "Pace app (free)",
+    "Runtastic (free)"
+   ],
+   "n": 9,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3667_",
+   "name": "Kalkulator kalorii treningu",
+   "verdict": "skip",
+   "competitors": [
+    "MyFitnessPal (freemium)",
+    "Exercise Calorie Calculator (iOS)",
+    "Calories Sport & Activity ($15/mo)",
+    "Yazio (freemium)"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X3669_",
+   "name": "Pace Band Maraton",
+   "verdict": "weak",
+   "competitors": [
+    "paceband.org (free)",
+    "runbundle (free web)",
+    "FindMyMarathon (free web)",
+    "Paceband.cn (iOS app)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3671_",
+   "name": "Age Grading lekkoatletyka",
+   "verdict": "niche",
+   "competitors": [
+    "runcalc.app (free web)",
+    "runbundle (free web)",
+    "Athletics Score Calculator (iOS)",
+    "Howard Grubb web tool (free)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "free",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3673_",
+   "name": "Punkty IPF / GL Score",
+   "verdict": "skip",
+   "competitors": [
+    "IPF Calculator (free iOS)",
+    "PowerLIFTING CALC (iOS)",
+    "IPF GL Points (Android)",
+    "LifterCalc (free web)"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "free",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3675_",
+   "name": "Plates / Krążki dobór sztanga",
+   "verdict": "skip",
+   "competitors": [
+    "RackMath (paid iOS)",
+    "Powerlift Barbell Calc (one-time)",
+    "Barbell Plate Calculator Pro (iOS)",
+    "Bar Is Loaded (iOS)"
+   ],
+   "n": 10,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X3677_",
+   "name": "RPE / RIR przelicznik",
+   "verdict": "skip",
+   "competitors": [
+    "RPE app (free iOS)",
+    "StressCalc (free iOS)",
+    "rpetraining.com (free web)",
+    "Legend Tracker (free web)"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3679_",
+   "name": "Deficyt kaloryczny",
+   "verdict": "skip",
+   "competitors": [
+    "MyFitnessPal (freemium)",
+    "Oatsy/Calorie Deficit Calc (free)",
+    "Calorie Deficit Tracker (free iOS)",
+    "Cronometer (freemium)"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X3681_",
+   "name": "Nawodnienie sportowca / Sweat Rate",
+   "verdict": "niche",
+   "competitors": [
+    "MyClearStep (B2B app)",
+    "FLOWBIO (hardware $249+)",
+    "hDrop (hardware £199)",
+    "Precision Hydration (free web calc)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3683_",
+   "name": "Beep Test / Poziom VO2max",
+   "verdict": "weak",
+   "competitors": [
+    "VO2 Max Beep Test (iOS)",
+    "Kalkulator Vo2max Bleep (Android)",
+    "TopEndSports (free web)",
+    "BeepTestGuide (free web)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "free",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3685_",
+   "name": "Strefy mocy biegowej (Stryd-style)",
+   "verdict": "skip",
+   "competitors": [
+    "Stryd app (free + $99 sensor)",
+    "Garmin built-in (free)",
+    "Coros built-in (free)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3687_",
+   "name": "Makra pod cele sportowe",
+   "verdict": "skip",
+   "competitors": [
+    "MyFitnessPal (freemium)",
+    "Cronometer (freemium)",
+    "MacroFactor ($10/mo)",
+    "Carbon Diet Coach ($10/mo)"
+   ],
+   "n": 9,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X3689_",
+   "name": "drabinka turniejowa (bracket maker)",
+   "verdict": "skip",
+   "competitors": [
+    "Challonge",
+    "BracketHQ",
+    "Toornament",
+    "Battlefy",
+    "bracketmaker.app"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 6,
+   "demand": 2
+  },
+  {
+   "id": "X3691_",
+   "name": "harmonogram ligi (league scheduler)",
+   "verdict": "skip",
+   "competitors": [
+    "LeagueLobster",
+    "Jersey Watch",
+    "TeamLinkt",
+    "LeagueSquare"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X3693_",
+   "name": "system kołowy/round robin",
+   "verdict": "skip",
+   "competitors": [
+    "LeagueLobster",
+    "Score7",
+    "tournamentscheduler.net",
+    "Teamopolis"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X3695_",
+   "name": "parowanie golf scramble",
+   "verdict": "marginal",
+   "competitors": [
+    "Squabbit",
+    "BirdEase",
+    "Golfify",
+    "GolfSoftware"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X3697_",
+   "name": "losowanie raffle",
+   "verdict": "skip",
+   "competitors": [
+    "Zeffy",
+    "BetterWorld",
+    "RallyUp",
+    "RandomPicker"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X3699_",
+   "name": "50/50 draw",
+   "verdict": "skip",
+   "competitors": [
+    "RallyUp",
+    "RafflesNow",
+    "Chance2Win",
+    "Zeffy"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3701_",
+   "name": "bingo-prowadzenie",
+   "verdict": "marginal",
+   "competitors": [
+    "bingo-caller.com",
+    "BingoMaker",
+    "My Bingo Caller"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X3703_",
+   "name": "quiz night-punktacja",
+   "verdict": "skip",
+   "competitors": [
+    "Kahoot",
+    "Trivnow",
+    "VenueTrivial",
+    "TriviaMaker",
+    "Quizado"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3705",
+   "name": "talent show-głosowanie",
+   "verdict": "pursue",
+   "competitors": [
+    "ScoreJudge",
+    "DigiGames Talent Hunt",
+    "VoxVote"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3707",
+   "name": "konkurs piękności-noty",
+   "verdict": "pursue",
+   "competitors": [
+    "TallyGenie",
+    "Bombyhead",
+    "Pageant Planet"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3709",
+   "name": "car show-ocena/głosy",
+   "verdict": "pursue",
+   "competitors": [
+    "Car Show Pro",
+    "Chariotz",
+    "Speed Judge",
+    "Event and Judge",
+    "Trophy Cloud"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "per-event",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3711",
+   "name": "kiermasz ciast (bake sale judging)",
+   "verdict": "pursue",
+   "competitors": [
+    "Jotform (generic)",
+    "ScoreJudge (generic)"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X3713",
+   "name": "aukcja cicha/silent auction",
+   "verdict": "skip",
+   "competitors": [
+    "Auctria",
+    "RallyUp",
+    "Handbid",
+    "Silent Auction Pro",
+    "Accelevents"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3715",
+   "name": "fanty/door prize",
+   "verdict": "marginal",
+   "competitors": [
+    "Door Prize App",
+    "RandomPicker",
+    "Zeffy",
+    "MeetingPulse"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X3717",
+   "name": "zawody wędkarskie-waga",
+   "verdict": "pursue",
+   "competitors": [
+    "Weighfish",
+    "Reel Time Apps",
+    "CatchStat",
+    "Web Pro Tournament Manager",
+    "Fishing Chaos"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3719",
+   "name": "regaty-wyniki",
+   "verdict": "pursue",
+   "competitors": [
+    "Sailwave",
+    "SailScores",
+    "HalSail",
+    "RegattaHub",
+    "YachtScoring"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3721",
+   "name": "bieg-numery startowe/wyniki",
+   "verdict": "skip",
+   "competitors": [
+    "RunSignup",
+    "RACE RESULT",
+    "RaceClocker",
+    "Wiclax",
+    "MYLAPS"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3723",
+   "name": "zawody strzeleckie-tarcze",
+   "verdict": "pursue",
+   "competitors": [
+    "BullseyeMatch",
+    "RangeTime",
+    "TargetScan",
+    "Score-Shot",
+    "Eley X-Shot"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3725",
+   "name": "pokaz mody-kolejność",
+   "verdict": "pursue",
+   "competitors": [
+    "InEvent",
+    "Magnetiq",
+    "ArtCalendar"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X3727",
+   "name": "eliminacje/playoff seeding",
+   "verdict": "skip",
+   "competitors": [
+    "Challonge",
+    "BracketHQ",
+    "Battlefy",
+    "My Bracket"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X3729",
+   "name": "wystawa psów-zgłoszenia",
+   "verdict": "skip-dup",
+   "competitors": [
+    "ShowManager",
+    "DogShow software"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3731",
+   "name": "zawody BBQ",
+   "verdict": "skip-dup",
+   "competitors": [
+    "chili cookoff (done)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
   }
  ]
 }
