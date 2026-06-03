@@ -65087,6 +65087,644 @@
    "durability": 8,
    "reach": 2,
    "demand": 2
+  },
+  {
+   "id": "X3991__",
+   "name": "Psychrometrics / Mollier Chart Calculator",
+   "verdict": "viable niche — paid apps exist (Carmel ~$10, Munters free) but offline native with full Mollier diagram on mobile is thin; moderate demand from HVAC engineers/techs",
+   "competitors": [
+    "Carmel HVAC Psychrometric Plus",
+    "Munters PsychroApp (free)",
+    "Air Lite Psychrometric Calcs (free)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3993__",
+   "name": "Refrigerant Line Set Sizing (length/diameter)",
+   "verdict": "weak standalone — covered as sub-feature in Elite HVAC Tools and HVACR Check&Charge; dedicated mobile app gap exists but demand is narrow (install technicians only)",
+   "competitors": [
+    "Elite Software HVAC Tools",
+    "HVACR Check & Charge (free/Copeland)",
+    "HVACPlanner.com (free web)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3995__",
+   "name": "Static Pressure / Duct System Resistance Calculator",
+   "verdict": "crowded-free tier — Connecteam, h2x, Blackhawk free web tools dominate; DuctCalc app went subscription; niche for offline one-time is small but real among field techs",
+   "competitors": [
+    "DuctCalc (subscription)",
+    "Duct Calculator iOS (free)",
+    "h2x free web ductulator"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3997__",
+   "name": "EER / COP / SEER Efficiency Converter & Analyzer",
+   "verdict": "low value standalone — fully saturated by free web calculators (Adicot, CalcToWork, PICKHVAC); no paid mobile gap found; too simple to justify $5+",
+   "competitors": [
+    "Adicot EER/SEER converter (free)",
+    "power-calculation.com (free)",
+    "CalcToWork (free)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 3,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3999__",
+   "name": "Defrost Cycle Calculator (refrigeration)",
+   "verdict": "weak — Danfoss Ref Tools covers defrost-adjacent data for free; Refrigeration CycleAnalyst is $9.99/mo subscription; standalone offline defrost-only app has very narrow use case",
+   "competitors": [
+    "Danfoss Ref Tools (free)",
+    "Refrigeration CycleAnalyst ($9.99/mo)",
+    "Copeland Mobile (free)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "subscription",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X4001__",
+   "name": "Reheat / Heating Coil Load Sizing",
+   "verdict": "niche viable — Adicot free web only; no dedicated offline mobile app found; demand limited to commercial AHU designers; could bundle with dehumidification calc",
+   "competitors": [
+    "Adicot Reheat Calculator (free web)",
+    "Carmel HVAC Load Plus (broader, paid ~$30)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X4003__",
+   "name": "Refrigeration Compressor Selection / Sizing",
+   "verdict": "manufacturer-locked — Danfoss Coolselector2, Secop Toolkit, Copeland Mobile all free but brand-specific; neutral multi-brand mobile selector has a gap but requires large refrigerant DB",
+   "competitors": [
+    "Danfoss Coolselector2 (free)",
+    "Secop Toolkit (free)",
+    "Copeland Mobile (free)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X4005__",
+   "name": "Evaporator Coil Selection / Sizing",
+   "verdict": "manufacturer-dominated — Colmac, Modine, CoilCalc, LU-VE all offer free brand tools; independent app is hard to maintain without coil DB; limited commercial appeal",
+   "competitors": [
+    "CoilCalc (free)",
+    "LU-VE Cold Room Calc (free)",
+    "Colmac Selection Software (free)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X4007__",
+   "name": "Condenser Coil Selection / Sizing",
+   "verdict": "same as evaporator — manufacturer tools dominate; calcooling.com free web; Air Conditioner or Heat Pump Android app $2.99 barely covers this; low standalone appeal",
+   "competitors": [
+    "calcooling.com (free)",
+    "Air Conditioner or Heat Pump app ($2.99 Android)",
+    "ALTEC Coils Calculator (free)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 4,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X4009__",
+   "name": "TXV / EXV Expansion Valve Selection",
+   "verdict": "niche viable — Parker Sporlan Virtual Engineer free but brand-specific; HVACPlanner.com free but conceptual only; neutral offline TXV sizing app with capacity correction factors is a real gap for refrigeration techs",
+   "competitors": [
+    "Parker Sporlan Virtual Engineer (free, brand-specific)",
+    "HVACPlanner.com expansion valve sizing (free web)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X4011_",
+   "name": "Refrigerant Pipe Pressure Drop Calculator",
+   "verdict": "viable — Pipe Pressure Drop app exists on iOS (lifetime IAP) but generic fluids; HVAC-specific refrigerant version with common refrigerants is underserved; solid field utility",
+   "competitors": [
+    "Pipe Pressure Drop Calculator iOS (generic, IAP)",
+    "HVAC Professional Formulator ($7.99)",
+    "HVAC Buddy (partial, $9.99)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X4013_",
+   "name": "Pipe Insulation Thickness Calculator",
+   "verdict": "weak standalone — 3E Plus free web + mobile; Pipe Heat Loss App free iOS; Thermaflex/Aeroflex free calculators; limited monetization potential",
+   "competitors": [
+    "3E Plus (free web)",
+    "Pipe Heat Loss App (free iOS)",
+    "Thermaflex Calculator (free web)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X4015_",
+   "name": "Fan Selection (CFM / Static Pressure / Fan Laws)",
+   "verdict": "moderate — Greenheck free web tool strong; no compelling offline mobile fan-laws + selection app found; field technicians need quick fan law calculations; opportunity for clean $5-7 app",
+   "competitors": [
+    "Greenheck SP Calculator (free web)",
+    "Industrial Fans Direct Calculator (free web)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X4017_",
+   "name": "Humidifier Sizing / Selection",
+   "verdict": "niche thin — DriSteem LoadCalc and Condair h,x free apps available; demand mostly commercial HVAC engineers not field techs; hard to justify paid standalone",
+   "competitors": [
+    "Condair h,x App (free)",
+    "DriSteem LoadCalc (free web)",
+    "General Filters Calculator (free web)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X4019_",
+   "name": "Dehumidifier Sizing / Selection",
+   "verdict": "consumer-saturated — dozens of free web calculators; LearnToRestore IICRC-based tool is niche for restoration pros; Adicot covers pro side; low paid-app gap",
+   "competitors": [
+    "Adicot Dehumidifier Calculator (free)",
+    "Mobile Air DH Calculator (free)",
+    "HowManyBTUs.com (free)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X4021_",
+   "name": "Cold Room / Walk-in Cooler Heat Load",
+   "verdict": "best opportunity in list — Blue Cold Heat Load app (free, iOS+Android) and Alfa LU-VE Cold Room Calc (free) are main free competitors; Cr Calc paid iOS app exists; demand is real among refrigeration contractors installing walk-ins",
+   "competitors": [
+    "Blue Cold Heat Load Calculator (free)",
+    "Alfa LU-VE Cold Room Calculator (free)",
+    "Cr Calc iOS (paid, one-time)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X4023_",
+   "name": "Blast Freezer / Freezer Room Sizing",
+   "verdict": "viable sub-niche — Blue Cold covers blast chiller/freezer but free; no dominant paid offline freezer-specific sizing app; refrigeration contractors installing blast freezers is a real but small segment",
+   "competitors": [
+    "Blue Cold Heat Load Calculator (free, includes freezer)",
+    "LU-VE Cold Room Calc (free)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X4025_",
+   "name": "Heat Pump Seasonal COP / SCOP Calculator",
+   "verdict": "low value — fully covered by free web tools (AgentCalc, Mycond, DIYSmartHomeHub); consumer audience uses free tools; no paid mobile gap identified",
+   "competitors": [
+    "AgentCalc Heat Pump vs Furnace (free)",
+    "Mycond Professional HP Calc (free)",
+    "power-calculation.com (free)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X4027_",
+   "name": "Glycol Concentration / Freeze Point Calculator",
+   "verdict": "weak standalone — GoGlycolPros, Vapco, Nu-Calgon, WMC all free web tools; no dedicated paid mobile app found; could be bundled as a feature in broader refrigeration app but not standalone",
+   "competitors": [
+    "GoGlycolPros Calculator (free)",
+    "Vapco Glycol Calculator (free)",
+    "Nu-Calgon Glycol Calculator (free)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X4029_",
+   "name": "Refrigerant Recovery Time Estimator",
+   "verdict": "very niche — HVAC School app covers recovery tank fill free; no dedicated recovery-time mobile app found; demand is narrow (recovery technicians only) and job-site use is infrequent",
+   "competitors": [
+    "HVAC School App (free, recovery tank fill)",
+    "Copeland Mobile (free)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X4031_",
+   "name": "Cooling Tower Sizing / Selection",
+   "verdict": "low mobile opportunity — SPX Cooling free web tool, Delta Cooling sizing guide; demand is commercial HVAC engineers who use desktop software (HAP, EnergyPlus); mobile app not a fit for this complexity",
+   "competitors": [
+    "SPX Cooling Water Calculator (free)",
+    "TRS Cooling Tower Calculator (free web)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X4033_",
+   "name": "Balsam/Lotion – formulacja faza wodna/olejowa",
+   "verdict": "czerwony ocean – makingskincare.com + womanwithmind.com dają to za darmo; offline $8-15 trudna sprzedaż",
+   "competitors": [
+    "makingskincare.com (free)",
+    "womanwithmind.com (free Excel)",
+    "lotioncrafter.com (free)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 4,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X4035_",
+   "name": "Masło do ciała / Body Butter – formulacja + koszt",
+   "verdict": "żółty – niszowe, esentiallynatural.co.za sprzedaje podobny kalkulator; popyt hobbyistów realny",
+   "competitors": [
+    "essentiallynatural.co.za (paid spreadsheet)",
+    "khalidanaturals.com (paid)",
+    "calculatorshub.net (free)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X4037_",
+   "name": "Peeling / Scrub cukrowy – formulacja + wycena",
+   "verdict": "żółty – mydiybeautycorner.com ma darmowy kalkulator scrubów; nisza mała ale dedykowane narzędzie z kosztorysem brak",
+   "competitors": [
+    "mydiybeautycorner.com (free basic)",
+    "wholesalesuppliesplus.com (free batch)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X4039_",
+   "name": "Maska do twarzy – formulacja % + koszt surowców",
+   "verdict": "żółty – brak dedykowanego płatnego narzędzia; ogólne kalkulatory pokrywają temat częściowo",
+   "competitors": [
+    "makingskincare.com (free)",
+    "lotioncrafter.com (free)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X4041_",
+   "name": "Serum – formulacja fazy + aktywne + koszt",
+   "verdict": "zielony – kosmetyki aktywne = premium; brak taniego offline narzędzia per-serum; createcosmeticformulas.com sub €67/rok",
+   "competitors": [
+    "createcosmeticformulas.com (sub €67/yr)",
+    "costmyformula.com (sub)",
+    "CM Studio+ (sub)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X4043_",
+   "name": "Dezodorant naturalny – formulacja + koszt",
+   "verdict": "żółty – rosnąca nisza clean beauty; brak specjalistycznych kalkulatorów; ogólne narzędzia nie obejmują specyfiki (pH, aktywne)",
+   "competitors": [
+    "craftybase.com (sub $20/mo)",
+    "makingskincare.com (free generic)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X4045_",
+   "name": "Szampon w kostce / Syndet – formulacja % + koszt SCI/SCS",
+   "verdict": "zielony – nisza rosnąca (zero waste), syndet wymaga specyficznej wiedzy o surfaktantach; brak dedykowanego taniego narzędzia",
+   "competitors": [
+    "chemistscorner.com (free forum)",
+    "craftybase.com (sub)",
+    "stephenson bases (vendor tool)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X4047_",
+   "name": "Odżywka do włosów – formulacja emulsja + koszt",
+   "verdict": "żółty – podobny rynek jak lotion; makingskincare pokrywa częściowo; dedykowane conditioner-formulation tool brak",
+   "competitors": [
+    "makingskincare.com (free)",
+    "womanwithmind.com (paid Excel)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X4049_",
+   "name": "Krem – emulsja O/W W/O – formulacja + koszt HLB",
+   "verdict": "zielony – HLB calculation + koszt w jednym narzędziu offline; brak taniego produktu tego typu; createcosmeticformulas sub drogi",
+   "competitors": [
+    "createcosmeticformulas.com (sub)",
+    "famalth.com (free basic)",
+    "lotioncrafter.com (free)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X4051_",
+   "name": "Żel pod prysznic – formulacja surfaktant + koszt",
+   "verdict": "żółty – prosty produkt; ogólne narzędzia wystarczają; nisza mała dla standalone narzędzia",
+   "competitors": [
+    "makingskincare.com (free)",
+    "craftybase.com (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 4,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X4053_",
+   "name": "Olejek do brody – formulacja carrier blend + koszt",
+   "verdict": "żółty – rynek beard care rosnący; blend calculator prosty; nie ma dedykowanego narzędzia offline z wyceną sprzedaży",
+   "competitors": [
+    "eocalc.com (free EO)",
+    "wholesalesuppliesplus.com (free batch)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X4055_",
+   "name": "Świece masażowe – formulacja wax ratio + koszt",
+   "verdict": "żółty – candlescience/makesy mają darmowe kalkulatory; dodanie kosztorysu + wycena jako offline tool – mała luka",
+   "competitors": [
+    "candlescience.com (free)",
+    "makesy.com (free)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X4057_",
+   "name": "Sól do kąpieli – formulacja % + koszt składników",
+   "verdict": "czerwony ocean – bardzo prosty skład; darmowe kalkulatory wsz; trudno uzasadnić $8-15",
+   "competitors": [
+    "wholesalesuppliesplus.com (free)",
+    "bubbledrunk.com (free)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 3,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X4059_",
+   "name": "Toner / Hydrolat – formulacja + koszt",
+   "verdict": "żółty – mały rynek; proste formuły; brak dedykowanego narzędzia z kosztorysem; learncanyon.com kurs ale nie kalkulator",
+   "competitors": [
+    "makingskincare.com (free)",
+    "savvyhomemade.com (free blog)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X4061_",
+   "name": "Krem do rąk – formulacja emulsja lekka + koszt",
+   "verdict": "żółty – podkategoria kremów; podobne narzędzia co emulsja O/W; oddzielny produkt uzasadniony przez specyfikę lepkości/fast-absorb",
+   "competitors": [
+    "makingskincare.com (free)",
+    "lotioncrafter.com (free)",
+    "essentiallynatural.co.za (paid)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X4063_",
+   "name": "Pomadka / Szminka – formulacja wax+olej % + koszt",
+   "verdict": "zielony – kosmetyk kolorowy; brak darmowego dedykowanego kalkulatora; duży rynek DIY maker; margin premium product",
+   "competitors": [
+    "createcosmeticformulas.com (sub €67/yr)",
+    "khalidanaturals.com (paid general)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X4065_",
+   "name": "Róż / Cienie mineralne – formulacja % pigment + koszt",
+   "verdict": "zielony – makeup mineralny rosnący; skomplikowane proporcje pigmentów; brak taniego narzędzia offline; duży rynek YouTuber/maker",
+   "competitors": [
+    "createcosmeticformulas.com (sub)",
+    "costmyformula.com (sub)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X4067_",
+   "name": "Mydło glicerynowe MP – formulacja dodatki + koszt",
+   "verdict": "żółty – soapcalc.online darmowe; craftybase drogi sub; Digital Soap Cost Calculator przez drsoaper.com (jednorazowy) – bezpośredni konkurent",
+   "competitors": [
+    "soapcalc.online (free)",
+    "drsoaper.com (paid one-time)",
+    "craftybase.com (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X4069_",
+   "name": "Mleczko do demakijażu – formulacja emulsja ultra-lekka + koszt",
+   "verdict": "żółty – nisza mała; podobne narzędzia jak lotion; brak dedykowanego offline; uzasadnienie słabe jako standalone",
+   "competitors": [
+    "makingskincare.com (free)",
+    "famalth.com (free)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 4,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X4071_",
+   "name": "Conditioner Bar – formulacja BTMS % + koszt",
+   "verdict": "zielony – zero-waste nisza rosnąca; BTMS ratio kluczowy parametr; brak dedykowanego taniego narzędzia offline; syndet + kondycjoner = unikalna luka",
+   "competitors": [
+    "chemistscorner.com (free forum)",
+    "craftybase.com (sub $20/mo)",
+    "womanwithmind.com (paid Excel general)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
   }
  ]
 }
