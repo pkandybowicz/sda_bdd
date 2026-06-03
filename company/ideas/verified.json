@@ -64459,6 +64459,321 @@
    "durability": 6,
    "reach": 2,
    "demand": 2
+  },
+  {
+   "id": "X3952_",
+   "name": "dom-pogrzebowy-aranżacja-per-rodzina",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Gather",
+    "Passare",
+    "Osiris",
+    "FuneralTech",
+    "MortemCare"
+   ],
+   "n": 12,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3954_",
+   "name": "balsamowanie-rejestr",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "MortemCare",
+    "Gather",
+    "SafetyCulture"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X3956_",
+   "name": "kremacja-człowiek-chain-of-custody",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "MorTrack",
+    "Halcyon",
+    "Gather KeepTrack",
+    "1Director",
+    "SRS Phoenix"
+   ],
+   "n": 6,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3958_",
+   "name": "cmentarz-komunalny-groby-mapa",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Everspot",
+    "Cemify",
+    "Sentry Mapping",
+    "PlotBox",
+    "CIMS",
+    "CityView"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3960_",
+   "name": "kamieniarstwo-nagrobne-zlecenie",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "StoneSpot",
+    "TributeIQ",
+    "PRODIO"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3962_",
+   "name": "pre-need-przedpłaty",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Prelude",
+    "Preneed Pilot",
+    "SFR Preneed",
+    "Passare",
+    "Mortware"
+   ],
+   "n": 7,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 3
+  },
+  {
+   "id": "X3964_",
+   "name": "nekrolog-przygotowanie",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Gather AI Obituary",
+    "Tukios",
+    "Tribute Tech",
+    "Memorial Soft",
+    "Obit"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3966_",
+   "name": "memorial-pamiątki",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Eulogize",
+    "Honor You",
+    "Tukios",
+    "Tribute Technology",
+    "Ever Loved"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3968_",
+   "name": "transport-zwłok-log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "MorTrack",
+    "Gather KeepTrack",
+    "1Director",
+    "Halcyon"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 1,
+   "demand": 2
+  },
+  {
+   "id": "X3970_",
+   "name": "przechowalnia-chłodnia-rejestr",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "MortemCare",
+    "SafetyCulture"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X3972",
+   "name": "ekshumacja-dokumentacja",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X3974",
+   "name": "urny-inwentarz",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Halcyon",
+    "SRS FuneralSoft",
+    "Basis360"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3976",
+   "name": "kondolencje-księga",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Guestmate",
+    "Memorial Soft",
+    "Ever Loved",
+    "Tribute Book",
+    "Kudoboard"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3978",
+   "name": "ceremonia-świecka-skrypt",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [
+    "ULC Script Generator",
+    "Adobe Express",
+    "Canva"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 3,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X3980",
+   "name": "kwiaty-pogrzebowe-zamówienie",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "FloristWare",
+    "EveryStem",
+    "QuickFlora"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X3982",
+   "name": "katafalk-sprzęt-przegląd",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "SafetyCulture"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 5,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X3984",
+   "name": "zakład-pogrzebowy-kasa",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Osiris",
+    "SRS Computing",
+    "Orderry",
+    "Gather",
+    "Passare"
+   ],
+   "n": 9,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3986",
+   "name": "hospicjum-przekazanie",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "Hospice Tools",
+    "MatrixCare",
+    "Axxess"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3988",
+   "name": "dawca-donacja-ciała-rejestr",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [
+    "MedCure",
+    "Science Care",
+    "Donate Life CA"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "free",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
   }
  ]
 }
