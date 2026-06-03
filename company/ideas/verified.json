@@ -48672,6 +48672,2762 @@
    "durability": 6,
    "reach": 1,
    "demand": 1
+  },
+  {
+   "id": "X2978__",
+   "name": "dog hotel daily report",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Gingr",
+    "DoggieDashboard",
+    "Paw Partner"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2980__",
+   "name": "cat boarding / cattery log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Revelation Pets",
+    "KennelBooker",
+    "Kennel Max"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2982__",
+   "name": "doggy daycare daily card",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Gingr",
+    "ProPet",
+    "MoeGo"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2984__",
+   "name": "boarding kennel feeding & medication log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "DoggieDashboard",
+    "Time To Pet",
+    "Paw Partner"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2986__",
+   "name": "livestock health records",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Herdwatch",
+    "Farmbrite",
+    "FarmKeep"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X2988__",
+   "name": "stable / yard schedule",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Stable Secretary",
+    "BarnManager",
+    "Equestria"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2990__",
+   "name": "animal movement / passport log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Herdwatch",
+    "AgriWebb",
+    "iLivestock"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2992_",
+   "name": "chicken coop egg production log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Flockstar",
+    "FarmKeep",
+    "My Poultry Manager"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2994_",
+   "name": "fish farm / aquaculture log",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "AquaTracker",
+    "KAMAHU"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2996_",
+   "name": "riding school lessons log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "SuperSaaS",
+    "Anolla",
+    "Bookeo"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2998_",
+   "name": "equestrian arena / horse training log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Equestria",
+    "Stable Secretary",
+    "eSoft Planner"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3000_",
+   "name": "poultry farm mortality log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "SmartBird",
+    "Flockstar",
+    "Poultry Planner"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3002_",
+   "name": "sheep farm log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "My Sheep Manager",
+    "iLivestock",
+    "Herdwatch"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3004_",
+   "name": "pig farm fattening log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "PigCHAMP",
+    "Cloudfarms",
+    "My Piggery Manager"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3006_",
+   "name": "dog hotel walks log",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "Doggy Logs"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3008_",
+   "name": "animal transport log",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "M2X",
+    "AMCS Livestock Planner"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3010_",
+   "name": "vet clinic waiting room log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "GoPet AI Queue",
+    "Waitwhile",
+    "WaitWell"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3012_",
+   "name": "vet office procedures log",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Digitail",
+    "Instinct",
+    "Cornerstone"
+   ],
+   "n": 8,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X3014_",
+   "name": "Książka obiektu budowlanego",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "c-KOB (GUNB – free gov)",
+    "PROGPOL KOB",
+    "Asystent Chmura (337 PLN/rok)",
+    "InstaDB"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free+onetime",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3016_",
+   "name": "Przegląd budowlany roczny",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Przegląd i Kontrola Budynków (1099 PLN)",
+    "Asystent Nadzór Budynków (Meteoryt)",
+    "MTM Przegląd 16"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3018_",
+   "name": "Przegląd budowlany 5-letni",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Przegląd i Kontrola Budynków (1099 PLN)",
+    "Asystent Nadzór Budynków"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 9,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3020_",
+   "name": "Przegląd kominiarski PL",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "CEEB/ZONE (gov – free)",
+    "ePrzeglądy – Studio Wentylacji",
+    "eDomki.app"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3022_",
+   "name": "Instalacja gazowa PL-przegląd",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "eDomki.app (sub)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3024_",
+   "name": "Pomiary elektryczne PL (okresowe)",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3026_",
+   "name": "Gaśnice/hydranty PL p.poż",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "inspektomat.pl (online)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3028_",
+   "name": "Place zabaw PL-przegląd",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "KRPZ.pl (Krajowy Rejestr Placów Zabaw – sub)",
+    "Playtime.pl (12-mies. licencja)",
+    "Centrum Kontroli Placów Zabaw"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3030_",
+   "name": "BIOZ plac budowy",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "bhpbudowa.pl (plan BIOZ CD ~197 PLN)",
+    "MTM Plan BIOZ"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3032_",
+   "name": "UDT dźwigi/suwnice-przegląd",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "4devices ForCranes (sub)",
+    "Majstro.pl (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3034_",
+   "name": "UDT wózki widłowe",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "4devices ForCranes (sub)",
+    "Dyspozytor Maszyn"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3036_",
+   "name": "UDT zbiorniki ciśnieniowe",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 10,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3038_",
+   "name": "UDT kotły",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 10,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3040_",
+   "name": "BHP-rejestr szkoleń",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "eBehapowiec (sub)",
+    "OrganizerBHP (free)",
+    "BHPin (70 PLN/mies.)",
+    "Vademecum BHP (2590 PLN onetime)",
+    "Asystent BHP (2583 PLN)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub+onetime",
+   "durability": 8,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X3042_",
+   "name": "Badania profilaktyczne-rejestr",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "eBehapowiec",
+    "BHPin"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3044_",
+   "name": "Ocena ryzyka zawodowego",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "iRyzyko (sub)",
+    "OiRA EU-OSHA (free)",
+    "ORZeł CIOP (free)",
+    "Vademecum BHP",
+    "BHPin"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub+onetime",
+   "durability": 8,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X3046_",
+   "name": "Instrukcje BHP-rejestr",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Vademecum BHP (2590 PLN)",
+    "Asystent BHP (2583 PLN)",
+    "BHPin (70 PLN/mies.)",
+    "e-forum BHP (899 PLN)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub+onetime",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3048_",
+   "name": "Środki ochrony-rejestr",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "bhp2.pl (sub)",
+    "Vademecum BHP"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub+onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3050_",
+   "name": "TÜV/UVV (DE) maszyny",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "uvv.app DiPA (39 EUR/mies.)",
+    "CHEQSITE (20 EUR/mies.)",
+    "Secumundi",
+    "ToolSense"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3052_",
+   "name": "Sprzęt wspinaczkowy PN-EN inspekcja",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "WosaTec (21.90 PLN/mies.)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 9,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3054_",
+   "name": "Drabiny PL-przegląd",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "WosaTec drabiny (21.90 PLN/mies.)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3056_",
+   "name": "Klimatyzacja F-gazy PL",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "ekobroker.pl CRO (sub)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3058_",
+   "name": "Celebrant – skrypt ceremonii per para",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "CelebrantBusiness ($80/yr, 2 free)",
+    "Provenance (sub, US-focused)",
+    "Celebrant Manager (bundled AFCC)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3060_",
+   "name": "Dom pogrzebowy – aranżacja usług per zlecenie",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Gather ($299+/mo)",
+    "Passare (sub)",
+    "Osiris (sub)",
+    "FuneralOne (sub)",
+    "Parting Pro (sub)"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3062_",
+   "name": "Oficjant ślubny – skrypt ceremonii per para",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Provenance (sub)",
+    "EventLive Script Writer (free)",
+    "Bridesmaid for Hire AI (onetime)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3064_",
+   "name": "DJ weselny – timeline/harmonogram per event",
+   "verdict": "OBSŁUŻONA",
+   "competitors": [
+    "EverSet ($29+/mo)",
+    "Vibo (sub)",
+    "DJ Event Planner (sub)",
+    "SongBoard (sub)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3066_",
+   "name": "Wedding planner – checklist per event",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "HoneyBook ($39/mo)",
+    "Aisle Planner (sub)",
+    "Planning Pod (sub)",
+    "Plutio ($19/mo)",
+    "Dubsado ($40/mo)",
+    "Harpsen (sub)"
+   ],
+   "n": 6,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X3068_",
+   "name": "Fotograf ślubny – shot list per event",
+   "verdict": "OBSŁUŻONA",
+   "competitors": [
+    "Studio Ninja ($16/mo)",
+    "Sprout Studio ($24/mo)",
+    "Iris Works ($9.95/mo)",
+    "Tave ($22/mo)",
+    "HoneyBook ($39/mo)"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3070_",
+   "name": "Katering – event order per impreza",
+   "verdict": "OBSŁUŻONA",
+   "competitors": [
+    "Caterease ($129+/mo)",
+    "Total Party Planner ($75+/mo)",
+    "Sprwt (1.5% fee)",
+    "iVvy (sub)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3072_",
+   "name": "Florysta – zamówienie weselne per event",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Details Flowers (sub)",
+    "Curate (sub)",
+    "EveryStem ($24.99/mo)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3074_",
+   "name": "MC/Konferansjer – run sheet per event",
+   "verdict": "NIEZAGOSPODAROWANA",
+   "competitors": [
+    "run-sheets.com (generic)",
+    "EmceePro ($139 onetime, audio-only)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3076_",
+   "name": "Organizator konferencji – agenda per event",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Whova (sub)",
+    "Cvent ($19k+/yr)",
+    "Bizzabo ($499/user/mo)",
+    "Eventify ($149/mo)",
+    "EventCube ($99/mo)",
+    "Sched (sub)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X3078_",
+   "name": "Dekorator eventów – spec aranżacji per event",
+   "verdict": "NIEZAGOSPODAROWANA",
+   "competitors": [
+    "OnePlan (sub, venue-focused)",
+    "generic event mgmt tools"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3080_",
+   "name": "Wynajem sprzętu eventowego – lista per impreza",
+   "verdict": "OBSŁUŻONA",
+   "competitors": [
+    "Rentman (€59/user/mo)",
+    "EZRentOut ($89/mo)",
+    "Goodshuffle Pro (sub)",
+    "HireHop (free tier)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3082_",
+   "name": "Koordynator dnia ślubu – timeline per event",
+   "verdict": "OBSŁUŻONA",
+   "competitors": [
+    "Timeline Genius (sub)",
+    "Aisle Planner (sub)",
+    "Planning Pod (sub)",
+    "Plutio ($19/mo)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3084_",
+   "name": "Animator/Entertainer – scenariusz per event",
+   "verdict": "NIEZAGOSPODAROWANA",
+   "competitors": [
+    "generic event mgmt tools",
+    "GigSalad (marketplace, not doc)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X3086_",
+   "name": "Fotobudka – event brief per impreza",
+   "verdict": "OBSŁUŻONA",
+   "competitors": [
+    "Snappic ($69/mo)",
+    "Simple Booth ($29/mo)",
+    "Check Cherry ($39/mo)",
+    "BoothLedger (€20/mo)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3088_",
+   "name": "Balony – zamówienie dekoracji per event",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Virtualoon ($14/mo)",
+    "Balloonware/EventOffice (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3090_",
+   "name": "Oświetlenie eventu – plan techniczny per event",
+   "verdict": "OBSŁUŻONA",
+   "competitors": [
+    "Vectorworks Spotlight ($2k+/yr)",
+    "DIALux (free)",
+    "ReluxDesktop (free)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3092_",
+   "name": "Namiot/Hala – layout per event",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "PartyCAD (sub)",
+    "3D Event Designer (sub)",
+    "TentPlanner (free, vendor tool)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3094_",
+   "name": "Transport gości – plan logistyki per event",
+   "verdict": "NIEZAGOSPODAROWANA",
+   "competitors": [
+    "Rezdy (booking-focused)",
+    "ShuttleControl (sub, fleet mgmt)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X3096_",
+   "name": "Atrakcje eventu – harmonogram per impreza",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "FareHarbor (% fee)",
+    "ThunderTix ($59+/mo)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3098_",
+   "name": "After party – plan/run sheet per event",
+   "verdict": "NIEZAGOSPODAROWANA",
+   "competitors": [
+    "generic event mgmt tools (HoneyBook/Dubsado)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X3100_",
+   "name": "anodizing-recipe-parametry",
+   "verdict": "skip",
+   "competitors": [
+    "CHEMEON 720 Calculator (free web)",
+    "Aluminium Anodizing Calculator (free Android, Fabio Vincenzi)",
+    "Asterion Tools app (free mobile)",
+    "Calculator Academy (free web)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3102_",
+   "name": "kapiel-galwaniczna-parametry",
+   "verdict": "maybe",
+   "competitors": [
+    "Attalos Plating Calculator (free web)",
+    "DataPlate Electroplating Calculator (free web)",
+    "MacDermid Platers Calculator (free mobile)",
+    "Anoplex Plating Calculators (free web)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3104_",
+   "name": "mieszanie-lakieru-auto-paint-mix",
+   "verdict": "skip",
+   "competitors": [
+    "Paint Calculators paintcalculators.com (free web, 504+ tools)",
+    "The Spray Source mix ratio calc (free web)",
+    "DuPont ColorNet / Mini ColorNet (pro, paid)",
+    "PMCLogic by Sherwin-Williams (pro, paid)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3106_",
+   "name": "gelcoat-laminowanie-receptura",
+   "verdict": "maybe",
+   "competitors": [
+    "Gelcoat Volume Calculator fiberglasssupply.com (free web)",
+    "Gelcoat-to-Catalyst Ratio Calculator Academy (free web)",
+    "MEKP Calculator vernese.com (free web)",
+    "Fiberglass Warehouse MEKP Chart (free)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3108_",
+   "name": "kompozyt-cykl-utwardzania",
+   "verdict": "maybe",
+   "competitors": [
+    "Plyable CTE Scaling Calculator (freemium web)",
+    "T-SIM thermoforming simulation (paid enterprise)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3110_",
+   "name": "odlewnia-parametry-zalewania",
+   "verdict": "maybe",
+   "competitors": [
+    "Calculator City Foundry Calculator (free web)",
+    "Casting Temperature Calculator calculatorshub.net (free web)",
+    "CRM ISS Foundry Calculator (free web)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3112_",
+   "name": "kuznia-temperatury-kucia",
+   "verdict": "maybe",
+   "competitors": [
+    "Forge Calculators Google Play (free Android, GH Chandran – engineering suite)",
+    "Guill Tool extrusion/forming calculators (free web)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3114_",
+   "name": "wyzarzanie-szkla-krzywa",
+   "verdict": "go",
+   "competitors": [
+    "glassannealing.com Glass Firing & Annealing Calculator (free web)",
+    "AgentCalc Glassblowing Annealing Schedule Calculator (free web)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3116_",
+   "name": "emalia-parametry-wypalu",
+   "verdict": "maybe",
+   "competitors": [
+    "AgentCalc Ceramic Kiln Firing Schedule Calculator (free web)",
+    "Kiln Firing Calculator Google Play (free Android)",
+    "Glazy Kiln Schedules (free web)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3118_",
+   "name": "electroforming-parametry",
+   "verdict": "go",
+   "competitors": [
+    "Electroforming Current Calculator Windows app by Johan van Niekerk (paid one-off, niche)",
+    "DataPlate Electroplating Calculator (free web, generic)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3120_",
+   "name": "odlew-traconego-wosku-investment",
+   "verdict": "maybe",
+   "competitors": [
+    "Ransom & Randolph Flask Calculators (free web)",
+    "Casting Calculator apponic download (free)",
+    "Metal Weight Casting Calculator jewellerssupplies.com.au (free web)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3122_",
+   "name": "wulkanizacja-czas-temperatura",
+   "verdict": "go",
+   "competitors": [
+    "Eurotherm ECM cure time (PLC/controller embedded, not standalone app)",
+    "No dedicated free standalone app found"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3124_",
+   "name": "ekstruzja-parametry",
+   "verdict": "skip",
+   "competitors": [
+    "Guill Tool Extrusion Calculators (free web)",
+    "PlastikCity Extrusion Line Calculator (free web)",
+    "Calculator Academy Extrusion Force/Multiplier (free web)",
+    "calculatorshub.net Extruder Output Calculator (free web)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3126_",
+   "name": "klejenie-parametry-utwardzania",
+   "verdict": "maybe",
+   "competitors": [
+    "calcbond.com adhesive joint design app (freemium, 30-day trial then paid)",
+    "Glue Consumption Calculator woodworking-calculators.com (free web)",
+    "Integra Adhesives Calculator (free web)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3128_",
+   "name": "spiekanie-parametry",
+   "verdict": "go",
+   "competitors": [
+    "Thermo-Calc Powder Metallurgy software (paid enterprise)",
+    "PM Distributors sintering guide (free reference, no calculator)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3130_",
+   "name": "formowanie-prozniowe-parametry",
+   "verdict": "maybe",
+   "competitors": [
+    "Mesoforming Forming Pressure Calculator (free web)",
+    "Mesoforming Sheet Thickness Calculator (free web)",
+    "T-SIM simulation software (paid enterprise)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3132_",
+   "name": "druk-3d-zywiczny-ekspozycja",
+   "verdict": "skip",
+   "competitors": [
+    "3DPrintCalcs.uk Resin Printing Calculators (free web)",
+    "Super Global Calculator resin exposure (free web)",
+    "pea3d.com Resin Printing Cost Calculator (free web)",
+    "Ameralabs calibration guides (free)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3134_",
+   "name": "farby-mieszanie-kolorow-przemysl",
+   "verdict": "skip",
+   "competitors": [
+    "Real Color Mixer iOS/Android (free/paid)",
+    "trycolors.com (free web)",
+    "Color2OilPaint (free web)",
+    "PaintMaker sensuallogic.com (free web)",
+    "ProCalcLab Paint Mixing Calculator (free web)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3136_",
+   "name": "tworzywa-suszenie-parametry",
+   "verdict": "maybe",
+   "competitors": [
+    "PlastikCity Material Drying Times Calculator (free web)",
+    "findoutaboutplastics.com support tables (free web)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3138_",
+   "name": "pianka-PUR-proporcje",
+   "verdict": "maybe",
+   "competitors": [
+    "The Monster's FX Calculators mix-ratio (free web, generic)",
+    "Urethane Solutions PU Calc urethanesolutions.co.za (free web)",
+    "Polytek Foam Reference Chart (free PDF)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3140_",
+   "name": "malowanie-proszkowe-parametry",
+   "verdict": "skip-dup",
+   "competitors": [],
+   "n": 0,
+   "free_sub": false,
+   "model": "none",
+   "durability": 0,
+   "reach": 0,
+   "demand": 0
+  },
+  {
+   "id": "X3142_",
+   "name": "mydlo-receptura",
+   "verdict": "skip-dup",
+   "competitors": [],
+   "n": 0,
+   "free_sub": false,
+   "model": "none",
+   "durability": 0,
+   "reach": 0,
+   "demand": 0
+  },
+  {
+   "id": "X3144_",
+   "name": "Stability Study Log",
+   "verdict": "skip",
+   "competitors": [
+    "iStability LIMS",
+    "NuGenesis Stability",
+    "SLIM by H&A Scientific",
+    "LabLynx LIMS",
+    "Stabi-M",
+    "Sapio Sciences"
+   ],
+   "n": 6,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3146_",
+   "name": "Batch Genealogy / Lot Record",
+   "verdict": "skip",
+   "competitors": [
+    "PAS-X",
+    "Tulip",
+    "Siemens Opcenter",
+    "BatchMaster ERP",
+    "Acumatica"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3148_",
+   "name": "Chromatography Run Log (HPLC/GC)",
+   "verdict": "consider",
+   "competitors": [
+    "Empower (Waters)",
+    "OpenLab CDS (Agilent)",
+    "Chromperfect SL",
+    "ClarityChrom (KNAUER)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3150_",
+   "name": "Reagent Preparation Log",
+   "verdict": "consider",
+   "competitors": [
+    "Quartzy (free)",
+    "LabCollector",
+    "SciNote ELN",
+    "ChemInventory"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3152_",
+   "name": "Cell Culture Passaging Log",
+   "verdict": "consider",
+   "competitors": [
+    "CellPort",
+    "Gibco Cell Culture Companion App (free)",
+    "Benchling"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3154",
+   "name": "Plasmid / Strain Inventory",
+   "verdict": "skip",
+   "competitors": [
+    "Benchling (free tier)",
+    "Quartzy (free)",
+    "LabCollector",
+    "StrainControl (free)",
+    "MyLabStocks (open-source)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3156",
+   "name": "-80°C Freezer Inventory",
+   "verdict": "consider",
+   "competitors": [
+    "FreezerPro (Azenta)",
+    "Genemod",
+    "LabKey Sample Manager",
+    "freezer-inventory.com"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3158",
+   "name": "Animal Colony / IACUC Log",
+   "verdict": "skip",
+   "competitors": [
+    "mLIMS",
+    "eZColony",
+    "LARS",
+    "tick@lab",
+    "Mosaic Vivarium"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3160",
+   "name": "Clinical Site Visit / Monitor Log",
+   "verdict": "skip",
+   "competitors": [
+    "SimpleTrials ($599/mo)",
+    "RealTime-CTMS",
+    "Prelude CTMS",
+    "Medidata"
+   ],
+   "n": 6,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3162",
+   "name": "Sample Chain of Custody Log",
+   "verdict": "consider",
+   "competitors": [
+    "LabKey Sample Manager",
+    "QBench LIMS",
+    "Matrix Gemini LIMS",
+    "Miratag (free template)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3164",
+   "name": "Analytical Balance / Weight Log",
+   "verdict": "go",
+   "competitors": [
+    "Sartorius QApp",
+    "METTLER TOLEDO LabX (expensive)",
+    "Simple Data Logger (free personal)",
+    "WinWedge"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3166",
+   "name": "pH Meter Calibration Log",
+   "verdict": "go",
+   "competitors": [
+    "METTLER TOLEDO EasyDirect (free trial)",
+    "Sensorex UI Software (free)",
+    "Miratag free template",
+    "TRUEscience app"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3168",
+   "name": "Buffer Preparation Log",
+   "verdict": "go",
+   "competitors": [
+    "LabLog (custom pricing, no free plan)",
+    "Excel/paper only"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3170",
+   "name": "Centrifuge Run Log",
+   "verdict": "go",
+   "competitors": [
+    "Thermo Scientific Centri-Log Plus",
+    "Thermo Centri-Track",
+    "vendor-bundled only"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3172",
+   "name": "Microscope Usage Log",
+   "verdict": "go",
+   "competitors": [
+    "ZEISS Labscope (free)",
+    "BookitLab (scheduling)",
+    "OMERO (open-source)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3174",
+   "name": "Histopathology Sample Log",
+   "verdict": "skip",
+   "competitors": [
+    "LigoLab",
+    "NovoPath 360",
+    "PathoGOLD",
+    "CrelioHealth",
+    "LabsmartLIS"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3176",
+   "name": "CO2 Incubator Log",
+   "verdict": "consider",
+   "competitors": [
+    "DicksonOne",
+    "Vaisala viewLinc",
+    "Thermo InSight",
+    "TraceableLIVE"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3178",
+   "name": "Cryopreservation Registry",
+   "verdict": "skip",
+   "competitors": [
+    "FreezerPro (Azenta)",
+    "OpenSpecimen (open-source)",
+    "LabKey",
+    "Sapio Sciences"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3180",
+   "name": "Titration Log",
+   "verdict": "go",
+   "competitors": [
+    "METTLER TOLEDO LabX (enterprise)",
+    "Lab Wizard (free cloud tier)",
+    "Potentiometric Titration app (free Windows)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3182",
+   "name": "Weighing / Sample Weight Register",
+   "verdict": "go",
+   "competitors": [
+    "Sartorius QApp (bundled)",
+    "METTLER TOLEDO EasyDirect",
+    "taltech WinWedge"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3184",
+   "name": "Autoclave / Sterilization Log",
+   "verdict": "skip",
+   "competitors": [
+    "DataTrace (Mesa Labs)",
+    "SterilTrak",
+    "QT9 QMS",
+    "LogTag"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3186",
+   "name": "Chemical / SDS Inventory",
+   "verdict": "skip",
+   "competitors": [
+    "ChemInventory (free tier)",
+    "Quartzy",
+    "BioRAFT",
+    "Cority",
+    "KHA"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3188",
+   "name": "Karta betonowania (Pour Card)",
+   "verdict": "go",
+   "competitors": [
+    "GoCanvas",
+    "Procore Daily Log",
+    "Raken"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3190",
+   "name": "Odbiór zbrojenia (Rebar Inspection)",
+   "verdict": "go",
+   "competitors": [
+    "SafetyCulture",
+    "GoAudits",
+    "Fieldwire"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3192",
+   "name": "Badanie zagęszczenia gruntu (Soil Compaction Log)",
+   "verdict": "go",
+   "competitors": [
+    "Aldoa",
+    "GeoSystem QCDensity",
+    "Novotech NovoLAB"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3194",
+   "name": "Próba opadu stożka (Slump Test Log)",
+   "verdict": "go",
+   "competitors": [
+    "Agile CMT",
+    "GoCanvas",
+    "Controls Galaxy/4"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3196",
+   "name": "Log palowania (Pile Driving Log)",
+   "verdict": "go",
+   "competitors": [
+    "DocHub pile form",
+    "Piletest GPC",
+    "CivilTech AllPile"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X3198",
+   "name": "Wytyczenie geodezyjne (Stakeout Log)",
+   "verdict": "go",
+   "competitors": [
+    "Trimble Access",
+    "Carlson SurvPC",
+    "Topcon Field"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3200",
+   "name": "Redline as-built",
+   "verdict": "go",
+   "competitors": [
+    "Fieldwire",
+    "Autodesk Build (PlanGrid)",
+    "iFieldSmart"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3202",
+   "name": "Log RFI",
+   "verdict": "caution",
+   "competitors": [
+    "Procore",
+    "Buildertrend",
+    "SubmittalLink",
+    "Newforma"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3204",
+   "name": "Log submittal/materiałów",
+   "verdict": "caution",
+   "competitors": [
+    "Procore Submittals",
+    "DocShield",
+    "Submittal.com",
+    "Contractor Foreman"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3206",
+   "name": "Dzienna obsada (Manpower Log)",
+   "verdict": "caution",
+   "competitors": [
+    "Raken",
+    "CrewTracks",
+    "SmartBarrel",
+    "Procore Daily Log"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3208",
+   "name": "Log dostaw (Delivery Log)",
+   "verdict": "go",
+   "competitors": [
+    "Procore",
+    "PLOT",
+    "Veyor",
+    "ConstructionOnline"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3210",
+   "name": "Log opóźnień pogodowych (Weather Delay Log)",
+   "verdict": "go",
+   "competitors": [
+    "Raken",
+    "Procore Daily Log",
+    "Rhumbix"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3212",
+   "name": "JHA/JSA analiza zagrożeń",
+   "verdict": "caution",
+   "competitors": [
+    "HCSS Safety",
+    "SafetyCulture",
+    "GoAudits",
+    "HammerTech"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3214",
+   "name": "Pozwolenie na pracę (Permit to Work)",
+   "verdict": "caution",
+   "competitors": [
+    "SafetyCulture PTW",
+    "Gate PTW",
+    "SafetyMint",
+    "BasinCheck"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3216",
+   "name": "LOTO blokada-oznaczenie",
+   "verdict": "caution",
+   "competitors": [
+    "LOTOBuilder",
+    "autoLOTO",
+    "VelocityEHS",
+    "Rockford LOTO"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3218",
+   "name": "Praca na gorąco (Hot Work Permit)",
+   "verdict": "go",
+   "competitors": [
+    "SafetyCulture",
+    "SafetyMint",
+    "BasinCheck",
+    "SmartQHSE"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3220",
+   "name": "Pozwolenie na wykop (Excavation Permit)",
+   "verdict": "go",
+   "competitors": [
+    "SafetyCulture",
+    "HammerTech",
+    "SmartQHSE",
+    "SiteDocs"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3222",
+   "name": "Odbiór szalunków (Formwork Inspection)",
+   "verdict": "go",
+   "competitors": [
+    "SafetyCulture",
+    "HVI App",
+    "GoAudits",
+    "Fieldwire"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3224",
+   "name": "Geodezja-niwelacja (Leveling Field Notes)",
+   "verdict": "go",
+   "competitors": [
+    "Fulcrum",
+    "ArcGIS Field Maps",
+    "NestForms",
+    "Topcon Field"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3226",
+   "name": "Dziennik spawów (Weld Log)",
+   "verdict": "go",
+   "competitors": [
+    "WeldTrace",
+    "WeldEye",
+    "WeldersLog",
+    "WeldLogix"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3228",
+   "name": "Beton-dojrzałość (Concrete Maturity)",
+   "verdict": "go",
+   "competitors": [
+    "Giatec SmartRock",
+    "Agile CMT",
+    "Command Alkon"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3230",
+   "name": "Kontrola jakości muru (Masonry QC)",
+   "verdict": "go",
+   "competitors": [
+    "GoAudits",
+    "SafetyCulture",
+    "Fieldwire",
+    "StackCT"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3232",
+   "name": "trip_sheet_karta_drogowa",
+   "verdict": "skip",
+   "competitors": [
+    "Drivers Daily Log ($99 one-time)",
+    "TripLog (freemium)",
+    "ezLoads"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3234",
+   "name": "backup_eld_papier",
+   "verdict": "skip",
+   "competitors": [
+    "Garmin eLog ($149-199 one-time)",
+    "BIT ELD ($295 one-time)",
+    "Motive Driver App"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3236",
+   "name": "list_przewozowy_BOL",
+   "verdict": "consider",
+   "competitors": [
+    "StarreSoft BOL ($199 one-time)",
+    "SmartBOL (subscription)",
+    "BoostBOL"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3238",
+   "name": "mocowanie_ladunku_protokol",
+   "verdict": "consider",
+   "competitors": [
+    "Manifestly Checklists (freemium)",
+    "Lumiform (freemium)",
+    "DIGI CLIP"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3240",
+   "name": "czas_pracy_HOS_reczny",
+   "verdict": "skip",
+   "competitors": [
+    "Motive ($39+/vehicle/mo)",
+    "Lytx",
+    "HOS247",
+    "Verizon Connect"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3242",
+   "name": "papier_hazmat_ADR",
+   "verdict": "consider",
+   "competitors": [
+    "DGAssistant (subscription)",
+    "ADR-tool.com",
+    "Dangerous Goods Office ($995+ one-time)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3244",
+   "name": "transport_zywca",
+   "verdict": "consider",
+   "competitors": [
+    "M2X (custom)",
+    "AMCS (custom)",
+    "Toro TMS (custom)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X3246",
+   "name": "holowanie_tow_zlecenie",
+   "verdict": "consider",
+   "competitors": [
+    "Towbook (subscription)",
+    "Housecall Pro ($49+/mo)",
+    "TowSoft"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3248",
+   "name": "limuzyna_chauffeur_trip_log",
+   "verdict": "skip",
+   "competitors": [
+    "Moovs (free tier)",
+    "Limo Anywhere (5400+ operators)",
+    "A-to-Z Dispatch ($99/mo)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3250",
+   "name": "kurier_POD_potwierdzenie",
+   "verdict": "skip",
+   "competitors": [
+    "Shipday (free 300 orders/mo)",
+    "Track-POD ($29/driver/mo)",
+    "Onfleet ($619+/mo)",
+    "Routific (free 100 orders/mo)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X3252",
+   "name": "last_mile_przystanki",
+   "verdict": "skip",
+   "competitors": [
+    "Shipday (free)",
+    "Route4Me ($400+/mo)",
+    "Circuit",
+    "Onfleet"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X3254",
+   "name": "tablica_dyspozytora",
+   "verdict": "skip",
+   "competitors": [
+    "Connecteam (free up to 10 users)",
+    "FieldPulse ($65+/user/mo)",
+    "Upper ($40/user/mo)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3256",
+   "name": "pre-trip_inspection_ciezarowka",
+   "verdict": "skip",
+   "competitors": [
+    "PreTrip app (App Store)",
+    "J.J. Keller ENTRIP",
+    "Fleetio",
+    "SafetyCulture"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3258",
+   "name": "naczepa_checklist",
+   "verdict": "consider",
+   "competitors": [
+    "HVI app (free basic)",
+    "Fleet Rabbit ($15-35/mo)",
+    "GoAudits ($10/user/mo)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3260",
+   "name": "autobus_karta_drogowa",
+   "verdict": "consider",
+   "competitors": [
+    "BusBoss ROUTEpatrol",
+    "Busology Tech (custom)",
+    "School Bus Manager (tiered)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3262",
+   "name": "taxi_rozliczenie_dzienne",
+   "verdict": "skip",
+   "competitors": [
+    "A-to-Z Dispatch ($99/mo)",
+    "Taxi-webdesign (custom)",
+    "onde.app"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3264",
+   "name": "przeprowadzki_inwentarz",
+   "verdict": "consider",
+   "competitors": [
+    "Voxme ($300/yr + $3/job)",
+    "SmartMoving ($299+/mo)",
+    "Elromco ($289+/mo)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3266",
+   "name": "beton_dostawa_karta",
+   "verdict": "consider",
+   "competitors": [
+    "ConcreteGo (custom $500+/mo/plant)",
+    "Command Alkon (enterprise)",
+    "TruckIT (OCR-based)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3268",
+   "name": "wywrotka_tonaz_kursy",
+   "verdict": "consider",
+   "competitors": [
+    "HaulWare ($225/user/mo)",
+    "HAULZ",
+    "TicketWatch",
+    "TruckIT"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3270",
+   "name": "kabotaz_rejestr",
+   "verdict": "consider",
+   "competitors": [
+    "Cabotage app by Partex Gruppen (free/niche)",
+    "TruckLogics",
+    "HOS247 Canada"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3272",
+   "name": "delegacje_kierowcy_diety",
+   "verdict": "skip",
+   "competitors": [
+    "Rydoo (subscription)",
+    "Mobilexpense (subscription)",
+    "Zoho Expense (freemium)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3274",
+   "name": "embroidery-zlecenie",
+   "verdict": "crowded b2b; ShopVox/DecoNetwork/Printavo dominują – trudno wejść solo",
+   "competitors": [
+    "DecoNetwork",
+    "Printavo",
+    "YoPrint",
+    "EmbTrak"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3276",
+   "name": "szyld-zlecenie",
+   "verdict": "Sign Customiser ($75M GMV) i SigniMate zajęły niszę; przestrzeń tylko dla lokalnego MVP",
+   "competitors": [
+    "Sign Customiser",
+    "SigniMate",
+    "SignQuote Pro"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3278",
+   "name": "tapicerka-zlecenie",
+   "verdict": "StitchDesk to jedyny purpose-built player; nisza realna dla prostego mobile job-ticket",
+   "competitors": [
+    "StitchDesk",
+    "My Upholstery Shop"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3280",
+   "name": "ramiarstwo-zlecenie",
+   "verdict": "FrameReady/Virtual Framer pokrywają rynek; wejście możliwe jako tańszy mobilny ticket",
+   "competitors": [
+    "FrameReady",
+    "Virtual Framer",
+    "SimulArt",
+    "FramingPOS"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3282",
+   "name": "krawiectwo-zlecenie-szycia",
+   "verdict": "Geelus i TailorMate silne; TailorMate nawet bezpłatny – trudna monetyzacja",
+   "competitors": [
+    "Geelus",
+    "TailorMate",
+    "Orderry",
+    "RepairDesk"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3284",
+   "name": "przerobki-alterations-kwit",
+   "verdict": "Geelus dominuje PL-podobnych rynków; nisza, ale lojalność klientów wysoka",
+   "competitors": [
+    "Geelus",
+    "TailorMax",
+    "Orderry"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3286",
+   "name": "koldra-quilt-zlecenie",
+   "verdict": "brak dedykowanego app dla twórców quiltów na zlecenie; bardzo niszowe, demand niski",
+   "competitors": [
+    "Craftybase",
+    "MicroBiz"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X3288",
+   "name": "balony-zamowienie",
+   "verdict": "brak dedykowanego B2B app; eventowe platformy (Curate/Details) obejmują to marginalnie",
+   "competitors": [
+    "Curate",
+    "Details Flowers"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 4,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3290",
+   "name": "florystyka-zamowienie",
+   "verdict": "Curate/EveryStem/Details Flowers mocne; rynek dojrzały, trudno o miejsce solo",
+   "competitors": [
+    "Curate",
+    "Details Flowers",
+    "EveryStem",
+    "FloristWare"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3292",
+   "name": "kaligrafia-zlecenie",
+   "verdict": "zero dedykowanych order-mgmt apps; artyści używają Notion/Etsy – realna luka",
+   "competitors": [
+    "Etsy",
+    "HoneyBook",
+    "generic CRM"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3294",
+   "name": "portret-zwierzaka-commission",
+   "verdict": "zero dedykowanych apps; artyści używają Trello/Etsy; mała baza, ale rosnąca",
+   "competitors": [
+    "Etsy",
+    "HoneyBook",
+    "Trello"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3296",
+   "name": "karykatura-zlecenie",
+   "verdict": "brak jakiegokolwiek dedykowanego app; bardzo fragmentaryczny rynek, demand sezonowy",
+   "competitors": [
+    "Etsy",
+    "generic invoicing"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3298",
+   "name": "mural-wycena",
+   "verdict": "brak dedykowanego mural-quote app; Jobber/Orderry ogólne – luka na prosty wizard wyceny",
+   "competitors": [
+    "Jobber",
+    "Orderry",
+    "generic estimating"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3300",
+   "name": "witraz-zlecenie",
+   "verdict": "zero dedykowanych apps; małe studia szklane liczą ręcznie – luka, ale rynek mikroskopijny",
+   "competitors": [
+    "generic quoting",
+    "spreadsheets"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X3302",
+   "name": "grawer-zlecenie",
+   "verdict": "CraftsTrack i niszowe kalkulatory; brak całościowego order-mgmt – luka realna",
+   "competitors": [
+    "CraftsTrack",
+    "Laseroo (Shopify)",
+    "generic POS"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3304",
+   "name": "ceramika-custom-zamowienie",
+   "verdict": "PotteryStudio/Ceramispace pokrywają studia; brak B2C commission ticket – mała nisza",
+   "competitors": [
+    "PotteryStudio",
+    "Ceramispace",
+    "Craftybase",
+    "ClayLab"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3306",
+   "name": "bizuteria-custom-zamowienie",
+   "verdict": "PIRO/Luxare dla hurtowni; dla małych jubilerów brak taniego ticket app – luka",
+   "competitors": [
+    "PIRO",
+    "Luxare",
+    "Jewelry Shopkeeper",
+    "Zoho Inventory"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3308",
+   "name": "stolarka-custom-zlecenie",
+   "verdict": "Jobber/Buildxact/Contractor+ silne i tanie; przestrzeń tylko dla ultra-prostego mobile ticket",
+   "competitors": [
+    "Jobber",
+    "Buildxact",
+    "Contractor+",
+    "Joist"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3310",
+   "name": "neon-zamowienie",
+   "verdict": "Sign Customiser i Zepto/QF Shopify apps zajęły e-commerce neon; B2B segment słabszy",
+   "competitors": [
+    "Sign Customiser",
+    "Zepto Sign Customizer",
+    "QF Neon Sign Customizer"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3312",
+   "name": "tlumaczenie-zlecenie",
+   "verdict": "Projetex/Trados dla agencji; dla solo tłumaczy brak lekkiego job-ticket – realna luka",
+   "competitors": [
+    "Projetex",
+    "Trados",
+    "ProZ.com",
+    "generic CRM"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3314",
+   "name": "monogram-personalizacja",
+   "verdict": "Customily/My Easy Monogram dla Shopify; offline rzemieślnicy bez narzędzia – niszowa luka",
+   "competitors": [
+    "Customily",
+    "My Easy Monogram",
+    "Canva"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3316",
+   "name": "druk-custom-zlecenie",
+   "verdict": "Printavo/DecoNetwork/YoPrint bardzo silne; wejście tylko jako ultra-tanie MVP dla mikro-drukarni",
+   "competitors": [
+    "Printavo",
+    "DecoNetwork",
+    "YoPrint",
+    "PriceIt"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3318",
+   "name": "zaproszenia-projekt",
+   "verdict": "Curate/Paperless Post/Adobe Express dominują; custom stationery design ticket – mała niszka",
+   "competitors": [
+    "Curate",
+    "Paperless Post",
+    "Adobe Express",
+    "HoneyBook"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
   }
  ]
 }
