@@ -40696,6 +40696,2021 @@
    "durability": 0,
    "reach": 0,
    "demand": 0
+  },
+  {
+   "id": "X2489_",
+   "name": "SLP Goals Tracker — logopeda cele per klient",
+   "verdict": "SKIP",
+   "competitors": [
+    "SLP Toolkit ($215/yr sub)",
+    "SLPNow (sub)",
+    "TheraPlatform ($39/mo sub)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2491_",
+   "name": "OT Sensory Notes — terapeuta zajęciowy notatki sensoryczne",
+   "verdict": "SKIP",
+   "competitors": [
+    "SPRY (sub)",
+    "TheraPlatform ($39/mo sub)",
+    "SimplePractice ($49/mo sub)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2493_",
+   "name": "ABA Behavior Data — dane behawioralne ABA",
+   "verdict": "SKIP-DUP",
+   "competitors": [
+    "Motivity ($24/learner/mo)",
+    "Catalyst (sub)",
+    "RethinkBH (sub)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2495_",
+   "name": "Audiology Fitting Notes — audiolog dopasowanie aparatu",
+   "verdict": "WEAK",
+   "competitors": [
+    "Sycle (sub, 8000+ clinics)",
+    "CounselEAR (sub)",
+    "NOAH ($1500-4000 one-time per workstation)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2497_",
+   "name": "Ortho Progress Tracker — ortodonta postęp leczenia per klient",
+   "verdict": "WEAK",
+   "competitors": [
+    "Open Dental ($169/mo sub)",
+    "Cloud9 Ortho ($399/mo sub)",
+    "Dolphin ($450+/mo sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2499_",
+   "name": "Macro Meal Plan — dietetyk makro jadłospis",
+   "verdict": "SKIP-DUP",
+   "competitors": [
+    "NutriAdmin ($34.99/mo sub)",
+    "Practice Better ($25/mo sub)",
+    "Nutrium ($19/mo sub)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2501_",
+   "name": "Pilates Client Program — pilates program ćwiczeń per klient",
+   "verdict": "WEAK",
+   "competitors": [
+    "Vagaro ($30/mo sub)",
+    "Mindbody ($129/mo sub)",
+    "StudioBookings ($25/mo sub)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2503_",
+   "name": "Therapeutic Yoga Sequences — joga terapeutyczna sekwencje per klient",
+   "verdict": "WEAK",
+   "competitors": [
+    "Tummee ($8.95/mo sub)",
+    "OfferingTree ($100/mo sub)",
+    "Mindbody ($99/mo sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2505_",
+   "name": "Music Therapy Session Notes — muzykoterapeuta notatki sesji",
+   "verdict": "NICHE-OK",
+   "competitors": [
+    "TherapyNotes ($69/mo sub)",
+    "Mentalyc ($39/mo sub)",
+    "Carepatron (free tier sub)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2507_",
+   "name": "Art Therapy Notes — arteterapeuta notatki sesji",
+   "verdict": "NICHE-OK",
+   "competitors": [
+    "PatientNotes (sub, arts therapist AI)",
+    "TherapyNotes ($69/mo sub)",
+    "SimplePractice ($49/mo sub)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2509_",
+   "name": "Dance Movement Therapy Notes — terapeuta tańcem notatki",
+   "verdict": "NICHE-OK",
+   "competitors": [
+    "My Best Practice ($39/mo sub)",
+    "SimplePractice ($49/mo sub)",
+    "Mentalyc ($39/mo sub)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X2511_",
+   "name": "Hippotherapy Plan — hipoterapia plan zajęć per klient",
+   "verdict": "NICHE-OK",
+   "competitors": [
+    "Equigate (sub)",
+    "Equicantis (sub)",
+    "TheraTap (sub)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X2513_",
+   "name": "Neurological SLP Notes — neurologopeda notatki dysfagia/AAC",
+   "verdict": "WEAK",
+   "competitors": [
+    "TheraPlatform ($39/mo sub)",
+    "WebPT ($275+/mo sub)",
+    "SLPFlow ($20/mo sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 5,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2515_",
+   "name": "Sensory Integration SI Card — integracja sensoryczna karta per klient",
+   "verdict": "NICHE-OK",
+   "competitors": [
+    "SPRY OT (sub, 50+ SI templates)",
+    "TheraPlatform ($39/mo sub)",
+    "SIE App (sub)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2517_",
+   "name": "Pediatric PT Notes — fizjoterapeuta dziecięcy notatki",
+   "verdict": "WEAK",
+   "competitors": [
+    "eTherapyDocs ($135/mo sub)",
+    "TheraPlatform ($39/mo sub)",
+    "TherapyPM (sub)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 5,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2519_",
+   "name": "Personal Trainer Program — trener personalny program",
+   "verdict": "SKIP-DUP",
+   "competitors": [
+    "FitPros.io (free sub)",
+    "Trainerize (sub)",
+    "TrueCoach (sub)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 4,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X2521_",
+   "name": "Hand Therapy Notes — terapeuta ręki notatki CHT",
+   "verdict": "NICHE-OK",
+   "competitors": [
+    "Prompt EMR ($100-200/mo sub)",
+    "TheraPlatform ($39/mo sub)",
+    "SimplePractice ($49/mo sub)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2523_",
+   "name": "Vision Therapy Notes — optometrysta terapia widzenia notatki",
+   "verdict": "NICHE-OK",
+   "competitors": [
+    "HTS2 (~$599 one-time per workstation)",
+    "Bernell software (one-time)",
+    "Eyefinity (sub)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2525_",
+   "name": "SI Therapist Card — terapeuta SI karta oceny sensorycznej",
+   "verdict": "NICHE-OK",
+   "competitors": [
+    "SPRY OT (sub)",
+    "TheraPlatform ($39/mo sub)",
+    "Carepatron (free tier sub)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2527_",
+   "name": "Home Rehab Plan — rehabilitant plan domowy per klient",
+   "verdict": "WEAK",
+   "competitors": [
+    "MedBridge ($149/seat/yr sub)",
+    "Physitrack ($360-600/yr sub)",
+    "My Rehab Connection ($14/mo sub)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2529_",
+   "name": "Psychologist Session Notes — psycholog notatki sesji offline",
+   "verdict": "NICHE-OK",
+   "competitors": [
+    "Note Designer (one-time desktop, niche)",
+    "TherapyNotes ($69/mo sub)",
+    "Blueprint ($0.99/session sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2531_",
+   "name": "Coach Client Notes — coach notatki klienta per sesja",
+   "verdict": "WEAK",
+   "competitors": [
+    "Paperbell ($57/mo sub)",
+    "CoachVantage ($26/mo sub)",
+    "Simply.Coach (sub)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2533_",
+   "name": "Mental Performance Coach Plan — mentalny trener plan per zawodnik",
+   "verdict": "NICHE-OK",
+   "competitors": [
+    "Restoic (sub)",
+    "Mental Training Plan (sub)",
+    "generic coaching CRM (sub)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2535_",
+   "name": "Clinical Dietitian Meal Plan — dietetyk kliniczny jadłospis per klient",
+   "verdict": "WEAK",
+   "competitors": [
+    "NutriAdmin ($34.99/mo sub)",
+    "Kalix ($27/mo sub)",
+    "Practice Better ($25/mo sub)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2537_",
+   "name": "generator-PM-log",
+   "verdict": "gap",
+   "competitors": [
+    "GenMon (free, no ads, Android)",
+    "Generator log app (free, Play Store)",
+    "Generac Mobile Link (proprietary, sub)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2539_",
+   "name": "HVAC-preventive-maintenance-log",
+   "verdict": "crowded",
+   "competitors": [
+    "UpKeep ($20/user/mo, free tier)",
+    "MaintainX (free basic)",
+    "ServiceTitan (sub)",
+    "mHelpDesk (sub)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2541_",
+   "name": "pool-chemical-service-log",
+   "verdict": "gap",
+   "competitors": [
+    "Skimmer ($49/mo+$1/pool)",
+    "Pooli (freemium)",
+    "Hydroscribe ($49/mo)",
+    "Pool Service Software MobiWork (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2543_",
+   "name": "elevator-maintenance-log",
+   "verdict": "niche-ok",
+   "competitors": [
+    "ELA App (sub)",
+    "ElevatorPlus (sub)",
+    "Snappii Elevator Inspection (sub)",
+    "Lumiform (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2545_",
+   "name": "pump-maintenance-log",
+   "verdict": "gap",
+   "competitors": [
+    "Generic CMMS (UpKeep, MaintainX)",
+    "No dedicated pump-only log app found"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "none",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2547_",
+   "name": "air-compressor-hours-log",
+   "verdict": "gap",
+   "competitors": [
+    "Atlas Copco SMARTLINK (proprietary)",
+    "BITZER BEST App (proprietary Bluetooth)",
+    "No indie offline log app found"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "none",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2549_",
+   "name": "boiler-room-PM-log",
+   "verdict": "gap",
+   "competitors": [
+    "Maint Control (niche, free)",
+    "Generic CMMS only",
+    "No dedicated indie boiler-PM log found"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "none",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2551_",
+   "name": "fire-pump-weekly-churn-test-log",
+   "verdict": "gap",
+   "competitors": [
+    "MaintainX (template only, sub)",
+    "PDF forms (pdfFiller, DocHub)",
+    "No dedicated mobile app found"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "none",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2553_",
+   "name": "UPS-battery-maintenance-log",
+   "verdict": "gap",
+   "competitors": [
+    "Generic CMMS only",
+    "No dedicated UPS battery log app found"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "none",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2555_",
+   "name": "gate-drive-maintenance-log",
+   "verdict": "gap",
+   "competitors": [
+    "Generic CMMS only",
+    "No dedicated gate/drive log app found"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "none",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2557_",
+   "name": "CNC-machine-maintenance-log",
+   "verdict": "niche-ok",
+   "competitors": [
+    "FourJaw ($100/machine/mo)",
+    "Renishaw apps (free, limited scope)",
+    "OxMaint CMMS (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2559_",
+   "name": "refrigeration-compressor-log",
+   "verdict": "gap",
+   "competitors": [
+    "Freon Tracker (offline, one-time/free, Android)",
+    "BITZER BEST App (proprietary)",
+    "No dedicated compressor-hours log app"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2561_",
+   "name": "ventilation-filter-log",
+   "verdict": "gap",
+   "competitors": [
+    "No dedicated app found",
+    "Generic CMMS only"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "none",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2563_",
+   "name": "solar-collector-OM-log",
+   "verdict": "niche-ok",
+   "competitors": [
+    "Fluix ($29-75/user/mo)",
+    "SolarEdge mySolarEdge (free, monitoring only)",
+    "Scoop (sub, enterprise)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2565_",
+   "name": "wind-turbine-service-log",
+   "verdict": "crowded",
+   "competitors": [
+    "TurbineDoc (App Store, niche)",
+    "Fluix (sub)",
+    "OnyxInsight fieldPRO (custom pricing)",
+    "Resco ($35-55/user/mo)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2567_",
+   "name": "irrigation-system-maintenance-log",
+   "verdict": "niche-ok",
+   "competitors": [
+    "Hydrawise (Hunter, sub)",
+    "WeatherTRAK Mobile (sub)",
+    "Smart Rain (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2569_",
+   "name": "wastewater-treatment-PM-log",
+   "verdict": "crowded",
+   "competitors": [
+    "LLumin CMMS (sub)",
+    "NEXGEN (sub)",
+    "eWorkOrders (sub)",
+    "OpenGov (sub)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2571_",
+   "name": "spa-jacuzzi-pool-maintenance-log",
+   "verdict": "gap",
+   "competitors": [
+    "Pooli (freemium, pool/spa/fountain/jacuzzi)",
+    "No dedicated offline one-time spa log app"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2573_",
+   "name": "fountain-maintenance-log",
+   "verdict": "gap",
+   "competitors": [
+    "Pooli (covers fountains, freemium)",
+    "Generic CMMS only"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "none",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2575_",
+   "name": "crane-HDS-PM-log",
+   "verdict": "niche-ok",
+   "competitors": [
+    "Konecranes CheckApp (free download)",
+    "Demag Equipment App (proprietary)",
+    "Snappii Crane Inspection (sub)",
+    "OperatorPro (App Store)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2577_",
+   "name": "conveyor-belt-maintenance-log",
+   "verdict": "gap",
+   "competitors": [
+    "Generic CMMS (OxMaint, MaintainX)",
+    "No dedicated conveyor log app found"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "none",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2579_",
+   "name": "fan-coil-unit-maintenance-log",
+   "verdict": "gap",
+   "competitors": [
+    "Generic CMMS only",
+    "No dedicated FCU log app found"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "none",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2581_",
+   "name": "grease-trap-cleaning-log",
+   "verdict": "niche-ok",
+   "competitors": [
+    "FOGWatch (Play Store, commercial fleets)",
+    "ServiceCore (sub, grease trap biz)",
+    "GoCanvas (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2583_",
+   "name": "deep-well-pump-log",
+   "verdict": "gap",
+   "competitors": [
+    "Generic CMMS only",
+    "No dedicated deep-well pump log app found"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "none",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2585_",
+   "name": "water-softener-maintenance-log",
+   "verdict": "gap",
+   "competitors": [
+    "Manage My Softener (cloud sub, Android)",
+    "Kinetico App (proprietary, free)",
+    "DROP App (sub)",
+    "No offline one-time log app found"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2587_",
+   "name": "axle-weight-load-plan",
+   "verdict": "skip",
+   "competitors": [
+    "LoadMate US",
+    "Trucker's Slide Calc",
+    "TruckScience Axle Weight Calculator",
+    "Truck Weight Calculator (App Store)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2589_",
+   "name": "pallet-container-fill-optimizer",
+   "verdict": "hard-pass",
+   "competitors": [
+    "Palletized 3D Cargo Optimizer",
+    "Palletizr",
+    "Cargo-Planner",
+    "SeaRates Load Calculator"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2591_",
+   "name": "freight-class-density",
+   "verdict": "skip",
+   "competitors": [
+    "Freight Density (App Store)",
+    "Freight Class Calculator (Google Play)",
+    "FreightQuote density calc",
+    "Saia density calculator"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2593_",
+   "name": "fuel-surcharge-fsc",
+   "verdict": "skip",
+   "competitors": [
+    "FSCCalculator.com",
+    "OOIDA FSC Calculator",
+    "CargoVoyager FSC",
+    "altLINE FSC Calculator"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2595_",
+   "name": "dimensional-weight-dim",
+   "verdict": "skip",
+   "competitors": [
+    "ShippingEasy DIM calc",
+    "AMZ Prep DIM calculator",
+    "OmniCalculator DIM",
+    "Sifted DIM calc"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2597_",
+   "name": "cargo-lashing-securing",
+   "verdict": "consider",
+   "competitors": [
+    "BRUGG.LASHING app",
+    "Ancra Cargo Tie-Down Calculator",
+    "Securing Cargo (Google Play)",
+    "SpanSet Apps"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2599_",
+   "name": "crane-rigging-lift-plan",
+   "verdict": "consider",
+   "competitors": [
+    "Crane Lift Planner $4.99",
+    "Crangle (subscription)",
+    "3D Lift Plan",
+    "LEO Rigging Calculator"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2601_",
+   "name": "concrete-pour-schedule",
+   "verdict": "consider",
+   "competitors": [
+    "CraftCalc Concrete",
+    "ConcreteNetwork calc",
+    "Ozinga Concrete Calculator",
+    "CalculatorSoup concrete"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2603_",
+   "name": "scaffolding-load-capacity",
+   "verdict": "consider",
+   "competitors": [
+    "SkyCiv Scaffolding Calculator",
+    "Scaffcalc (paid SaaS)",
+    "Scafom-rux app",
+    "Savvy Calculator"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2605_",
+   "name": "excavation-trench-volume",
+   "verdict": "consider",
+   "competitors": [
+    "Pit Volume Excavation Calc (App Store)",
+    "BusyBusy Excavation Calculator",
+    "Kalk.pro Trench Calculator",
+    "SpikeVM Excavation"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2607_",
+   "name": "asphalt-tonnage-paving",
+   "verdict": "consider",
+   "competitors": [
+    "Asphalt Calculator Plus (App Store)",
+    "Asphalt Calculator (Google Play)",
+    "PavePro App",
+    "Cat Paving Production Calculator"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2609_",
+   "name": "line-striping-paint-calc",
+   "verdict": "consider",
+   "competitors": [
+    "Asphalt Kingdom paint calc",
+    "PaveManPro striping calc",
+    "Roadly paint calculator",
+    "STAR Traffic Paint Coverage"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2611_",
+   "name": "hvac-refrigerant-charge",
+   "verdict": "buy",
+   "competitors": [
+    "ChargeRight $39.99/yr",
+    "HVAC RefCharge (Carmel Software)",
+    "HVACR Check & Charge (Copeland)",
+    "HVAC Toolkit $24"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 9,
+   "reach": 2,
+   "demand": 3
+  },
+  {
+   "id": "X2613_",
+   "name": "cut-fill-earthwork-volume",
+   "verdict": "consider",
+   "competitors": [
+    "Moasure app",
+    "Earthworks Calculator (Android)",
+    "Kubla Cubed Lite",
+    "Vektor.io cut-fill"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2615_",
+   "name": "crane-reach-load-table",
+   "verdict": "consider",
+   "competitors": [
+    "Crane Lift Planner $4.99",
+    "Liebherr Crane Finder",
+    "Crane Loader (App Store)",
+    "Crangle subscription"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "freemium",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2617_",
+   "name": "sling-rigging-selector",
+   "verdict": "consider",
+   "competitors": [
+    "Lift-All Sling Calculator",
+    "Sling Load & Tension Calc (Google Play)",
+    "Rigging Load Calculator Tool (App Store)",
+    "SpanSet Apps"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2619_",
+   "name": "concrete-water-mix-design",
+   "verdict": "consider",
+   "competitors": [
+    "Concrete Mix Calculator (App Store)",
+    "Concrete Calculator All In One",
+    "ConcreteCalcs.com",
+    "CodeConcrete ACI mix design"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2621_",
+   "name": "concrete-vibrator-spacing",
+   "verdict": "buy",
+   "competitors": [
+    "WR Meadows Product Estimator App (coverage, not vibrator-specific)",
+    "No dedicated app found"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2623_",
+   "name": "formwork-concrete-pressure",
+   "verdict": "consider",
+   "competitors": [
+    "PERI Formwork Load Calculator",
+    "Doka Tools App",
+    "PASCHAL Concrete Pressure Calculator",
+    "CalcForge formwork DB"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2625_",
+   "name": "aggregate-crushed-stone-tonnage",
+   "verdict": "skip",
+   "competitors": [
+    "Gravel Calculator Plus (App Store)",
+    "Gravel Calculator (Google Play)",
+    "stone-calculator.org",
+    "Vulcan Materials calc"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2627_",
+   "name": "equipment-fuel-per-day",
+   "verdict": "consider",
+   "competitors": [
+    "ConsumptionCalculator.io construction",
+    "SpikeVM excavator fuel calc",
+    "Liebherr Energy Efficiency Calculator",
+    "Anytime Fuel Pros calc"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2629_",
+   "name": "crane-boom-selector",
+   "verdict": "consider",
+   "competitors": [
+    "Crane Boom Selector (Aptoide)",
+    "Crangle Android",
+    "Liebherr Crane Finder",
+    "Crane Pick Calculator (App Store)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "freemium",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2631_",
+   "name": "concrete-set-time-admixture",
+   "verdict": "buy",
+   "competitors": [
+    "No dedicated standalone app found",
+    "ConcreteCalcs.com partial coverage",
+    "Richway cellular mix design calc"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2633_",
+   "name": "lashing-en12195-compliance",
+   "verdict": "buy",
+   "competitors": [
+    "HeavyGoods.net lashing app (web)",
+    "Videck lashing software (B2B SaaS)",
+    "BRUGG.LASHING (free, brand tool)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2635_",
+   "name": "AV-schemat kabli",
+   "verdict": "skip",
+   "competitors": [
+    "D-Tools",
+    "AVSnap",
+    "Patchify",
+    "XTEN-AV X-DRAW"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2637_",
+   "name": "Kino domowe-kalibracja",
+   "verdict": "skip",
+   "competitors": [
+    "REW",
+    "Audyssey MultEQ Editor",
+    "HouseCurve",
+    "HAA Wizard",
+    "THX tune-up"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2639_",
+   "name": "Drone mapping-plan lotu",
+   "verdict": "skip",
+   "competitors": [
+    "DJIFlightPlanner",
+    "UgCS Open",
+    "DroneDeploy",
+    "SkyeBrowse",
+    "WaypointMap"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2641_",
+   "name": "Geodezja-tyczenie",
+   "verdict": "weak",
+   "competitors": [
+    "SurPad",
+    "Geoclass",
+    "Land Survey Calculator",
+    "Mapulator"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2643_",
+   "name": "GIS-pomiar pola",
+   "verdict": "skip",
+   "competitors": [
+    "Mapulator",
+    "FieldCalc",
+    "Geo Measure",
+    "Fields Area Measurement",
+    "GPS Fields Area Measure"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2645_",
+   "name": "Wycena druku 3D",
+   "verdict": "skip",
+   "competitors": [
+    "Craftcloud",
+    "Treatstock",
+    "MakerOS",
+    "Slant 3D Estimator",
+    "Hubs"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X2647_",
+   "name": "Wycena PCB",
+   "verdict": "weak",
+   "competitors": [
+    "PCBWay instant quote",
+    "JLCPCB calculator",
+    "Seeed Fusion",
+    "MacroFab"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2649_",
+   "name": "Wycena formy wtryskowej",
+   "verdict": "consider",
+   "competitors": [
+    "Protolabs instant quote",
+    "Xometry"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2651_",
+   "name": "Instalacja szyldu",
+   "verdict": "weak",
+   "competitors": [
+    "GraphixCalc",
+    "SignQuote Pro",
+    "TheSignExpert calculators"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2653_",
+   "name": "Okablowanie sieciowe/structured",
+   "verdict": "skip",
+   "competitors": [
+    "iFeeltech calculator",
+    "TSS USA estimator",
+    "Blue Wave calculator",
+    "Countfire"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2655_",
+   "name": "Monitoring-rozmieszczenie kamer/lens calc",
+   "verdict": "skip",
+   "competitors": [
+    "JVSG lens calc",
+    "IPVM Designer",
+    "CCTVcalculator.net",
+    "CCTV CAD",
+    "IP Video System Design Tool"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2657_",
+   "name": "Oswietlenie sceniczne DMX/foto",
+   "verdict": "weak",
+   "competitors": [
+    "DMXCalc",
+    "Lighting Toolbox",
+    "EveryCalculators DMX",
+    "Show Tool LD"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2659_",
+   "name": "Naglosnienie-dobor glosnikow",
+   "verdict": "skip",
+   "competitors": [
+    "Yamaha CISSCA",
+    "AtlasIED tools",
+    "JBL Pro calc",
+    "PAcalculate",
+    "Speaker Box Lite"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2661_",
+   "name": "Projektor-throw distance",
+   "verdict": "skip",
+   "competitors": [
+    "ProjectorCentral Pro",
+    "Audio Advice calc",
+    "ProjectorDistanceCalculator.com",
+    "Epson calc",
+    "Panasonic TDC"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2663_",
+   "name": "Ekran LED-piksele",
+   "verdict": "skip",
+   "competitors": [
+    "LED Wall Central",
+    "American LED Wall",
+    "NGL Signs calc",
+    "ROE Visual App",
+    "Absen tool"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2665_",
+   "name": "Antena-azymut/dobor",
+   "verdict": "consider",
+   "competitors": [
+    "Digisat look-angle calc",
+    "Smart Aligner app"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2667_",
+   "name": "Swiatlowod-budzet mocy",
+   "verdict": "skip",
+   "competitors": [
+    "Corning link loss calc",
+    "Extron fiber calc",
+    "FOA app",
+    "CommScope calc",
+    "Camplex calc"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2669_",
+   "name": "Alarm-strefy",
+   "verdict": "consider",
+   "competitors": [
+    "Fire3D",
+    "Zonify",
+    "Security Wholesalers Alarm Planner"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2671_",
+   "name": "Domofon-instalacja",
+   "verdict": "skip",
+   "competitors": [
+    "Homewyse intercom calc",
+    "getsafeandsound guide"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2673_",
+   "name": "Automatyka domowa-config",
+   "verdict": "skip",
+   "competitors": [
+    "LearnHomeAutomation calc",
+    "MyEasyTek calc",
+    "HTA Budget Calculator",
+    "Security.org estimator",
+    "iQuarters"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2675_",
+   "name": "Serwer-dobor UPS",
+   "verdict": "skip",
+   "competitors": [
+    "Eaton UPS Selector",
+    "CyberPower calc",
+    "Tripp-Lite Eaton",
+    "XPCC tool",
+    "Dell UPS calc"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2677_",
+   "name": "Dysk RAID-pojemnosc",
+   "verdict": "skip",
+   "competitors": [
+    "Seagate RAID calc",
+    "WD RAID calc",
+    "Synology RAID calc",
+    "raid-calculator.com",
+    "GigaCalculator"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2679_",
+   "name": "Kabel-spadek napiecia DC",
+   "verdict": "skip",
+   "competitors": [
+    "Southwire VDrop",
+    "jCalc.net",
+    "voltagedropcalculator.app",
+    "12voltplanet.co.uk",
+    "Calculator.net"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2681_",
+   "name": "Projekty PV-rozmieszczenie",
+   "verdict": "dup-skip",
+   "competitors": [],
+   "n": 0,
+   "free_sub": false,
+   "model": "n/a",
+   "durability": 0,
+   "reach": 0,
+   "demand": 0
+  },
+  {
+   "id": "X2683_",
+   "name": "sports-memorabilia-manager",
+   "verdict": "Saturated by CollX/Market Movers with AI scan; narrow gap for non-card items (jerseys, helmets) — moderate opportunity",
+   "competitors": [
+    "CollX",
+    "Market Movers",
+    "Collectibles.com",
+    "Mascot"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2685_",
+   "name": "humidor-cigar-tracker",
+   "verdict": "Multiple niche apps exist (Boxpressd, CigarTrakr, Cigarro) but none dominate; collector depth (35+ fields) is real; $3–8 one-time viable",
+   "competitors": [
+    "Boxpressd",
+    "CigarTrakr",
+    "Cigarro",
+    "My Humidor",
+    "Cigar Scanner"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2687_",
+   "name": "whisky-collection-manager",
+   "verdict": "OnlyDrams free-forever squeezes margins; WhiskeyShelf + Drammer cover basics; secondary-market angle (auction prices) still thin — small gap",
+   "competitors": [
+    "OnlyDrams",
+    "WhiskeyShelf",
+    "Drammer",
+    "The Whiskey Companion"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2689_",
+   "name": "tea-stash-tracker",
+   "verdict": "Only TeaSync exists and targets B2B; zero dedicated hobbyist app for personal loose-leaf/tea tin collection — clean white space",
+   "competitors": [
+    "TeaSync"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2691_",
+   "name": "rum-spirits-collection",
+   "verdict": "Spirit Radar covers rum+whisky with 177k bottle DB; OnlyDrams multi-spirit free app; RumX auction focus — crowded for rum specifically",
+   "competitors": [
+    "Spirit Radar",
+    "OnlyDrams",
+    "RumX"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2693_",
+   "name": "art-painting-collection",
+   "verdict": "Artwork Archive and Art Galleria well-established for serious collectors; price point skews subscription ~$10+/mo; one-time $3–8 under-served at casual end",
+   "competitors": [
+    "Artwork Archive",
+    "Art Galleria",
+    "ArtCloud",
+    "Artlogic"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "subscription",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2695_",
+   "name": "first-edition-books-manager",
+   "verdict": "CLZ Books covers ISBN scan but weak on rare/first-edition specific fields (edition points, issue priority, condition grades); gap for dedicated rare-books app",
+   "competitors": [
+    "CLZ Books",
+    "Libib",
+    "Rare Book Hub"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2697_",
+   "name": "ephemera-prints-collection",
+   "verdict": "No dedicated app found; Artwork Archive is closest but overkill; 500+ ephemera sub-categories with no catalog app — genuine white space",
+   "competitors": [
+    "Artwork Archive",
+    "Kovels (web)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2699_",
+   "name": "taxidermy-collection-tracker",
+   "verdict": "Existing apps (MountMonitor, MountChief) target taxidermy SHOPS not private collectors of mounted specimens; personal collector angle is open",
+   "competitors": [
+    "MountMonitor",
+    "MountChief",
+    "CatalogIt"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2701_",
+   "name": "insect-entomology-collection",
+   "verdict": "No consumer app found; institutional tools (Specify) exist but complex; hobbyist pinned-insect collectors (~large community) completely unserved — strong white space",
+   "competitors": [
+    "Specify (institutional)",
+    "BugGuide (web)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2703_",
+   "name": "houseplant-collection-tracker",
+   "verdict": "Collecto.rs, Planta, Plant Album well-established; care-reminder focus dominates; pure inventory/catalog angle less covered but crowded overall",
+   "competitors": [
+    "Collecto.rs",
+    "Planta",
+    "Plant Album",
+    "Plant Collector",
+    "PlantIn"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2705_",
+   "name": "succulent-cactus-collection",
+   "verdict": "No dedicated succulent-collector inventory app found; plant apps cover generic care; specialized fields (field number, clone, provenance) unserved — white space",
+   "competitors": [
+    "Planta (generic)",
+    "Collecto.rs (generic)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2707_",
+   "name": "orchid-collection-manager",
+   "verdict": "Orchid Album exists (iOS/PC) but dated; no barcode/AI scan; active community on forums requesting better tool — upgrade opportunity",
+   "competitors": [
+    "Orchid Album",
+    "OrchidWire (web)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2709_",
+   "name": "seed-bank-personal",
+   "verdict": "No personal hobbyist seed-bank app found; IrisBG/GRIN target institutions; gardeners use spreadsheets — clear white space for home seed-savers",
+   "competitors": [
+    "IrisBG (institutional)",
+    "GRIN-Global (institutional)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2711_",
+   "name": "bonsai-collection-manager",
+   "verdict": "Appy Bonsai (free, 20k species) and Bonsai Album cover the niche well; market served; differentiation hard at $3–8 one-time",
+   "competitors": [
+    "Appy Bonsai",
+    "Bonsai Album",
+    "Bonsai Care App"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2713_",
+   "name": "reptile-collection-manager",
+   "verdict": "SnekLog (free), ReptiCare, Husbandry.Pro all launched recently; niche served with modern apps; market saturating fast",
+   "competitors": [
+    "SnekLog",
+    "ReptiCare",
+    "Husbandry.Pro",
+    "ReptiWare",
+    "Reptile Tracker"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2715_",
+   "name": "model-kit-stash-manager",
+   "verdict": "Scalemates is dominant free platform with 655k kit DB and stash manager; KitBase secondary; nearly impossible to compete on catalog size",
+   "competitors": [
+    "Scalemates",
+    "KitBase"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2717_",
+   "name": "yarn-stash-manager",
+   "verdict": "My Yarn Stash, YarnBuddy, Ravelry/Stash2Go, Yarn Hoarder — heavily served; barcode scan standard; very crowded",
+   "competitors": [
+    "My Yarn Stash",
+    "YarnBuddy",
+    "Yarn Hoarder",
+    "Stash2Go"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2719_",
+   "name": "fabric-stash-manager",
+   "verdict": "Stash Hub (free), Threadloop (free), Cora, Stitch-n-Stash cover sewing fabric stash; served but not saturated; one-time $3–8 viable with offline focus",
+   "competitors": [
+    "Stash Hub",
+    "Threadloop",
+    "Cora",
+    "Stitch-n-Stash"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2721_",
+   "name": "bead-collection-inventory",
+   "verdict": "Beadalog, Beadographer (free, no ads), BeadEnCounter serve the niche; Beadographer fully free kills paid model; tight margin",
+   "competitors": [
+    "Beadalog",
+    "Beadographer",
+    "BeadEnCounter",
+    "PlanBead"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2723_",
+   "name": "gemstone-collector-app",
+   "verdict": "No hobbyist loose-stone collection app found; Jewel360/WinGold target jewelers B2B; personal collector (rough/cut stones by species, locality) unserved — white space",
+   "competitors": [
+    "Gemval (web catalog)",
+    "Magic of Crystals (basic info only)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2725_",
+   "name": "error-coin-variety-manager",
+   "verdict": "OpenNumismat (free desktop), PCGS CoinFacts, EzCoin serve general coins; CoinKnow (2025 AI) detects errors on scan; variety/error-specific fields still thin in mobile apps",
+   "competitors": [
+    "OpenNumismat",
+    "EzCoin",
+    "PCGS CoinFacts",
+    "CoinKnow"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2727_",
+   "name": "banknote-collection-manager",
+   "verdict": "LuckyNote (2024, fancy serials, PMG values), NoteSnap AI, Numista cover the niche; LuckyNote modern and well-featured — market served",
+   "competitors": [
+    "LuckyNote",
+    "NoteSnap",
+    "Numista",
+    "CurrencyManage"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2729_",
+   "name": "beer-label-collection",
+   "verdict": "No dedicated mobile app found; BCCA CanDB is club software; usbeerlabels.com is web-only; hobbyist labelphile (labology) app is genuine white space",
+   "competitors": [
+    "BCCA CanDB (desktop/club)",
+    "usbeerlabels.com (web)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2731_",
+   "name": "figurine-action-figure-manager",
+   "verdict": "iCollect Everything (#1 App Store, barcode AI scan) dominates; Toy Collector, Kolekto active — well-served, strong competition",
+   "competitors": [
+    "iCollect Everything",
+    "Toy Collector",
+    "Kolekto",
+    "Visual PackRat"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2733_",
+   "name": "doll-collection-manager",
+   "verdict": "iCollect Everything covers dolls (Barbie, American Girl) with AI photo-fill; Doll Collection Software V-12 exists; niche served within broader collectible apps",
+   "competitors": [
+    "iCollect Everything",
+    "Doll Collection Software",
+    "CatalogIt"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
   }
  ]
 }
