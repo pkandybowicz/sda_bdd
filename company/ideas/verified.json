@@ -42711,6 +42711,3088 @@
    "durability": 6,
    "reach": 3,
    "demand": 2
+  },
+  {
+   "id": "X2612",
+   "name": "autoclave_sterilizer_log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "SterilWize (sub, custom pricing, dental/med)",
+    "Reprolog (sub, custom, RFID/QR dental)",
+    "W&H eLog (sub, bundled w/ hardware)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2614",
+   "name": "medical_equipment_calibration_log",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "GageList (free ≤25 tools, then tiered sub)",
+    "Calibration Control (sub, custom)",
+    "QT9 QMS (sub, FDA/ISO)",
+    "Asset Panda (sub, custom)",
+    "SafetyCulture (freemium $24/user/mo)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2616",
+   "name": "vaccine_fridge_temperature_log",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Monnit iMonnit (sub, IoT hardware+SW)",
+    "Onset InTemp/InTempConnect (sub, CDC-VFC)",
+    "Sonicu (sub, cloud)",
+    "Dickson DicksonOne (sub)",
+    "CAS DataLoggers (hardware+sub)"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2618",
+   "name": "controlled_substances_narcotics_register",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "VetSnap (sub, ~$150 onboarding, vet)",
+    "LogButler (sub, DEA digital, medical/dental)",
+    "LogRx (sub, EMS/fire)",
+    "PSTrax (sub, EMS)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 3
+  },
+  {
+   "id": "X2620",
+   "name": "xray_radiation_QA_log",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "RadCalc (annual sub, packages, hospital)",
+    "RTI Ocean Next (sub, enterprise)",
+    "Sun Nuclear (sub, enterprise)",
+    "IBA Dosimetry (sub, enterprise)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2622",
+   "name": "pipette_calibration_log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "IKA IPCS (onetime license)",
+    "Mettler Toledo Calibry (sub, ISO 8655)",
+    "Sartorius myScal (SaaS sub)",
+    "ESS Pipette Wizard (onetime license)",
+    "Beamex (enterprise sub)"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2624",
+   "name": "safety_shower_eyewash_inspection_log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "InspectNTrack ($2,900/yr, ANSI Z358.1)",
+    "IMEC Technologies Safety Inspection (sub, custom)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2626",
+   "name": "biological_safety_cabinet_BSC_log",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "POPProbe (free checklist only, no dedicated app)",
+    "VaLogic LogiPoint (monitoring hardware+sub)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2628",
+   "name": "fume_hood_dygestorium_inspection_log",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "SafetyCulture iAuditor (general, freemium $24/user/mo)",
+    "SafetyStratus (general EHS, sub, custom)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2630",
+   "name": "glucometer_QC_log",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "DocHub/pdfFiller (fillable PDF only, no real app)",
+    "mySugr (patient-facing, free, not clinic QC)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2632",
+   "name": "spill_kit_inspection_log",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "SafetyCulture iAuditor (general, freemium)",
+    "SafetyStratus (general EHS module, sub)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2634",
+   "name": "sharps_needles_disposal_log",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [
+    "Daniels Health (service, no dedicated log app)",
+    "Miratag (free checklist template only)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "free",
+   "durability": 4,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2636",
+   "name": "infection_control_audit_log",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Qualaris (sub, bed-based pricing)",
+    "MEG (sub, custom)",
+    "GoAudits ($12–$35/user/mo)",
+    "RLDatix (enterprise sub)",
+    "eAuditor/Axonator (sub)"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2638",
+   "name": "hand_hygiene_audit_log",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "SpeedyAudit Lite (free mobile), Pro (sub, custom)",
+    "MEG (sub, custom)",
+    "CleanHands Crede (sub)",
+    "Qualaris (sub, bed-based)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2640",
+   "name": "dental_HTM01-05_compliance_log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Dental Compliance UK dental-compliance.co.uk (sub)",
+    "Denttrack (sub, CQC+HTM)",
+    "SterilWize (sub, custom)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 3
+  },
+  {
+   "id": "X2642",
+   "name": "care_home_CQC_audit_log",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "GoAudits ($12–35/user/mo, 40+ CQC templates)",
+    "Care Audit Tool careaudittool.co.uk (sub)",
+    "CareCallAI (£99/mo)",
+    "Nymo Care (sub)",
+    "CareDailyUK (sub)"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 3
+  },
+  {
+   "id": "X2644",
+   "name": "clinic_equipment_review_log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Limble CMMS (freemium, $28/user/mo Standard)",
+    "MaintainX (freemium, $65/user/mo Premium)",
+    "SafetyCulture (freemium $24/user/mo)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2646",
+   "name": "weighing_scale_calibration_log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Sartorius BalanceLink (sub ~$4k+/yr)",
+    "Mettler Toledo LabX (sub, enterprise)",
+    "GageList (freemium – generic, not scale-specific)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2648",
+   "name": "blood_pressure_monitor_calibration_log",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "ValidateBP.org (free validation DB, not a log app)",
+    "MedM (free patient BP app, not calibration log)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2650",
+   "name": "endoscope_reprocessing_log",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Censis ScopeTrac Advanced (sub, enterprise hospital)",
+    "STERIS SPM Endo (sub, enterprise)",
+    "Mobile Aspects iRIScope (sub, enterprise)",
+    "Olympus KE (sub, enterprise)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 9,
+   "reach": 2,
+   "demand": 3
+  },
+  {
+   "id": "X2652",
+   "name": "dental_water_DUWL_quality_log",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "POPProbe checklist (free template only)",
+    "Total Medical Compliance (service, no dedicated app)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "free",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2654",
+   "name": "vacuum_suction_test_log",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [
+    "No dedicated app found; covered in general dental maintenance logs or paper checklists"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "free",
+   "durability": 4,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2656",
+   "name": "instrument_sterilization_tracking_log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "SterilWize (sub, custom, dental/med)",
+    "Reprolog (sub, custom, QR+RFID)",
+    "Dental SteriTrack (sub)",
+    "Sowingo (sub, dental inventory+steri)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 9,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2658",
+   "name": "defibrillator_AED_inspection_log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "AED Log (free 1 AED, $19/mo Starter 2-5 AEDs)",
+    "ZOLL PlusTrac (sub, enterprise)",
+    "Inspectly360 (sub, AI visual)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2660",
+   "name": "marża/markup",
+   "verdict": "skip",
+   "competitors": [
+    "Margin+",
+    "Cost Margin Calculator",
+    "Margin Markup Calculator",
+    "Margin/Selling/Cost Calculator"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2662",
+   "name": "próg rentowności / break-even",
+   "verdict": "skip",
+   "competitors": [
+    "Break Even Point Calculator (iOS)",
+    "Business Calculator Tool",
+    "breakevensmb.com"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2664",
+   "name": "amortyzacja kredytu",
+   "verdict": "weak",
+   "competitors": [
+    "Loan Amortization Calculator",
+    "Amortization Loan Calculator",
+    "Bear Loan Calculator"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2666",
+   "name": "leasing vs kupno",
+   "verdict": "weak",
+   "competitors": [
+    "CalcXML",
+    "Huntington Bank calculator",
+    "FinQuery"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "free_web",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2668",
+   "name": "ROI/zwrot inwestycji",
+   "verdict": "skip",
+   "competitors": [
+    "ROI & Investment Calculator",
+    "Return on Investment (ROI)",
+    "Investment Calculator - ROI"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2670",
+   "name": "deprecjacja aktywów",
+   "verdict": "consider",
+   "competitors": [
+    "Depreciation Calculator - Calc",
+    "Depreciation! (iOS)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "paid_once",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2672",
+   "name": "lista płac / overtime",
+   "verdict": "skip",
+   "competitors": [
+    "Work Hours & Pay Calculator",
+    "Hourly Payroll",
+    "Homebase"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2674",
+   "name": "odsetki za zwłokę faktura",
+   "verdict": "consider",
+   "competitors": [
+    "PineBill late payment calc",
+    "Invoicer.ai",
+    "PrestoBills"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "free_web",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2676",
+   "name": "przelicznik walut offline",
+   "verdict": "skip",
+   "competitors": [
+    "Currency Converter Plus",
+    "My Currency Converter",
+    "XE Currency",
+    "Currency Converter Offline"
+   ],
+   "n": 9,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X2678",
+   "name": "VAT/podatek",
+   "verdict": "skip",
+   "competitors": [
+    "VAT/Tax Calculator",
+    "VAT Calculator Worldwide",
+    "VAT Calculator Pro",
+    "VAT MTD"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2680",
+   "name": "prowizja sprzedaży",
+   "verdict": "skip",
+   "competitors": [
+    "Commissions Calculator",
+    "Commission Calculator",
+    "SellOn",
+    "Sold Commission Tracking"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2682",
+   "name": "wycena projektu / freelance",
+   "verdict": "weak",
+   "competitors": [
+    "freelancecalculator.app",
+    "Wave freelance budget calc",
+    "Pinebill rate calc"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free_web",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2684",
+   "name": "unit economics",
+   "verdict": "consider",
+   "competitors": [
+    "UnitProfit (iOS)",
+    "ZORP free web",
+    "Board of Innovation web"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "paid_once",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2686",
+   "name": "CAC/LTV",
+   "verdict": "weak",
+   "competitors": [
+    "Waveup CAC calc",
+    "Bloomreach calc",
+    "Porter Metrics"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free_web",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2688",
+   "name": "runway / burn rate",
+   "verdict": "consider",
+   "competitors": [
+    "IdeaProof runway calc",
+    "Futureproof",
+    "Mysa.io"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free_web",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2690",
+   "name": "punkt zamówienia / EOQ",
+   "verdict": "consider",
+   "competitors": [
+    "Zoho Inventory EOQ",
+    "Koi.app EOQ",
+    "Omni Calculator EOQ"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "free_web",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2692",
+   "name": "narzut godzinowy warsztat",
+   "verdict": "consider",
+   "competitors": [
+    "Jobber pricing calc",
+    "Harvest hourly calc"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "niche",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2694",
+   "name": "rabat-kalkulacja",
+   "verdict": "skip",
+   "competitors": [
+    "Discount Calculator % Off",
+    "Discounts & Sales Calculator",
+    "Discount Calculator Sale Amt"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X2696",
+   "name": "raty / RRSO / APR",
+   "verdict": "skip",
+   "competitors": [
+    "Loan Calculator Installment",
+    "Loan Calculator Loan2Me",
+    "Bear Loan Calculator",
+    "Loan Debt Planner"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2698",
+   "name": "wycena firmy mnożnik",
+   "verdict": "consider",
+   "competitors": [
+    "Business Valuation Expert (iOS)",
+    "uValue",
+    "BizEx web"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "paid_once",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2700",
+   "name": "cash flow prognoza",
+   "verdict": "weak",
+   "competitors": [
+    "CashFlow+ Forecast Planner",
+    "Foreseenly CashFlow",
+    "Money Forecast CashFlow",
+    "Agicap"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2702",
+   "name": "podział zysku wspólnicy",
+   "verdict": "consider",
+   "competitors": [
+    "Splitwise (general split)",
+    "Emparion profit-sharing calc web"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "niche",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2704",
+   "name": "break-even gastronomia",
+   "verdict": "consider",
+   "competitors": [
+    "Fillet for Chefs",
+    "Recipe Costing Calculator",
+    "Shifty web calc"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "niche",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2706",
+   "name": "tip split (pomiń-dup)",
+   "verdict": "skip",
+   "competitors": [
+    "Splitwise",
+    "Tip Calculator (wiele darmowych)"
+   ],
+   "n": 15,
+   "free_sub": true,
+   "model": "free",
+   "durability": 3,
+   "reach": 5,
+   "demand": 1
+  },
+  {
+   "id": "X2708",
+   "name": "Ohm's Law Calculator",
+   "verdict": "skip",
+   "competitors": [
+    "Ohms Law Calc (free)",
+    "Ohm Law Calculator by Nitrio (free)",
+    "Ohm's Law & Power Law Calculator (free)",
+    "ElectroDroid (free)",
+    "EE Toolkit (freemium)"
+   ],
+   "n": 10,
+   "free_sub": false,
+   "model": "free",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2710",
+   "name": "Resistor & LED Selection Calculator",
+   "verdict": "skip",
+   "competitors": [
+    "LED Resistor Calculator by android-design.nl (free, 244k installs)",
+    "LED Resistor Calculator by Mkvsoft (free)",
+    "LED Resistor Calculator Plus iOS (free)",
+    "ElectroDroid (free)"
+   ],
+   "n": 8,
+   "free_sub": false,
+   "model": "free",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2712",
+   "name": "PCB Trace Width Calculator",
+   "verdict": "maybe",
+   "competitors": [
+    "PCB Trace Calculator by android-design.nl (paid Android)",
+    "Saturn PCB Toolkit (free desktop)",
+    "RF & Microwave Toolbox ($12.99, includes PCB trace)",
+    "DigiKey web tool (free)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2714",
+   "name": "Antenna Length Calculator",
+   "verdict": "maybe",
+   "competitors": [
+    "RF-Toolbox Pro iOS (paid)",
+    "RF & Microwave Toolbox Android ($12.99)",
+    "RF Calculators by everythingRF (free Android, 52k installs)",
+    "web tools free"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2716",
+   "name": "RF/dB Calculator",
+   "verdict": "skip",
+   "competitors": [
+    "RF & Microwave Toolbox ($12.99 Android)",
+    "RF-Toolbox Pro iOS (paid)",
+    "RF Tools iOS (paid)",
+    "RF Calculators Android (free, 4.5★)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 5,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2718",
+   "name": "Gear Ratio & Pulley Calculator",
+   "verdict": "build",
+   "competitors": [
+    "Pulley and Belt Calculator iOS (free, ad-supported)",
+    "Pulley Gear Ratio Calculator Android (free)",
+    "Gear Ratio Calculator Lite iOS (free)",
+    "Ratio Calc! iOS (free)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2720",
+   "name": "Hydraulic Cylinder Calculator",
+   "verdict": "maybe",
+   "competitors": [
+    "Hydraulic Cylinder Calc by Nitrio iOS (free)",
+    "Hydraulic Calculator iOS (freemium, paid IAP for full)",
+    "Hydraulic-Calculator App Store (free limited)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2722",
+   "name": "Pneumatic Cylinder Calculator",
+   "verdict": "build",
+   "competitors": [
+    "Pneumatic Cylinder iOS by Zanthic (free)",
+    "Pneumatic Cylinder Calculator Android by Amnaj Sriwilai (free)",
+    "Bosch Cylinder Calculator Android (free)",
+    "OmniCalculator web (free)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "free",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2724",
+   "name": "Spring Selection Calculator",
+   "verdict": "build",
+   "competitors": [
+    "Springulator by Newcomb Spring (free iOS, manufacturer app)",
+    "Spring Creator by Acxess Spring (free web/mobile)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "free",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2726",
+   "name": "Beam Deflection Calculator",
+   "verdict": "maybe",
+   "competitors": [
+    "Deflection app iOS ($4.99)",
+    "Beam Deflection Calculator iOS (new 2024, pricing unclear)",
+    "SkyCiv web (freemium SaaS)",
+    "OmniCalculator web (free)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2728",
+   "name": "Torque / HP / RPM Calculator",
+   "verdict": "skip",
+   "competitors": [
+    "Engine Horsepower Calculator iOS (free)",
+    "Motor Power Calculator iOS (free)",
+    "Horsepower Calculator Android (free)",
+    "Torque Units Calculator Android (free)"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "free",
+   "durability": 4,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2730",
+   "name": "Pump Selection Calculator",
+   "verdict": "maybe",
+   "competitors": [
+    "Pump Power Calculator iOS ($3.99)",
+    "Centrifugal Pump Spec iOS (free)",
+    "Cornell Pump Toolkit iOS (free, vendor app)",
+    "Pump Design Calculator iOS (free)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2732",
+   "name": "Fan / Ventilator Selection Calculator",
+   "verdict": "maybe",
+   "competitors": [
+    "HVACalc iOS (free + $0.99 unlock all)",
+    "HVAC Duct Sizer iOS/Android (paid)",
+    "generic HVAC apps"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2734",
+   "name": "Heat Exchanger Calculator",
+   "verdict": "build",
+   "competitors": [
+    "Exergy LLC Heat Exchanger Calc (web only)",
+    "no dominant mobile app found"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "free",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2736",
+   "name": "Pipe Flow / Pressure Drop Calculator",
+   "verdict": "maybe",
+   "competitors": [
+    "Pipe Flow Wizard iOS/Android (paid subscription ~$5.99/mo)",
+    "pipeflowcalculations.com Android (free)",
+    "ISCO FlowCalc (free, flow meter vendor)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2738",
+   "name": "Tank Volume & Dip Chart Calculator",
+   "verdict": "build",
+   "competitors": [
+    "Fuel Tank Charts iOS by Braden (free)",
+    "Fuel Tank Volume Calc Android (free)",
+    "Silverson app (free, vendor)",
+    "Greer Tank web (free)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "free",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2740",
+   "name": "Mixing & Dilution Calculator",
+   "verdict": "maybe",
+   "competitors": [
+    "Dilution Calculator iOS (free+IAP)",
+    "Dilution & Mix Calculator iOS (freemium)",
+    "Solution Dilution Calculator iOS by Nitrio (free)",
+    "Simple Dilution Calculator iOS (free)"
+   ],
+   "n": 6,
+   "free_sub": false,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2742",
+   "name": "Molarity & Concentration Calculator",
+   "verdict": "maybe",
+   "competitors": [
+    "Solution Dilution Calculator iOS by Nitrio (free)",
+    "Sigma-Aldrich web tool (free)",
+    "Thermo Fisher DailyCalcs (free)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "free",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2744",
+   "name": "pH Buffer Calculator",
+   "verdict": "build",
+   "competitors": [
+    "Biological Buffer Calculator iOS (free)",
+    "Buffers iOS (free, 42 buffer agents)",
+    "Sigma-Aldrich web (free)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "free",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2746",
+   "name": "Engineering Unit Converter",
+   "verdict": "skip",
+   "competitors": [
+    "Engineering Unit Converter iOS by Vector254 (free)",
+    "Unit Converter Pro iOS (free)",
+    "dozens of free converters on both platforms"
+   ],
+   "n": 10,
+   "free_sub": false,
+   "model": "free",
+   "durability": 3,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X2748",
+   "name": "Bolt Torque & Class Calculator",
+   "verdict": "build",
+   "competitors": [
+    "AutomationCalculators.net (free web only)",
+    "no dominant dedicated mobile app found",
+    "some inclusion in general mechanical toolbox apps"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2750",
+   "name": "Bearing Life (L10) Calculator",
+   "verdict": "build",
+   "competitors": [
+    "SKF Bearing Calculator iOS (free, vendor app)",
+    "NSK Bearing Online Catalog app (free, vendor)",
+    "web calculators free"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "free",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2752",
+   "name": "Wire Ampacity / Cable Sizing Calculator",
+   "verdict": "skip",
+   "competitors": [
+    "SparkShift (free, 200+ NEC calcs)",
+    "AWG Calculator iOS (subscription)",
+    "Electrician Calculator Pro (paid)",
+    "Southwire SIMpull (free vendor)",
+    "Electrical Calculations iOS (paid)"
+   ],
+   "n": 6,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2754",
+   "name": "Transformer Selection Calculator",
+   "verdict": "maybe",
+   "competitors": [
+    "Transformer Calculator iOS (free)",
+    "Transformer Calculator Plus iOS by Nitrio (free)",
+    "Electrical Transformer Helper Android (paid, NEC)",
+    "Mike Holt Electrical Toolbox (paid)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "free",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2756",
+   "name": "vineyard-spray-log",
+   "verdict": "skip",
+   "competitors": [
+    "VitiScribe ($49-199/mo)",
+    "SprayReports ($700/yr)",
+    "Croptracker",
+    "vintrace"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2758",
+   "name": "sad-IPM-program",
+   "verdict": "maybe",
+   "competitors": [
+    "eOrchard",
+    "Hectre",
+    "Croptracker",
+    "AgNote"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2760",
+   "name": "szklarnia-klimat-log",
+   "verdict": "skip",
+   "competitors": [
+    "Argus Controls",
+    "Priva",
+    "Growlink",
+    "iFarm Growtune ($0.75-1.50/m²/mo)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2762",
+   "name": "szkólka-roslin-inwentarz",
+   "verdict": "maybe",
+   "competitors": [
+    "Mprise Agriware",
+    "NurseryDec",
+    "PlantingNursery",
+    "QuickFlora"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2764",
+   "name": "plantacja-choinek",
+   "verdict": "yes",
+   "competitors": [
+    "Farmbrite ($29-99/mo, generic)",
+    "HighTrek POS (reservations only)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X2766",
+   "name": "microgreens-produkcja",
+   "verdict": "skip",
+   "competitors": [
+    "Microgreen Manager ($25/mo)",
+    "SeedLeaf",
+    "FarmFlow",
+    "Tend"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2768",
+   "name": "farma-hydroponiczna-parametry",
+   "verdict": "skip",
+   "competitors": [
+    "FarmHub",
+    "iFarm Growtune",
+    "GrowDirector HydroDirector",
+    "AgriERP"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2770",
+   "name": "uprawa-konopi-compliance-seed-to-sale",
+   "verdict": "skip",
+   "competitors": [
+    "Metrc (gov mandate)",
+    "BioTrack (gov mandate)",
+    "Canix",
+    "Flourish ($200-1500/mo)",
+    "Dutchie",
+    "Flowhub"
+   ],
+   "n": 6,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 5,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2772",
+   "name": "chmiel-hopyard",
+   "verdict": "yes",
+   "competitors": [
+    "Farmbrite (generic)",
+    "Farmsoft (generic)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X2774",
+   "name": "oliwki-zbior",
+   "verdict": "yes",
+   "competitors": [
+    "Croptracker (generic)",
+    "Hectre (generic)",
+    "Leaftide (home growers, £5/mo)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X2776",
+   "name": "lawenda",
+   "verdict": "yes",
+   "competitors": [
+    "Farmbrite (generic only)"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X2778",
+   "name": "kwiaty-ciete-farma-CSA",
+   "verdict": "skip",
+   "competitors": [
+    "Tend (flower focus)",
+    "Farmigo (2%/$150 min)",
+    "CSAware (2%/$100 min)",
+    "VeggieCropper (free)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "percent-rev",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2780",
+   "name": "zachowanie-nasion-seed-saving",
+   "verdict": "yes",
+   "competitors": [
+    "Seedtrakr (pricing unclear)",
+    "IrisBG ($1000s/yr, botanical gardens only)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2782",
+   "name": "szczepienie-grafting-log",
+   "verdict": "yes",
+   "competitors": [
+    "No dedicated app found; GrowingFruit.org forum tracks with spreadsheets"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X2784",
+   "name": "przycinanie-harmonogram",
+   "verdict": "maybe",
+   "competitors": [
+    "Leaftide (£5/mo or £99 lifetime)",
+    "Croptracker",
+    "eOrchard",
+    "Tātou"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2786",
+   "name": "gleba-testy-tracking",
+   "verdict": "maybe",
+   "competitors": [
+    "Soil Test Pro (app, ~$5/acre test)",
+    "CropX (enterprise)",
+    "VRAFY",
+    "FarmLogic"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2788",
+   "name": "pieczarkarnia",
+   "verdict": "maybe",
+   "competitors": [
+    "Sporehubs (pricing unclear)",
+    "Kinoko App",
+    "MycoHub"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2790",
+   "name": "sady-orzechowe",
+   "verdict": "maybe",
+   "competitors": [
+    "Croptracker (generic)",
+    "eOrchard (generic)",
+    "Tend (generic)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X2792",
+   "name": "truskawki-tunel",
+   "verdict": "yes",
+   "competitors": [
+    "No dedicated tunnel strawberry log app found; generic Farmbrite/Croptracker only"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X2794",
+   "name": "ziola-uprawa",
+   "verdict": "maybe",
+   "competitors": [
+    "Tend (generic)",
+    "Farmbrite (generic)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2796",
+   "name": "winiarnia-fermentacja",
+   "verdict": "skip",
+   "competitors": [
+    "vintrace",
+    "InnoVint",
+    "SoftCellar (free/£5/$10 mo)",
+    "VinPilot",
+    "Ekos",
+    "fermsoft"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2798",
+   "name": "tytoń-suszenie",
+   "verdict": "yes",
+   "competitors": [
+    "No dedicated curing barn log app found; Cureco hardware controller only"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X2800",
+   "name": "tapeta-rolki",
+   "verdict": "niche_ok",
+   "competitors": [
+    "WallFit (iOS, free+sub)",
+    "Wallpaper Calculator (Android, free)",
+    "FocalScan (freemium 2 free scans)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2802",
+   "name": "natrysk-dysza-cisnienie",
+   "verdict": "niche_ok",
+   "competitors": [
+    "TeeJet SpraySelect (free web)",
+    "SprayWare / Spraying Systems Co (free web)",
+    "spraymixcalculator.com (free web)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2804",
+   "name": "wylewka-samopoziom-zuzycie",
+   "verdict": "weak",
+   "competitors": [
+    "Calculator Academy (free web)",
+    "BidFlow (free web)",
+    "Mapei calculator (free web)",
+    "Sika calculator (free web)",
+    "CalculatorsHub (free web)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2806",
+   "name": "posadzka-epoksydowa-pokrycie",
+   "verdict": "niche_ok",
+   "competitors": [
+    "Pourla Epoxy Calculator (free web)",
+    "Epoxy Pro Calculator (free web)",
+    "Omni Calculator (free web)",
+    "Sika Flooring (free web)",
+    "WiseBond (free web)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2808",
+   "name": "fuga-zuzycie",
+   "verdict": "crowded",
+   "competitors": [
+    "Tile & Grout Calculator iOS/Android (free)",
+    "Sika Tile Grout Calculator (free web)",
+    "Mapei grouts calculator (free web)",
+    "CraftCalc (free web)",
+    "Omni Calculator (free web)"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2810",
+   "name": "spadek-dachu-pitch",
+   "verdict": "crowded",
+   "competitors": [
+    "Pitch Gauge (iOS+Android, sub)",
+    "Roof Pitch Calculator Pro (iOS)",
+    "Roof Pitch Factor (iOS)",
+    "VELUX Roof Pitch (iOS free)",
+    "Roofing framing calculator (Android)"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "one_time_and_sub",
+   "durability": 8,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2812",
+   "name": "rynna-spadek-dobor",
+   "verdict": "niche_ok",
+   "competitors": [
+    "SMACNA Downspout & Gutter Sizing (free app/web)",
+    "RoofPitch Gutter Slope Calculator (free web)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2814",
+   "name": "siding-elewacja-m2",
+   "verdict": "crowded",
+   "competitors": [
+    "STACK Siding Estimator (paid SaaS)",
+    "Hover Siding Estimator (paid)",
+    "Houzz Pro (sub)",
+    "LS USA Siding Calculator (free)",
+    "James Hardie calculator (free web)",
+    "BuildWise (free web)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free_and_paid",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2816",
+   "name": "deska-tarasowa-legar-span",
+   "verdict": "niche_ok",
+   "competitors": [
+    "Decks.com joist span calculator (free)",
+    "deckcalculator.app (free)",
+    "Wern-Wood Joist Calculator (free)",
+    "RedX Apps (free web)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2818",
+   "name": "balustrada-slupki",
+   "verdict": "niche_ok",
+   "competitors": [
+    "Baluster Calculator Elite (iOS, one-time)",
+    "Baluster Spacing Calculator (iOS, one-time)",
+    "Smart Baluster Calc (Android, free)",
+    "Chippy Tools (iOS+Android)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2820",
+   "name": "blat-betonowy",
+   "verdict": "niche_ok",
+   "competitors": [
+    "Concrete Countertop Institute Excel calc (one-time $)",
+    "Buddy Rhodes calc (free web)",
+    "CalculatorsHub (free web)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2822",
+   "name": "tynk-dekoracyjny-zuzycie",
+   "verdict": "niche_ok",
+   "competitors": [
+    "SmartBuildCalc Render/Stucco (free web)",
+    "LimeWorks.us (free web)",
+    "VastCalc stucco (free web)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2824",
+   "name": "gladz-zuzycie",
+   "verdict": "niche_ok",
+   "competitors": [
+    "BuildCostLab Skim Plaster Calc (free web)",
+    "SmartBuildCalc Plaster Coverage (free web)",
+    "Mapei skim coats calc (free web)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2826",
+   "name": "gres-klej-grzebien",
+   "verdict": "niche_ok",
+   "competitors": [
+    "Livefield Thinset Calculator (free web)",
+    "Pro Calculator UK tile adhesive (free web)",
+    "Berger Paints tile adhesive calc (free web)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2828",
+   "name": "hydroizolacja-warstwy",
+   "verdict": "niche_ok",
+   "competitors": [
+    "Aqviz liquid+sheet membrane calc (free web)",
+    "Schluter Membrane Estimator (free web)",
+    "CalculatorCorp waterproofing (free web)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2830",
+   "name": "ocieplenie-poddasza-grubosc",
+   "verdict": "crowded",
+   "competitors": [
+    "Owens Corning R-value calculator (free web)",
+    "JM Insulation Calculator (free web)",
+    "Greenfiber blown-in calc (free web)",
+    "Omni Calculator insulation (free web)",
+    "CraftCalc insulation (free web)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2832",
+   "name": "podbitka",
+   "verdict": "niche_ok",
+   "competitors": [
+    "VersaCalculator Soffit (free web)",
+    "WeatherShield Soffit & Fascia (free web)",
+    "SmartRoofingCalculator (free web)",
+    "CDC Calculators (free web)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2834",
+   "name": "parapet",
+   "verdict": "weak",
+   "competitors": [
+    "CountBricks window capping (free web)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X2836",
+   "name": "listwa-przypodlogowa",
+   "verdict": "crowded",
+   "competitors": [
+    "The Moulding Company calc (free web)",
+    "Inch Calculator trim (free web)",
+    "CrunchMilk baseboard calc (free web)",
+    "DIYProject.ai trim calc (free web)",
+    "Woodworking-Calculators.com (free web)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2838",
+   "name": "sztukateria-szpros",
+   "verdict": "niche_ok",
+   "competitors": [
+    "Crown Calc Elite (iOS, one-time)",
+    "Crown Molding Tools (Android, paid)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2840",
+   "name": "lakier-warstwy-wydajnosc",
+   "verdict": "niche_ok",
+   "competitors": [
+    "Tooliro Wood Finish Coverage (free web)",
+    "HQ Calculator wood finish (free web)",
+    "Woodworking-Calculators.com finish calc (free web)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2842",
+   "name": "beton-dekoracyjny-barwnik",
+   "verdict": "niche_ok",
+   "competitors": [
+    "Direct Colors coverage calculators (free web)",
+    "Solomon Colors pigment calculator (free web)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2844",
+   "name": "kostka-wzor-docinki",
+   "verdict": "niche_ok",
+   "competitors": [
+    "Patio Calculator Plus (iOS, one-time)",
+    "Omni Calculator paver (free web)",
+    "Inch Calculator paver (free web)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2846",
+   "name": "obrzeza-kraweznik",
+   "verdict": "weak",
+   "competitors": [
+    "vCalc Garden Edging Calc (free web)",
+    "Inch Calculator Landscaping app (free Android)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2848",
+   "name": "Stage Plot / Input List Maker",
+   "verdict": "saturated",
+   "competitors": [
+    "StagePlot Guru",
+    "Stage Plot Maker",
+    "RiderForge",
+    "AUDIOPATCH"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 8,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2850",
+   "name": "PA SPL / Coverage Calculator",
+   "verdict": "free-dominated",
+   "competitors": [
+    "PAcalculate (RCF, free)",
+    "BoomSpeaker web",
+    "CMUSE web",
+    "Funktion-One web",
+    "ToolGrit web"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2852",
+   "name": "Speaker Delay / Time Alignment Calculator",
+   "verdict": "weak-moat",
+   "competitors": [
+    "Sample Delay Calculator ($1.99)",
+    "Patchify web (free)",
+    "Synced Up Audio web (free)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2854",
+   "name": "Subwoofer Alignment (Cardioid / End-Fire)",
+   "verdict": "niche-gap",
+   "competitors": [
+    "S.A.D. spreadsheet (Merlijn van Veen, free)",
+    "SubAligner (sub, ~$10-20/mo)",
+    "PAcalculate sub-array module (free)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "freemium",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2856",
+   "name": "Monitor Mix Worksheet / Aux Send Sheet",
+   "verdict": "weak-moat",
+   "competitors": [
+    "Generic spreadsheet templates",
+    "AUDIOPATCH (free)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2858",
+   "name": "IEM Mix Setup Helper",
+   "verdict": "weak-moat",
+   "competitors": [
+    "Waves MyMon (hardware-tied)",
+    "StageWave (subscription)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2860",
+   "name": "RF Wireless Mic Frequency Coordination",
+   "verdict": "saturated",
+   "competitors": [
+    "Shure Wireless Workbench 7 (free desktop)",
+    "FreqCoord (web)",
+    "RF Venue System Builder (free)",
+    "FreqFinder (paid)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2862",
+   "name": "Amplifier / Load Matching Calculator",
+   "verdict": "free-dominated",
+   "competitors": [
+    "SPKRS app (Play Store, free)",
+    "Crown audio web (free)",
+    "PAcalculate (free)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2864",
+   "name": "Truss Load / Rigging Point Calculator",
+   "verdict": "niche-gap",
+   "competitors": [
+    "iTruss (XSF Truss, free)",
+    "GitHub browser tool (free/open-source)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2866",
+   "name": "Stage Power / Electrical Load Calculator",
+   "verdict": "weak-moat",
+   "competitors": [
+    "Stage Lighting Power Calculator (web, free)",
+    "ElectriCalc Pro ($25 one-time, generic)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2868",
+   "name": "Cable Length / Signal Loss Calculator",
+   "verdict": "free-dominated",
+   "competitors": [
+    "BoomSpeaker web (free)",
+    "EV CableLoss (free)",
+    "Geoff the Grey Geek web (free)",
+    "Sengpielaudio (free)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2870",
+   "name": "Projector Throw / Screen Size Calculator",
+   "verdict": "saturated",
+   "competitors": [
+    "ProjectorCentral web (free)",
+    "XTEN-AV web (free)",
+    "Patchify (free)",
+    "ToolGrit (free)",
+    "Legrand AV (free)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2872",
+   "name": "LED Wall Pixel Pitch / Viewing Distance Calculator",
+   "verdict": "free-dominated",
+   "competitors": [
+    "LED Wall Central (free)",
+    "Brightlink AV (free)",
+    "Ekintry (free)",
+    "Doitvision (free)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2874",
+   "name": "Line Array Angles / Hang Calculator",
+   "verdict": "niche-gap",
+   "competitors": [
+    "Synced Up Audio web (free)",
+    "Manufacturer SW (EASE Focus, L-Acoustics Soundvision — free but brand-tied)",
+    "CMUSE web (free)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "freemium",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2876",
+   "name": "Room Acoustics / RT60 Calculator",
+   "verdict": "weak-moat",
+   "competitors": [
+    "SoundAssured web (free)",
+    "Commercial Acoustics web (free)",
+    "BuzziSpace RT60 iOS (free)",
+    "SoundCalc RT60 (free)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2878",
+   "name": "Gain Structure Calculator",
+   "verdict": "niche-gap",
+   "competitors": [
+    "Sengpielaudio formulas (free web, no app)",
+    "Peak Studios partial tool (free)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2880",
+   "name": "Patch List / Show File Template Tool",
+   "verdict": "free-dominated",
+   "competitors": [
+    "AUDIOPATCH (free, 142 devices)",
+    "Spreadsheet templates"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2882",
+   "name": "Stage Snake / Multicore Channel Planner",
+   "verdict": "free-dominated",
+   "competitors": [
+    "AUDIOPATCH (free, covers multicore/loom planning)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2884",
+   "name": "Production Intercom System Planner",
+   "verdict": "niche-gap",
+   "competitors": [
+    "Clear-Com EHX config software (brand-specific, free)",
+    "No generic independent tool found"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2886",
+   "name": "Power Distro / Circuit Loading Calculator",
+   "verdict": "niche-gap",
+   "competitors": [
+    "Generic electrician apps (ElectriCalc Pro $25)",
+    "No live-events-specific standalone app found"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2888",
+   "name": "Talent / Artist Rider Checklist Tool",
+   "verdict": "saturated",
+   "competitors": [
+    "RiderForge (free/pro)",
+    "Meegle template (free)",
+    "Crescat (subscription)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2890",
+   "name": "FOH Show File / Settings Sheet",
+   "verdict": "weak-moat",
+   "competitors": [
+    "Console manufacturer apps (free, brand-tied)",
+    "Spreadsheet templates"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2892",
+   "name": "Soundcheck Checklist App",
+   "verdict": "saturated",
+   "competitors": [
+    "SoundCheck Live (freemium, gig mgmt)",
+    "Great Church Sound checklist (free)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2894",
+   "name": "Sub Align / Phase Coherence Field Tool",
+   "verdict": "niche-gap",
+   "competitors": [
+    "SubAligner (web-app, subscription, ~30-day trial)",
+    "Sub Align iOS app (App Store, limited info)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2896",
+   "name": "report_card_comment_bank",
+   "verdict": "skip",
+   "competitors": [
+    "SchoolReportWriter (free/sub)",
+    "TPT static docs",
+    "Toddle (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2898",
+   "name": "seating_chart_maker",
+   "verdict": "skip",
+   "competitors": [
+    "ClassSeats (free→$20/yr)",
+    "Seat Maker (freemium)",
+    "All Here ($0.99)",
+    "OpenEduCat (free)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2900",
+   "name": "gradebook_offline",
+   "verdict": "consider",
+   "competitors": [
+    "iDoceo (one-time, iOS)",
+    "iGradePlus (free/sub)",
+    "Teacher Gradebook (Play, free)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2902",
+   "name": "rubric_generator",
+   "verdict": "skip",
+   "competitors": [
+    "Kuraplan (free)",
+    "Knowt (free)",
+    "Brisk (free)",
+    "CoGrader (free)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2904",
+   "name": "reading_level_tracker",
+   "verdict": "consider",
+   "competitors": [
+    "QuickScan (one-time)",
+    "BookBuddy ($4.99 one-time)",
+    "Bookmory (free)",
+    "Beanstack (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2906",
+   "name": "lesson_activity_timer",
+   "verdict": "skip",
+   "competitors": [
+    "ClassDojo timer (free)",
+    "Classroomscreen (free/sub)",
+    "Lekktura (free)",
+    "online-stopwatch (free)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 3,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X2908",
+   "name": "parent_communication_log",
+   "verdict": "skip",
+   "competitors": [
+    "Bloomz (free/$125yr)",
+    "ClassTag ($23.99/yr)",
+    "Seesaw ($180/yr)",
+    "ParentSquare (district)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2910",
+   "name": "attendance_tracker_offline",
+   "verdict": "consider",
+   "competitors": [
+    "Alora (free)",
+    "Jibble (free)",
+    "MyAttendanceTracker (free)",
+    "Attendance Tracker (App Store)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2912",
+   "name": "classroom_jobs_manager",
+   "verdict": "consider",
+   "competitors": [
+    "ClassDojo (free)",
+    "Class123 (free)",
+    "Classroomscreen (free/sub)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one_time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2914",
+   "name": "random_student_picker",
+   "verdict": "skip",
+   "competitors": [
+    "ClassDojo toolkit (free)",
+    "Popsicle Sticks (freemium)",
+    "QuickRandomizer (free)",
+    "ClassPoint (freemium)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2916",
+   "name": "student_group_generator",
+   "verdict": "skip",
+   "competitors": [
+    "ClassDojo groupmaker (free)",
+    "Team Shake ($0.99)",
+    "Teacherstack (free)",
+    "Classroomscreen (free/sub)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2918",
+   "name": "classroom_library_inventory",
+   "verdict": "consider",
+   "competitors": [
+    "Booksource (free)",
+    "ReadOtter (freemium)",
+    "Book Retriever (trial/sub)",
+    "Bookmory (free)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2920",
+   "name": "certificate_generator",
+   "verdict": "skip",
+   "competitors": [
+    "Canva ($119.99/yr)",
+    "Certify'em (freemium)",
+    "Bannerbear (sub)",
+    "Pixazo (free)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 4,
+   "demand": 1
+  },
+  {
+   "id": "X2922",
+   "name": "field_trip_checklist",
+   "verdict": "consider",
+   "competitors": [
+    "TPT static docs (one-time)",
+    "OneTap (free form)",
+    "busHive (district/sub)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2924",
+   "name": "homework_tracker_teacher",
+   "verdict": "skip",
+   "competitors": [
+    "myHomework ($4.99/yr)",
+    "MyStudyLife (free)",
+    "PowerPlanner ($1.99 one-time)",
+    "AFFiNE (free)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2926",
+   "name": "vocabulary_flashcard_generator",
+   "verdict": "skip",
+   "competitors": [
+    "Quizlet ($35.99/yr teacher)",
+    "AnkiMobile ($24.99 one-time)",
+    "Flashcards.world (free)",
+    "Canva (freemium)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2928",
+   "name": "quiz_worksheet_generator",
+   "verdict": "skip",
+   "competitors": [
+    "Kahoot ($9.99/mo)",
+    "ClassPoint ($96/yr)",
+    "Edcafe AI (freemium)",
+    "StudyGlen (free tier)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 4,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X2930",
+   "name": "classroom_rewards_points",
+   "verdict": "skip",
+   "competitors": [
+    "ClassDojo (free)",
+    "LiveSchool (sub)",
+    "RewardSystem.org (free)",
+    "Leaderboarded (free)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2932",
+   "name": "student_portfolio_offline",
+   "verdict": "skip",
+   "competitors": [
+    "Seesaw ($180/yr)",
+    "FreshGrade (free/school)",
+    "ClassDojo (free)",
+    "Book Creator (freemium)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2934",
+   "name": "lesson_objectives_tracker",
+   "verdict": "consider",
+   "competitors": [
+    "Lesson Tracker for Teachers (App Store)",
+    "SmartTeach (offline capable)",
+    "Jotform (free/sub)",
+    "Otus (free)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2936",
+   "name": "speaking_discussion_timer",
+   "verdict": "skip",
+   "competitors": [
+    "Parlay Genie (free/$120yr)",
+    "Stagetimer (flat/sub)",
+    "Classroomscreen (free/sub)",
+    "fullscreencountdowntimer (free)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 4,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2938",
+   "name": "exam_invigilation_checklist",
+   "verdict": "consider",
+   "competitors": [
+    "ExamInvigilator (desktop app)",
+    "Invigilator App (offline sync)",
+    "Optime Exam (district)",
+    "DigiExam (sub)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2940",
+   "name": "behavior_points_tracker",
+   "verdict": "skip",
+   "competitors": [
+    "ClassDojo (free)",
+    "LiveSchool (sub)",
+    "Points-Kids Behavior Tracker (app)",
+    "RewardSystem.org (free)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2942",
+   "name": "iep_lesson_sub_plan",
+   "verdict": "skip",
+   "competitors": [
+    "already_covered"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2944",
+   "name": "SPC control chart log",
+   "verdict": "crowded-sub",
+   "competitors": [
+    "SPC for Excel ($329 perpetual)",
+    "QI Macros ($329)",
+    "Minitab Real-Time SPC (quote)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2946",
+   "name": "First article inspection FAI/AS9102",
+   "verdict": "niche-viable",
+   "competitors": [
+    "QA-CAD ($399/yr perpetual)",
+    "GroundControl (quote)",
+    "Net-Inspect (quote)",
+    "DISCUS (quote)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2948",
+   "name": "Incoming/receiving inspection log",
+   "verdict": "crowded",
+   "competitors": [
+    "SafetyCulture $29/user/mo",
+    "MRPeasy $49/user/mo",
+    "ETQ Reliance (quote)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2950",
+   "name": "Gauge R&R / MSA log",
+   "verdict": "niche-viable",
+   "competitors": [
+    "SigmaZone $99-$295 one-time",
+    "Ellistat (free trial)",
+    "Minitab (sub)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2952",
+   "name": "Calibration management – tools/gauges",
+   "verdict": "crowded",
+   "competitors": [
+    "GageList (free up to 25 gages, $79/mo paid)",
+    "GAGEtrak $29-79/user/mo",
+    "Gaugify (sub)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2954",
+   "name": "Batch record produkcji (EBR)",
+   "verdict": "enterprise-heavy",
+   "competitors": [
+    "Craftybase (sub)",
+    "Digit $100/mo",
+    "MasterControl (enterprise)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2956",
+   "name": "Traceability partii/lot",
+   "verdict": "crowded",
+   "competitors": [
+    "Fishbowl $99-799/mo",
+    "MRPeasy $49/user/mo",
+    "Katana MRP (sub)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2958",
+   "name": "Tool crib / narzędziownia",
+   "verdict": "niche-viable",
+   "competitors": [
+    "InventoryQuick $19-349/mo",
+    "Primasoft $75-245 one-time",
+    "CribMaster (enterprise)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2960",
+   "name": "Konserwacja matrycy/die maintenance log",
+   "verdict": "niche-viable",
+   "competitors": [
+    "MaintainX $45/user/mo",
+    "UpKeep $45/user/mo",
+    "Fabrico (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2962",
+   "name": "Konserwacja formy/mold maintenance log",
+   "verdict": "niche-viable",
+   "competitors": [
+    "MoldTrax $2500/yr",
+    "SmartMOLD (quote)",
+    "Prodsmart $300-500/mo"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2964",
+   "name": "Packaging specification / spec pakowania",
+   "verdict": "enterprise-heavy",
+   "competitors": [
+    "Specright (enterprise quote)",
+    "4Pack (sub)",
+    "Diractor (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2966",
+   "name": "Label specification / spec etykiety",
+   "verdict": "niche-viable",
+   "competitors": [
+    "Specright (bundle)",
+    "NiceLabel (sub)",
+    "Loftware (enterprise)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2968",
+   "name": "Certificate of analysis COA",
+   "verdict": "enterprise-heavy",
+   "competitors": [
+    "MyCOA/Qredible (sub)",
+    "CIKLab (sub)",
+    "MasterControl (enterprise $50k+/yr)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2970",
+   "name": "OEE log",
+   "verdict": "crowded",
+   "competitors": [
+    "Evocon (sub)",
+    "Vorne XL (hardware+sub)",
+    "MachineMetrics (sub)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2972",
+   "name": "Downtime log",
+   "verdict": "crowded",
+   "competitors": [
+    "TeepTrak (sub)",
+    "Evocon (sub)",
+    "Caddis $100/machine/mo"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2974",
+   "name": "Scrap/braki log",
+   "verdict": "niche-viable",
+   "competitors": [
+    "Fabrico (sub)",
+    "Kapture.io (sub)",
+    "QT9 QMS (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2976",
+   "name": "5S audit log",
+   "verdict": "crowded",
+   "competitors": [
+    "SafetyCulture $29/user/mo",
+    "GoAudits $10/user/mo",
+    "Operations1 (sub)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2978",
+   "name": "Kontrola wyjściowa / final inspection log",
+   "verdict": "crowded",
+   "competitors": [
+    "SafetyCulture $29/user/mo",
+    "QAI $12/user/mo",
+    "GoAudits $10/user/mo"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2980",
+   "name": "Control plan / plan kontroli",
+   "verdict": "niche-viable",
+   "competitors": [
+    "AQuA Pro / Omnex (quote)",
+    "AIAG software (sub)",
+    "Discus (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2982",
+   "name": "PPAP dokumentacja",
+   "verdict": "niche-viable",
+   "competitors": [
+    "PPAP.net $5000/yr+",
+    "APQP/PPAP Manager (sub ~$99/user/mo)",
+    "QT9 QMS (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2984",
+   "name": "Kalibracja suwmiarki/mikrometr – log",
+   "verdict": "niche-viable",
+   "competitors": [
+    "GageList free-$79/mo",
+    "mCaliper (quote)",
+    "CalibereLog (sub)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2986",
+   "name": "Próba szczelności / leak test log",
+   "verdict": "niche-viable",
+   "competitors": [
+    "ATEQ software (hardware bundle)",
+    "Agilent Leak Test Data Wizard (bundle)",
+    "Cincinnati Test (hardware)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2988",
+   "name": "Setup sheet CNC",
+   "verdict": "skip-dup",
+   "competitors": [],
+   "n": 0,
+   "free_sub": false,
+   "model": "n/a",
+   "durability": 0,
+   "reach": 0,
+   "demand": 0
+  },
+  {
+   "id": "X2990",
+   "name": "Setup sheet wtrysk",
+   "verdict": "skip-dup",
+   "competitors": [],
+   "n": 0,
+   "free_sub": false,
+   "model": "n/a",
+   "durability": 0,
+   "reach": 0,
+   "demand": 0
   }
  ]
 }
