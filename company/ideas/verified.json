@@ -45793,6 +45793,2885 @@
    "durability": 0,
    "reach": 0,
    "demand": 0
+  },
+  {
+   "id": "X2802_",
+   "name": "Piłka nożna – raport meczowy sędziego",
+   "verdict": "skip",
+   "competitors": [
+    "REFSIX ($6/mo)",
+    "RefTime",
+    "Shingo (free)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2804_",
+   "name": "Koszykówka – protokół sędziego/tabelarz",
+   "verdict": "maybe",
+   "competitors": [
+    "iScore Basketball (free)",
+    "GameSheet",
+    "Scorebook+"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2806_",
+   "name": "Siatkówka – karta wyników sędziego",
+   "verdict": "maybe",
+   "competitors": [
+    "VolleyRef.App (freemium)",
+    "Tech4Sport SmartSheet (free)",
+    "VS Score"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2808_",
+   "name": "Baseball – karta umpire'a",
+   "verdict": "skip",
+   "competitors": [
+    "GameChanger (free)",
+    "Umply",
+    "UmpScorecards (free)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2810_",
+   "name": "Rugby – raport meczowy sędziego",
+   "verdict": "maybe",
+   "competitors": [
+    "RugbyREF (free)",
+    "Rugby Referee Watch (free)",
+    "Scorebook+"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2812_",
+   "name": "Hokej na lodzie – protokół sędziego",
+   "verdict": "maybe",
+   "competitors": [
+    "GameSheet (sub)",
+    "HorizonWebRef ($8/lic)",
+    "TeamLinkt (free)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2814_",
+   "name": "Zawody pływackie – oficjel/timing",
+   "verdict": "skip",
+   "competitors": [
+    "Meet Mobile (free+sub)",
+    "SwimTopia ($5.99/mo)",
+    "Swimnerd (free)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2816_",
+   "name": "Gimnastyka – karta not sędziego",
+   "verdict": "go",
+   "competitors": [
+    "ScoreCat (freemium)",
+    "Elevien (free beta)",
+    "Gym Art (per-athlete)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2818_",
+   "name": "Skoki do wody – karta sędziego",
+   "verdict": "go",
+   "competitors": [
+    "Score My Dive (paid)",
+    "CompetitionSuite (per-perf)",
+    "ScoreJudge (free plan)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2820_",
+   "name": "Łyżwiarstwo figurowe – protokół sędziego",
+   "verdict": "go",
+   "competitors": [
+    "Score Skates (free+IAP)",
+    "JudgeMate (enterprise)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2822_",
+   "name": "Ujeżdżenie/dressage – protokół sędziego",
+   "verdict": "maybe",
+   "competitors": [
+    "DressageCalculator (free web)",
+    "CompeteEasy",
+    "ScoreBoard (Equestrian AU)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2824_",
+   "name": "Wystawy psów – karta sędziego",
+   "verdict": "go",
+   "competitors": [
+    "DogShow Pro (sub)",
+    "CompetitionSuite",
+    "ShowPoints"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2826_",
+   "name": "Wspinaczka – route setter/sędzia zawodów",
+   "verdict": "maybe",
+   "competitors": [
+    "FingerComps ($20/event)",
+    "SteepScores",
+    "LiveClimbComp"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2828_",
+   "name": "Timing/chronometraż – oficjel wyników",
+   "verdict": "skip",
+   "competitors": [
+    "Webscorer ($50/yr)",
+    "RaceClocker ($59/yr)",
+    "ONETIME (per-athlete)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2830_",
+   "name": "Zapasy – karta sędziego",
+   "verdict": "maybe",
+   "competitors": [
+    "MatBoss (free stats)",
+    "LevelChanger (sub)",
+    "Wrestling Scoreboard (free)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2832_",
+   "name": "Judo/karate – tablica sędziego",
+   "verdict": "go",
+   "competitors": [
+    "Scoring Wi-Fi PRO (enterprise)",
+    "Kihapp (sub)",
+    "Karate Scoring app (free)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2834_",
+   "name": "Szermierka – protokół sędziego",
+   "verdict": "go",
+   "competitors": [
+    "Fencing Scoreboard (free app)",
+    "Calibur (hardware+free app)",
+    "EnPointe"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2836_",
+   "name": "Lekkoatletyka – karta sędziego/oficjela",
+   "verdict": "maybe",
+   "competitors": [
+    "MeetPro (low-cost sub)",
+    "HY-TEK Meet Manager (sub)",
+    "Track & Field Scorebook"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2838_",
+   "name": "Tenis – karta sędziego/umpire'a",
+   "verdict": "maybe",
+   "competitors": [
+    "Tennis Umpire App ($1.99/mo chair)",
+    "Referi",
+    "tennisTOUCH (free)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2840_",
+   "name": "Boks – punktacja sędziego",
+   "verdict": "maybe",
+   "competitors": [
+    "Combatscores (free)",
+    "JudgePad",
+    "Judgecard"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2842_",
+   "name": "Delegat meczowy – raport",
+   "verdict": "go",
+   "competitors": [
+    "REFSIX Associations ($6/mo)",
+    "OneReferee (sub)",
+    "SkillShark (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 3
+  },
+  {
+   "id": "X2844_",
+   "name": "Obserwator sędziów – ocena/raport",
+   "verdict": "go",
+   "competitors": [
+    "TeamGenius (sub)",
+    "SkillShark (sub)",
+    "REFSIX Observer (bundled)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 3
+  },
+  {
+   "id": "X2846_",
+   "name": "aircraft-AD-SB-tracking",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Airworthy/TBX",
+    "Aviatize",
+    "Veryon FlightDocs",
+    "myairops",
+    "SAM CMMS",
+    "OxMaint",
+    "WhenYouFly",
+    "LogTen Pro"
+   ],
+   "n": 8,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2848_",
+   "name": "parachute-rigger-pack-log",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "StarLog (physical logbook only)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2850_",
+   "name": "boat-engine-hours-tracker",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Boating Suite",
+    "LookOver",
+    "Boat Butler",
+    "YachtWave",
+    "BoatMatey",
+    "TheBoatApp",
+    "Seahub"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2852_",
+   "name": "yacht-sailing-logbook",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "TheBoatApp",
+    "Logbook App (2K Yachting)",
+    "WaveTrax",
+    "Ship's Log Book for Captains",
+    "Logbook Suite",
+    "ld-log",
+    "Nebo",
+    "iRegatta",
+    "Navionics"
+   ],
+   "n": 9,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X2854_",
+   "name": "dive-boat-checklist",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "AquaSketch Dive Safety Checklist",
+    "Scuba Gear Checklist (App Store)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2856_",
+   "name": "boat-stability-ballast-calculator",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Stability Trim (free Android)",
+    "ShipSafe (TheNavalArch)",
+    "FloatSoft",
+    "GHS/GLM"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2858_",
+   "name": "commercial-fishing-vessel-log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "CatchLog (AFMA-approved)",
+    "VESL (NOAA eTripReport)",
+    "Advantive CatchManager"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2860_",
+   "name": "lobster-crab-pot-register",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "Crab and Shrimp Pot Tracker (App Store)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2862_",
+   "name": "charter-boat-log",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Booking Manager",
+    "Seazone",
+    "CaptainBook",
+    "Roverd",
+    "FareHarbor",
+    "Starboard Suite",
+    "Dockwa"
+   ],
+   "n": 7,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2864_",
+   "name": "sailmaker-measurements-tools",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "SailMaker World app (free)",
+    "SailCut CAD (free/open-source)",
+    "SailTool (freeware)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2866_",
+   "name": "marine-rigging-inspection",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "RigCheck – Rigging Inspector (App Store)",
+    "Marine Inspect",
+    "InspectX Pro ($42/report)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2868_",
+   "name": "railway-track-inspection",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Railroad Software trackAsset",
+    "RailWorks Insight",
+    "Field Eagle",
+    "RailPod",
+    "ENSCO TrackIT",
+    "MaxTrax"
+   ],
+   "n": 6,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 9,
+   "reach": 2,
+   "demand": 3
+  },
+  {
+   "id": "X2870_",
+   "name": "railway-signaling-maintenance",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "TekTracking SITE",
+    "Railroad Software trackAsset",
+    "Inspectly360",
+    "TIRIS (Thales)",
+    "RailWorks Insight"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 9,
+   "reach": 2,
+   "demand": 3
+  },
+  {
+   "id": "X2872_",
+   "name": "locomotive-maintenance-log",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "ZEDAS Asset",
+    "CloudMoyo LMS",
+    "eeedo Rolling Stock",
+    "ProgressRail PR Uptime",
+    "Railinc LMIS"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 9,
+   "reach": 2,
+   "demand": 3
+  },
+  {
+   "id": "X2874_",
+   "name": "ferry-passenger-vessel-checklist",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Marine Inspection App",
+    "Ocean Time Marine SMS Templates",
+    "AllRide Apps"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2876_",
+   "name": "marine-rescue-lifeguard-ops",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [
+    "RNLI Pager (unofficial, free, UK-only)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2878_",
+   "name": "lighthouse-inspection-maintenance",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [],
+   "n": 0,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 4,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X2880_",
+   "name": "marina-berth-slip-management",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Dockwa",
+    "DockMaster",
+    "Molo",
+    "Marinapy",
+    "Storable Marine",
+    "RMS Cloud",
+    "Marina-App",
+    "Dockmaster"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2882_",
+   "name": "canal-lock-log",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [],
+   "n": 0,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 4,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X2884_",
+   "name": "outboard-motor-rudder-service-log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Boating Suite",
+    "BoatMatey",
+    "Seahub",
+    "Orderry (B2B)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2886_",
+   "name": "CSC-container-inspection",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "eAuditor",
+    "Marine Inspection App",
+    "flowdit (template-based)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2888_",
+   "name": "maritime-cargo-stowage-lashing-calculator",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "TheNavalArch Lashing Design App (Excel)",
+    "Videck (online sub)",
+    "DNV StowLash3D",
+    "DNV Route-Specific Cargo Calculator",
+    "Bureau Veritas VeriSTAR Lashing"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2890_",
+   "name": "EMS run sheet / karta wyjazdu",
+   "verdict": "skip",
+   "competitors": [
+    "ESO EMS",
+    "ImageTrend",
+    "Zoll RescueNet",
+    "PSTrax"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2892_",
+   "name": "SCBA aparat oddechowy - przegląd",
+   "verdict": "maybe",
+   "competitors": [
+    "PSTrax",
+    "InspectNTrack",
+    "FirehouseMgr"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2894_",
+   "name": "Wóz strażacki - checklist dzienny",
+   "verdict": "skip",
+   "competitors": [
+    "PSTrax",
+    "Vector Check It",
+    "FleetChek",
+    "APX Data",
+    "Fire Station+"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 4,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2896_",
+   "name": "Hydrant - flow test log",
+   "verdict": "maybe",
+   "competitors": [
+    "FlowTest Pro ($30/mo)",
+    "HoseMonster ($39/report)",
+    "ESO Hydrants",
+    "FireHydrantManager"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2898_",
+   "name": "Węże pożarnicze - testowanie / rejestr",
+   "verdict": "maybe",
+   "competitors": [
+    "InspectNTrack",
+    "PSTrax",
+    "SafetyCulture",
+    "HoseMonster"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2900_",
+   "name": "Drabiny strażackie - test inspekcja",
+   "verdict": "go",
+   "competitors": [
+    "PSTrax (generic)",
+    "SafetyCulture (generic)",
+    "UL Solutions (usługa)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2902_",
+   "name": "Ubranie bojowe / turnout gear - inspekcja NFPA 1851",
+   "verdict": "maybe",
+   "competitors": [
+    "TurnoutManagement.com",
+    "Globe CARES (MSA)",
+    "Lion TotalCare",
+    "FireTrack"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2904_",
+   "name": "Ratownik wodny - log dyżuru / inspekcja sprzętu",
+   "verdict": "go",
+   "competitors": [
+    "DigiQuatics (sub)",
+    "HydroApps (sub)",
+    "SafetyCulture (generic)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2906_",
+   "name": "Służba zdrowia na evencie - log medyczny",
+   "verdict": "go",
+   "competitors": [
+    "SafetyCulture (generic)",
+    "iProtectU",
+    "ESO (enterprise)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2908_",
+   "name": "Kontrola tłumu - inspekcja event safety",
+   "verdict": "maybe",
+   "competitors": [
+    "SafetyCulture",
+    "OnePlan",
+    "Zoho Backstage",
+    "BasinCheck"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2910_",
+   "name": "Kierowanie ruchem / traffic control - log flaggera",
+   "verdict": "maybe",
+   "competitors": [
+    "FlaggerLink ($7-10/mo per flagger)",
+    "SafetyCulture",
+    "FieldProMax"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2912_",
+   "name": "Punkt pierwszej pomocy - event first aid log",
+   "verdict": "go",
+   "competitors": [
+    "SafetyCulture (generic)",
+    "iProtectU",
+    "Clever First Aid"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2914_",
+   "name": "Nurek ratowniczy - log zanurzenia i sprzętu",
+   "verdict": "go",
+   "competitors": [
+    "PADI Dive Log (free/consumer)",
+    "LogTRIP PRO (€4.99/mo)",
+    "MacDive ($49 one-time)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2916_",
+   "name": "Pojazd uprzywilejowany - przegląd techniczny",
+   "verdict": "skip",
+   "competitors": [
+    "Fleetio ($5/veh/mo)",
+    "SafetyCulture",
+    "Driveroo",
+    "Motive",
+    "Connecteam"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 4,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2918_",
+   "name": "Syrena / system alarmowania - test i log",
+   "verdict": "go",
+   "competitors": [
+    "Rapid Warn (municipal, ~$14k)",
+    "SafetyCulture (generic)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 10,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2920_",
+   "name": "Sprzęt ratowniczy - rejestr i ewidencja",
+   "verdict": "maybe",
+   "competitors": [
+    "D4H Equipment",
+    "PSTrax",
+    "First Due",
+    "Fire Rescue Systems"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2922_",
+   "name": "Nosze / deska ortopedyczna - przegląd",
+   "verdict": "go",
+   "competitors": [
+    "SafetyCulture (generic template only)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 10,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2924_",
+   "name": "Leki ratunkowe - rejestr / controlled substances log",
+   "verdict": "maybe",
+   "competitors": [
+    "LogRx (no startup cost)",
+    "NarcTrack",
+    "TraxWorx/PhaRmLogs"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2926_",
+   "name": "OSP - sprzęt ewidencja (volunteer fire dept)",
+   "verdict": "maybe",
+   "competitors": [
+    "PSTrax",
+    "ESO",
+    "Firehouse Software",
+    "Responserack ($1.50/member/mo)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2928_",
+   "name": "Pilarka / sprzęt techniczny ratownictwa - przegląd",
+   "verdict": "go",
+   "competitors": [
+    "SafetyCulture (generic)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 10,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2930_",
+   "name": "Maska / filtr respirator - test i inspekcja",
+   "verdict": "maybe",
+   "competitors": [
+    "VelocityEHS",
+    "Ecesis",
+    "SafetyCulture (free template)",
+    "RespiTrak"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2932_",
+   "name": "AED defibrylator - inspekcja (duplikat - pomiń)",
+   "verdict": "dup-skip",
+   "competitors": [],
+   "n": 0,
+   "free_sub": false,
+   "model": "n/a",
+   "durability": 0,
+   "reach": 0,
+   "demand": 0
+  },
+  {
+   "id": "X2934_",
+   "name": "stacja-trafo-przeglad",
+   "verdict": "niche-viable",
+   "competitors": [
+    "Inspectly360",
+    "PZM App",
+    "SafetyCulture"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2936_",
+   "name": "transformator-proby",
+   "verdict": "niche-viable",
+   "competitors": [
+    "TestGuy Pro",
+    "Megger RTMS",
+    "Doble Protection Suite"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2938_",
+   "name": "slup-energetyczny-inspekcja",
+   "verdict": "crowded",
+   "competitors": [
+    "Fulcrum",
+    "Speqtiv",
+    "Gruntify",
+    "OneShotPro.ai"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2940_",
+   "name": "odczyt-licznika",
+   "verdict": "mature",
+   "competitors": [
+    "EKM Metering",
+    "Anyline",
+    "MyRead Pro",
+    "Utility Reader"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2942_",
+   "name": "wykrywanie-wyciekow-gazu-survey",
+   "verdict": "niche-viable",
+   "competitors": [
+    "Fulcrum Gas Leak",
+    "Esri Gas Leak Solution",
+    "KloudGin"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2944_",
+   "name": "patrol-gazociagu",
+   "verdict": "niche-viable",
+   "competitors": [
+    "BasinCheck",
+    "Floodlight",
+    "Inspectionstrack"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2946_",
+   "name": "ochrona-katodowa-pomiar",
+   "verdict": "niche-viable",
+   "competitors": [
+    "CCPTools",
+    "PCS Field Data Collector",
+    "HSC Cloud"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2948_",
+   "name": "latarnia-uliczna-serwis",
+   "verdict": "niche-viable",
+   "competitors": [
+    "DITRA Solutions",
+    "Tvilight",
+    "WiseBeam"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2950_",
+   "name": "ladowarka-ev-konserwacja",
+   "verdict": "crowded",
+   "competitors": [
+    "ChargePoint",
+    "EV Connect",
+    "SafetyCulture"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2952_",
+   "name": "magazyn-energii-bess-test",
+   "verdict": "niche-viable",
+   "competitors": [
+    "Sinovoltaics BESSential",
+    "Intertek CEA",
+    "TUV SUD"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2954_",
+   "name": "uziemienie-pomiar",
+   "verdict": "niche-viable",
+   "competitors": [
+    "SafeGrid Earthing",
+    "CDEGS",
+    "XGSLab"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2956_",
+   "name": "termowizja-elektryczna",
+   "verdict": "crowded",
+   "competitors": [
+    "FLIR",
+    "Fluke",
+    "InfraTec",
+    "TiReporter"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2958_",
+   "name": "arc-flash-etykieta-study",
+   "verdict": "niche-viable",
+   "competitors": [
+    "ArcAdvisor",
+    "ETAP",
+    "SKM Systems"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2960_",
+   "name": "rozdzielnica-przeglad",
+   "verdict": "niche-viable",
+   "competitors": [
+    "ABB SWICOM",
+    "Array Build",
+    "SafetyCulture"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2962_",
+   "name": "kabel-sn-proby",
+   "verdict": "niche-viable",
+   "competitors": [
+    "TestGuy Pro",
+    "Megger TDM45",
+    "UL Solutions"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2964_",
+   "name": "siec-wod-kan-przeglad",
+   "verdict": "crowded",
+   "competitors": [
+    "ITpipes",
+    "Pipelogix",
+    "PipeTech",
+    "POSM"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2966_",
+   "name": "przepompownia-inspekcja",
+   "verdict": "niche-viable",
+   "competitors": [
+    "BasinCheck",
+    "MaintainX",
+    "GoAudits"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2968_",
+   "name": "hydrofornia-inspekcja",
+   "verdict": "niche-viable",
+   "competitors": [
+    "SafetyCulture",
+    "MaintainX"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2970_",
+   "name": "gazomierz-legalizacja",
+   "verdict": "niche-viable",
+   "competitors": [
+    "Fieldman",
+    "GageList",
+    "Intertek Metering"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2972_",
+   "name": "cieplociag-przeglad",
+   "verdict": "niche-viable",
+   "competitors": [
+    "Fluidit Heat",
+    "IQGeo",
+    "Pipelogix"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2974_",
+   "name": "oze-inwerter-serwis",
+   "verdict": "crowded",
+   "competitors": [
+    "SolarEdge Monitoring",
+    "Scoop Solar",
+    "OxMaint",
+    "FieldProxy"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2976_",
+   "name": "zabezpieczenia-przekaznikowe-test",
+   "verdict": "niche-viable",
+   "competitors": [
+    "OMICRON RelaySimTest",
+    "Doble Protection Suite",
+    "Megger RTMS"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2978_",
+   "name": "Hair Color Cost / Dye Usage Calculator",
+   "verdict": "crowded",
+   "competitors": [
+    "SalonScale",
+    "MyColorCalculator",
+    "Vish",
+    "Holycalc",
+    "Goldie",
+    "Timely"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2980_",
+   "name": "Tattoo Pricing Calculator",
+   "verdict": "pass",
+   "competitors": [
+    "InkStudioAI",
+    "Inkjin",
+    "BlackInkAI",
+    "TattooStudioPro",
+    "AIforTattoo",
+    "TattoosWizard"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "ads",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2982_",
+   "name": "Lash Extension Pricing / Cost-Per-Service Calculator",
+   "verdict": "weak",
+   "competitors": [
+    "TuneHustle (generic)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2984_",
+   "name": "Booth Rent / Chair Rental Settlement Calculator",
+   "verdict": "consider",
+   "competitors": [
+    "HairSalonPro booth-rent calc",
+    "MeetSpa",
+    "SalonSpconnection calc"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2986_",
+   "name": "Stylist Commission Split Calculator",
+   "verdict": "crowded",
+   "competitors": [
+    "Appointica",
+    "Calculator Academy",
+    "ProjectionHub",
+    "ThrivingStylist",
+    "Trafft"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "ads",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2988_",
+   "name": "Retail Product Markup / Margin Calculator (Salon)",
+   "verdict": "weak",
+   "competitors": [
+    "SalonScale",
+    "OmniCalculator (generic)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "ads",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2990_",
+   "name": "Cosmetic / Spa Treatment Cost-Per-Service Calculator",
+   "verdict": "consider",
+   "competitors": [
+    "CosmeticCalculators.com",
+    "SmartSpaBusiness"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2992",
+   "name": "Salon Package Pricing Calculator",
+   "verdict": "crowded",
+   "competitors": [
+    "Goldie",
+    "Timely",
+    "Kitomba",
+    "KwickStudio",
+    "Booksy PriceLab",
+    "Unwritten"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2994",
+   "name": "No-Show / Deposit & Cancellation Fee Calculator",
+   "verdict": "consider",
+   "competitors": [
+    "Lutily no-show cost calc"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2996",
+   "name": "Team Tip Pooling / Split Calculator (Salon)",
+   "verdict": "crowded",
+   "competitors": [
+    "eTip",
+    "Connecteam",
+    "KayaPush",
+    "SalonTipCalculator.com",
+    "Zenoti"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "ads",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2998",
+   "name": "Salon Product Inventory Reorder Calculator",
+   "verdict": "crowded",
+   "competitors": [
+    "SalonScale",
+    "Vish",
+    "GlossGenius",
+    "SalonBiz",
+    "Phorest",
+    "DaySmart"
+   ],
+   "n": 6,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3000",
+   "name": "Cost Per Service / Product Usage Calculator",
+   "verdict": "crowded",
+   "competitors": [
+    "SalonScale",
+    "Goldie",
+    "Kitomba",
+    "TuneHustle",
+    "Etsy sheets"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X3002",
+   "name": "Chair / Service Profitability Calculator",
+   "verdict": "consider",
+   "competitors": [
+    "Booksy EarningsCalc",
+    "ProjectionHub",
+    "MySalonSuite ProfitCalc"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3004",
+   "name": "Service Menu Pricing & Margin Calculator",
+   "verdict": "crowded",
+   "competitors": [
+    "Goldie",
+    "Booksy PriceLab",
+    "Timely",
+    "KwickStudio",
+    "SalonScale"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X3006",
+   "name": "Gel / Acrylic Nail Supply Cost Per Service Calculator",
+   "verdict": "consider",
+   "competitors": [
+    "TuneHustle",
+    "CordozaNailSupply calc",
+    "NailOrderPro"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3008",
+   "name": "Hourly Rate Calculator (Beauty / Stylist)",
+   "verdict": "crowded",
+   "competitors": [
+    "Harvest stylist calc",
+    "SalonScale blog tool",
+    "CalculatorAdam",
+    "Goldie"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "ads",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3010",
+   "name": "Booth / Suite Rental Settlement & Reconciliation Calculator",
+   "verdict": "consider",
+   "competitors": [
+    "Rosy booth rental SW",
+    "Etsy spreadsheet"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3012",
+   "name": "Client Loyalty Discount / ROI Calculator",
+   "verdict": "weak",
+   "competitors": [
+    "Loytu",
+    "Loyal-n-Save"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3014",
+   "name": "Receptionist / Front-Desk Commission Calculator",
+   "verdict": "niche-ok",
+   "competitors": [
+    "Mangomint commission module"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3016",
+   "name": "Staff Training Cost & ROI Recovery Calculator",
+   "verdict": "weak",
+   "competitors": [
+    "DaySmart ROI calc",
+    "Bella Booking ROI calc"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3018",
+   "name": "Hair Dye Inventory Reorder / Order Quantity Calculator",
+   "verdict": "crowded",
+   "competitors": [
+    "SalonScale",
+    "Vish",
+    "Zolmi",
+    "SalonBiz"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3020",
+   "name": "Color Formula Mixing Proportions / Ratio Calculator",
+   "verdict": "pass",
+   "competitors": [
+    "MyColorCalculator",
+    "SalonScale formula",
+    "Vish formula"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "ads",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3022",
+   "name": "wycena-gk-drywall",
+   "verdict": "niche-viable",
+   "competitors": [
+    "Drywall Calculator Pro",
+    "Drywall Pro Quote & Estimate",
+    "Drywall Room Estimator",
+    "Drywall Quote Estimate Pro",
+    "EstimateIn10"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X3024",
+   "name": "wycena-malowania",
+   "verdict": "niche-viable",
+   "competitors": [
+    "The Paint Estimator ($129 one-time)",
+    "Painting Contractor Estimates (iOS no-sub)",
+    "PaintPro Painting Estimates",
+    "PaintForce Painting Estimator",
+    "Paint Quote Now!"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X3026",
+   "name": "wycena-betonu",
+   "verdict": "crowded",
+   "competitors": [
+    "Concrete Calculator Plus",
+    "Ozinga Concrete Calculator",
+    "Sakrete App",
+    "Concrete Calc Pro",
+    "Concrete Calculator All In One"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X3028",
+   "name": "wycena-ciesielki-framing",
+   "verdict": "niche-viable",
+   "competitors": [
+    "Buildxact Framing",
+    "QuickFrame Systems",
+    "STACK Framing Takeoff"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3030",
+   "name": "wycena-dachu",
+   "verdict": "crowded",
+   "competitors": [
+    "iRoofing ($149/mo)",
+    "RoofSnap ($105/mo)",
+    "Roofr",
+    "EagleView",
+    "LocalProBook"
+   ],
+   "n": 6,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X3032",
+   "name": "wycena-podlog",
+   "verdict": "niche-viable",
+   "competitors": [
+    "MeasureSquare Mobile ($49/mo sub)",
+    "Floor Covering (iOS)",
+    "STACK Flooring",
+    "Buildxact Flooring"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3034",
+   "name": "wycena-elektryki",
+   "verdict": "niche-viable",
+   "competitors": [
+    "Best Bid Estimating (one-time)",
+    "Estimate Electrical (App Store)",
+    "Joist Electrical",
+    "EstimateIn10 Electrical"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3036",
+   "name": "wycena-hydrauliki",
+   "verdict": "niche-viable",
+   "competitors": [
+    "Estimate Plumbing (App Store, one-time IAP)",
+    "Plumbing Formulator ($2.99)",
+    "ServiceTitan Plumbing (sub)",
+    "EstimateIn10 Plumbing"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3038",
+   "name": "wycena-hvac",
+   "verdict": "crowded",
+   "competitors": [
+    "Carmel Software HVAC Load Plus (one-time iOS)",
+    "HVAC Calculator Load Pro",
+    "HVAC Load Calculator Manual J",
+    "Fablink HVAC",
+    "ServiceTitan HVAC"
+   ],
+   "n": 7,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3040",
+   "name": "wycena-ogrodu-landscaping",
+   "verdict": "crowded",
+   "competitors": [
+    "Houzz Pro Landscape (sub)",
+    "Groundplan (sub)",
+    "Bolster Landscaping (sub)",
+    "STACK Landscaping (sub)",
+    "QuoteIQ Landscaping"
+   ],
+   "n": 6,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3042",
+   "name": "wycena-ogrodzenia",
+   "verdict": "niche-viable",
+   "competitors": [
+    "Fence Calculator Estimator (App Store free+IAP)",
+    "Fence Calculator Pro (iOS)",
+    "Omega II Fence Calculator",
+    "FencePro Wood Picket Calc",
+    "Fence Genius Measure"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3044",
+   "name": "wycena-tarasu-deck",
+   "verdict": "niche-viable",
+   "competitors": [
+    "FieldRate ($49/mo)",
+    "RedX Decks ($7/mo)",
+    "Houzz Pro Deck (sub)",
+    "JobNimbus Deck (sub)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3046",
+   "name": "wycena-plytek",
+   "verdict": "niche-viable",
+   "competitors": [
+    "TilePlan Flooring Calculator (one-time buy-once)",
+    "Tile Calculator Flooring Calc (iOS)",
+    "Tiles Calculator Floor & Wall (iOS)",
+    "MeasureSquare (sub)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X3048",
+   "name": "wycena-murarki",
+   "verdict": "niche-viable",
+   "competitors": [
+    "STACK Masonry (sub)",
+    "TradeTek Masonry (sub)",
+    "ConGenius Masonry (sub)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X3050",
+   "name": "wycena-wykopow",
+   "verdict": "niche-viable",
+   "competitors": [
+    "Moasure (iOS measure+calc)",
+    "ArcSite Excavation (sub)",
+    "EarthWorks Software (desktop)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X3052",
+   "name": "wycena-rozbiórki",
+   "verdict": "niche-viable",
+   "competitors": [
+    "Estimate Rocket Demolition (sub)",
+    "Takeoff Live Demolition (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3054",
+   "name": "wycena-izolacji",
+   "verdict": "niche-viable",
+   "competitors": [
+    "Knauf Pro+ Insulation Calculator (free)",
+    "Insulation R-Value Calculator (App Store)",
+    "Thermal Insulation Calculator (App Store)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X3056",
+   "name": "wycena-elewacji-siding",
+   "verdict": "niche-viable",
+   "competitors": [
+    "Houzz Pro Siding Estimator (sub)",
+    "STACK Stucco/Siding (sub)",
+    "Exayard Siding (sub)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3058",
+   "name": "wycena-bram-okien",
+   "verdict": "niche-viable",
+   "competitors": [
+    "WindSketch Window & Door Estimating (sub)",
+    "Houzz Pro Windows (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3060",
+   "name": "wycena-tynkow",
+   "verdict": "niche-viable",
+   "competitors": [
+    "LimeWorks.us Stucco Calculator (free web)",
+    "Goldenseal Drywall/Plaster (desktop one-time)",
+    "ConX Rendering & Plastering (sub)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3062",
+   "name": "wycena-kostki-brukowej",
+   "verdict": "niche-viable",
+   "competitors": [
+    "Patio Calculator Plus (App Store)",
+    "Mutual Materials Project Estimator (free web)",
+    "Unilock Speed-Calc (free web)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3064",
+   "name": "wycena-studni-szamba",
+   "verdict": "white-space",
+   "competitors": [
+    "SepticEdge (desktop design software)",
+    "SepticCalculator.com (free web)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "free",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3066",
+   "name": "lawn-care-estimate-route",
+   "verdict": "crowded",
+   "competitors": [
+    "Jobber",
+    "Yardbook",
+    "RealGreen",
+    "SatQuote",
+    "QuoteIQ",
+    "FieldCamp"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X3068",
+   "name": "arborist-tree-estimate",
+   "verdict": "viable",
+   "competitors": [
+    "ArboStar",
+    "Arborgold",
+    "SingleOps",
+    "Fieldified"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3070",
+   "name": "snow-removal-estimate",
+   "verdict": "niche-ok",
+   "competitors": [
+    "QuoteIQ",
+    "Aspire",
+    "LMN",
+    "SnowBidder"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 5,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3072",
+   "name": "irrigation-install-estimate",
+   "verdict": "viable",
+   "competitors": [
+    "Jobber",
+    "FieldCentral",
+    "QuoteIQ",
+    "IRRICAD"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3074",
+   "name": "hardscape-paving-estimate",
+   "verdict": "viable",
+   "competitors": [
+    "ScopeTakeoff",
+    "GreenMargins",
+    "Bolster",
+    "ArcSite"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3076",
+   "name": "pond-water-feature-build",
+   "verdict": "open",
+   "competitors": [
+    "Structure Studios",
+    "GoodEarthCalc"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3078",
+   "name": "fence-install-estimate",
+   "verdict": "viable",
+   "competitors": [
+    "FenceCloud",
+    "QuoteIQ",
+    "ArcSite",
+    "Bolster",
+    "ProDBX"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3080",
+   "name": "land-clearing-estimate",
+   "verdict": "open",
+   "competitors": [
+    "Jobber",
+    "QuoteIQ",
+    "Yardbook"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3082",
+   "name": "mobile-welder-estimate",
+   "verdict": "open",
+   "competitors": [
+    "PWS Welding App",
+    "Tradify"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3084",
+   "name": "mobile-mechanic-jobs",
+   "verdict": "viable",
+   "competitors": [
+    "Trackara Pro",
+    "ARI App",
+    "Shopmonkey"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3086",
+   "name": "pressure-washing-estimate",
+   "verdict": "crowded",
+   "competitors": [
+    "QuoteIQ",
+    "Jobber",
+    "Housecall Pro",
+    "ResponsiBid",
+    "WorkQuote",
+    "CrewNest"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X3088",
+   "name": "gutter-cleaning-estimate",
+   "verdict": "viable",
+   "competitors": [
+    "QuoteIQ",
+    "Jobber",
+    "Tradify",
+    "ArcSite"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3090",
+   "name": "xmas-lights-install-estimate",
+   "verdict": "open",
+   "competitors": [
+    "ChristmasLightsPro Estimator",
+    "Strandr"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3092",
+   "name": "carpet-cleaning-estimate",
+   "verdict": "crowded",
+   "competitors": [
+    "ServiceMonster",
+    "QuoteIQ",
+    "Jobber",
+    "CleanCalculator",
+    "Vonigo"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3094",
+   "name": "exterior-facade-washing",
+   "verdict": "viable",
+   "competitors": [
+    "QuoteIQ",
+    "WorkQuote",
+    "Housecall Pro"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3096",
+   "name": "exterior-painting-estimate",
+   "verdict": "viable",
+   "competitors": [
+    "PaintScout",
+    "ScopeTakeoff",
+    "Joist",
+    "SimplyWise"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X3098",
+   "name": "awning-install-estimate",
+   "verdict": "open",
+   "competitors": [
+    "AwningComposer",
+    "QuoteIQ",
+    "SystemWise"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3100",
+   "name": "solar-pv-install-estimate",
+   "verdict": "crowded",
+   "competitors": [
+    "Aurora Solar",
+    "OpenSolar",
+    "EasySolar",
+    "HelioScope",
+    "Solargraf"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X3102",
+   "name": "garage-door-service-estimate",
+   "verdict": "viable",
+   "competitors": [
+    "CostHammer",
+    "Orcatec",
+    "Jobber",
+    "QuoteIQ"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3104",
+   "name": "post-construction-cleanup-estimate",
+   "verdict": "open",
+   "competitors": [
+    "Ganarpro",
+    "JanBid"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3106",
+   "name": "window-cleaning-route",
+   "verdict": "viable",
+   "competitors": [
+    "WorkQuote",
+    "Jobber",
+    "QuoteIQ",
+    "BusinessGenie"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3108",
+   "name": "hvac-ac-install-estimate",
+   "verdict": "crowded",
+   "competitors": [
+    "Jobber",
+    "Housecall Pro",
+    "Sera",
+    "ServiceTitan",
+    "BuildOps"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X3110",
+   "name": "gold panning / gold panning session log",
+   "verdict": "maybe",
+   "competitors": [
+    "Gold Panning! (Apptopia iOS)",
+    "generic note apps"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3112",
+   "name": "gold prospecting field log",
+   "verdict": "maybe",
+   "competitors": [
+    "Gold Tracker (price tracking, not prospecting)",
+    "generic GPS apps"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3114",
+   "name": "dowsing / różdżkarstwo session log",
+   "verdict": "skip",
+   "competitors": [
+    "AR Dowsing Rod (free, v1.0, Yuichiro Endo)"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "free",
+   "durability": 3,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X3116",
+   "name": "letterboxing clue & find tracker",
+   "verdict": "skip",
+   "competitors": [
+    "Clue Tracker for Letterboxing ($4.99, Pearl Crescent)",
+    "Atlas Quest (free web)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3118",
+   "name": "geodetic benchmark / survey mark hunter log",
+   "verdict": "maybe",
+   "competitors": [
+    "Benchmark Hunter ($29, iOS)",
+    "FindAControl (Android)",
+    "findbenchmarks.com (free web)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3120",
+   "name": "shortwave listening SWL radio log",
+   "verdict": "maybe",
+   "competitors": [
+    "SWLog Standard (free) / Plus (sub, 30d trial)",
+    "KB6IBB SWL Logger (free, SourceForge)",
+    "DXtreme $89.95"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3122",
+   "name": "amateur satellite pass tracker & log",
+   "verdict": "skip",
+   "competitors": [
+    "Look4Sat (free)",
+    "Orbitron (free)",
+    "GoSatWatch ($9.99)",
+    "ISS Detector ($2.99)",
+    "Ham Radio Deluxe (bundled)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3124",
+   "name": "meteor observation / shower log",
+   "verdict": "skip",
+   "competitors": [
+    "SkySafari (freemium)",
+    "Sky Tonight (free)",
+    "Stellarium Mobile Plus",
+    "Nightshift"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3126",
+   "name": "variable star brightness measurement log",
+   "verdict": "build",
+   "competitors": [
+    "AAVSO WebObs (free web)",
+    "Pleione (free desktop)",
+    "CHARA (free desktop)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3128",
+   "name": "occultation timing / zakrycie gwiazd log",
+   "verdict": "build",
+   "competitors": [
+    "OccultWatcher (free, Windows)",
+    "Occult (free, Windows)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 8,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X3130",
+   "name": "sundial design & project log",
+   "verdict": "maybe",
+   "competitors": [
+    "Shadows Pro (freemium, license req.)",
+    "Blocklayer (free web)",
+    "SunEarthTools (free web)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3132",
+   "name": "kite aerial photography (KAP) session log",
+   "verdict": "build",
+   "competitors": [
+    "KAP by Pierre Lesage (old iOS, defunct)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X3134",
+   "name": "slot car tuning & lap time log",
+   "verdict": "skip",
+   "competitors": [
+    "SmartRace ($10.99 iOS)",
+    "FasLaps (free trial)",
+    "SlotTrak Free",
+    "Open Lap (free)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3136",
+   "name": "pinewood derby weight & balance calculator log",
+   "verdict": "maybe",
+   "competitors": [
+    "PineCar Calculator (Amazon Appstore, low price)",
+    "CG DIY Instructables"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3138",
+   "name": "BBQ competition prep & scoring tracker",
+   "verdict": "skip",
+   "competitors": [
+    "BBQ Sheriff (free + sub for >5 teams)",
+    "Cookoff.dev (free, unlimited)",
+    "World Jr BBQ League app"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3140",
+   "name": "chili cookoff judge scoring app",
+   "verdict": "skip",
+   "competitors": [
+    "Cookoff.dev (free)",
+    "Chili Cook-Off Score Board (~$1, iOS)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 4,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X3142",
+   "name": "fishing tournament competition log",
+   "verdict": "skip",
+   "competitors": [
+    "Weighfish (free)",
+    "Reel Time (free)",
+    "CatchStat",
+    "FishDonkey",
+    "Fishing Chaos (sub)",
+    "Log.Fish"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X3144",
+   "name": "model steam engine build & run log",
+   "verdict": "build",
+   "competitors": [
+    "hobby-machinist.com (forum only)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X3146",
+   "name": "clock & watch repair hobby log",
+   "verdict": "maybe",
+   "competitors": [
+    "ChronoLog (accuracy tester, iOS, paid)",
+    "generic note apps"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3148",
+   "name": "vintage radio restoration log",
+   "verdict": "build",
+   "competitors": [
+    "Vintage Radio app (streaming $1.99/mo, unrelated)",
+    "audiokarma.org (forum only)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X3150",
+   "name": "FPV drone setup & tuning log",
+   "verdict": "skip",
+   "competitors": [
+    "Betaflight Configurator (free)",
+    "FPVSIM Timer ($12.9 solo one-time)",
+    "Liftoff sim"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X3152",
+   "name": "sport / stunt kite tricks session log",
+   "verdict": "build",
+   "competitors": [
+    "Stunt Kite Masters (game, not log)",
+    "Hoolan (kitesurfing GPS, not trick log)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 1,
+   "demand": 1
   }
  ]
 }
