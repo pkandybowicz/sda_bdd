@@ -36100,6 +36100,4602 @@
    "durability": 7,
    "reach": 4,
    "demand": 2
+  },
+  {
+   "id": "X2213_",
+   "name": "PSSR Pressure System Written Scheme Log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Sitecert",
+    "CoreRFID CheckedOK",
+    "LMP Prime"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2215_",
+   "name": "LEV/COSHH Ventilation Examination Log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Velappity",
+    "SafetyCulture templates"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2217_",
+   "name": "DSEAR/ATEX Hazardous Zone Register",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "ATEXInspect",
+    "Hazcalc Online",
+    "ExTrace"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 9,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2219_",
+   "name": "Working at Height Equipment Register",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "SafetyCulture",
+    "GoAudits",
+    "DIGI CLIP",
+    "Auditform"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2221_",
+   "name": "Lone Worker Check-in & Activity Log",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "SafetyLine",
+    "CheckedSafe",
+    "MyMobileWorkers",
+    "EcoOnline"
+   ],
+   "n": 7,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2223_",
+   "name": "Fire Evacuation Drill Record Log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "EmergencyOS",
+    "Musterd",
+    "Tio Fire Safety",
+    "SafetyCulture"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2225_",
+   "name": "Fire Warden Register & Training Log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Risk Warden",
+    "All Wardens",
+    "Tio Fire Safety"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2227_",
+   "name": "First Aid Provision Audit Log",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "SafetyCulture",
+    "iProtectU",
+    "Wooqer"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2229_",
+   "name": "Legionella / Water Hygiene Weekly Log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "LegionellaDossier",
+    "aquaAdept",
+    "Velappity",
+    "Vision Pro"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2231_",
+   "name": "Fridge/Freezer Temperature Log (Catering)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Jolt",
+    "Xenia",
+    "FoodDocs",
+    "Trail App",
+    "Hubl"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2233_",
+   "name": "HACCP Critical Control Point Log",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "FoodDocs",
+    "SafetyCulture",
+    "Operandio",
+    "FoodReady",
+    "GoAudits"
+   ],
+   "n": 9,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2235_",
+   "name": "Allergen Matrix & Dish Register",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "AllergyMenu App",
+    "Alert65",
+    "FoodDocs",
+    "ComplianceMate"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2237_",
+   "name": "Cleaning Audit & Schedule Log",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "GoAudits",
+    "OrangeQC",
+    "Mobiess",
+    "Micad",
+    "FMSoftware"
+   ],
+   "n": 6,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2239_",
+   "name": "Waste Carrier Manifest Log",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "WasteBits",
+    "Ecesis",
+    "Cority"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2241_",
+   "name": "EICR / Fixed Wire Test Record Log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "ProCerts",
+    "Array",
+    "fixedtesting.com"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2243_",
+   "name": "Emergency Lighting Monthly Test Log",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "InspectNTrack",
+    "KomplyOS",
+    "TRILUX ELMo"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2245_",
+   "name": "Fire Door / Curtain Service Log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Inspect Point",
+    "DoorLogix",
+    "Krinkle Apps",
+    "Mobiess",
+    "InspectNTrack"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2247_",
+   "name": "LOLER Lift & Lifting Equipment Log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Lolerflow",
+    "OnSiteForm",
+    "CoreRFID CheckedOK",
+    "Bexel"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2249_",
+   "name": "TM44 Air Conditioning Inspection Log",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "ACE Wizard",
+    "CLG Government Tool"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2251_",
+   "name": "Boiler / Plant Room Inspection Log",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "OxMaint",
+    "MaintainX",
+    "Limble CMMS"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2253_",
+   "name": "UPS / Generator Periodic Test Log",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "Field Ascend",
+    "HVI App",
+    "LogCheck"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2255_",
+   "name": "BMS Compliance Audit & Review Log",
+   "verdict": "PUSTA Z PRZYCZYNY",
+   "competitors": [
+    "Lumiform",
+    "Facilio",
+    "EzManagement"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2257_",
+   "name": "DOT Vehicle Inspection (eDVIR)",
+   "verdict": "crowded but FMCSA 2026 rule forcing digital shift; strong demand, many subs $3-$50/veh/mo — one-time niche hard to own",
+   "competitors": [
+    "Fleetio",
+    "HVI App",
+    "Whip Around",
+    "FleetRabbit",
+    "Driveroo",
+    "SafetyCulture"
+   ],
+   "n": 12,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2259_",
+   "name": "DVSA Walkaround Check (UK HGV/PSV)",
+   "verdict": "solid UK regulatory niche, CheckedSafe/ConveyTech dominate but per-vehicle pricing (£0.80/veh/wk) shows room for offline one-time tool",
+   "competitors": [
+    "CheckedSafe",
+    "Convey",
+    "FleetScout",
+    "Novadate",
+    "Stream",
+    "Lloyd Morgan"
+   ],
+   "n": 6,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2261_",
+   "name": "Tachograph Records Register",
+   "verdict": "desktop one-time tools exist (EasyTac £375 one-off); specialist niche, EU/UK regulated, durable but technically complex",
+   "competitors": [
+    "EasyTac",
+    "OPTAC3",
+    "Smartanalysis",
+    "TIS-Web",
+    "TachoCentre",
+    "Stoneridge"
+   ],
+   "n": 8,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2263_",
+   "name": "ADR Dangerous Goods Vehicle Inspection",
+   "verdict": "reference apps mostly free; dedicated vehicle pre-departure inspection log underserved — small niche, low competition for structured checklists",
+   "competitors": [
+    "ADR Dangerous Goods app",
+    "ADR-Tool",
+    "ADR Depo"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2265_",
+   "name": "Taxi / PHV Pre-Hire Inspection",
+   "verdict": "niche within general fleet inspection; licensing authority requirements vary by council — no dominant dedicated app; moderate opportunity",
+   "competitors": [
+    "Fleetio",
+    "SafetyCulture",
+    "Lumiform",
+    "Connecteam"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2267_",
+   "name": "Semi-Trailer / Trailer Inspection",
+   "verdict": "covered by eDVIR platforms; dedicated trailer-only log underserved for owner-operators — small segment with clear regulatory need",
+   "competitors": [
+    "HVI App",
+    "SafetyCulture",
+    "Fleetio",
+    "SHEQSY",
+    "FleetGo"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2269_",
+   "name": "Tail Lift / LOLER Inspection",
+   "verdict": "genuine gap — LOLER requires 6-monthly thorough examination records; Lolerflow/OnSiteForm exist but small; offline one-time log viable",
+   "competitors": [
+    "Lolerflow",
+    "OnSiteForm",
+    "Corerfid",
+    "Papertrail"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2271_",
+   "name": "Tyre Inspection Protocol Log",
+   "verdict": "usually a feature inside fleet platforms, not standalone; dedicated tyre-protocol log (tread depth, pressure, condition) underserved as one-time app",
+   "competitors": [
+    "TyreOps",
+    "Fleetio",
+    "HVI App",
+    "SafetyCulture",
+    "Fleetx"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2273_",
+   "name": "Brake Performance Test Record",
+   "verdict": "sub-feature of DOT/DVSA compliance suites; no standalone brake-test log app identified — small but real gap for independent workshops",
+   "competitors": [
+    "SafetyCulture",
+    "Fleetio",
+    "Fleetworthy",
+    "Lumiform"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2275_",
+   "name": "Driver Defect Report (Daily)",
+   "verdict": "core eDVIR/DVSA feature widely covered; PreDrive £1/driver/wk shows demand — hard to differentiate standalone at $15-25 one-time",
+   "competitors": [
+    "PreDrive",
+    "GoAudits",
+    "Stream",
+    "GoCanvas",
+    "Connecteam",
+    "Lytx"
+   ],
+   "n": 8,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2277_",
+   "name": "Driver Hours / Working Time Log",
+   "verdict": "ELD/tachograph regulation drives this; complex compliance rules; dominated by telematics vendors — high barrier, low one-time viability",
+   "competitors": [
+    "SmartRoutes",
+    "TruckLogics",
+    "Verizon Connect",
+    "HGV Time Pilot",
+    "Samsara",
+    "KeepTruckin"
+   ],
+   "n": 7,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2279_",
+   "name": "Vehicle Service Schedule / Maintenance Log",
+   "verdict": "ServiceLog offers lifetime one-time purchase; market exists for offline one-time log, moderate competition — viable niche",
+   "competitors": [
+    "ServiceLog",
+    "MyAutoLog",
+    "FleetVIP",
+    "Simply Auto",
+    "Fleetio",
+    "Driveroo"
+   ],
+   "n": 9,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2281_",
+   "name": "MOT Pre-Check Inspection",
+   "verdict": "UK niche; no dominant dedicated MOT pre-check app found — gap for UK-specific structured checklist app, low competition",
+   "competitors": [
+    "SafetyCulture templates",
+    "GoAudits",
+    "Lumiform"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2283_",
+   "name": "Fleet Odometer / Mileage Log",
+   "verdict": "very crowded (MileIQ, Everlance, TripLog, Driversnote); commodity space — hard to enter at $15-25 one-time, low opportunity",
+   "competitors": [
+    "MileIQ",
+    "Everlance",
+    "TripLog",
+    "Driversnote",
+    "QuickBooks Mileage",
+    "Fuelio"
+   ],
+   "n": 10,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X2285_",
+   "name": "Fuel Log / Fleet Fuel Expense",
+   "verdict": "Fuelio is free, FleetRabbit $3/veh; commodity feature in all fleet platforms — one-time standalone has low differentiation",
+   "competitors": [
+    "FleetRabbit",
+    "Fuelio",
+    "SimplyFleet",
+    "Fleetio",
+    "Autosist",
+    "Geotab"
+   ],
+   "n": 8,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2287_",
+   "name": "EV Fleet Charging Log",
+   "verdict": "emerging niche, most solutions enterprise-focused (ChargePoint, Synop); simple offline charging log for SME fleets underserved — good timing",
+   "competitors": [
+    "FleetRabbit",
+    "ChargePoint",
+    "Synop",
+    "Driivz",
+    "EV Connect"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2289_",
+   "name": "Tanker / Cistern Inspection",
+   "verdict": "specialist niche; TankPro $99/user/mo shows enterprise bias — offline one-time checklist for road tanker pre-departure underserved",
+   "competitors": [
+    "TankPro",
+    "Inspectly360",
+    "Jotform templates",
+    "SafetyCulture"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X2291_",
+   "name": "Refrigerated Transport Temperature Log",
+   "verdict": "hardware-dependent (probes/telematics); software-only log has limited standalone value — dominated by Samsara, Motive, Geotab",
+   "competitors": [
+    "Samsara",
+    "Motive",
+    "Geotab",
+    "Radius",
+    "EROAD",
+    "DeltaTrak"
+   ],
+   "n": 6,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2293_",
+   "name": "HDS / Lorry-Mounted Crane Inspection",
+   "verdict": "GoCanvas/LiftSafe/CraneDocs exist but expensive; dedicated HDS road crane inspection log underserved — good one-time niche, niche audience",
+   "competitors": [
+    "GoCanvas",
+    "LiftSafe",
+    "CraneDocs",
+    "InspectAll"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 9,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X2295_",
+   "name": "School Bus Pre-Trip Inspection",
+   "verdict": "BusCMMS $15-25/bus/mo; US/UK school district procurement slow — offline one-time checklist viable for small independent operators",
+   "competitors": [
+    "BusCMMS",
+    "Fleetio",
+    "SafetyCulture",
+    "SimplyFleet",
+    "Samsara"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2297_",
+   "name": "RV / Campervan Inspection Checklist",
+   "verdict": "RV QuickInspect $9.99/report; Palm-Tech $25/mo — one-time offline checklist viable, moderate competition, seasonal demand",
+   "competitors": [
+    "RV QuickInspect",
+    "Palm-Tech",
+    "Scribeware",
+    "WanderWise",
+    "GoCanvas"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2299_",
+   "name": "Fleet Motorcycle Inspection Log",
+   "verdict": "no dedicated motorcycle fleet inspection app found — generic fleet tools used; niche (courier/police fleets) with clear gap",
+   "competitors": [
+    "SafetyCulture",
+    "Fleetio",
+    "HVI App"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2301_",
+   "name": "Cargo Bike / Delivery Bicycle Service Log",
+   "verdict": "MicroFleet supports cargo bikes; no dedicated offline service log app found — small but growing last-mile delivery niche, minimal competition",
+   "competitors": [
+    "MicroFleet",
+    "Onfleet",
+    "generic CMMS"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2303_",
+   "name": "Forklift / Warehouse Truck Pre-Shift Inspection",
+   "verdict": "SKIPPED — marked as duplicate per instructions (wózek widłowy pomiń-dup)",
+   "competitors": [],
+   "n": 0,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 0,
+   "reach": 0,
+   "demand": 0
+  },
+  {
+   "id": "X2305_",
+   "name": "gear_ratio_calc",
+   "verdict": "skip",
+   "competitors": [
+    "GearRatioCalculator2(free+IAP)",
+    "RCPitCalcPro(free)",
+    "abt.jp(free web)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2307_",
+   "name": "tire_vs_speedometer",
+   "verdict": "skip",
+   "competitors": [
+    "TireSize.app(free)",
+    "TireCalculatorHub(free)",
+    "tiresize.com(free)",
+    "blocklayer(free)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2309_",
+   "name": "compression_ratio",
+   "verdict": "skip",
+   "competitors": [
+    "CompressionCalculator(AppStore free)",
+    "CompressionRatioCalc2Android(free)",
+    "omnicalculator(free web)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2311_",
+   "name": "engine_displacement",
+   "verdict": "skip",
+   "competitors": [
+    "EngineDisplacementCalc(Android free)",
+    "EngineCalculatorPlus(iOS paid)",
+    "spicerparts(free web)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2313_",
+   "name": "turbo_sizing",
+   "verdict": "consider",
+   "competitors": [
+    "TCT-TurboChargerTuning(free iOS/Android)",
+    "GarrettBoostAdviser(free web)",
+    "OmniCalculator(free web)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2315_",
+   "name": "injector_sizing",
+   "verdict": "skip",
+   "competitors": [
+    "FuelInjectorCalc(free desktop)",
+    "DeatschWerks(free web)",
+    "FuelInjectorClinic(free web)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2317_",
+   "name": "spring_rate",
+   "verdict": "consider",
+   "competitors": [
+    "Springulator(free iOS)",
+    "TheSpringStore(free iOS/Android)",
+    "Hyperco(free web)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2319_",
+   "name": "brake_bias",
+   "verdict": "consider",
+   "competitors": [
+    "BrakePower.com(free web)",
+    "MX5BrakeBiasApp(free+sub)",
+    "TCEPerformance(free web)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "free",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2321_",
+   "name": "clutch_selection",
+   "verdict": "build",
+   "competitors": [
+    "Comp1Clutch(free web)",
+    "Reell(free web)",
+    "RBRacing(free web)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2323_",
+   "name": "radiator_sizing_auto",
+   "verdict": "build",
+   "competitors": [
+    "RadiCalc(free HVAC only)",
+    "onlinetoolkit(free web)",
+    "calculatorspot(free web)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2325_",
+   "name": "marine_prop_sizing",
+   "verdict": "consider",
+   "competitors": [
+    "PropellerCalc(iOS free/paid)",
+    "TopendFree(Android free)",
+    "HondaMarine(free web)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2327_",
+   "name": "boat_fuel_range",
+   "verdict": "skip",
+   "competitors": [
+    "BoatFuelCalcAndroid(free)",
+    "BoatCalcs(free web)",
+    "MarineFuelCalc(iOS paid)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2329_",
+   "name": "anchor_chain_sizing",
+   "verdict": "consider",
+   "competitors": [
+    "AnchorChainCalculator(iOS/Android ~8EUR)",
+    "BoatOut(free web)",
+    "trimaran-san(free web)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2331_",
+   "name": "aircraft_weight_balance",
+   "verdict": "skip",
+   "competitors": [
+    "AviationWB($4.99-$9.99/yr)",
+    "Sportys($9.99 onetime)",
+    "NoseApp($3.99/yr)"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2333_",
+   "name": "density_altitude",
+   "verdict": "skip",
+   "competitors": [
+    "DensityAltitudePlus(free iOS)",
+    "AirLab(free iOS)",
+    "AutoDens(free iOS/Android)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2335_",
+   "name": "glider_polar",
+   "verdict": "build",
+   "competitors": [
+    "GliderPolar(iOS free)",
+    "GliderPolarCoefficients(iOS free)",
+    "iGlideLite(free iOS/Android)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 9,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X2337_",
+   "name": "aviation_fuel_planning",
+   "verdict": "skip",
+   "competitors": [
+    "AviationFuelCalc($1.99 iOS)",
+    "FuelPlanner(iOS)",
+    "myE6B(free iOS)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2339_",
+   "name": "parachute_selection",
+   "verdict": "build",
+   "competitors": [
+    "AXIStools(free web)",
+    "USPA-wingload(free web)",
+    "FancyWingload(free mobile)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2341_",
+   "name": "dive_ballast_weight",
+   "verdict": "consider",
+   "competitors": [
+    "BuoyancyCalc(iOS free)",
+    "DiveKit($24.99 lifetime)",
+    "OmniCalculator(free web)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2343_",
+   "name": "kite_wing_size",
+   "verdict": "consider",
+   "competitors": [
+    "KiteSizeCalc(iOS free)",
+    "KiteWingCalcApp(iOS)",
+    "OmniCalculator(free web)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2345_",
+   "name": "dyno_correction_SAE",
+   "verdict": "build",
+   "competitors": [
+    "LogDyno(iOS/Android)",
+    "RobRobinette(free web)",
+    "BigDynoDatabase(free web)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2347_",
+   "name": "AFR_mixture",
+   "verdict": "skip",
+   "competitors": [
+    "OmniCalculator-AFR(free web)",
+    "FASTwirelessApp(hw required)",
+    "PEWidebandApp(iOS free)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2349_",
+   "name": "RC_nitro_fuel",
+   "verdict": "skip",
+   "competitors": [
+    "RCPitCalcPro(free iOS)",
+    "RCFuelMileageCalc(free Android)",
+    "sodialed(free web)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2351_",
+   "name": "suspension_geometry_clearance",
+   "verdict": "consider",
+   "competitors": [
+    "RacingAspirations(iOS sub)",
+    "vsusp(free web)",
+    "SpeedWiz(web paid)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2353_",
+   "name": "norma-wysiewu",
+   "verdict": "skip",
+   "competitors": [
+    "Agro Seeding Rate Calculator (ProsperAg, free iOS+Android)",
+    "Beyond Agronomy Seeding Rate (free)",
+    "Ag PhD Planting Population (free)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2355_",
+   "name": "nawozenie-npk",
+   "verdict": "build",
+   "competitors": [
+    "NPKalc (free iOS)",
+    "Agro Fertilizer Calculator (free Android, offline)",
+    "Fertilizers Calculator & MC (free Android)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2357_",
+   "name": "tank-mix-oprysk",
+   "verdict": "skip",
+   "competitors": [
+    "Tank Mix Calculator TapLogic (free iOS+Android, 10k+ pesticides)",
+    "FarmLogic Tank Mix (free web)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2359_",
+   "name": "dawka-herbicydu",
+   "verdict": "skip",
+   "competitors": [
+    "Herbicide Calc (iOS)",
+    "Pesticide Mix Calculator (iOS, offline)",
+    "Pesticide Calculator ICAR (Android, offline)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2361_",
+   "name": "dawka-adiuwanta",
+   "verdict": "build",
+   "competitors": [
+    "Beyond Agronomy Tank Mix & Rainfastness Guide (partial coverage)",
+    "brak dedykowanej apki"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2363_",
+   "name": "ration-paszowy-bydlo",
+   "verdict": "build",
+   "competitors": [
+    "RationBuddy: Cattle Feed Calcs (iOS)",
+    "Feed Calculator SingleSpark (free Android)",
+    "Drought Feed Calculator (iOS)",
+    "Clemson Ration Calculator (web)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2365_",
+   "name": "grazing-paddock-obrot",
+   "verdict": "skip",
+   "competitors": [
+    "eGraze (free iOS, offline, AU)",
+    "Grazing Calculator (iOS+Android)",
+    "MaiaGrazing (premium SaaS)",
+    "Herdwatch (offline sync)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2367_",
+   "name": "kiszonka-bilans",
+   "verdict": "build",
+   "competitors": [
+    "Feed & Forage Calculator (iOS, offline)",
+    "SilageSnap (iOS, UW-Madison)",
+    "Corn Silage App UW Extension (free iOS+Android)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "free",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2369_",
+   "name": "nawadnianie-zapotrzebowanie",
+   "verdict": "build",
+   "competitors": [
+    "Irrigator Pro (free iOS+Android, USDA ARS)",
+    "Sprinkler Zone Calculator (iOS)",
+    "AgentCalc web (online only)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2371_",
+   "name": "ogrodzenie-elektryczne-dobor",
+   "verdict": "build",
+   "competitors": [
+    "Gallagher ILP Calculator (web/partial)",
+    "JVA Energiser Tool (web)",
+    "PowerLoss.tech web calc — brak apki offline"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 9,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2373_",
+   "name": "drenaz-spadki",
+   "verdict": "build",
+   "competitors": [
+    "Drainage Slope Calculator (Android, plumbing-focused)",
+    "Ag PhD Drainage Tile (web)",
+    "UMN Online Drainage (web only)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 9,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2375_",
+   "name": "gps-pole-powierzchnia",
+   "verdict": "skip",
+   "competitors": [
+    "GPS Fields Area Measure (freemium iOS+Android, 11k+ reviews)",
+    "FieldCalc (free iOS+Android)",
+    "Field Area Measure (free iOS)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X2377",
+   "name": "plon-szacowanie",
+   "verdict": "skip",
+   "competitors": [
+    "Pioneer Corn Yield Estimator (free, offline)",
+    "Kansas Wheat Yield Calculator (free)",
+    "Crop Calculators UW ipcm (free iOS+Android)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2379",
+   "name": "obornik-rozrzut",
+   "verdict": "build",
+   "competitors": [
+    "Illinois Manure Calculator (free iOS+Android)",
+    "Manure Calculator Nebraska (small fee)",
+    "Manure Tracker UW (free iOS+Android)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "free",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2381",
+   "name": "wapnowanie-ph",
+   "verdict": "build",
+   "competitors": [
+    "Clemson Lime Rate Calculator (web only)",
+    "Alluvial Soil Lab web calc — brak offline apki mobilnej"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2383",
+   "name": "siew-kukurydzy-obsada",
+   "verdict": "skip",
+   "competitors": [
+    "Pioneer Planting Rate Estimator (web)",
+    "Syngenta Corn Planting Rate Calculator (web)",
+    "Ag PhD Planting Population (free app)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2385",
+   "name": "opryskiwacz-kalibracja",
+   "verdict": "skip",
+   "competitors": [
+    "Sprayer Calibrator (iOS+Android, Farmis)",
+    "Calibrate My Sprayer Clemson (free iOS+Android)",
+    "UIUC Sprayer Calibration (free iOS+Android)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2387",
+   "name": "zbiornik-pojemnosc",
+   "verdict": "skip",
+   "competitors": [
+    "Tank Calc Volume Calculator (free Android, offline)",
+    "Tank Volume Calculator (free iOS, offline)",
+    "Tank Measure (iOS)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "free",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2389",
+   "name": "paliwo-maszyn-koszt-ha",
+   "verdict": "build",
+   "competitors": [
+    "Machinery Cost Calc (iOS)",
+    "Farm Fuel Budget App NDSU (free Android)",
+    "AHDB Machinery Costing Calculator (web Excel)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2391",
+   "name": "nasiona-koszt-ha",
+   "verdict": "build",
+   "competitors": [
+    "Agro Seeding Rate Calculator (brak cost feature)",
+    "Seed Calculator 0.8.1 (offline Android, basic)",
+    "TinyCalculators Planting Cost (web only)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2393",
+   "name": "mlecznosc-bilans",
+   "verdict": "skip",
+   "competitors": [
+    "Milky Milk Price Calculator (Android, offline)",
+    "CowMaster (iOS, offline module)",
+    "Cattlytics Dairy (iOS, offline sync)",
+    "DairyKhata (iOS+Android, offline)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2395",
+   "name": "jaja-produkcja",
+   "verdict": "skip",
+   "competitors": [
+    "My Poultry Manager (iOS+Android, free tier)",
+    "Flockstar ($79.99/yr iOS)",
+    "Poultry Farming iOS (sub)",
+    "Poultry Manager 2.0 (free Android)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2397",
+   "name": "sad-opryski-program",
+   "verdict": "build",
+   "competitors": [
+    "Hectre Orchard (iOS, SaaS)",
+    "FruitForest Orchard Mapping (iOS, offline)",
+    "Farmable (spec crops, sub)",
+    "Croptracker (enterprise)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2399",
+   "name": "pszczoly-pozytki",
+   "verdict": "skip",
+   "competitors": [
+    "niszowy, duplikacja z innymi domenami — pominięto zgodnie z instrukcją"
+   ],
+   "n": 0,
+   "free_sub": false,
+   "model": "free",
+   "durability": 5,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X2401",
+   "name": "Imposition Calculator",
+   "verdict": "saturated",
+   "competitors": [
+    "Imposition Studio (devalipi.com)",
+    "ImpositionSoftware.com",
+    "Quite Imposing (Adobe)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2403",
+   "name": "Ink Coverage Calculator",
+   "verdict": "crowded-free",
+   "competitors": [
+    "APFill (avpsoft.com)",
+    "pagecoveragecalculator.com",
+    "inkcoverage.net",
+    "3DMockups ink-cost-calculator",
+    "imageonline.io/ink-calculator"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2405",
+   "name": "Paper Weight / Grammage / Bulk Calculator",
+   "verdict": "marginal",
+   "competitors": [
+    "OmniCalculator paper-weight",
+    "Case Paper app (iOS/Android)",
+    "midlandco.com grammage tool",
+    "Paper Weight Calculator on Google Play"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2407",
+   "name": "Wide Format Material Usage & Cost Calculator",
+   "verdict": "viable-niche",
+   "competitors": [
+    "BetterSignShop.com",
+    "Innotech Digital free tool",
+    "FireSprint wide-format-pricing-calculator",
+    "Etsy spreadsheet listings"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2409",
+   "name": "Vinyl Weeding Time Calculator",
+   "verdict": "gap-opportunity",
+   "competitors": [
+    "Silhouette U HTV Pricing Calculator (membership)",
+    "DecalCalc spreadsheet (dieselvinyl.com)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2411",
+   "name": "DTG Garment Pricing Calculator",
+   "verdict": "saturated-free",
+   "competitors": [
+    "nwcustomapparel.net DTG calc",
+    "SubliGeniusPrint DTG profit calc",
+    "3DMockups ink-cost-calculator",
+    "shopVOX DTG pricing",
+    "Print Renegades quote calc"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X2413",
+   "name": "Embroidery Stitch Count & Time Pricing",
+   "verdict": "viable",
+   "competitors": [
+    "StitchOps.app",
+    "embcalc.com",
+    "calcdomain.com",
+    "Wilcom Estimator (enterprise)",
+    "EstiMate plugin"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 8,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2415",
+   "name": "Screen Printing Pantone Ink Mixing Calculator",
+   "verdict": "specialized-crowded",
+   "competitors": [
+    "Matsui ColorMixer",
+    "Nazdar ColorStar",
+    "Fusion Color Mixer (screenprinting.com)",
+    "UMX System 4.0",
+    "Colormate Pro"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2417",
+   "name": "Banner Size & Grommet Placement Calculator",
+   "verdict": "viable-simple",
+   "competitors": [
+    "FireSprint banner-grommet-placement-calculator",
+    "TheSignExpert banner calc",
+    "NorthCoast Banners price calc"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2419",
+   "name": "Wide Format Print Cost Calculator",
+   "verdict": "saturated",
+   "competitors": [
+    "FireSprint wide-format-pricing-calculator",
+    "BetterSignShop.com",
+    "BigDogMediaSolutions sq-ft calc",
+    "Innotech Digital free tool",
+    "EstiMate plugin"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2421",
+   "name": "Bindery / Bookbinding Finishing Calculator",
+   "verdict": "niche-viable",
+   "competitors": [
+    "PagesThatBind price calc",
+    "BookEmpire trade-binding calc",
+    "Lulu cost calc (POD)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2423",
+   "name": "Hot Stamping / Foil Cost Calculator",
+   "verdict": "gap-opportunity",
+   "competitors": [
+    "AFM Engineering foil usage calc (afmeng.com)",
+    "Printing for Less foil quote tool"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2425",
+   "name": "Sublimation Layout & Nesting Calculator",
+   "verdict": "viable",
+   "competitors": [
+    "SubliGeniusPrint sublimation calc",
+    "Silhouette U sublimation calc",
+    "QuickSPI sublimation calc",
+    "Joto profit calc"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2427",
+   "name": "Sticker Sheet Layout & Pricing Calculator",
+   "verdict": "crowded-free",
+   "competitors": [
+    "MakersMath sticker-cost-calculator",
+    "Silhouette U sticker calc",
+    "CalculatorsHub sticker calc",
+    "CustomStickers.com price calc"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2429",
+   "name": "Laser Engraving Time & Cost Calculator",
+   "verdict": "viable",
+   "competitors": [
+    "vectordad.com laser calc",
+    "calcuick.com laser calc",
+    "Calculator Academy laser calc",
+    "industrial-calc.vercel.app",
+    "usecalcpro.com laser calc"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2431",
+   "name": "CNC Router Cut Time & Cost Calculator",
+   "verdict": "viable-niche",
+   "competitors": [
+    "G-Wizard Estimator (cnccookbook.com)",
+    "FSWizard (app.fswizard.com)",
+    "Portland CNC cost calc",
+    "CNC Optimization router calc"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "freemium",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2433",
+   "name": "Vinyl Plotter / Cutting Cost Calculator",
+   "verdict": "marginal",
+   "competitors": [
+    "vinylcalculator.com",
+    "TheSignExpert vinyl calc",
+    "Signs101 community formulas"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2435",
+   "name": "T-Shirt Bulk Order Pricing Calculator",
+   "verdict": "saturated",
+   "competitors": [
+    "Printful bulk calc",
+    "CustomInk quick quote",
+    "Bonfire t-shirt pricing calc",
+    "We Print U Press calc",
+    "NW Custom Apparel DTG calc"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X2437",
+   "name": "Sublimation Mug / Cup Pricing Calculator",
+   "verdict": "viable-simple",
+   "competitors": [
+    "Silhouette U sublimation calc",
+    "SubliGeniusPrint cost calc",
+    "Joto profit calc",
+    "QuickSPI sublimation calc"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2439",
+   "name": "Pad Printing (Tampodruk) Cost Calculator",
+   "verdict": "gap-opportunity",
+   "competitors": [
+    "AFM Engineering pad-print-pricing (afmeng.com)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2441",
+   "name": "UV Flatbed Print Cost Calculator",
+   "verdict": "viable",
+   "competitors": [
+    "MakerPrice (mrwright.com)",
+    "TheCraftyCatsman UV ink calc",
+    "Sublistar UV cost guide"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2443",
+   "name": "Shape Nesting / Waste Optimizer Calculator",
+   "verdict": "viable",
+   "competitors": [
+    "CutWize (cutwize.com)",
+    "optiCutter (opticutter.com)",
+    "LaserCalcPro nesting calc",
+    "NestingCenter.com"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 9,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2445",
+   "name": "Heat Transfer / DTF Transfer Cost Calculator",
+   "verdict": "saturated-free",
+   "competitors": [
+    "Stahls heat-transfer-cost-calculator",
+    "Silhouette U HTV calc",
+    "MakersMath heat-press calc",
+    "Transfer Express pricing calc",
+    "CraftCalculators HT sheet calc"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X2447",
+   "name": "LED Neon Sign Size & Cost Calculator",
+   "verdict": "gap-opportunity",
+   "competitors": [
+    "Bounce LED Wizard (bounceled.com - modules only)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2449",
+   "name": "krawiec_wymiary",
+   "verdict": "niche_viable",
+   "competitors": [
+    "TailorMate (free+premium ~INR200/mo)",
+    "Geelus (~$30+/mo sub)",
+    "Tailor Body Measurements by DM ($4.99/mo)",
+    "Six Atomic/Inference ($29/mo)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub_low",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2451",
+   "name": "szewc_kopyto",
+   "verdict": "niche_viable",
+   "competitors": [
+    "3DShoemaker (parametric last+insole, custom pricing)",
+    "Shoefitr.io",
+    "LutraCAD (shoe last CAD)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 9,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X2453",
+   "name": "tapicer_wymiary",
+   "verdict": "generic_ok",
+   "competitors": [
+    "Brak dedykowanego; ogólne CRM/notatki wystarczają"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "none",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2455",
+   "name": "firanki_rolety_pomiar",
+   "verdict": "crowded",
+   "competitors": [
+    "BlindMatrix ($1500 setup+$35/lic/mo)",
+    "MyBlindCo (sub, PDF pricing)",
+    "InterioApp (sub)",
+    "BlindsBook",
+    "BlindsPortalMeasures"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub_mid",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2457",
+   "name": "monter_kuchni_spec",
+   "verdict": "crowded",
+   "competitors": [
+    "CabinetCruncher",
+    "Pro100 (one-time+sub)",
+    "Cabinet Vision (Hexagon, enterprise)",
+    "CabBuilder"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2459",
+   "name": "ramiarz_picture_framer",
+   "verdict": "niche_viable",
+   "competitors": [
+    "FrameReady (one-time, no monthly fee)",
+    "LifeSaver Software (sub)",
+    "Virtual Framer (sub)",
+    "SpecialtySoft"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "one_time",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2461",
+   "name": "slusarz_kody_kluczy",
+   "verdict": "crowded",
+   "competitors": [
+    "Jobber ($59-239/mo)",
+    "HousecallPro ($49+/mo)",
+    "InstaCode Live (key codes SaaS)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub_mid",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2463",
+   "name": "optyk_spec_soczewek",
+   "verdict": "crowded",
+   "competitors": [
+    "RevolutionEHR ($319/mo optical-only)",
+    "WINK (sub, GDPR)",
+    "OD Link ($125-305/mo)",
+    "OptoSoft (free India tier)"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub_high",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2465",
+   "name": "technik_dentystyczny_kolor_case",
+   "verdict": "niche_viable",
+   "competitors": [
+    "Magic Touch DLCPM (custom pricing)",
+    "DentalLab OS (sub)",
+    "Labtrac",
+    "ShadeWave (annual lab license)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub_mid",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2467",
+   "name": "protetyk_sluchu_dopasowanie",
+   "verdict": "crowded",
+   "competitors": [
+    "Auditdata Manage+NOAH ($2500-8000/yr clinic)",
+    "HearForm",
+    "Compulink Audiology",
+    "Widex Compass Cloud"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub_high",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2469",
+   "name": "ortotyk_wkladki",
+   "verdict": "niche_viable",
+   "competitors": [
+    "OrthoCAD VertexOrthopedic ($2999/yr)",
+    "LutraCAD",
+    "Medflex (O&P EHR, custom pricing)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub_high",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2471",
+   "name": "protetyk_pomiary",
+   "verdict": "crowded",
+   "competitors": [
+    "Medflex (O&P)",
+    "EZMed O&P",
+    "Ottobock Software (enterprise)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub_high",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2473",
+   "name": "peruki_pomiary",
+   "verdict": "gap",
+   "competitors": [
+    "Brak dedykowanego; wig makers uzywaja Etsy PDF form + ogolny salon SW (Vagaro $30/mo)"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "none",
+   "durability": 8,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X2475",
+   "name": "stolarz_meble_na_wymiar",
+   "verdict": "generic_ok",
+   "competitors": [
+    "SketchList 3D (one-time)",
+    "Pro100",
+    "MRPeasy (sub); ogolne CRM + wlasne arkusze czesto wystarczaja"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "mixed",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2477",
+   "name": "kowal_artystyczny",
+   "verdict": "gap",
+   "competitors": [
+    "Brak dedykowanego; ogolne PM (Notion/Trello) lub papier"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "none",
+   "durability": 8,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X2479",
+   "name": "witrażysta",
+   "verdict": "gap",
+   "competitors": [
+    "Dragonfly (pattern design only, nie CRM)",
+    "ogolne PM narzedzia"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "none",
+   "durability": 8,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X2481",
+   "name": "jubiler_naprawa_per_klient",
+   "verdict": "niche_viable",
+   "competitors": [
+    "Jewelry Shopkeeper Repair ($395 one-time)",
+    "Luxare/Diaspark (sub)",
+    "RepairDesk (sub)",
+    "WJewel (sub)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2483",
+   "name": "zegarmistrz_serwis_per_zegarek",
+   "verdict": "niche_viable",
+   "competitors": [
+    "RepairPilot (Jewellery & Watch, sub)",
+    "Jewelry Shopkeeper (one-time $395)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "mixed",
+   "durability": 9,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2485",
+   "name": "krawiec_slubny_poprawki",
+   "verdict": "niche_viable",
+   "competitors": [
+    "Geelus ($30+/mo, alterations-focused)",
+    "TailorMate (free+premium)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub_low",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2487",
+   "name": "obuwie_na_miare_last",
+   "verdict": "gap",
+   "competitors": [
+    "3DShoemaker (CAD, custom pricing); brak taniego per-klient last tracker"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "sub_high",
+   "durability": 9,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X2489",
+   "name": "bandazysta_kompresjoterapia",
+   "verdict": "niche_viable",
+   "competitors": [
+    "LymphaTech (Bluetooth tape+app, custom pricing)",
+    "medi vision (3D scan+app, custom pricing)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "hardware_bundle",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2491",
+   "name": "gorseciarz",
+   "verdict": "gap",
+   "competitors": [
+    "Brak dedykowanego; uzytkownicy uzywaja arkuszy kalkulacyjnych lub ogolnych tailoring appek"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "none",
+   "durability": 9,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X2493",
+   "name": "czapnik_modystka_pomiary",
+   "verdict": "gap",
+   "competitors": [
+    "Brak dedykowanego; pomiary na papierze lub arkuszach; brak software"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "none",
+   "durability": 8,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X2495",
+   "name": "rekawicznik",
+   "verdict": "gap",
+   "competitors": [
+    "Brak dedykowanego; niche zbyt mala; papier lub Excel"
+   ],
+   "n": 0,
+   "free_sub": true,
+   "model": "none",
+   "durability": 9,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X2497",
+   "name": "AmmoReload – reloading load data log",
+   "verdict": "solid niche, real paid apps exist (Hornady $19.99/yr, Vihtavuori $3.99), gap for $5–10 offline one-time; community large but app-saturated",
+   "competitors": [
+    "Hornady Reloading App",
+    "Reloading Assistant",
+    "GUNR",
+    "Vihtavuori Reload"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2499",
+   "name": "BallisticDOPE – rifle DOPE card generator",
+   "verdict": "crowded but pricey; Shooter $19.99, GeoBallistics $14.99, Ballistic AE $10–13; $5–10 offline card-printer angle viable for budget hunters",
+   "competitors": [
+    "Shooter App",
+    "GeoBallistics",
+    "Applied Ballistics AB Quantum",
+    "Ballistic AE"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2501",
+   "name": "ArcherySight – sight tape + FOC calculator",
+   "verdict": "niche covered by Smart Sights (one-time), Precision Cut ($36–40/yr), PRO Archery Ballistics (sub); one-time $5–10 offline FOC+tape combo has room",
+   "competitors": [
+    "Smart Sights",
+    "Precision Cut Archery",
+    "PRO Archery Ballistics",
+    "UNO Archery"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2503",
+   "name": "CrossbowTune – crossbow tuning + drop calculator",
+   "verdict": "thin competition; Crossbow-Calc Ballistics on Android (free, basic), Pro Archery Ballistics covers it partially; dedicated $5–10 offline app viable",
+   "competitors": [
+    "Crossbow-Calc Ballistics",
+    "PRO Archery Ballistics"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2505",
+   "name": "AirRifleTune – spring/gas-ram tuning & pellet calculator",
+   "verdict": "very thin app market; only generic Air Gun Calculator (free); community active on forums; $5–10 offline tuning log+calculator is open",
+   "competitors": [
+    "Air Gun Calculator"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2507",
+   "name": "SpinningRig – spinning rig & leader builder calculator",
+   "verdict": "no dedicated rig-calc app; Fishing Line Calculator (free, basic spool); MyRigs is reference not calculator; gap exists for $5–10 one-time",
+   "competitors": [
+    "Fishing Line Calculator",
+    "MyRigs",
+    "Fishbox"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2509",
+   "name": "FlyTying – fly pattern material calculator & log",
+   "verdict": "apps exist (IdentaFly, Fly Tying Simulator) but focus on visual/social, not precise material-weight calculators; $5–10 offline calc+log viable",
+   "competitors": [
+    "IdentaFly",
+    "Fly Tying Simulator",
+    "Fly Fishing & Fly Tying app"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2511",
+   "name": "RCLipo – LiPo cycle tracker + gearing calc (RC)",
+   "verdict": "LipoBuddy (free/sub) covers cycles, Gear Speed (free) covers gearing; combined one-time offline app could stand out; small but passionate niche",
+   "competitors": [
+    "LipoBuddy",
+    "Gear Speed",
+    "RC Pit Calc Pro",
+    "RC E-Calc Pro"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2513",
+   "name": "RocketCalc – model rocket thrust & altitude predictor",
+   "verdict": "Rocket Calculator (free), Rocket Fx (free), web sims abundant; hard to monetize at $5–10 when free tools dominate; low commercial viability",
+   "competitors": [
+    "Rocket Calculator",
+    "RocketCalc Pro",
+    "Rocket Fx",
+    "Rocket Simulator web"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 4,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2515",
+   "name": "KiteDesign – kite design & line-pull calculator",
+   "verdict": "Kite Size Calculator (free iOS), Kite & Wing Calculator (free); very niche hobby builder market; $5–10 designer-calc for DIY kite makers feasible but tiny",
+   "competitors": [
+    "Kite Size Calculator",
+    "Kite & Wing Calculator",
+    "Kitesurf Calculator"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X2517",
+   "name": "ParaGlideTrim – paraglider trim & wing-load calculator",
+   "verdict": "we-measure.io (web, trim specialist), Wing Loading Calculator (free iOS), Glidiator (free); dedicated offline trim log+calc at $5–10 has small gap",
+   "competitors": [
+    "we-measure.io",
+    "Wing Loading Calculator",
+    "Glidiator",
+    "Flyskyhy"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2519",
+   "name": "SailRate – sailing rating & handicap corrected-time calc",
+   "verdict": "Sailing Handicap Calculator (free + €5.99 IAP), arcSail (club-level); $5–10 one-time offline corrected-time calc for club racers viable, modest reach",
+   "competitors": [
+    "Sailing Handicap Calculator",
+    "arcSail",
+    "Sail Score"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2521",
+   "name": "GolfCalc – golf handicap + shot-distance calc",
+   "verdict": "extremely saturated: 18Birdies, Hole19, TheGrint all free with GPS; $5–10 can't compete; skip or hyper-specialize (e.g. strokeplay-only offline)",
+   "competitors": [
+    "18Birdies",
+    "Hole19",
+    "TheGrint",
+    "Diablo",
+    "Swingu"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 9,
+   "reach": 6,
+   "demand": 3
+  },
+  {
+   "id": "X2523",
+   "name": "PoolDrills – billiards drill tracker & shot-angle calc",
+   "verdict": "DrillRoom AI (sub, ~$X/yr), WPB Pool Training (sub), Checkbilliard ($10/mo); $5–10 one-time offline drill log+angle calc has room at low price point",
+   "competitors": [
+    "DrillRoom AI",
+    "WPB Pool Training",
+    "Checkbilliard"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2525",
+   "name": "SnookerBreak – snooker break scorer & probability calc",
+   "verdict": "MySnookerStats, Snooker Scorer, SnookerMate all free; market small and free apps thorough; $5–10 one-time possible only with unique stat angle",
+   "competitors": [
+    "MySnookerStats",
+    "Snooker Scorer",
+    "SnookerMate",
+    "Break app"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2527",
+   "name": "SeaRig – sea fishing rig builder & line-weight calc",
+   "verdict": "MyRigs (reference iOS), What Fish UK (broad encyclopaedia free), Fishing Line Calculator (free); dedicated rig-calc at $5–10 one-time is underserved",
+   "competitors": [
+    "MyRigs",
+    "What Fish UK",
+    "Fishing Line Calculator"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2529",
+   "name": "SkyCanopy – parachute canopy size & wing-load calc",
+   "verdict": "AXIS web tool (free), Pure Skydive (free web), Fancy Wingloading (free iOS); market tiny, fully covered by free tools; low monetisation potential",
+   "competitors": [
+    "AXIS Tools",
+    "Pure Skydive",
+    "Fancy Wingloading",
+    "Skydive Wingload"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 4,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X2531",
+   "name": "PigeonRace – pigeon velocity & loft handicap calculator",
+   "verdict": "First Flight Calculator (free iOS), FlightControlRP (free iOS), Pigeon Loft Manager (free Android); niche passionate but fully covered by free apps",
+   "competitors": [
+    "FlightControlRP",
+    "First Flight Calculator",
+    "MyPigeon App",
+    "Pigeon Loft Manager"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 5,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X2533",
+   "name": "ShootingDOPE – precision shooting DOPE logger (offline)",
+   "verdict": "overlaps BallisticDOPE; Shooter $19.99 one-time is the ceiling; a cheaper $5–10 offline-first DOPE card printer with no subscription is a real gap for budget PRS/F-class shooters",
+   "competitors": [
+    "Shooter App",
+    "SBC Ballistic Calculator",
+    "GeoBallistics",
+    "E-Dope Card"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2535",
+   "name": "BikeGears – bicycle gear inches & cadence speed calc",
+   "verdict": "BikeCalc (free+sub), BicyCalc (free Android), Bicycle Gear Ratio App (free iOS); free tools dominate; $5–10 one-time viable only with offline multi-bike comparison+export",
+   "competitors": [
+    "BikeCalc",
+    "BicyCalc",
+    "Bicycle Gear Ratio App",
+    "Sheldon Brown web calc"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2537",
+   "name": "haccp_ccp_log",
+   "verdict": "build",
+   "competitors": [
+    "SafetyCulture($24/u/mo)",
+    "FoodReady($149/mo)",
+    "FoodDocs(€199/mo)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2539",
+   "name": "fridge_temp_register",
+   "verdict": "build",
+   "competitors": [
+    "Danfoss ProsaLink(€3.5/mo)",
+    "ControlByWeb($0.99/dev/mo)",
+    "FoodSafeSystem(sub)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2541",
+   "name": "allergen_matrix",
+   "verdict": "build",
+   "competitors": [
+    "AllergyMenu.app(£15/mo)",
+    "FoodDocs(sub)",
+    "MenuIQ(sub)",
+    "Menutech(sub)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2543",
+   "name": "food_cost_plate_cost",
+   "verdict": "skip",
+   "competitors": [
+    "MarketMan($239/mo)",
+    "meez(sub)",
+    "Apicbase(sub)",
+    "reciProfity(sub)",
+    "FoodCostChef(one-time Excel)"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2545",
+   "name": "bar_pour_cost",
+   "verdict": "consider",
+   "competitors": [
+    "Backbar(free)",
+    "BevSpot(free tool)",
+    "WISK($149/mo)",
+    "PourCost iOS(donation)",
+    "Menubly(free)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2547",
+   "name": "cocktail_cost_calc",
+   "verdict": "consider",
+   "competitors": [
+    "Backbar(free)",
+    "JeffreyMorgenthaler(free sheet)",
+    "FinBoard(free template)",
+    "WISK($149/mo)",
+    "ABarAbove(free sheet)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2549",
+   "name": "cafe_par_stock",
+   "verdict": "consider",
+   "competitors": [
+    "Toast(sub)",
+    "WISK($149/mo)",
+    "Shopventory($49/mo)",
+    "Supy(sub)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2551",
+   "name": "beo_banquet_event_order",
+   "verdict": "skip",
+   "competitors": [
+    "PlanningPod($295/mo)",
+    "Tripleseat($500+/mo)",
+    "CaterZen(sub)",
+    "Pholeo(sub)",
+    "BanquetEventOrganizer(sub)"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2553",
+   "name": "catering_cost_per_guest",
+   "verdict": "build",
+   "competitors": [
+    "Menubly(free web)",
+    "YourPilla(free web)",
+    "EventForte(free web)",
+    "FoodCostCalc Android(free)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2555",
+   "name": "kitchen_prep_list",
+   "verdict": "consider",
+   "competitors": [
+    "PrepListApp(sub)",
+    "opsi(sub)",
+    "meez(sub)",
+    "Parsley(sub)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2557",
+   "name": "opening_closing_checklist",
+   "verdict": "skip",
+   "competitors": [
+    "Jolt(sub)",
+    "SafetyCulture($24/u/mo)",
+    "Trail(sub)",
+    "7shifts(sub)",
+    "Xenia(sub)",
+    "Toast($30/mo)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2559",
+   "name": "cleaning_schedule",
+   "verdict": "skip",
+   "competitors": [
+    "GoAudits($10/u/mo)",
+    "Jolt(sub)",
+    "Xenia(free/5u)",
+    "Trail(sub)",
+    "MaintainX(sub)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2561",
+   "name": "supplier_price_book",
+   "verdict": "consider",
+   "competitors": [
+    "MarketMan($239/mo)",
+    "meez(sub)",
+    "reciProfity(sub)",
+    "WookAI(sub)",
+    "Apicbase(sub)"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2563",
+   "name": "menu_margin_engineering",
+   "verdict": "skip",
+   "competitors": [
+    "MarginEdge(sub)",
+    "MarketMan($239/mo)",
+    "meez(sub)",
+    "EZchef(one-time Excel)",
+    "WookAI(sub)"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2565",
+   "name": "waste_log",
+   "verdict": "consider",
+   "competitors": [
+    "Xenia(free/5u)",
+    "MarketMan($239/mo)",
+    "Winnow(enterprise)",
+    "Kitro(sub)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2567",
+   "name": "tip_pool_calculator",
+   "verdict": "build",
+   "competitors": [
+    "TipHaus(sub)",
+    "Kickfin(sub)",
+    "7shifts(sub)",
+    "SimpleTipPool iOS(one-time)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2569",
+   "name": "bar_inventory",
+   "verdict": "skip",
+   "competitors": [
+    "BarPatrol($49/mo)",
+    "Backbar(free)",
+    "WISK($149/mo)",
+    "Bar-i($80/mo)",
+    "Partender(sub)",
+    "AccuBar($129/mo)",
+    "AlcoholControls($29.95 one-time)"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2571",
+   "name": "keg_yield_cost",
+   "verdict": "consider",
+   "competitors": [
+    "BarTrack(sub)",
+    "WISK($149/mo)",
+    "Bar-i($80/mo)",
+    "KegChek(sub)"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2573",
+   "name": "yield_test_portioning",
+   "verdict": "build",
+   "competitors": [
+    "meez(sub)",
+    "reciProfity(sub)",
+    "RestaurantOwner(free web calc)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2575",
+   "name": "mise_en_place",
+   "verdict": "consider",
+   "competitors": [
+    "opsi(sub)",
+    "GoAudits($10/u/mo)",
+    "FoodDocs(sub)",
+    "Operandio(custom)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2577",
+   "name": "par_level_ordering",
+   "verdict": "consider",
+   "competitors": [
+    "Toast(sub)",
+    "MarketMan($239/mo)",
+    "Supy(sub)",
+    "meez(sub)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2579",
+   "name": "allergen_dish_card",
+   "verdict": "build",
+   "competitors": [
+    "AllergyMenu.app(free+sub)",
+    "TopFood.app(free)",
+    "FoodAllergyApp(credit-based)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2581",
+   "name": "recipe_scaling_calc",
+   "verdict": "build",
+   "competitors": [
+    "RecipeCostCalculator($29/mo)",
+    "MasterCook($20 one-time)",
+    "meez(sub)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2583",
+   "name": "serving_temperature_log",
+   "verdict": "build",
+   "competitors": [
+    "FoodDocs($84/mo)",
+    "Jolt(custom)",
+    "Xenia(free/5u)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2585",
+   "name": "farrier_hoof_card",
+   "verdict": "skip",
+   "competitors": [
+    "FarrierIQ $39/mo",
+    "Best Farrier App $30.99/mo",
+    "Hoofit sub",
+    "iForgeAhead sub",
+    "EQUINET free"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 5,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2587",
+   "name": "groomer_style_card",
+   "verdict": "weak",
+   "competitors": [
+    "MoeGo sub",
+    "GrooMore free+sub",
+    "DaySmart Pet sub",
+    "Gingr sub",
+    "ShakeYourTail sub",
+    "Groomsoft sub"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 5,
+   "reach": 3,
+   "demand": 3
+  },
+  {
+   "id": "X2589",
+   "name": "vet_tech_health_card",
+   "verdict": "skip",
+   "competitors": [
+    "ezyVet sub",
+    "Shepherd sub",
+    "Provet Cloud sub",
+    "Digitail sub",
+    "Covetrus Pulse sub",
+    "Hippo Manager sub",
+    "Scribenote $29/mo",
+    "Otto sub"
+   ],
+   "n": 8,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 4,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2591",
+   "name": "equine_dentist_card",
+   "verdict": "build",
+   "competitors": [
+    "Pimbury Dental sub",
+    "Equine Dentistry App one-time"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2593",
+   "name": "dog_trainer_plan_per_dog",
+   "verdict": "skip",
+   "competitors": [
+    "Dogo $9.99/mo",
+    "Pupford $9.99/mo",
+    "GoodPup $29.99/wk",
+    "Puppr $12.99/mo",
+    "Breedera sub",
+    "PocketSuite sub",
+    "PetExec sub"
+   ],
+   "n": 7,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 4,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X2595",
+   "name": "horse_trainer_plan_per_horse",
+   "verdict": "consider",
+   "competitors": [
+    "HeyHorse sub",
+    "Horse Report System sub",
+    "Ridely sub",
+    "Equilab free+sub"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2597",
+   "name": "breeding_registry_mating_AI",
+   "verdict": "skip",
+   "competitors": [
+    "Farmbrite $29/mo+",
+    "FarmKeep sub",
+    "BovControl sub",
+    "Cattlytics sub",
+    "Herdwatch sub",
+    "BreederCloudPro free+sub"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2599",
+   "name": "dairy_cow_milk_yield",
+   "verdict": "skip",
+   "competitors": [
+    "MilkingCloud free",
+    "DairyComp sub",
+    "FarmKeep sub",
+    "Datamars $5-15/cow/mo",
+    "Afimilk custom"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2601",
+   "name": "horseshoeing_schedule",
+   "verdict": "skip",
+   "competitors": [
+    "FarrierIQ $39/mo",
+    "iForgeAhead sub",
+    "EquineOps sub",
+    "Hoofit sub"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2603",
+   "name": "animal_physiotherapy_plan",
+   "verdict": "build",
+   "competitors": [
+    "Equicantis ~$50/mo",
+    "The Animal Therapist App sub"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2605",
+   "name": "animal_behaviorist_protocol",
+   "verdict": "consider",
+   "competitors": [
+    "Animal Behaviour Pro one-time iOS",
+    "Gingr sub"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2607",
+   "name": "breeder_pedigree_registry",
+   "verdict": "skip",
+   "competitors": [
+    "BreederCloudPro free+sub",
+    "Breedera sub",
+    "BreedMate one-time AUD99-399",
+    "FigTree $99NZD/yr",
+    "Webreed sub"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2609",
+   "name": "insemination_registry",
+   "verdict": "skip",
+   "competitors": [
+    "Farmbrite sub",
+    "FarmKeep sub",
+    "BovControl sub",
+    "Herdwatch sub"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2611",
+   "name": "mobile_vet_visits_log",
+   "verdict": "skip",
+   "competitors": [
+    "AcuroVet sub",
+    "Digitail sub",
+    "PetDesk $199/mo",
+    "Shepherd sub",
+    "BabelBark $129/clinic/mo",
+    "Hippo Manager sub"
+   ],
+   "n": 6,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2613",
+   "name": "stud_farm_horse_cards",
+   "verdict": "consider",
+   "competitors": [
+    "Groomy sub",
+    "StableSecretary sub",
+    "FarmKeep $95.99/yr"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2615",
+   "name": "canine_nutritionist_diet_plan",
+   "verdict": "build",
+   "competitors": [
+    "Animal Diet Formulator sub",
+    "PAWSM free",
+    "Pet Diet Designer sub"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2617",
+   "name": "cat_health_card_cattery",
+   "verdict": "consider",
+   "competitors": [
+    "CatBreederPro free trial+sub",
+    "Webreed sub",
+    "Igmu sub",
+    "CatCompanion sub",
+    "The Cattery's Standard one-time"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2619",
+   "name": "shelter_adoption_cards",
+   "verdict": "skip",
+   "competitors": [
+    "24PetShelter $5/adoption",
+    "Pawltics $1/adoption",
+    "ShelterLuv $2/adoption",
+    "Pet Friend $25/mo",
+    "RescueGroups free",
+    "Bark Bureau free"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2621",
+   "name": "wildlife_rehab_animal_cards",
+   "verdict": "consider",
+   "competitors": [
+    "WRMD free",
+    "WILD-ONe free",
+    "RAVEN $70 one-time"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X2623",
+   "name": "slaughterhouse_traceability",
+   "verdict": "skip",
+   "competitors": [
+    "Merit-Trax custom",
+    "inecta custom",
+    "Carlisle Symphony custom",
+    "Triton custom"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "custom",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2625",
+   "name": "bird_trainer_log",
+   "verdict": "build",
+   "competitors": [
+    "BirdCoach sub",
+    "Beak School $17/mo or $297 lifetime"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2627",
+   "name": "horse_trainer_training_plan",
+   "verdict": "consider",
+   "competitors": [
+    "Equestrian App sub",
+    "Horse Report System sub",
+    "HeyHorse sub"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2629",
+   "name": "dog_behaviorist_protocol",
+   "verdict": "build",
+   "competitors": [
+    "Animal Behaviour Pro one-time (research-oriented, not pro-practice-focused)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2631",
+   "name": "vet_tech_animal_record_card",
+   "verdict": "skip",
+   "competitors": [
+    "Scribenote $29/mo",
+    "Provet Cloud sub",
+    "ezyVet sub",
+    "Digitail sub",
+    "Otto sub"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2633",
+   "name": "Home Inspection Report (US)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Spectora",
+    "HomeGauge",
+    "Home Inspector Pro",
+    "ISN",
+    "SnapInspect",
+    "EZ HIS"
+   ],
+   "n": 12,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X2635",
+   "name": "4-Point Inspection Log (FL Insurance)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "4PointInspectionApp",
+    "QuickFill",
+    "QuickInspect",
+    "Spectora template"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2637",
+   "name": "Wind Mitigation Inspection Report (FL)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "WindSurance",
+    "QuickFill",
+    "SpectacularApp",
+    "Spectora template"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2639",
+   "name": "Sewer Scope / Drain CCTV Report",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "ScribeWare",
+    "WinCan",
+    "Pipelogix"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2641",
+   "name": "Pool Inspection Log (CPO/CPI)",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "PoolDial",
+    "Pro Pool Inspectors template",
+    "Spectora"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2643",
+   "name": "HMO Licensing Compliance Log (UK)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "HMOComply",
+    "COHO",
+    "Latch"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2645",
+   "name": "Fire Risk Assessment Log FRA (UK)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "RiskBase",
+    "PocketSurvey FRA",
+    "FRA-Wizard",
+    "Aurora"
+   ],
+   "n": 4,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2647",
+   "name": "EPC Energy Performance Certificate Log (UK)",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "Elmhurst RdSAP Mobile",
+    "SMART EPC App (ecmk)",
+    "NHER Assessor",
+    "Stroma"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2649",
+   "name": "Holiday Let Safety Compliance Log (UK)",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "LetComply"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2651",
+   "name": "Airbnb / Short-Term Rental Safety Checklist",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "Properly",
+    "Turno",
+    "Breezeway"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2653",
+   "name": "Party Wall Survey Log (UK)",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "Party Wall PRO",
+    "PocketSurvey party wall"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2655",
+   "name": "Dilapidations / Schedule of Condition (UK)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "PocketSurvey",
+    "SurveyorSuite",
+    "Asseticom"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2657",
+   "name": "Commercial Property Condition Assessment PCA",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "DataFleet",
+    "GoCanvas PCA templates",
+    "Procore"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2659",
+   "name": "Drone Roof Survey Report",
+   "verdict": "ZATŁOCZONA",
+   "competitors": [
+    "SkyeBrowse",
+    "DroneDeploy",
+    "RoofSnap",
+    "EagleView",
+    "Nearmap"
+   ],
+   "n": 6,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2661",
+   "name": "Balcony / Facade Inspection Log (SB721/SB326)",
+   "verdict": "PUSTA Z OKAZJI",
+   "competitors": [
+    "DrBalcony App",
+    "NRCIA InspectionPlus"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "onetime",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2663",
+   "name": "Elevator / Lift Inspection Log (Building)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "BRYCER Compliance Engine",
+    "LiftLog",
+    "Joblogic",
+    "ElevatorApp"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2665",
+   "name": "HVAC Commissioning Inspection Log",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "MeasureQuick",
+    "GoCanvas HVAC",
+    "InspectNTrack"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2667",
+   "name": "Snagging / New-Build Defect Log (UK)",
+   "verdict": "SŁABO OBSŁUŻONA",
+   "competitors": [
+    "BuildScan",
+    "SnagMyNewHome",
+    "PropertyInspect"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2669",
+   "name": "Cut List Optimizer / Rozkrój",
+   "verdict": "saturated",
+   "competitors": [
+    "CutListOptimizer.com",
+    "CutList Plus",
+    "MaxCut",
+    "optiCutter",
+    "freecutlist.app",
+    "SmartCut"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2671",
+   "name": "Nesting Płyt / Sheet Goods Nesting",
+   "verdict": "saturated",
+   "competitors": [
+    "MeasureSquare SheetCut",
+    "CutWize",
+    "Nest&Cut",
+    "OptiNest",
+    "optiCutter"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2673",
+   "name": "Wymiarowanie Szafek / Cabinet Sizing",
+   "verdict": "crowded",
+   "competitors": [
+    "CabinetCRUNCHER",
+    "SketchList 3D",
+    "PRO100",
+    "hingmy.com",
+    "Cabinet Doors Calculator"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2675",
+   "name": "Szuflada / Drawer Box Construction",
+   "verdict": "viable-niche",
+   "competitors": [
+    "DrawerCRUNCHER",
+    "CalcWood",
+    "Drawer Box Calculator (iOS)",
+    "hingmy.com"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2677",
+   "name": "Ugięcie Półki / Shelf Sag",
+   "verdict": "crowded-free",
+   "competitors": [
+    "The Sagulator (WoodBin)",
+    "CalcWood",
+    "woodworking-calculators.com",
+    "lumbercalculators.com",
+    "Wood Calc App",
+    "Tool Croze"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2679",
+   "name": "Ruch Drewna / Wood Movement",
+   "verdict": "viable-niche",
+   "competitors": [
+    "KMTools wood movement calc",
+    "WoodworkCalc expansion",
+    "Wood Calc App"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2681",
+   "name": "Pokrycie Wykończenia / Finish Coverage",
+   "verdict": "saturated-generic",
+   "competitors": [
+    "Behr calc",
+    "PPG Stain Calc",
+    "Sherwin-Williams",
+    "woodworking-calculators.com",
+    "RealWoodworkPlans"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2683",
+   "name": "Rozstaw Czopów / Dovetail Spacing",
+   "verdict": "viable-niche",
+   "competitors": [
+    "woodworking-calculators.com",
+    "shakercabinets.com",
+    "blocklayer.com",
+    "woodcalc.net"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2685",
+   "name": "Kerf / Szerokość Rzazu",
+   "verdict": "weak-standalone",
+   "competitors": [
+    "woodworking-calculators.com",
+    "woodworkcalc.com",
+    "sawquery.com",
+    "calculatorspot.online"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2687",
+   "name": "Kąt Ukosu / Miter Angle",
+   "verdict": "viable-paid",
+   "competitors": [
+    "Miter Angle App ($2.99 Android)",
+    "OmniCalculator",
+    "woodworking-calculators.com",
+    "woodworkingtraining.com"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "paid",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2689",
+   "name": "Segmentowanie Pierścieni / Segmented Ring Turning",
+   "verdict": "best-niche",
+   "competitors": [
+    "Jackman Works ($5.99-$64.99)",
+    "LarryMarley SegCalc",
+    "Blocklayer",
+    "Simple Segment Calculator (Android)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "paid",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2691",
+   "name": "Stringer Schodów / Stair Stringer",
+   "verdict": "crowded",
+   "competitors": [
+    "Stairs-X Lite",
+    "blocklayer.com",
+    "decks.com",
+    "Stair Calculator iOS",
+    "mycarpentry.com"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2693",
+   "name": "RPM Frezu / Router Bit RPM",
+   "verdict": "viable-niche",
+   "competitors": [
+    "speedcalcs.com",
+    "precisebits.com",
+    "woodtoolingshop.com",
+    "woodworking-calculators.com"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2695",
+   "name": "CFM Odciąg Pyłu / Dust Collection CFM",
+   "verdict": "viable-niche",
+   "competitors": [
+    "woodworking-calculators.com",
+    "woodworkcalc.com",
+    "Imperial Systems",
+    "asayasculpture.com"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2697",
+   "name": "Docisk Ścisków / Clamp Pressure",
+   "verdict": "weak-standalone",
+   "competitors": [
+    "woodworkingadvisor.com",
+    "calculator.academy",
+    "Doucet Inc calc",
+    "carrlane.com"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X2699",
+   "name": "Pokrycie Kleju / Glue Coverage",
+   "verdict": "weak-standalone",
+   "competitors": [
+    "woodworking-calculators.com",
+    "calculator.academy",
+    "woodworkingadvisor.com",
+    "buildwisecalculator.com",
+    "roarockit.com"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 3,
+   "demand": 1
+  },
+  {
+   "id": "X2701",
+   "name": "Fornir-Zużycie / Veneer Coverage",
+   "verdict": "viable-niche",
+   "competitors": [
+    "woodworkingadvisor.com",
+    "woodworking-calculators.com",
+    "plywoodexpress.com"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "free",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2703",
+   "name": "Gięcie Drewna Parą / Steam Bending",
+   "verdict": "best-niche",
+   "competitors": [
+    "woodcalcs.uk",
+    "learnsteambending.com (no calc)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "free",
+   "durability": 9,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2705",
+   "name": "Blat-Deski Układ / Tabletop Glue-Up",
+   "verdict": "viable-niche",
+   "competitors": [
+    "woodworking-calculators.com (panel glue-up)",
+    "SketchList 3D"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2707",
+   "name": "Listwy-Zużycie / Trim & Molding Linear Footage",
+   "verdict": "crowded-free",
+   "competitors": [
+    "inchcalculator.com",
+    "themouldingcompany.com",
+    "woodgrain.com",
+    "woodworking-calculators.com",
+    "decorativeceilingtiles.net"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2709",
+   "name": "Drewno-Wilgotność/Suszenie / Wood Moisture & Drying",
+   "verdict": "viable-niche",
+   "competitors": [
+    "Wagner WoodH2O App",
+    "woodworking-calculators.com",
+    "timberaid.com",
+    "timberdry.org"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 8,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2711",
+   "name": "Gont Drewniany / Wood Shingle",
+   "verdict": "viable-niche",
+   "competitors": [
+    "Shingle Roof Calculator iOS (one-time)",
+    "homewyse.com",
+    "livefield.app"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2713",
+   "name": "Taras-Deski / Decking m2",
+   "verdict": "crowded",
+   "competitors": [
+    "deckcalculator.app",
+    "decks.com",
+    "OmniCalculator",
+    "Decking Calculator Android",
+    "Deckorators"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2715",
+   "name": "Palisada / Wood Fence Picket",
+   "verdict": "viable-niche",
+   "competitors": [
+    "FencePro iOS",
+    "inchcalculator.com",
+    "homecalc.app",
+    "Visual Fence Pro"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2717",
+   "name": "filler_metal_quantity",
+   "verdict": "skip",
+   "competitors": [
+    "Hobart Welding Calculator (free)",
+    "WeldingPro/Certilas (free)",
+    "voestalpine Welding Calculator (free)",
+    "Welding Weight and Cost Calc (free)",
+    "Miller Weld Setting Calculator (free)",
+    "WeldCalc Pro (freemium)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2719",
+   "name": "shielding_gas_flow_rate",
+   "verdict": "skip",
+   "competitors": [
+    "WeldCalc Pro (freemium)",
+    "WeldingPro/Certilas (free)",
+    "voestalpine Welding Calculator (free)",
+    "ESAB EXATON (free)",
+    "Hobart Welding Calculator (free)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2721",
+   "name": "bend_allowance_kfactor",
+   "verdict": "maybe",
+   "competitors": [
+    "Bending Sheet Metal Calculator (free)",
+    "K-Factor Bend Allowance iOS (free)",
+    "Sheet Metal Calculator (free)",
+    "Sheet Bending Calculator Pro (paid ~$4)",
+    "Sheet Metal Calculator Pro (paid)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2723",
+   "name": "flat_pattern_sheet_metal",
+   "verdict": "maybe",
+   "competitors": [
+    "Flat Pattern Bend Calculator iOS (free)",
+    "Flat Pattern & Bend Calculator iOS (paid)",
+    "Sheet Metal Calculator Android (free)",
+    "Sheet Metal Calculator Pro (paid)",
+    "Bending Sheet Metal iOS (paid)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X2725",
+   "name": "tap_drill_size",
+   "verdict": "skip",
+   "competitors": [
+    "Tap And Drill Chart Calculator Android (free)",
+    "Drill and Tap Tool iOS (paid)",
+    "ThreadKing iOS (paid)",
+    "Drill and Tap Calculator Android (free+IAP)",
+    "Tap Drill Chart & Tapping Calculators Android (free)",
+    "CNC Machinist Calculator ($4.99-$5.99)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 5,
+   "demand": 3
+  },
+  {
+   "id": "X2727",
+   "name": "thread_selection",
+   "verdict": "skip",
+   "competitors": [
+    "Thread Calculator iOS (free)",
+    "Hague Screw Thread Calculator iOS (free)",
+    "CNC Machinist Calculator ($4.99-$5.99)",
+    "ThreaDoctor web (free)",
+    "Theoretical Machinist apps (free)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2729",
+   "name": "bolt_torque",
+   "verdict": "maybe",
+   "competitors": [
+    "Bolt Torque iOS (free)",
+    "BoltCalcSimple iOS+Android (free)",
+    "Bolt Torque Calculator Android (free)",
+    "HYTORC Connect (free)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2731",
+   "name": "surface_roughness_Ra_Rz",
+   "verdict": "maybe",
+   "competitors": [
+    "Web Machinist Mobile Pro (paid ~$9)",
+    "Surface Finish Roughness Calculators Android (free)",
+    "Surface Finish Calculator iOS (free/paid)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2733",
+   "name": "material_stock_weight",
+   "verdict": "skip",
+   "competitors": [
+    "Metal Weight Calculator Android (free)",
+    "Metal Weight Calculator iOS (free)",
+    "Metal Weight Calculator Metallo Android (free)",
+    "Weight Calculator for Metals iOS (freemium)",
+    "Steel Weight Calculator Android (free)",
+    "thyssenkrupp app (free)"
+   ],
+   "n": 6,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 5,
+   "demand": 2
+  },
+  {
+   "id": "X2735",
+   "name": "beam_load",
+   "verdict": "maybe",
+   "competitors": [
+    "SkyCiv Mobile (subscription $20+/mo)",
+    "Beam Calculator iOS (free)",
+    "Beam Calculator Steel & Wood iOS (paid ~$5)",
+    "Beam Engineering lite iOS (freemium)",
+    "Steel Beam Calculator Amazon (paid)"
+   ],
+   "n": 5,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2737",
+   "name": "electrode_selection",
+   "verdict": "skip",
+   "competitors": [
+    "WeldingPro/Certilas (free)",
+    "Hobart Welding Calculator (free)",
+    "Miller Weld Setting Calculator (free)",
+    "voestalpine Welding Calculator (free)",
+    "Welding Weight and Cost Calculator (free)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2739",
+   "name": "welding_current_amperage",
+   "verdict": "skip",
+   "competitors": [
+    "WeldCalc Pro (freemium)",
+    "Miller Weld Setting Calculator (free)",
+    "WeldingPro/Certilas (free)",
+    "Hobart Welding Calculator (free)",
+    "voestalpine Welding Calculator (free)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2741",
+   "name": "plasma_cutting_cost",
+   "verdict": "maybe",
+   "competitors": [
+    "Plasmex Android (free basic / CC-PRO paid)",
+    "PWS CNC Plasma app (niche web)",
+    "Hypertherm Cut Calculator iOS (free, waterjet-focused)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2743",
+   "name": "abrasive_shot_consumption",
+   "verdict": "go",
+   "competitors": [
+    "GMA Garnet Blasting Calculator Android (free, brand-tied)",
+    "Smart Blasting App (niche industrial)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X2745",
+   "name": "pipe_bending_radius",
+   "verdict": "skip",
+   "competitors": [
+    "QuickBend iOS+Android (freemium)",
+    "Master Bender iOS (paid)",
+    "iBend Pipe iOS (paid)",
+    "Pipe Guide Calculator iOS (free)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2747",
+   "name": "spring_coil_winding",
+   "verdict": "maybe",
+   "competitors": [
+    "Springulator Spring Calculator iOS (free)",
+    "ODOP:Spring web (free open-source)",
+    "Coil32 Android (free)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2749",
+   "name": "gear_module",
+   "verdict": "maybe",
+   "competitors": [
+    "Gleason Gear Calculator iOS+Android (free)",
+    "Gear Calculator Plus iOS (paid)",
+    "Spur Gear Calculator iOS (paid ~$2)",
+    "Gear Calculator Android (free)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2751",
+   "name": "v_belt_selection",
+   "verdict": "go",
+   "competitors": [
+    "Belt Length Calculator 2PS iOS (paid)",
+    "Belt Length Calculator Pro iOS (paid)",
+    "Pulley & Belt Calculator iOS (free)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2753",
+   "name": "bearing_selection",
+   "verdict": "skip",
+   "competitors": [
+    "SKF Bearing Calculator Android (free)",
+    "Bearing Calculator Android (free)",
+    "Bearing Catalog and Calculator Android (free)",
+    "Bearing Size Calculator Android (free)",
+    "SKF Product Select web (free)"
+   ],
+   "n": 5,
+   "free_sub": true,
+   "model": "free",
+   "durability": 6,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X2755",
+   "name": "rivet_selection",
+   "verdict": "go",
+   "competitors": [
+    "no dedicated rivet selection calculator app found on iOS/Android"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "paid",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2757",
+   "name": "weld_cross_section_chamfer",
+   "verdict": "maybe",
+   "competitors": [
+    "WeldCalcs iOS (paid ~$5)",
+    "Welding Weight and Cost Calc Android (free)",
+    "voestalpine Welding Calculator (free)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2759",
+   "name": "welding_gas_mixture",
+   "verdict": "maybe",
+   "competitors": [
+    "WeldCalc Pro (freemium)",
+    "WeldingPro/Certilas (free)",
+    "Hobart Welding Calculator (free)",
+    "voestalpine Welding Calculator (free)"
+   ],
+   "n": 4,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X2761",
+   "name": "hardening_parameters",
+   "verdict": "skip-dup",
+   "competitors": [],
+   "n": 0,
+   "free_sub": false,
+   "model": "n/a",
+   "durability": 0,
+   "reach": 0,
+   "demand": 0
+  },
+  {
+   "id": "X2763",
+   "name": "electroplating_time",
+   "verdict": "skip-dup",
+   "competitors": [],
+   "n": 0,
+   "free_sub": false,
+   "model": "n/a",
+   "durability": 0,
+   "reach": 0,
+   "demand": 0
   }
  ]
 }
