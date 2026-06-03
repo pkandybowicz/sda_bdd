@@ -65725,6 +65725,616 @@
    "durability": 7,
    "reach": 3,
    "demand": 3
+  },
+  {
+   "id": "X4032",
+   "name": "optician-dispensing-record",
+   "verdict": "niche_clear",
+   "competitors": [
+    "Optisoft (~£100/mo sub)",
+    "Acuitas 3 (sub)",
+    "Blink (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "one-time",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X4034",
+   "name": "contact-lens-fitting-card",
+   "verdict": "niche_clear",
+   "competitors": [
+    "EyeDock ($48/yr sub)",
+    "CooperVision OptiExpert (free for CL brand)",
+    "Thomson Software CL Fitting Tool (403 forbidden - pricing unknown)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X4036",
+   "name": "optometrist-prescription-archive",
+   "verdict": "crowded",
+   "competitors": [
+    "RevolutionEHR ($319/mo)",
+    "OfficeMate ($2k-3k/yr)",
+    "Optosys ($50/user/mo)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X4038",
+   "name": "hearing-aid-real-ear-measurement-log",
+   "verdict": "niche_clear",
+   "competitors": [
+    "Interacoustics Affinity (hardware bundle)",
+    "Auditdata Measure (sub)",
+    "Connexx (free z aparatem Signia)"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "hardware_bundle",
+   "durability": 7,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X4040",
+   "name": "dental-lab-work-order-case-card",
+   "verdict": "crowded_but_gap",
+   "competitors": [
+    "LabAnnex (FREE desktop)",
+    "SimpleLabOS ($29/mo)",
+    "Labtrac (sub, cena ukryta)",
+    "3Shape LMS (enterprise)"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X4042",
+   "name": "orthodontist-appliance-per-patient",
+   "verdict": "niche_partial",
+   "competitors": [
+    "OrthoKit ($18/mo sub, free do 16 pacjentów)",
+    "Bracie (sub)",
+    "DentalMonitoring (enterprise AI)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X4044",
+   "name": "denture-specification-card",
+   "verdict": "niche_clear",
+   "competitors": [],
+   "n": 1,
+   "free_sub": false,
+   "model": "none_found",
+   "durability": 8,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X4046",
+   "name": "dental-implant-planning-card",
+   "verdict": "crowded",
+   "competitors": [
+    "Simplant (Dentsply Sirona, premium)",
+    "CareStack Implant Tracker (bundled sub)",
+    "ArchForm (sub)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 5,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X4048",
+   "name": "crown-bridge-shade-case-card",
+   "verdict": "niche_clear",
+   "competitors": [],
+   "n": 1,
+   "free_sub": false,
+   "model": "none_found",
+   "durability": 8,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X4050",
+   "name": "progressive-lens-measurements-card",
+   "verdict": "niche_partial",
+   "competitors": [
+    "OptoExpert AI ($4.99/mo sub)",
+    "OptikamPad (iPad, cena kontaktowa)",
+    "EyeMeasure (App Store - consumer)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X4052",
+   "name": "eyeglass-frame-inventory-orders",
+   "verdict": "crowded",
+   "competitors": [
+    "Asaan Optics (sub)",
+    "Eye Cloud Pro (sub)",
+    "MaximEyes (sub)",
+    "Enerpize (sub)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 5,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X4054",
+   "name": "contact-lens-lab-order-software",
+   "verdict": "crowded",
+   "competitors": [
+    "Dr. Contact Lens (sub/free z dystrybucją)",
+    "OfficeMate CL module ($2k+/yr)",
+    "Eyefinity (enterprise sub)"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 4,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X4056",
+   "name": "audiometry-results-record-app",
+   "verdict": "niche_partial",
+   "competitors": [
+    "eAudiologia Hearing Test (freemium, pro tier ~nieznana cena)",
+    "Mimi Hearing Test (consumer/B2B)",
+    "HearPlay (App Store, cena kontaktowa)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X4058",
+   "name": "ear-mold-impression-log",
+   "verdict": "niche_clear",
+   "competitors": [],
+   "n": 1,
+   "free_sub": false,
+   "model": "none_found",
+   "durability": 9,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X4060",
+   "name": "sports-eyewear-specification-card",
+   "verdict": "niche_clear",
+   "competitors": [],
+   "n": 1,
+   "free_sub": false,
+   "model": "none_found",
+   "durability": 7,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X4062",
+   "name": "ocular-prosthesis-record-card",
+   "verdict": "niche_clear",
+   "competitors": [],
+   "n": 1,
+   "free_sub": false,
+   "model": "none_found",
+   "durability": 9,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X4064",
+   "name": "orthoptist-vision-therapy-exercise-log",
+   "verdict": "niche_partial",
+   "competitors": [
+    "Senaptec Strobe (app free z hardware)",
+    "brak dedykowanych"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "none_found",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X4066",
+   "name": "optician-workshop-repair-log",
+   "verdict": "niche_clear",
+   "competitors": [
+    "The Optical Workshop (usługa, nie software)",
+    "ogólne repair shop apps (generic)"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "none_found",
+   "durability": 7,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X4068",
+   "name": "hearing-aid-service-log",
+   "verdict": "niche_clear",
+   "competitors": [
+    "NOAH System (standard branżowy, bundled z software dostawcy)",
+    "ogólne CRM/service log apps"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "none_found",
+   "durability": 8,
+   "reach": 2,
+   "demand": 2
+  },
+  {
+   "id": "X4070",
+   "name": "tinted-lens-prescription-formula",
+   "verdict": "niche_clear",
+   "competitors": [],
+   "n": 1,
+   "free_sub": false,
+   "model": "none_found",
+   "durability": 8,
+   "reach": 1,
+   "demand": 1
+  },
+  {
+   "id": "X4072",
+   "name": "wildlife removal service log",
+   "verdict": "gap — no $10-20 one-time app exists; NWCOPRO is $26.50/mo sub; Etsy templates generic pest only",
+   "competitors": [
+    "NWCOPRO",
+    "GorillaDesk",
+    "Deelo"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X4074",
+   "name": "bird control service log",
+   "verdict": "gap — no niche one-time app; generic FSM subs only; bird-specific log template absent on Etsy/Gumroad",
+   "competitors": [
+    "GorillaDesk",
+    "FieldVibe",
+    "SafetyCulture"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X4076",
+   "name": "mosquito treatment log",
+   "verdict": "gap — no $10-20 one-time; Etsy has generic pest log ~$3-8 (Canva PDF); no mosquito-specific work order template",
+   "competitors": [
+    "FieldVibe (free)",
+    "POPProbe (free checklist)",
+    "Etsy generic templates"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X4078",
+   "name": "termite inspection WDO/WDI log",
+   "verdict": "covered by WDI FX (sub, ~$99 setup + monthly) and ArcSite/PestPac; PIRC ~$299/yr; no $10-20 one-time option",
+   "competitors": [
+    "WDI FX",
+    "ArcSite",
+    "PestPac",
+    "GorillaDesk"
+   ],
+   "n": 3,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 4,
+   "demand": 3
+  },
+  {
+   "id": "X4080",
+   "name": "bed bug treatment log",
+   "verdict": "gap — OSU app is educational/free; no dedicated $10-20 one-time treatment log app; POPProbe has free checklist only",
+   "competitors": [
+    "POPProbe (free)",
+    "SafetyCulture (free template)",
+    "FieldRoutes (free template)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 4,
+   "demand": 2
+  },
+  {
+   "id": "X4082",
+   "name": "rodent bait station patrol log",
+   "verdict": "gap — Pest Management App (sub) covers bait station asset tracking; no offline one-time purchase; POPProbe free checklist exists",
+   "competitors": [
+    "Pest Management App",
+    "POPProbe",
+    "GorillaDesk",
+    "RodenBox (IoT sub)"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X4084",
+   "name": "fumigation register log",
+   "verdict": "gap — Fumigation Solutions (Play Store, free/sub); Gruntify (sub); no $10-20 one-time offline fumigation register app",
+   "competitors": [
+    "Fumigation Solutions app",
+    "Gruntify",
+    "Fieldwork"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 8,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X4086",
+   "name": "mole/gopher garden treatment log",
+   "verdict": "strong gap — no dedicated app or template found; covered only by generic pest log; very niche, low volume",
+   "competitors": [
+    "generic Etsy pest log",
+    "template.net free"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "none",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X4088",
+   "name": "wasp/hornet removal log",
+   "verdict": "gap — no dedicated one-time app; generic pest control work order Etsy templates ~$3-12 cover it generically",
+   "competitors": [
+    "generic Etsy pest work order",
+    "FieldRoutes free template"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "none",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X4090",
+   "name": "wood borer/beetle treatment log",
+   "verdict": "gap — no dedicated app found; IPM or general pest log templates only; niche primarily EU/forestry market",
+   "competitors": [
+    "generic pest log",
+    "SafetyCulture template"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "none",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X4092",
+   "name": "disinfection treatment log",
+   "verdict": "partially covered — SafetyCulture/iAuditor free plan has disinfection templates; GoAudits (sub); no $10-20 one-time",
+   "competitors": [
+    "SafetyCulture (free tier)",
+    "GoAudits",
+    "POPProbe"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X4094",
+   "name": "ULV/fogging misting log",
+   "verdict": "gap — no dedicated ULV fogging log app found; Gruntify covers generically (sub); no one-time purchase option",
+   "competitors": [
+    "Gruntify",
+    "generic pest log templates"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 6,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X4096",
+   "name": "pigeon proofing service log",
+   "verdict": "gap — no dedicated service log app; bird-control companies use generic FSM subs; niche template absent",
+   "competitors": [
+    "GorillaDesk",
+    "FieldVibe",
+    "generic Etsy work order"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "sub",
+   "durability": 7,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X4098",
+   "name": "vole/mole field treatment log",
+   "verdict": "strong gap — agricultural/field niche; no app found; covered by generic pest or crop management subs only",
+   "competitors": [
+    "generic pest log",
+    "farm management subs"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "none",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X4100",
+   "name": "slug/snail crop treatment log",
+   "verdict": "strong gap — no app or template found; crop protection logging is covered by agri-management subs (Croptracker etc.) not $10-20",
+   "competitors": [
+    "Croptracker (sub)",
+    "generic farm log"
+   ],
+   "n": 1,
+   "free_sub": false,
+   "model": "none",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X4102",
+   "name": "ant treatment service log",
+   "verdict": "gap — Etsy generic pest work order template ~$3-12 covers ant jobs; no ant-specific one-time app; POPProbe free checklist",
+   "competitors": [
+    "Etsy generic pest templates",
+    "POPProbe",
+    "FieldRoutes free"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X4104",
+   "name": "cockroach monitoring log",
+   "verdict": "gap — POPProbe has free commercial pest documentation checklist; no $10-20 one-time cockroach-specific log app",
+   "competitors": [
+    "POPProbe (free)",
+    "SafetyCulture (free)",
+    "Etsy generic"
+   ],
+   "n": 2,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 7,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X4106",
+   "name": "pantry moth/food moth log",
+   "verdict": "strong gap — no app or template found; closest is generic food safety pest checklist (FoodDocs free); very niche",
+   "competitors": [
+    "FoodDocs (free checklist)",
+    "generic pest log"
+   ],
+   "n": 1,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 5,
+   "reach": 2,
+   "demand": 1
+  },
+  {
+   "id": "X4108",
+   "name": "tick yard spray log",
+   "verdict": "gap — no dedicated tick spray log app; Terminix/MosquitoJoe are services not software; generic pest log templates cover it",
+   "competitors": [
+    "generic Etsy pest log",
+    "FieldRoutes free template"
+   ],
+   "n": 2,
+   "free_sub": false,
+   "model": "none",
+   "durability": 6,
+   "reach": 3,
+   "demand": 2
+  },
+  {
+   "id": "X4110",
+   "name": "IPM plan software (facility)",
+   "verdict": "partially covered — Conserv IPM free for collections; ipmtool.net free; PestScan (sub); no $10-20 one-time IPM plan app",
+   "competitors": [
+    "Conserv (free)",
+    "ipmtool.net (free)",
+    "PestScan (sub)",
+    "SafetyCulture"
+   ],
+   "n": 3,
+   "free_sub": true,
+   "model": "freemium",
+   "durability": 9,
+   "reach": 4,
+   "demand": 3
   }
  ]
 }
